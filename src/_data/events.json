@@ -3,50 +3,59 @@
     "name": "You Got This From Your Couch",
     "date": "2021-01-15",
     "location": "London, UK • Online",
-    "url": "/couch"
+    "url": "/couch",
+    "highlight": true
   },
   {
     "name": "IT Matters ONLINE",
     "date": "2020-09-26",
     "location": "Poland • Online",
-    "url": "https://itmatters.pl/"
+    "url": "https://itmatters.pl/",
+    "highlight": true
   },
   {
     "name": "#humansconf Open Space 2",
     "date": "2020-07-15",
-    "location": "Frankfurt, Germany • Online"
+    "location": "Frankfurt, Germany • Online",
+    "url": "https://www.humansconf.org/events/2020-07-15-virtual-open-space"
   },
   {
     "name": "You Got This: From Home",
     "date": "2020-06-06",
     "location": "Global • Online",
-    "tag": "you-got-this-2020-from-home"
+    "tag": "you-got-this-2020-from-home",
+    "url": "https://home.yougotthis.io"
   },
   {
     "name": "#humansconf Open Space 1",
     "date": "2020-06-02",
-    "location": "Frankfurt, Germany • Online"
+    "location": "Frankfurt, Germany • Online",
+    "url": "https://www.humansconf.org/events/2020-06-02-virtual-open-space"
   },
   {
     "name": "You Got This 2020",
     "date": "2020-01-18",
     "location": "Birmingham, UK",
-    "tag": "you-got-this-birmingham-2020"
+    "tag": "you-got-this-birmingham-2020",
+    "url": "https://2020.yougotthis.io"
   },
   {
     "name": "Things I Wish I Knew #1 Meetup",
     "date": "2019-08-10",
-    "location": "London, UK"
+    "location": "London, UK",
+    "url": "https://attending.io/events/things-i-wish-i-knew-1-a-meetup-for-early-career-people-in-tech"
   },
   {
-    "name": "Adulting.Dev",
+    "name": "Adulting.Dev 2019",
     "date": "2019-09-07",
-    "location": "New York, USA"
+    "location": "New York, USA",
+    "url": "https://2019.adulting.dev/"
   },
   {
     "name": "You Got This 2019",
     "date": "2019-01-19",
     "location": "London, UK",
-    "tag": "you-got-this-london-2019"
+    "tag": "you-got-this-london-2019",
+    "url": "https://2019.yougotthis.io"
   }
 ]
