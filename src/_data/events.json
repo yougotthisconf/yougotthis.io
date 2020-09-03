@@ -3,13 +3,15 @@
     "name": "You Got This From Your Couch",
     "date": "2021-01-15",
     "location": "London, UK • Online",
-    "url": "/couch"
+    "url": "/couch",
+    "highlight": true
   },
   {
     "name": "IT Matters ONLINE",
     "date": "2020-09-26",
     "location": "Poland • Online",
-    "url": "https://itmatters.pl/"
+    "url": "https://itmatters.pl/",
+    "highlight": true
   },
   {
     "name": "#humansconf Open Space 2",
