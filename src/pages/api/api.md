@@ -28,7 +28,8 @@ Returns all talks from the talk library.
         "url": "https://yougotthis.io/talks/...",
         "video": "https://stream.mux.com/...m3u8",
         "slug": "...",
-        "tags": [..., ..., ...]
+        "tags": [..., ..., ...],
+        "transcript": "<p>...</p><p>...</p>"
     },
     {
         ...
@@ -96,7 +97,8 @@ Returns all talks from the talk library which have the provided tag.
         "url": "https://yougotthis.io/talks/...",
         "video": "https://stream.mux.com/...m3u8",
         "slug": "...",
-        "tags": [..., ..., ...]
+        "tags": [..., ..., ...],
+        "transcript": "<p>...</p><p>...</p>"
     },
     {
         ...
