@@ -1,0 +1,98 @@
+---
+layout: base
+permalink: search/
+---
+
+<div class="max-w-screen-md mx-auto px-4" id="app">
+  <div class='text-center tracking-tight leading-2 font-extrabold pb-10 pt-16' >
+    <h1 class="text-3xl text-pink-600 sm:text-5xl sm:leading-none md:text-6xl dark:text-gray-200">Search</h1>
+  </div>
+
+  <form class="mt-3 sm:flex" v-if="talks" @submit.prevent="search">
+    <input aria-label="Query" class="appearance-none w-full px-5 py-3 border-2 text-base leading-6 rounded-md text-gray-900 bg-white placeholder-gray-500 focus:placeholder-gray-400 focus:border-pink-600 outline-none transition duration-150 ease-in-out sm:flex-1" required placeholder="Search term" name="query" v-model="query">
+    <button type="submit" class="mt-3 w-full px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gray-800 shadow-sm hover:bg-gray-700 focus:outline-none focus:border-pink-600 focus:shadow-outline-gray active:bg-gray-900 transition duration-150 ease-in-out sm:mt-0 sm:ml-3 sm:flex-shrink-0 sm:inline-flex sm:items-center sm:w-auto dark:bg-gray-200 dark:text-pink-800 dark:hover:bg-gray-300">Search</button>
+    </form>
+
+    <div id="results" v-if="searchMade" class="my-10">
+        <a class="max-w rounded overflow-hidden shadow-lg border border-gray-200 bg-white dark:bg-gray-200 flex flex-col my-5" :href="item.url" v-for="item in results">
+            <div class="px-6 py-4 flex-grow">
+                <div class="font-bold text-xl my-2">[[item.talk.title ]]</div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+<script>
+const app = new Vue({
+    el: '#app',
+    delimiters: ['[[', ']]'],
+    async created() {
+        this.talks = await fetch('/talks.json').then(r => r.json())
+        this.idx = await this.buildSearchIndex(this.talks)
+
+        const params = Object.fromEntries(new URLSearchParams(location.search))
+        if(params.q) {
+            this.query = params.q
+            this.search('push')
+        }
+    },
+    data: {
+        talks: [],
+        idx: false,
+        query: '',
+        matches: [],
+        searchMade: false
+    },
+    methods: {
+        buildSearchIndex(items) {
+            return new Promise((resolve, reject) => {
+                const idx = lunr(function() {
+                    this.ref('id')
+                    this.field('title', { boost: 10 })
+                    this.field('abstract', { boost: 5 })
+                    this.field('speaker')
+                    this.field('transcript')
+                    for(let talk of items) {
+                        this.add({
+                            id: talk.slug,
+                            title: talk.talk.title,
+                            abstract: talk.talk.abstract,
+                            speaker: talk.speaker.name,
+                            transcript: talk.transcript
+                        })
+                    }
+                })
+                resolve(idx)
+            })
+        },
+        search(push = false) {
+            if(this.query) {
+                this.matches = this.idx.search(this.query)
+                this.searchMade = true
+                if(push) {
+                    const url = new URL(location.href)
+                    url.searchParams.set('q', this.query)
+                    history.pushState(null, null, url.href)
+                }
+            }
+        }
+    },
+    computed: {
+        results() {
+            return this.matches.map(match => {
+                const t = this.talks.find(talk => talk.slug == match.ref)
+                return {
+                    ...t,
+                    talk: {
+                        ...t.talk,
+                        title: t.talk.title.split('&amp;').join('&')
+                    }
+                }
+            })
+        }
+    }
+})
+</script>
