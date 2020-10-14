@@ -22,7 +22,8 @@ permalink: /tags/{{ tag }}.json
                 "url": "{{site.baseURL}}{{talk.url}}",
                 "video": "https://stream.mux.com/{{talk.data.video}}.m3u8",
                 "slug": "{{talk.fileSlug}}",
-                "tags": {{talk.data.tags}}
+                "tags": {{talk.data.tags}},
+                "transcript": "{{talk.templateContent}}"
             },
         {% endif %}
     {% endfor %}

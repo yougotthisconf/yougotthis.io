@@ -10,7 +10,7 @@ The You Got This API provides GET endpoints to consume data relating to talks, t
 
 ## [/talks.json](/talks.json)
 
-Returns all talks from the talk library. All data is included, with the exception of the transcript.
+Returns all talks from the talk library.
 
 ```
 [
@@ -78,7 +78,7 @@ Returns all tags used for talks.
 
 ## [/tags/:tag.json](/tags/self-care.json)
 
-Returns all talks from the talk library which have the provided tag. All data is included, with the exception of the transcript.
+Returns all talks from the talk library which have the provided tag.
 
 ```
 [
