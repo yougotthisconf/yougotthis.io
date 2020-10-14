@@ -4,6 +4,6 @@ eleventyExcludeFromCollections: true
 ---
 [
   {% for tag in collections.tagList %}
-    {{tag}},
+    '{{tag}}',
   {% endfor %}
 ]
