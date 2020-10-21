@@ -16,7 +16,8 @@ Returns all talks from the talk library.
 [
     {
         "talk": {
-            "title": "...",
+            "title": "...",,
+            "original_title": "...",
             "abstract": "..."
         },
         "speaker": {
@@ -37,7 +38,7 @@ Returns all talks from the talk library.
 ]
 ```
 
-All fields except `speaker.twitter` will always be returned.
+All fields except `speaker.twitter` and `talk.original_title` will always be returned.
 
 ## [/talks/:slug.json](/talks/lending-privilege.json)
 
@@ -47,6 +48,7 @@ Returns a single talk from the talk library, based on the talk's slug.
 {
     "talk": {
         "title": "...",
+        "original_title": "...",
         "abstract": "..."
     },
     "speaker": {
@@ -63,7 +65,7 @@ Returns a single talk from the talk library, based on the talk's slug.
 }
 ```
 
-All fields except `speaker.twitter` and `transcript` will always be returned.
+All fields except `speaker.twitter`, `transcript` and `talk.original_title` will always be returned.
 
 ## [/tags.json](/tags.json)
 
@@ -86,6 +88,7 @@ Returns all talks from the talk library which have the provided tag.
     {
         "talk": {
             "title": "...",
+            "original_title": "...",
             "abstract": "..."
         },
         "speaker": {
@@ -106,7 +109,7 @@ Returns all talks from the talk library which have the provided tag.
 ]
 ```
 
-All fields except `speaker.twitter` will always be returned.
+All fields except `speaker.twitter` and `talk.original_title` will always be returned.
 
 ## [/events.json](/events.json)
 
@@ -127,4 +130,4 @@ Returns all events, past and present.
 ]
 ```
 
-Tag is only present if it is a valid tag used in the talk library. URL is not always present.
+Tag is only present if it is a valid tag used in the talk library.

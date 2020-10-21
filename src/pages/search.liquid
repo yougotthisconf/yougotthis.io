@@ -52,17 +52,20 @@ const app = new Vue({
                 const idx = lunr(function() {
                     this.ref('id')
                     this.field('title', { boost: 10 })
+                    this.field('original_title', { boost: 10 })
                     this.field('abstract', { boost: 5 })
                     this.field('speaker')
                     this.field('transcript')
                     for(let talk of items) {
-                        this.add({
+                        const doc = {
                             id: talk.slug,
                             title: talk.talk.title,
                             abstract: talk.talk.abstract,
                             speaker: talk.speaker.name,
                             transcript: talk.transcript
-                        })
+                        }
+                        if(talk.talk.original_title) doc.original_title = talk.talk.original_title
+                        this.add(doc)
                     }
                 })
                 resolve(idx)
