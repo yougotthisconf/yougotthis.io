@@ -23,6 +23,9 @@ layout: base
       <div class="max-w rounded overflow-hidden shadow-lg border border-gray-200 flex flex-col mb-8 bg-white dark:bg-gray-300">
         <div class="px-6 py-4 flex-grow">
           <div class="font-bold text-xl my-2">About the talk</div>
+          {% if talk.original_title %}
+            <h2 class="text-gray-700 text-base my-4 font-bold">This talk was originally titled "{{talk.original_title}}"</h2>
+          {% endif %}
           <p class="text-gray-700 text-base mb-2">{{ talk.abstract }}</p>
           <div class="py-2">
             {% for tag in tags %}
