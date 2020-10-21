@@ -3,7 +3,8 @@ event: You Got This London 2019
 video: 6mzOPRSMsWzV6MIg4RnfUKGrMvWFLM9VXBgM5bJDDg8
 date: 2019-01-19
 talk:
-  title: Junior.next()
+  title: Moving On From Being a Junior
+  original_title: Junior.next()
   abstract: Life as a "junior" developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors, and communities do to support the next generation of developers?
 speaker:
   name: Tara Ojo
@@ -60,4 +61,3 @@ So an example might be in the sprint review we just had, I wasn't completely sur
 Think about ways that you can share your opinions in a different scenarios that you're in at work, and make sure to celebrate your achievements. That's really important. And, if you're a supporter of a junior developer, invest time in helping them develop. Create opportunities for them to focus on the things that they consider their weak areas, and keep giving them regular feedback so they know where they are. One final quote from from another graduate developer I used to work with. You don't wake up one day and realise you're not a genius any more. It's true. You don't do that. For me, I became a mid-level developer when I had enough examples against the mid-level role in our career framework, and it could be slightly different for each of your team. But absolutely don't worry about where you're at right now. I can guarantee you're doing great, that you've got this!
 
 Thanks for listening. [Applause].
-
