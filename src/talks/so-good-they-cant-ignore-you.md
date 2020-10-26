@@ -5,11 +5,11 @@ date: 2020-01-18
 talk:
   title: So Good They Can't Ignore You
   abstract: You are good at your job, are polite and deadline oriented. Your long-term professional goals are well-defined, and you work toward them consistently. But working hard is sometimes not enough. People around you need to see and value your work. This talk will cover hard-work, visibility, the myth of meritocracy, and what we owe one another once we are successful.
-speaker:
-  name: Gargi Sharma
-  twitter: gawwrgi
-  bio: Gargi is a systems engineer at Tarides, who really cares about building teams with psychological safety. Gargi is really passionate about teaching, systems programming and Modern Art. In the past, Gargi attended the Recurse Center, volunteered at AddisCoder, worked as a software engineer at Bloomberg LP, and wrote some code for the Linux Kernel.
-  photo: gargi-sharma.jpg
+speakers:
+  - name: Gargi Sharma
+    twitter: gawwrgi
+    bio: Gargi is a systems engineer at Tarides, who really cares about building teams with psychological safety. Gargi is really passionate about teaching, systems programming and Modern Art. In the past, Gargi attended the Recurse Center, volunteered at AddisCoder, worked as a software engineer at Bloomberg LP, and wrote some code for the Linux Kernel.
+    photo: gargi-sharma.jpg
 tags: ['you-got-this-birmingham-2020', 'working-with-others', 'self-advocacy', 'talk']
 ---
 

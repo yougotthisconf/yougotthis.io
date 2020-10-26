@@ -5,11 +5,11 @@ date: 2020-01-18
 talk:
   title: How to Find Your Perfect Mentor
   abstract: Identifying and connecting with good mentors ensures that the time you spend trying to achieve your goals is both efficient and effective. Mentors can open doors to more knowledge, job opportunities and support you mentally and emotionally. In this talk, we will cover exactly what you should say when reaching out to someone you don’t know, whether in-person or online. We will explore how to interact with your mentor to understand and meet their needs, so that you can create a sustainable symbiotic relationship.
-speaker:
-  name: Amina Adewusi
-  twitter: a_adewusi
-  bio: Amina is an Associate Software Engineer at the Guardian News & Media in London. She taught herself how to code whilst looking after a young baby and juggling a full-time job. She is passionate about encouraging under-represented groups into tech and is proof that it’s possible to become an engineer without spending a penny. She is an international speaker who seeks to represent the voice of new developers in the software engineering industry.
-  photo: amina-adewusi.jpg
+speakers:
+  - name: Amina Adewusi
+    twitter: a_adewusi
+    bio: Amina is an Associate Software Engineer at the Guardian News & Media in London. She taught herself how to code whilst looking after a young baby and juggling a full-time job. She is passionate about encouraging under-represented groups into tech and is proof that it’s possible to become an engineer without spending a penny. She is an international speaker who seeks to represent the voice of new developers in the software engineering industry.
+    photo: amina-adewusi.jpg
 tags: ['you-got-this-birmingham-2020', 'working-with-others', 'talk']
 ---
 

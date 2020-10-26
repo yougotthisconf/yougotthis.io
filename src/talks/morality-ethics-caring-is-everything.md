@@ -5,11 +5,11 @@ date: 2019-01-19
 talk:
   title: Morality and Ethics - Caring is Everything
   abstract: In software development, caring is everything - and as the senior developers of tomorrow, we are should start the revolution. Are we the fix in the fight against guns-for-hire developers? How do we prevent unethical technology spreading (and being made)?
-speaker:
-  name: Sam Warner
-  twitter: sjwarner_
-  bio: Sam is a recent graduate of the University of Warwick. Currently, he helps make cool things happen with Black Pepper Software in his role as a software developer.
-  photo: sam-warner.jpg
+speakers:
+  - name: Sam Warner
+    twitter: sjwarner_
+    bio: Sam is a recent graduate of the University of Warwick. Currently, he helps make cool things happen with Black Pepper Software in his role as a software developer.
+    photo: sam-warner.jpg
 tags: ['you-got-this-london-2019', 'ethics-in-tech', 'talk']
 ---
 
@@ -106,4 +106,3 @@ So my final recap: ethical software is about making the world a better place, or
 Talk to people how they thought about this, and see if there's a way that you can consider their worries when you're developing your software. So, thank you very much for listening to me ramble on.
 
 I would like to finish by saying in software development, caring is everything. [Applause].
-

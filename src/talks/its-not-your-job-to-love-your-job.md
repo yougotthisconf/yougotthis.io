@@ -5,11 +5,11 @@ date: 2020-01-18
 talk:
   title: It's Not Your Job To Love Your Job
   abstract: Loving or appreciating your job isn’t a problem on its own. But you’re not obligated to do it. In fact, I’d argue that the pressure to love your job can be dangerous. Using examples from my personal experience and from the tech industry as a whole, I’ll talk about how unconditional job love is used to exploit or mistreat tech workers.
-speaker:
-  name: Keziyah Lewis
-  twitter: KeziyahL
-  bio: Keziyah Lewis is a Black and queer web developer, designer, and digital nomad. She curates Juniors in Tech, a newsletter for early career technologists. Keziyah is passionate about eliminating barriers to entering tech, making the industry more diverse and just, and making tech companies better places to work.
-  photo: keziyah-lewis.jpg
+speakers:
+  - name: Keziyah Lewis
+    twitter: KeziyahL
+    bio: Keziyah Lewis is a Black and queer web developer, designer, and digital nomad. She curates Juniors in Tech, a newsletter for early career technologists. Keziyah is passionate about eliminating barriers to entering tech, making the industry more diverse and just, and making tech companies better places to work.
+    photo: keziyah-lewis.jpg
 tags: ['you-got-this-birmingham-2020', 'self-advocacy', 'talk']
 highlight: true
 ---
@@ -108,4 +108,4 @@ So, if you have a job, or when you get a job, prepare for the worst. You never k
 
 Finally, put yourself first. Love yourself more than your job. Because your number-one job is to take care of yourself. Your other jobs are to go to work, get paid, and be the best junior developer that your company has ever seen, and take care of your family, and have a good work-life balance, and make some money and spend it on whatever you want to spend it on. I spend it ice cream and music festivals! It's not your job to be a cheerleader for your company.
 
-It's not your job to work yourself to death. It's not your job to sacrifice yourself for your company. And it's not your job to love your job. Thank you so much. [Cheering and applause]. 
+It's not your job to work yourself to death. It's not your job to sacrifice yourself for your company. And it's not your job to love your job. Thank you so much. [Cheering and applause].

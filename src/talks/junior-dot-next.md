@@ -6,11 +6,11 @@ talk:
   title: Moving On From Being a Junior
   original_title: Junior.next()
   abstract: Life as a "junior" developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors, and communities do to support the next generation of developers?
-speaker:
-  name: Tara Ojo
-  twitter: tara_ojo
-  bio: Tara is a software engineer at FutureLearn, a social learning company, enabling online learning through conversation.
-  photo: tara-ojo.jpg
+speakers:
+  - name: Tara Ojo
+    twitter: tara_ojo
+    bio: Tara is a software engineer at FutureLearn, a social learning company, enabling online learning through conversation.
+    photo: tara-ojo.jpg
 tags: ['you-got-this-london-2019', 'professional-development', 'talk']
 ---
 

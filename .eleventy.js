@@ -19,6 +19,18 @@ module.exports = function (config) {
     });
   });
 
+  config.addCollection('talksApi', collection => {
+    const talks = collection.getFilteredByTag('talk').sort((a, b) => {
+      const A = a.data.talk.title
+      const B = b.data.talk.title
+      if (A > B) return 1
+      else if (A < B) return -1
+      else return 0
+    })
+
+    return talks
+  })
+
   config.addCollection("rss", (collection) => {
     return collection
       .getFilteredByTag("talk")

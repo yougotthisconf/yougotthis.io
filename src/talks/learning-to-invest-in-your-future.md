@@ -5,11 +5,11 @@ date: 2020-01-18
 talk:
   title: Learning to Invest in Your Future
   abstract: When change is the only constant, learning is the only future-proof skill. In this talk, using examples from the pioneers of programming education in the 1960s through to the present day, Matthew will show some effective techniques for developing new programming skills. You’ll see how learning how to learn can benefit you through your whole career, and how valuable it can be to share what you’ve learned with others.
-speaker:
-  name: Matthew Gilliard
-  twitter: MaximumGilliard
-  bio: Matthew is a Developer Evangelist for Twilio, a company that is helping developers to fuel the future of communication with APIs. He loves spending time with the programming community at conferences, meetups and hackathons, helping developers to discover their superpowers.
-  photo: matthew-gilliard.jpg
+speakers:
+  - name: Matthew Gilliard
+    twitter: MaximumGilliard
+    bio: Matthew is a Developer Evangelist for Twilio, a company that is helping developers to fuel the future of communication with APIs. He loves spending time with the programming community at conferences, meetups and hackathons, helping developers to discover their superpowers.
+    photo: matthew-gilliard.jpg
 tags: ['you-got-this-birmingham-2020', 'professional-development', 'talk']
 ---
 
@@ -96,4 +96,3 @@ I mention I'm a Java programmer. Java projects can be a pain in the arse to set 
 Keep yourself a "Today I learned" diary, and find your learning style and engage in it. We still have, like I showed at the beginning, 95 per cent of 2020 left. I don't think it's too late for a New Year's Resolution. Try setting some learning goals for 2020, and be explicit about the fact that they are for learning and not for any particular technology.
 
 So, you have got this. You've got this. Thank you very much for listening. And here's where you can go to find out more about what I said. Thank you. [Applause].
-

@@ -3,18 +3,11 @@ permalink: /talks.json
 eleventyExcludeFromCollections: true
 ---
 [
-  {% for talk in collections.talks %}
+  {% for talk in collections.talksApi %}
     {% assign t = talk.data %}
     {
         "talk": {{t.talk}},
-        "speaker": {
-            "name": "{{t.speaker.name}}",
-            "bio": "{{t.speaker.bio}}",
-            {% if t.speaker.twitter %}
-                "twitter": "{{t.speaker.twitter}}",
-            {% endif %}
-            "photo": "{{site.baseURL}}/assets/img/people/{{t.speaker.photo}}"
-        },
+        "speakers": {{t.speakers}},
         "url": "{{site.baseURL}}{{talk.url}}",
         "video": "https://stream.mux.com/{{t.video}}.m3u8",
         "slug": "{{talk.fileSlug}}",
