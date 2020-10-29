@@ -1,30 +1,38 @@
 ---
 permalink: couch/
-sponsor-list:
-  - name: 20i
-    file: 20i
-    url: https://www.20i.com/
-  - name: Auth0
-    file: auth0
-    url: https://auth0.com/
-  - name: Balsamiq
-    file: balsamiq
-    url: https://balsamiq.com/
-  - name: BuzzFeed
-    file: buzzfeed
-    url: https://buzzfeed.com/
-  - name: CircleCI
-    file: circleci
-    url: https://circleci.com/
-  - name: Futuregov
-    file: futuregov
-    url: https://www.wearefuturegov.com/
-  - name: Mux
-    file: mux
-    url: https://mux.com/
-  - name: Vonage
-    file: vonage
-    url: https://developer.nexmo.com/
+sponsors:
+  columns:
+    large: 9
+    medium: 3
+    small: 3
+  list:
+    - name: 20i
+      file: 20i
+      url: https://www.20i.com/
+    - name: Auth0
+      file: auth0
+      url: https://auth0.com/
+    - name: Balsamiq
+      file: balsamiq
+      url: https://balsamiq.com/
+    - name: BuzzFeed
+      file: buzzfeed
+      url: https://buzzfeed.com/
+    - name: CircleCI
+      file: circleci
+      url: https://circleci.com/
+    - name: Futuregov
+      file: futuregov
+      url: https://www.wearefuturegov.com/
+    - name: Mux
+      file: mux
+      url: https://mux.com/
+    - name: Samsung Internet
+      file: samsung-internet
+      url: https://samsunginter.net
+    - name: Vonage
+      file: vonage
+      url: https://developer.nexmo.com/
 ---
 
 <!DOCTYPE html>
@@ -43,6 +51,15 @@ sponsor-list:
   <link href="https://fonts.googleapis.com/css2?family=Handlee&family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/couch/couch.css">
+  <style>
+    .sponsor-list { grid-template-columns: repeat({{sponsors.columns.large}}, 1fr);}
+    @media screen and (max-width: 800px) {
+      .sponsor-list { grid-template-columns: repeat({{sponsors.columns.medium}}, 1fr);}
+    }
+    @media screen and (max-width: 400px) {
+      .sponsor-list { grid-template-columns: repeat({{sponsors.columns.small}}, 1fr);}
+    }
+  </style>
 </head>
 <body>
   {% include header %}
@@ -58,7 +75,7 @@ sponsor-list:
         <p>You Got This From Your Couch is an online community conference which focuses on the non-technical core skills for a happy, healthy work life. 3 great and affordable workshops on Friday January 15th 2021, and 9 amazing speakers and our free conference day on Saturday January 16th 2021.</p>
         <p>The all-day workshop ticket has an early-bird price of £75 until the end of November 2020.</p>
         <div class="links" style="margin-top: 1em;">
-          <a href="#">Get tickets now</a>
+          <a href="https://ti.to/yougotthisconf/couch">Get tickets now</a>
         </div>
       </div>
     </section>
@@ -78,8 +95,7 @@ sponsor-list:
               <p>You'll have a chance to work on a draft of your CV during the workshop, so please have any previous versions accessible, and it's also useful to have a job advert or two for the kind of roles you intend to apply to, so you can practice tailoring.</p>
               <small>Matt Rose is a Technical Support Engineer at GitHub. Before that, he did a software development bootcamp and worked as a web developer.  ...and before that, he worked for 6 years as an employability skills trainer, helping people to write CVs and sell themselves to prospective employers. He likes using his old skills to help people, whether they're breaking into tech for the first time, changing career and entering tech from another industry, or just looking to level up!</small>
               <div class="links">
-                <a href="#">Buy a ticket for £30</a>
-                <a href="#">Buy an early-bird all day ticket for £75</a>
+                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £30</a>
               </div>
             </div>
           </div>
@@ -91,8 +107,7 @@ sponsor-list:
               <p>Do you want to know how disagreements can be positive? How to be respectful while disagreeing? How to get to mutual understanding through productive discussion, and hopefully to agreement on a path forward? Then this workshop could be for you! This workshop will be useful not only for code reviews and team discussions but in day to day life beyond tech. Through hands on exercise, you’ll leave the workshop with some extra tools to apply in a variety of situations, already have tried some of them out, and have further resources to look up if you want to explore this more.</p>
               <small>Claire Knight is a remote (yep, even pre-COVID) Senior Software Engineering Manager who has worked in many areas of technology over the years. She has served plenty of time in the coal code mine before making the move into also wrangling folks rather than just bits. She is currently working at GitHub where she helps devs all over the world do their best work. Claire lives in Berkshire, UK, with her husband Steve and three cats who from time to time also like to be involved in video calls. When not working, she likes to lift heavy things, only to put them down again.</small>
               <div class="links">
-                <a href="#">Buy a ticket for £30</a>
-                <a href="#">Buy an early-bird all day ticket for £75</a>
+                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £30</a>
               </div>
             </div>
           </div>
@@ -101,14 +116,16 @@ sponsor-list:
             <div class="info">
               <h2>Know Your Worth: Understanding Your Professional Value</h2>
               <p><b>This workshop will take place 16:00 - 18:00 GMT.</b></p>
-              <p>Who wants to get paid more for doing their job? Most of us, naturally. At the same time we believe things like "I'm junior, and juniors get paid around £25,000 for this job".</p><p>In reality, how much you're paid for your efforts in the workplace depends on what value you provide to your employer, but also on perception - how much value they think you provide. Perception is unfortunately influenced by factors like the biases we all have, but there is still a lot you can do to change how people see you and get paid more. Sometimes, you need to negotiate - other times, you need to simply find new people who will pay you more.</p></p>Through anecdotes, practical exercises and a bit of theory, this workshop aims to provide you with a framework of thinking of yourself as a paid professional, figuring out what you can charge for your services and finding interesting, well-paid work."</p>
+              <p>Who wants to get paid more for doing their job? Most of us, naturally. At the same time we believe things like "I'm junior, and juniors get paid around £25,000 for this job".</p><p>In reality, how much you're paid for your efforts in the workplace depends on what value you provide to your employer, but also on perception - how much value they think you provide. Perception is unfortunately influenced by factors like the biases we all have, but there is still a lot you can do to change how people see you and get paid more. Sometimes, you need to negotiate - other times, you need to simply find new people who will pay you more.</p></p>Through anecdotes, practical exercises and a bit of theory, this workshop aims to provide you with a framework of thinking of yourself as a paid professional, figuring out what you can charge for your services and finding interesting, well-paid work.</p>
               <small>Emanuil Tolev is a Community Engineer with Elastic. He used to be a freelance web developer and ran a small open science web dev consultancy with partners for several years. Interested in mentorship, inclusion, small businesses, archery and always curious about how the world works in detail.</small>
               <div class="links">
-                <a href="#">Buy a ticket for £30</a>
-                <a href="#">Buy an early-bird all day ticket for £75</a>
+                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £30</a>
               </div>
             </div>
           </div>
+        </div>
+        <div class="all-day">
+          <a href="https://ti.to/yougotthisconf/couch">✨ Buy an early-bird all-day workshop ticket for £75 ✨</a>
         </div>
       </div>
     </section>
@@ -117,7 +134,7 @@ sponsor-list:
       <div class="inner">
         <h1>Sponsors</h1>
         <div class="sponsor-list">
-          {% for sponsor in sponsor-list %}
+          {% for sponsor in sponsors.list %}
             <a href="{{sponsor.url}}">
               <img src="/assets/couch/sponsors/{{sponsor.file}}.png" alt="{{sponsor.name}}">
             </a>
@@ -178,7 +195,7 @@ sponsor-list:
             <div class="info">
               <h2>Negotiating After Your Start Date</h2>
               <p>You got the job and you crushed it at the negotiating table. For most of us, we stop negotiating and advocating for ourselves after we sign on the dotted line. Internal negotiating for promotions, salary bumps, and benefits is rarely discussed but is critical to internal career advancement. In this talk we’ll discuss how and when to negotiate more benefits after your start date, tools for positioning yourself for great promotions, and the truth behind internal salary negotiations: how, when, and who to approach to bump up your salary.</p>
-              <small>Jeanine Mendez <a href="https://twitter.com/j9mendez">(@j9mendez)</a> is Co-Founder and COO of KindWork, who help talented young adults from overlooked communities transform their economic outlook and launch a new career in the tech sector.</small>
+              <small>Jeanine Mendez <a href="https://twitter.com/j9mendez">(@j9mendez)</a> is a proud Latina immigrant and the Co-founder of KindWork. KindWork helps talented young adults from overlooked communities transform their economic outlook and launch a career in tech. She started her career in finance and honed her operational skills at GE, Deloitte, and Groupon before landing at Uber. Jeanine grew and led operations for over 10 customer support center locations employing over 250 people in the NYC area. Since then she has become a start-up advisor, investor, and loves coaching young professionals on navigating career, salaries, and promotions. </small>
             </div>
           </div>
           <div class="talk">
@@ -199,7 +216,10 @@ sponsor-list:
             </div>
           </div>
           <div class="talk">
-            <img src="/assets/couch/speakers/massi-shivangi-frame.png" alt="Massi Mapani & Shivangi Sareen">
+            <div class="images">
+              <img src="/assets/couch/speakers/massi-frame.png" alt="Massi Mapani">
+              <img src="/assets/couch/speakers/shivangi-frame.png" alt="Shivangi Sareen">
+            </div>
             <div class="info">
               <h2>Lessons Learnt (Hardly) Working From Home</h2>
               <p>The whole world shook when the pandemic took over and completely changed the way we live our lives. Travelling, socialising, working from the office - just basic everyday things stopped dead right in their tracks. Those of us who're able to work from home have been really lucky to do so and to have the support from the companies we work for. This experience is hard, especially for new hires to navigate and that preparation a commute gives us before we start work, gets substituted into a new routine or habit we need to take responsibility for. Our talk offers experiences, lessons and advice in hope that it encourages others and lets them know that even though it feels hard, you got this and you are not alone.</p>
@@ -229,9 +249,15 @@ sponsor-list:
             <div class="info">
               <h2>Get It Done: The Power Of Co-Working</h2>
               <p>Do you have a pile of projects that's gathering dust?  Or a portfolio you know you need to build up, but can't seem to find the motivation?  Are you feeling the pressure because everyone around you is saying you have loads of time now you have no commute?  Let's look at how to allocate time and use co-working as a productivity tool, or even set up and run your own co-working sessions using a framework I developed in London during lockdown and has since been adopted in the USA.</p>
-              <small>Suze Shardlow <a href="https://twitter.com/SuzeShardlow">(@SuzeShardlow)</a> wrote her first line of code in 1982 and started making websites in 1996.The UK education system didn't know what to do with girls interested in tech, so after a 20-year career in management, communications and strategy with organisations including the Canadian Government and Metropolitan Police, Suze pivoted her career.</small>
-              <small>Suze now creates and delivers coding courses.  She is also a technical writer and event host, specialising in live tech meetups.  She is Chapter Lead at Ladies of Code London and Director at Women Who Code London.</small>
+              <small>Suze Shardlow <a href="https://twitter.com/SuzeShardlow">(@SuzeShardlow)</a> wrote her first line of code in 1982 and started making websites in 1996.The UK education system didn't know what to do with girls interested in tech, so after a 20-year career in management, communications and strategy with organisations including the Canadian Government and Metropolitan Police, Suze pivoted her career. Suze now creates and delivers coding courses.  She is also a technical writer and event host, specialising in live tech meetups.  She is Chapter Lead at Ladies of Code London.</small>
               <small>Suze has delivered 50+ online meetups during COVID-19, including 90+ hours of facilitated tech co-working sessions which supported more than 60 people through lockdown.  She designed and delivered more than 15 hours of public speaking workshops for women, then hosted an online showcase event for the "graduates".  Suze's tech community event methodologies have been replicated by tech groups in Silicon Valley, California.</small>
+            </div>
+          </div>
+          <div class="host">
+            <img src="/assets/couch/speakers/cassidy-frame.png" alt="Cassidy Williams">
+            <div class="info">
+              <h2>Your Host: Cassidy Williams</h2>
+              <p>Cassidy <a href="https://twitter.com/cassidoo">(@cassidoo)</a> is a Principal Developer Experience Engineer at Netlify. She's worked for several other places, including CodePen, Amazon, and Venmo, and she's had the honor of working with various non-profits, including cKeys and Hacker Fund as their Director of Outreach. She's active in the developer community, and one of Glamour Magazine's 35 Women Under 35 Changing the Tech Industry and LinkedIn's Top Professionals 35 & Under. As an avid speaker, Cassidy has participated in several events including the Grace Hopper Celebration for Women in Computing, TEDx, the United Nations, and dozens of other technical events. She wants to inspire generations of STEM students to be the best they can be, and her favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar." She loves mechanical keyboards and karaoke.</p>
             </div>
           </div>
         </div>
