@@ -4,6 +4,7 @@
   { "file": "auth0", "name": "Auth Zero" },
   { "file": "balsamiq", "name": "Balsamiq" },
   { "file": "buzzfeed", "name": "Buzz Feed" },
+  { "file": "circle-ci", "name": "CircleCI" },
   { "file": "contentful", "name": "Contentful" },
   { "file": "digital-ocean", "name": "Digital Ocean" },
   { "file": "dxw", "name": "DXW" },

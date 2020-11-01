@@ -62,6 +62,7 @@ section .inner {
 
 section h1 {
   font-size: 1.5em;
+  text-decoration: underline;
 }
 
 section p {
@@ -75,7 +76,6 @@ section a {
 
 .sponsor-list {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
   grid-gap: 1em;
   margin-top: 1em;
 }
@@ -113,6 +113,67 @@ dt {
   font-weight: bold;
 }
 
+.workshop,
+.talk {
+  margin-top: 3em;
+  display: grid;
+  grid-template-columns: 125px 1fr;
+  grid-gap: 1em;
+}
+
+.workshop h2,
+.talk h2,
+.host h2 {
+  font-size: 1.5em;
+}
+
+.workshop small,
+.talk small {
+  display: block;
+  margin: 1rem 0;
+  color: #7d8e94;
+  font-style: italic;
+}
+
+.host {
+  text-align: center;
+  border-radius: 8px 2px 8px 2px;
+  border-top: 2px solid lightgrey;
+  margin-top: 2em;
+}
+
+.host img {
+  display: block;
+  margin: 3em auto 2em auto;
+  width: 150px;
+}
+
+.links a,
+.all-day a {
+  background: black;
+  color: white;
+  padding: 0.75em 0.75em 0.5em 0.75em;
+  display: inline-block;
+  margin-right: 0.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: var(--font__style);
+  border-radius: 8px 2px 8px 2px/2px 8px 2px 8px;
+  margin-bottom: 0.5em;
+}
+
+.all-day {
+  margin: 2em 1em 1em;
+}
+.all-day a {
+  background: var(--green);
+  color: black;
+  margin-top: 1em;
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
 @media screen and (max-width: 800px) {
   #top img.d {
     display: none;
@@ -123,13 +184,26 @@ dt {
   section h1 {
     font-size: 1.25em;
   }
-  .sponsor-list {
-    grid-template-columns: repeat(3, 1fr);
+  .workshop,
+  .talk {
+    grid-template-columns: 1fr;
   }
-}
-
-@media screen and (max-width: 400px) {
-  .sponsor-list {
-    grid-template-columns: repeat(2, 1fr);
+  .workshop h2,
+  .talk h2 {
+    font-size: 1.5em;
+  }
+  .workshop img,
+  .talk img {
+    height: 125px;
+    display: inline-block;
+  }
+  .host img {
+    width: 125px;
+  }
+  .links a {
+    font-size: 0.75em;
+  }
+  .all-day {
+    margin: 0;
   }
 }
