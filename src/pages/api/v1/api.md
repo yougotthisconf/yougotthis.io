@@ -20,12 +20,14 @@ Returns all talks from the talk library.
             "original_title": "...",
             "abstract": "..."
         },
-        "speaker": {
-            "name": "...",
-            "bio": "...",
-            "twitter": "...",
-            "photo": "https://yougotthis.io/assets/img/people/...jpg"
-        },
+        "speakers": [
+            {
+                "name": "...",
+                "bio": "...",
+                "twitter": "...",
+                "photo": "https://yougotthis.io/assets/img/people/...jpg"
+            }
+        ],
         "url": "https://yougotthis.io/talks/...",
         "video": "https://stream.mux.com/...m3u8",
         "slug": "...",
@@ -38,7 +40,7 @@ Returns all talks from the talk library.
 ]
 ```
 
-All fields except `speaker.twitter` and `talk.original_title` will always be returned.
+All fields except `speakers[i].twitter` and `talk.original_title` will always be returned.
 
 ## [/talks/:slug.json](/talks/lending-privilege.json)
 
@@ -51,12 +53,14 @@ Returns a single talk from the talk library, based on the talk's slug.
         "original_title": "...",
         "abstract": "..."
     },
-    "speaker": {
-        "name": "...",
-        "bio": "...",
-        "twitter": "...",
-        "photo": "https://yougotthis.io/assets/img/people/...jpg"
-    },
+    "speakers": [
+        {
+            "name": "...",
+            "bio": "...",
+            "twitter": "...",
+            "photo": "https://yougotthis.io/assets/img/people/...jpg"
+        }
+    ],
     "url": "https://yougotthis.io/talks/...",
     "video": "https://stream.mux.com/...m3u8",
     "slug": "...",
@@ -65,7 +69,7 @@ Returns a single talk from the talk library, based on the talk's slug.
 }
 ```
 
-All fields except `speaker.twitter`, `transcript` and `talk.original_title` will always be returned.
+All fields except `speakers[i].twitter`, `transcript` and `talk.original_title` will always be returned.
 
 ## [/tags.json](/tags.json)
 
@@ -91,12 +95,14 @@ Returns all talks from the talk library which have the provided tag.
             "original_title": "...",
             "abstract": "..."
         },
-        "speaker": {
-            "name": "...",
-            "bio": "...",
-            "twitter": "...",
-            "photo": "https://yougotthis.io/assets/img/people/...jpg"
-        },
+        "speakers": [
+            {
+                "name": "...",
+                "bio": "...",
+                "twitter": "...",
+                "photo": "https://yougotthis.io/assets/img/people/...jpg"
+            }
+        ],
         "url": "https://yougotthis.io/talks/...",
         "video": "https://stream.mux.com/...m3u8",
         "slug": "...",
@@ -109,7 +115,7 @@ Returns all talks from the talk library which have the provided tag.
 ]
 ```
 
-All fields except `speaker.twitter` and `talk.original_title` will always be returned.
+All fields except `speakers[i].twitter` and `talk.original_title` will always be returned.
 
 ## [/events.json](/events.json)
 
