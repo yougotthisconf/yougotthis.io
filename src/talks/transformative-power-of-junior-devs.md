@@ -5,11 +5,11 @@ date: 2019-01-19
 talk:
   title: The Transformative Power of Junior Developers
   abstract: How do you help junior developers succeed? How do you maintain your team’s productivity while building a culture of learning? We’ll focus on practical, easy-to-implement insights which will not only help you support your new developers’ success and growth, but enhance your team’s progress as a whole, making it a more fun and productive place to work.
-speaker:
-  name: Sam Morgan
-  twitter: sjmog1
-  bio: Sam is Head of Education at Makers. He’s trained and placed over 1,500 software engineers in London and around the world.
-  photo: sam-morgan.jpg
+speakers:
+  - name: Sam Morgan
+    twitter: sjmog1
+    bio: Sam is Head of Education at Makers. He’s trained and placed over 1,500 software engineers in London and around the world.
+    photo: sam-morgan.jpg
 tags: ['you-got-this-london-2019', 'managers', 'talk']
 highlight: true
 ---

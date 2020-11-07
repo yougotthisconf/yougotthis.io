@@ -5,11 +5,11 @@ date: 2020-01-18
 talk:
   title: Unions Got This - Organising the Tech Trade
   abstract: This will be a whistle-stop tour of what unionism means in today’s world of tech. We’ll briefly cover what a union is, the various shapes and sizes they take and what they can do for you, using the recently formed Game Workers Unite UK branch of the IWGB as an example.
-speaker:
-  name: Dan Parkes
-  twitter: dancparkes
-  bio: Dan is the Chair of the West Midlands Regional Group of Game Workers Unite UK. He’s also an Audio Engineer at Pixel Toys and has worked in the games industry for 6 years across audio, data and design disciplines.
-  photo: dan-parkes.jpg
+speakers:
+  - name: Dan Parkes
+    twitter: dancparkes
+    bio: Dan is the Chair of the West Midlands Regional Group of Game Workers Unite UK. He’s also an Audio Engineer at Pixel Toys and has worked in the games industry for 6 years across audio, data and design disciplines.
+    photo: dan-parkes.jpg
 tags: ['you-got-this-birmingham-2020', 'self-advocacy', 'talk']
 ---
 

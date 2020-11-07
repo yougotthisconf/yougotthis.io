@@ -5,11 +5,11 @@ date: 2019-01-19
 talk:
   title: Where Did All My Money Go?
   abstract: Six months after starting my first developer job I looked at my bank account and wondered, "Where did all my money go?" From a book by a Buddhist financial planner to swapping budgeting app recommendations with my best friend, this is my story of building a healthy relationship with money.
-speaker:
-  name: Paula Muldoon
-  twitter: FiddlersCode
-  bio: Paula Muldoon learned to code at Makers after an international career as a violinist and is now a JavaScript Developer at Cambridge Cognition.
-  photo: paula-muldoon.jpg
+speakers:
+  - name: Paula Muldoon
+    twitter: FiddlersCode
+    bio: Paula Muldoon learned to code at Makers after an international career as a violinist and is now a JavaScript Developer at Cambridge Cognition.
+    photo: paula-muldoon.jpg
 tags: ['you-got-this-london-2019', 'self-care', 'talk']
 ---
 

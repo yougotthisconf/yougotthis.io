@@ -5,11 +5,11 @@ date: 2020-01-18
 talk:
   title: Real Talk About When To Walk Away
   abstract: Loving or appreciating your job isn’t a problem on its own. But you’re not obligated to do it. In fact, I’d argue that the pressure to love your job can be dangerous. Using examples from my personal experience and from the tech industry as a whole, I’ll talk about how unconditional job love is used to exploit or mistreat tech workers.
-speaker:
-  name: Amy Dickens
-  twitter: RedRoxProjects
-  bio: Amy is a Developer Community Manager for Pusher. Amy’s career has traversed the worlds of music, audio and tech - finally finding their jam in community management. Having worked many jobs (over 15 to date) Amy is well versed in knowing when it is time to look for something new - a feeling that is familiar for many of us and that they will cover in their talk.
-  photo: amy-dickens.jpg
+speakers:
+  - name: Amy Dickens
+    twitter: RedRoxProjects
+    bio: Amy is a Developer Community Manager for Pusher. Amy’s career has traversed the worlds of music, audio and tech - finally finding their jam in community management. Having worked many jobs (over 15 to date) Amy is well versed in knowing when it is time to look for something new - a feeling that is familiar for many of us and that they will cover in their talk.
+    photo: amy-dickens.jpg
 tags: ['you-got-this-birmingham-2020', 'self-care', 'talk']
 highlight: true
 ---

@@ -1,0 +1,13 @@
+<div class='text-center tracking-tight leading-2 font-extrabold pb-10 pt-16' >
+    <h1 class="text-3xl text-pink-600 sm:text-5xl sm:leading-none md:text-6xl dark:text-gray-200">Talk Library</h1>
+    <h2 class="text-lg text-gray-700 pt-4 dark:text-gray-300">All talks at You Got This are about non-technical core skills needed for a happy, healthy work life.</h2>
+</div>
+<div class="tags">
+    <div class="py-2 text-center">
+        {% for tag in collections.tagList %}
+            {% if tag != 'talk' %}
+                <a class="inline-block rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-4 uppercase {% if highlight == tag %}text-white bg-pink-600{% else %}text-gray-700 bg-pink-100{% endif %}" href="/tags/{{tag}}">{{ tag | replace: "-", " " }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

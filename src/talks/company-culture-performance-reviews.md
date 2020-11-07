@@ -5,11 +5,11 @@ date: 2020-01-18
 talk:
   title: Company Culture, Performance Reviews &amp; You
   abstract: Culture fit. The dreaded phrase we all love to hear in our rejection letters, but culture's more than just being a cis white dude. In this talk I'll discuss engineering culture, particularly around approaches to risk and maturity of processes in companies of different sizes. This talk is aimed at helping junior engineers understand how this culture impacts performance reviews and how to adapt to flourish in different company environments.
-speaker:
-  name: Ruth Lee
-  twitter: yoursruthlessly
-  bio: Ruth is an Engineering Manager for the Site Reliability Team at Splunk. She's been a Linux engineer for almost a decade during which time she's developed an unhealthy obsession with the topic of time in computing. Outside of work you can find her on a mountain, the sea, or at the gym powerlifting.
-  photo: ruth-lee.jpg
+speakers:
+  - name: Ruth Lee
+    twitter: yoursruthlessly
+    bio: Ruth is an Engineering Manager for the Site Reliability Team at Splunk. She's been a Linux engineer for almost a decade during which time she's developed an unhealthy obsession with the topic of time in computing. Outside of work you can find her on a mountain, the sea, or at the gym powerlifting.
+    photo: ruth-lee.jpg
 tags: ['you-got-this-birmingham-2020', 'self-advocacy', 'talk']
 ---
 

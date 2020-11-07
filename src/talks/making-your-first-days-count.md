@@ -5,13 +5,13 @@ date: 2020-01-18
 talk:
   title: Making your First Days Count
   abstract: Hooray! You’ve landed your first full-time tech job, but what comes next? The first few months can be daunting and it is easy to feel like you don’t belong. In this talk, we look at some useful strategies to help you navigate your rookie year.
-speaker:
-  name: Nathaniel Okenwa
-  twitter: chatterboxCoder
-  bio: Nathaniel is a Developer Evangelist at Twilio working to create magical moments for developers with their products. He is a die hard fan of JavaScript, sports, superheroes and mixed martial arts. His life goals are to have Batman's brains, Deadpool's humour, T'Challa's fashion sense, Killmonger's Wokeness, and Thanos' determination! He serves the Javascript community in the UK and the rest of Europe.
-  photo: nathaniel-okenwa.jpg
+speakers:
+  - name: Nathaniel Okenwa
+    twitter: chatterboxCoder
+    bio: Nathaniel is a Developer Evangelist at Twilio working to create magical moments for developers with their products. He is a die hard fan of JavaScript, sports, superheroes and mixed martial arts. His life goals are to have Batman's brains, Deadpool's humour, T'Challa's fashion sense, Killmonger's Wokeness, and Thanos' determination! He serves the Javascript community in the UK and the rest of Europe.
+    photo: nathaniel-okenwa.jpg
 tags: ['you-got-this-birmingham-2020', 'working-with-others', 'self-advocacy', 'talk']
-highlight: true 
+highlight: true
 ---
 
 The name of my talk is Zero to 100 Real Quick inspired by the Drake lyric. The reason why I decided to come up with this talk is, about a year ago, I didn't work at Twilio. I've only been working here for seven months. I remember sitting down to next one of my now colleagues at Twilio and telling her there is this amazing job called a Developer Evangelist at Twilio, and I don't think I can make it. I don't know if I'm good enough. They said apply, because even though you apply, you may not have the skills, you have enough skills to get started and you can improve as you go.

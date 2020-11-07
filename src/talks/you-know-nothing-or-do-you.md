@@ -3,13 +3,14 @@ event: You Got This London 2019
 video: sQOHXAg2SetJWLD02wEmAyXW4AFSrSwc8M9hcOP6QWrM
 date: 2019-01-19
 talk:
-  title: You Know Nothing... Or Do You?
+  title: You Can Share Your Knowledge, Whatever Your Level
+  original_title: You Know Nothing... Or Do You?
   abstract: Each and every day we encounter the knowledge of thousands of people. We read articles, blog posts, documentation and smart answers on StackOverflow. How can we compete against this well of wisdom? You might think that you have nothing to add. You'll be surprised how much you actually know.
-speaker:
-  name: Sascha Wolf
-  twitter: wolf4earth
-  bio: Sascha is a 28-year-old Software Developer from Cologne, Germany currently working at grandcentrix.
-  photo: sascha-wolf.jpg
+speakers:
+  - name: Sascha Wolf
+    twitter: wolf4earth
+    bio: Sascha is a 28-year-old Software Developer from Cologne, Germany currently working at grandcentrix.
+    photo: sascha-wolf.jpg
 tags: ['you-got-this-london-2019', 'professional-development', 'talk']
 ---
 
@@ -74,4 +75,3 @@ And, yeah, after all of this, I would like to reintroduce myself to you, but I'm
 Thank you for listening. You can find me on Twitter, or you can go to my website. And please tweet me the tweets you think you have acquired because I would be curious to see where you got these from. Go off and write some blog posts!
 
 Thank you! [Cheering and Applause].
-

@@ -5,11 +5,11 @@ date: 2019-01-19
 talk:
   title: "Self-Care: Beyond the Hashtags"
   abstract: "#Selfcare has over 7.5 million Instagram posts, but we have more questions than ever about what self-care actually is. In this talk, we'll take self-care beyond the hashtags and into your daily life. We'll define it and walk through the process of creating meaningful self-care rituals."
-speaker:
-  name: Taylor Morrison
-  twitter: taylorelysemo
-  bio: Taylor Morrison is the founder of Jubilant, a brand experience firm, but her favorite title is ritual builder.
-  photo: taylor-morrison.jpg
+speakers:
+  - name: Taylor Morrison
+    twitter: taylorelysemo
+    bio: Taylor Morrison is the founder of Jubilant, a brand experience firm, but her favorite title is ritual builder.
+    photo: taylor-morrison.jpg
 tags: ['you-got-this-london-2019', 'self-care', 'talk']
 ---
 
@@ -66,4 +66,3 @@ The thing that is most of service to me is to not set an alarm in the morning, a
 Here, if you go up to this link on the slide, I've got an overview of a what I've talked about, and a 31-day checklist of different practices to try. It's fun if you don't know which self-care practices to do. Some might surprise you. If you have any questions, you can DM me on Twitter, or Instagram, or pull me aside here. I would love to talk to you about self-care and maybe steal some of your self-care practices!
 
 Thank you. [Applause].
-
