@@ -135,6 +135,19 @@ dt {
   font-style: italic;
 }
 
+.talk .time {
+  background: black;
+  color: white;
+  display: inline-block;
+  padding: 0.25em 0.5em;
+  margin-bottom: 1em;
+  border-radius: 8px 2px 8px 2px/2px 8px 2px 8px;
+}
+
+.talk .time + h2 {
+  margin-bottom: -0.5rem;
+}
+
 .host {
   text-align: center;
   border-radius: 8px 2px 8px 2px;
@@ -174,6 +187,21 @@ dt {
   text-align: center;
 }
 
+.other {
+  background: #E2E8F0;
+  padding: 1em;
+  margin-top: 2em;
+  border-radius: 8px 2px 8px 2px/2px 8px 2px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 2em;
+}
+
+.other span:first-child {
+  font-weight: bold;
+}
+
 @media screen and (max-width: 800px) {
   #top img.d {
     display: none;
@@ -205,5 +233,9 @@ dt {
   }
   .all-day {
     margin: 0;
+  }
+  .other {
+    flex-direction: column-reverse;
+    gap: 0;
   }
 }
