@@ -3,3 +3,4 @@
 .netlify
 .cache
 .nova
+.DS_Store
