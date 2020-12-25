@@ -12,14 +12,20 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <meta property="og:image" content="{{site.baseURL}}/assets/img/og.png">
     <meta name="description" content="{{site.description}}">
     <meta name="og:description" content="{{site.description}}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:url" content="{{site.baseURL}}">
     <meta name="twitter:title" content="You Got This - Core Skills Conferences">
     <meta name="twitter:description" content="{{site.description}}">
-    <meta name="twitter:image" content="{{site.baseURL}}/assets/img/og.png">
+
+    {% if talk.title %}
+      <meta property="og:image" content="{{site.baseURL}}/assets/img/talks/{{page.fileSlug}}.png">
+      <meta name="twitter:image" content="{{site.baseURL}}/assets/img/talks/{{page.fileSlug}}.png">
+    {% else %}
+      <meta property="og:image" content="{{site.baseURL}}/assets/img/og.png">
+      <meta name="twitter:image" content="{{site.baseURL}}/assets/img/og.png">
+    {% endif %}
 
     <meta name="monetization" content="$ilp.uphold.com/DBEbnWEmPyJJ">
   </head>
