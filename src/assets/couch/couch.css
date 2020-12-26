@@ -102,6 +102,21 @@ section a {
   display: inline-block;
 }
 
+.sponsor a {
+  text-decoration: none;
+}
+
+.sponsor a small {
+  background: #E2E8F0;
+  padding: 0.35em 0.5em 0.25em;
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: var(--font__style);
+  border-radius: 8px 2px 8px 2px/2px 8px 2px 8px;
+  margin-top: 0.5em;
+}
+
 .bottom img {
   display: block;
   width: 75px;
