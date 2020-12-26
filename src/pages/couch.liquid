@@ -68,8 +68,27 @@ sponsors:
     <img src="/assets/couch/composition-mobile-circleci.png" class='m' alt="You Got This From Home Made Possible By CircleCI. January 15 & 16 2021.">
   </div>
 
-  <div id="sections">
+  <div id="live">
+    <div id="player">
+      <!-- Player OR lunch, a way to get current player -->
+    </div>
+    <div id="now">
+      <!-- Show current item -->
+    </div>
+    <div id="captions">
+      <!-- iframe -->
+    </div>
+  </div>
 
+  <script src="/assets/js/vue.js"></script>
+  <script>
+    const app = new Vue({
+      el: '#live',
+      delimiters: ['{$', '$}']
+    })
+  </script>
+
+  <div id="sections">
     <!-- <section style="background: var(--yellow)">
       <div class="inner">
         <h1>What is You Got This From Your Couch?</h1>
