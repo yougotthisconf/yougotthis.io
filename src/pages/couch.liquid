@@ -64,7 +64,7 @@ sponsors:
 <body>
   {% include header %}
   <div id="top">
-    <img src="/assets/couch/composition-circleci.png" class='d' alt="You Got This From Home Made Possible By CircleCI. January 15 & 16 2021.">
+    <img src="/assets/couch/header-thin.png" class='d' alt="You Got This From Home Made Possible By CircleCI. January 15 & 16 2021.">
     <img src="/assets/couch/composition-mobile-circleci.png" class='m' alt="You Got This From Home Made Possible By CircleCI. January 15 & 16 2021.">
   </div>
 
@@ -80,55 +80,6 @@ sponsors:
       </div>
     </section>
 
-    <section style="background: white">
-      <div class="inner">
-        <h1>Workshop Day - Friday January 15th 2021</h1>
-        <div class="workshops">
-          <div class="workshop">
-            <img src="/assets/couch/speakers/matt-frame.png" alt="Matt Rose">
-            <div class="info">
-              <h2>UX Your CV</h2>
-              <p><b>This workshop will take place at 10:00 - 12:00 GMT.</b></p>
-              <p>"UX Your CV" takes the principles and ideas we use in User Experience (UX) design for web pages and apps, and applies them to the document that we send to prospective employers when we want to work for them.</p>
-              <p>There are very few unbreakable rules when writing a CV, so we'll consider your underlying objective, the realities of recruitment, and help you to feel confident making your own decisions about what to include and how to present it, and how to tailor it to specific roles.</p>
-              <p>You'll have a chance to work on a draft of your CV during the workshop, so please have any previous versions accessible, and it's also useful to have a job advert or two for the kind of roles you intend to apply to, so you can practice tailoring.</p>
-              <small>Matt Rose <a href="https://twitter.com/mrjesslynnrose">(@mrjesslynnrose)</a> is a Technical Support Engineer at GitHub. Before that, he did a software development bootcamp and worked as a web developer.  ...and before that, he worked for 6 years as an employability skills trainer, helping people to write CVs and sell themselves to prospective employers. He likes using his old skills to help people, whether they're breaking into tech for the first time, changing career and entering tech from another industry, or just looking to level up!</small>
-              <div class="links">
-                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £40</a>
-              </div>
-            </div>
-          </div>
-          <div class="workshop">
-            <img src="/assets/couch/speakers/claire-frame.png" alt="Claire Knight">
-            <div class="info">
-              <h2>Making Disagreements at Work Respectful and Productive</h2>
-              <p><b>This workshop will take place at 13:00 - 15:00 GMT.</b></p>
-              <p>Do you want to know how disagreements can be positive? How to be respectful while disagreeing? How to get to mutual understanding through productive discussion, and hopefully to agree on a path forward? Then this workshop could be for you! This workshop will be useful not only for code reviews and team discussions but in day to day life beyond tech. Through hands on exercise, you’ll leave the workshop with some extra tools to apply in a variety of situations, already have tried some of them out, and have further resources to look up if you want to explore this more.</p>
-              <small>Claire Knight <a href="https://twitter.com/krider2010">(@krider2010)</a> is a remote (yep, even pre-COVID) Senior Software Engineering Manager who has worked in many areas of technology over the years. She has served plenty of time in the coal code mine before making the move into also wrangling folks rather than just bits. She is currently working at GitHub where she helps devs all over the world do their best work. Claire lives in Berkshire, UK, with her husband Steve and three cats who from time to time also like to be involved in video calls. When not working, she likes to lift heavy things, only to put them down again.</small>
-              <div class="links">
-                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £40</a>
-              </div>
-            </div>
-          </div>
-          <div class="workshop">
-            <img src="/assets/couch/speakers/emanuil-frame.png" alt="Claire Knight">
-            <div class="info">
-              <h2>Know Your Worth: Understanding Your Professional Value</h2>
-              <p><b>This workshop will take place at 16:00 - 18:00 GMT.</b></p>
-              <p>Who wants to get paid more for doing their job? Most of us, naturally. At the same time we believe things like "I'm junior, and juniors get paid around £25,000 for this job".</p><p>In reality, how much you're paid for your efforts in the workplace depends on what value you provide to your employer, but also on perception - how much value they think you provide. Perception is unfortunately influenced by factors that can be biased, but there is still a lot you can do to change how people see you and get paid more. Sometimes you need to negotiate, and other times you need to find new people who will pay you more.</p></p>Through anecdotes, practical exercises, and a bit of theory, this workshop aims to provide you with a framework of thinking of yourself as a paid professional, figuring out what you can charge for your services, and finding interesting well-paid work.</p>
-              <small>Emanuil Tolev <a href="https://twitter.com/emanuil_tolev">(@emanuil_tolev)</a> is a Community Engineer with Elastic. He used to be a freelance web developer and ran a small open science web dev consultancy with partners for several years. Interested in mentorship, inclusion, small businesses, archery and always curious about how the world works in detail.</small>
-              <div class="links">
-                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £40</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="all-day">
-          <a href="https://ti.to/yougotthisconf/couch">✨ Buy an all-day workshop ticket for £90 ✨</a>
-        </div>
-      </div>
-    </section>
-
     <section style="background: var(--blue)">
       <div class="inner">
         <h1>Sponsors</h1>
@@ -139,7 +90,7 @@ sponsors:
             </a>
           {% endfor %}
         </div>
-        <div class="sponsor-event">
+        {% comment %} <div class="sponsor-event">
           <span id="sponsor-toggle">
             Want to sponsor?
             <span id="right" class='finger on'>👉</span>
@@ -154,17 +105,17 @@ sponsors:
             <p><b>Previous sponsors:</b> AND Digital, Auth0, Balsamiq, BuzzFeed, Contentful, DigitalOcean, DXW Digital, Futuregov, GitHub, Hired, Indee, LaunchDarkly, MongoDB, Monzo, Mozilla, Nedap, NotBinary, Proactive, Pusher, Samsung Internet, Twilio, Verge, Vonage and Wild Rocket.</p>
             <p><b>Interested?</b> We'd love to hear from you! Send an email to <a href=" mailto:kevin@yougotthis.io">kevin@yougotthis.io</a>.</p>
           </article>
-        </div>
+        </div> {% endcomment %}
       </div>
     </section>
 
-    <script>
+    {% comment %} <script>
       document.getElementById('sponsor-toggle').addEventListener('click', () => {
         document.getElementById('sponsor-info').classList.toggle('on')
         document.getElementById('right').classList.toggle('on')
         document.getElementById('down').classList.toggle('on')
       })
-    </script>
+    </script> {% endcomment %}
 
     <section style="background: white">
       <div class="inner">
@@ -321,6 +272,56 @@ sponsors:
         </div>
       </div>
     </section> {% endcomment %}
+
+    <section style="background: white">
+      <div class="inner">
+        <h1>Workshop Day - Friday January 15th 2021</h1>
+        <p>Workshop tickets are no longer available.</p>
+        <div class="workshops">
+          <div class="workshop">
+            <img src="/assets/couch/speakers/matt-frame.png" alt="Matt Rose">
+            <div class="info">
+              <h2>UX Your CV</h2>
+              <p><b>This workshop will take place at 10:00 - 12:00 GMT.</b></p>
+              <p>"UX Your CV" takes the principles and ideas we use in User Experience (UX) design for web pages and apps, and applies them to the document that we send to prospective employers when we want to work for them.</p>
+              <p>There are very few unbreakable rules when writing a CV, so we'll consider your underlying objective, the realities of recruitment, and help you to feel confident making your own decisions about what to include and how to present it, and how to tailor it to specific roles.</p>
+              <p>You'll have a chance to work on a draft of your CV during the workshop, so please have any previous versions accessible, and it's also useful to have a job advert or two for the kind of roles you intend to apply to, so you can practice tailoring.</p>
+              <small>Matt Rose <a href="https://twitter.com/mrjesslynnrose">(@mrjesslynnrose)</a> is a Technical Support Engineer at GitHub. Before that, he did a software development bootcamp and worked as a web developer.  ...and before that, he worked for 6 years as an employability skills trainer, helping people to write CVs and sell themselves to prospective employers. He likes using his old skills to help people, whether they're breaking into tech for the first time, changing career and entering tech from another industry, or just looking to level up!</small>
+              {% comment %} <div class="links">
+                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £40</a>
+              </div> {% endcomment %}
+            </div>
+          </div>
+          <div class="workshop">
+            <img src="/assets/couch/speakers/claire-frame.png" alt="Claire Knight">
+            <div class="info">
+              <h2>Making Disagreements at Work Respectful and Productive</h2>
+              <p><b>This workshop will take place at 13:00 - 15:00 GMT.</b></p>
+              <p>Do you want to know how disagreements can be positive? How to be respectful while disagreeing? How to get to mutual understanding through productive discussion, and hopefully to agree on a path forward? Then this workshop could be for you! This workshop will be useful not only for code reviews and team discussions but in day to day life beyond tech. Through hands on exercise, you’ll leave the workshop with some extra tools to apply in a variety of situations, already have tried some of them out, and have further resources to look up if you want to explore this more.</p>
+              <small>Claire Knight <a href="https://twitter.com/krider2010">(@krider2010)</a> is a remote (yep, even pre-COVID) Senior Software Engineering Manager who has worked in many areas of technology over the years. She has served plenty of time in the coal code mine before making the move into also wrangling folks rather than just bits. She is currently working at GitHub where she helps devs all over the world do their best work. Claire lives in Berkshire, UK, with her husband Steve and three cats who from time to time also like to be involved in video calls. When not working, she likes to lift heavy things, only to put them down again.</small>
+              {% comment %} <div class="links">
+                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £40</a>
+              </div> {% endcomment %}
+            </div>
+          </div>
+          <div class="workshop">
+            <img src="/assets/couch/speakers/emanuil-frame.png" alt="Claire Knight">
+            <div class="info">
+              <h2>Know Your Worth: Understanding Your Professional Value</h2>
+              <p><b>This workshop will take place at 16:00 - 18:00 GMT.</b></p>
+              <p>Who wants to get paid more for doing their job? Most of us, naturally. At the same time we believe things like "I'm junior, and juniors get paid around £25,000 for this job".</p><p>In reality, how much you're paid for your efforts in the workplace depends on what value you provide to your employer, but also on perception - how much value they think you provide. Perception is unfortunately influenced by factors that can be biased, but there is still a lot you can do to change how people see you and get paid more. Sometimes you need to negotiate, and other times you need to find new people who will pay you more.</p></p>Through anecdotes, practical exercises, and a bit of theory, this workshop aims to provide you with a framework of thinking of yourself as a paid professional, figuring out what you can charge for your services, and finding interesting well-paid work.</p>
+              <small>Emanuil Tolev <a href="https://twitter.com/emanuil_tolev">(@emanuil_tolev)</a> is a Community Engineer with Elastic. He used to be a freelance web developer and ran a small open science web dev consultancy with partners for several years. Interested in mentorship, inclusion, small businesses, archery and always curious about how the world works in detail.</small>
+              {% comment %} <div class="links">
+                <a href="https://ti.to/yougotthisconf/couch">Buy a ticket for £40</a>
+              </div> {% endcomment %}
+            </div>
+          </div>
+        </div>
+        {% comment %} <div class="all-day">
+          <a href="https://ti.to/yougotthisconf/couch">✨ Buy an all-day workshop ticket for £90 ✨</a>
+        </div> {% endcomment %}
+      </div>
+    </section>
 
     <section style="background: var(--red)">
       <div class="inner">
