@@ -178,6 +178,12 @@ dt {
   margin-bottom: 0.5em;
 }
 
+.links a.naked {
+  background: transparent;
+  margin-right: 0;
+  border: 1px solid rgba(0,0,0,0.5)
+}
+
 .all-day {
   margin: 2em 1em 1em;
 }
