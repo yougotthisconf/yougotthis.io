@@ -1,6 +1,6 @@
 ---
 event: "You Got This From Your Couch"
-video: QnuB89ObvREtn1eyDuc01QS8alMvRIJezqK9UkfKQ1nk
+video: n3bPhy7Gs00k4R9A88KAloo02ajsy4687UIUxSvDkUhgw
 date: 2021-01-15
 talk:
   title: UX Your CV
