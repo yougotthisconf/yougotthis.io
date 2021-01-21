@@ -1,12 +1,12 @@
 <a class="max-w rounded overflow-hidden shadow-lg border border-gray-200 bg-white dark:bg-gray-200 flex flex-col" href="{{talk.data.page.url}}">
-  <div class="px-6 py-4 flex-grow">
+  <div class="px-6 pt-4 pb-2 flex-grow">
     <div class="font-bold text-xl my-2">{{ talk.data.talk.title }}</div>
   </div>
   <div class="flex items-center px-6 pb-6">
     {% for speaker in talk.data.speakers %}
-      <img class="w-10 h-10 rounded-full mr-4" src="/assets/img/people/{{speaker.photo}}" alt="Photo of {{speaker.name}}">
+      <img class="w-10 h-10 rounded-full mr-2" src="/assets/img/people/{{speaker.photo}}" alt="Photo of {{speaker.name}}">
     {% endfor %}
-    <div class="text-sm">
+    <div class="text-xs">
       {% assign names = talk.data.speakers | map: "name" %}
       {% assign twitters = '' %}
       {% for speaker in talk.data.speakers %}
@@ -17,9 +17,9 @@
         {% endif %}
       {% endfor %}
 
-      <p class="text-gray-900 leading-none">{{names | join: " & "}}</p>
+      <p class="text-gray-900 leading-none font-bold">{{names | join: " & "}}</p>
       {% if twitters.size > 0 %}
-        <p class="text-gray-700">{{twitters | split: ',' | join: " & " }}</p>
+        <p class="text-gray-700 leading-none mt-2">{{twitters | split: ',' | join: " & " }}</p>
       {% endif %}
 
       {% comment %} {% if talk.data.speaker.twitter %}

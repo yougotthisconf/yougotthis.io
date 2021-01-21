@@ -1,0 +1,62 @@
+[
+    {
+      "label": "You Got This From Your Couch",
+      "tag": "you-got-this-from-your-couch",
+      "type": "event"
+    },
+    {
+      "label": "IT Matters Conference ONLINE 2020",
+      "tag": "it-matters-online-2020",
+      "type": "event"
+    },
+    {
+      "label": "You Got This From Home",
+      "tag": "you-got-this-2020-from-home",
+      "type": "event"
+    },
+    {
+      "label": "You Got This London 2019",
+      "tag": "you-got-this-london-2019",
+      "type": "event"
+    },
+    {
+      "label": "You Got This Birmingham 2020",
+      "tag": "you-got-this-birmingham-2020",
+      "type": "event"
+    },
+    {
+      "label": "Diversity, Accessibility & Inclusion",
+      "tag": "diversity-accessibility-&-inclusion",
+      "type": "theme"
+    },
+    {
+      "label": "Ethics in Tech",
+      "tag": "ethics-in-tech",
+      "type": "theme"
+    },
+    {
+      "label": "Managers",
+      "tag": "managers",
+      "type": "theme"
+    },
+    {
+      "label": "Professional Development",
+      "tag": "professional-development",
+      "type": "theme"
+    },
+    {
+      "label": "Self Advocacy",
+      "tag": "self-advocacy",
+      "type": "theme"
+    },
+    {
+      "label": "Self Care",
+      "tag": "self-care",
+      "type": "theme"
+    },
+    {
+      "label": "Working With Others",
+      "tag": "working-with-others",
+      "type": "theme"
+    }
+]
