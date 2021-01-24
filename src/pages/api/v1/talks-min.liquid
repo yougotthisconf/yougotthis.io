@@ -1,0 +1,29 @@
+---
+permalink: /talks-min.json
+eleventyExcludeFromCollections: true
+---
+[
+  {% for talk in collections.talks %}
+    {% assign t = talk.data %}
+    {
+        "talk": {{t.talk}},
+        "speakers": [
+          {% for speaker in t.speakers %}
+            {
+              "name": "{{speaker.name}}",
+              "bio": "{{speaker.bio}}",
+              {% if speaker.twitter %}
+                  "twitter": "{{speaker.twitter}}",
+              {% endif %}
+              "photo": "{{site.baseURL}}/assets/img/people/{{speaker.photo}}"
+            }
+            {% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ],
+        "url": "{{site.baseURL}}{{talk.url}}",
+        "video": "https://stream.mux.com/{{t.video}}.m3u8",
+        "slug": "{{talk.fileSlug}}",
+        "tags": {{t.tags}}
+    },
+  {% endfor  %}
+]

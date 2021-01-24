@@ -1,5 +1,8 @@
 module.exports = {
-  plugins: [require('@tailwindcss/typography')],
+  plugins: [
+    require('@tailwindcss/typography'),
+    require('@tailwindcss/custom-forms')
+  ],
   purge: {
     mode: 'all',
     content: ['./build/*.html', './build/**/*.html']

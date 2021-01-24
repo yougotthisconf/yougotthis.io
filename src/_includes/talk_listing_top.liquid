@@ -1,13 +1,38 @@
-<div class='text-center tracking-tight leading-2 font-extrabold pb-10 pt-16' >
-    <h1 class="text-3xl text-pink-600 sm:text-5xl sm:leading-none md:text-6xl dark:text-gray-200">Talk Library</h1>
+<div class='text-center tracking-tight leading-2 pb-10 pt-16' >
+    <h1 class="text-3xl text-pink-600 sm:text-5xl sm:leading-none md:text-6xl dark:text-gray-200 font-extrabold">Talk Library</h1>
     <h2 class="text-lg text-gray-700 pt-4 dark:text-gray-300">All talks at You Got This are about non-technical core skills needed for a happy, healthy work life.</h2>
 </div>
+
 <div class="tags">
-    <div class="py-2 text-center">
-        {% for tag in collections.tagList %}
-            {% if tag != 'talk' %}
-                <a class="inline-block rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-4 uppercase {% if highlight == tag %}text-white bg-pink-600{% else %}text-gray-700 bg-pink-100{% endif %}" href="/tags/{{tag}}">{{ tag | replace: "-", " " }}</a>
-            {% endif %}
-        {% endfor %}
+    <div class="sections px-4">
+        <label class="block">
+            <span class="text-gray-700 dark:text-white">Filter by Theme or Event</span>
+            <select id="filter" class="form-select block w-full mt-1" onchange="applyFilter()">
+                <option class="text-gray-500" value="all" {% unless highlight %}selected{% endunless %}>Show All</option>
+                <optgroup label="Themes">
+                    {% for filter in filters %}
+                        {% if filter.type == "theme" %}
+                            <option value="{{ filter.tag }}" {% if highlight == filter.tag %}selected{% endif %}>{{ filter.label }}</option>
+                        {% endif %}
+                    {% endfor %}
+                </optgroup>
+                <optgroup label="Events">
+                    {% for filter in filters %}
+                        {% if filter.type == "event" %}
+                            <option value="{{ filter.tag }}" {% if highlight == filter.tag %}selected{% endif %}>{{ filter.label }}</option>
+                        {% endif %}
+                    {% endfor %}
+                </optgroup>
+            </select>
+        </label>
     </div>
 </div>
+
+
+<script>
+function applyFilter() {
+    const filter = document.querySelector('#filter').value
+    if(filter == 'all') location.pathname = `/talks`
+    else location.pathname = `/tags/${filter}`
+}
+</script>
