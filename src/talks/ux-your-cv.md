@@ -11,6 +11,7 @@ speakers:
     bio: Matt Rose is a Technical Support Engineer at GitHub. Before that, he did a software development bootcamp and worked as a web developer. ...and before that, he worked for 6 years as an employability skills trainer, helping people to write CVs and sell themselves to prospective employers. He likes using his old skills to help people, whether they're breaking into tech for the first time, changing career and entering tech from another industry, or just looking to level up!
     photo: matt-rose.jpg
 tags: ['you-got-this-from-your-couch', 'professional-development', 'talk']
+highlight: true
 ---
 
 Yes, so, my first open-ended question is: what do we need the CV to do? So, when you're thinking about user experience, this is where you need to start. Like, "What does my site need to do? What does my app need to do?" Let's count that as rhetoric consolidate, shall we?

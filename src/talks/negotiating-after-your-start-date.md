@@ -11,6 +11,7 @@ speakers:
     bio: Jeanine Mendez is a proud Latina immigrant and the Co-founder of KindWork. KindWork helps talented young adults from overlooked communities transform their economic outlook and launch a career in tech. She started her career in finance and honed her operational skills at GE, Deloitte, and Groupon before landing at Uber. Jeanine grew and led operations for over 10 customer support center locations employing over 250 people in the NYC area. Since then she has become a start-up advisor, investor, and loves coaching young professionals on navigating career, salaries, and promotions.
     photo: jeanine-mendez.jpg
 tags: ['you-got-this-from-your-couch', 'professional-development', 'self-advocacy', 'talk']
+highlight: true
 ---
 
 I'm here to talk about negotiating internally. About me: I'm a social entrepreneur, I co-founded a company called KindWork, tech training for young adults, helping people get their first job in tech. I'm a writer, a speaker, and I started my career in finance and jumped to the tech sector by going to Groupon. I joke that when Groupon was cool, I was there! I went off to Uber, started off as an individual contributor, and able to grow my career really quickly, and, when I left, I was managing a very large team, about 250-plus people. I have experience on the personal side, self-advocating, and promotions, and pay bumps, but really I wasn't that good at it, and until I became a manager and I understood the other side of what happens when you are sort of going in there asking for a pay raise, or a promotion.

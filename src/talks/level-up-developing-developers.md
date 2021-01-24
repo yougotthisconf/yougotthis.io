@@ -11,6 +11,7 @@ speakers:
     bio: Melinda Seckington is a Technical Manager at FutureLearn, the social learning platform offering free and paid-for online courses and degrees from leading universities and organisations worldwide. She speaks at international technology conferences and writes for MissGeeky, a blog about all things geeky and girly. When she’s not busy with events or blogging, you can find Melinda curled up on her couch with a good book or video game.
     photo: melinda-seckington.jpg
 tags: ['you-got-this-birmingham-2020', 'managers', 'talk']
+highlight: true
 ---
 
 So, I've pretty much always considered myself a gamer. I think I was about six years old when I played my first video game at a friend's house, and I remember being so, so jealous that they got this awesome device that they could play whenever they wanted.
