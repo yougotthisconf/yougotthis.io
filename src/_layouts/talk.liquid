@@ -49,7 +49,7 @@ layout: base
           <div class="px-6 pt-4 pb-6 flex-grow">
             <div class="font-bold text-xl my-2">About {{speaker.name}}</div>
             <p class="text-gray-700 text-base">{{speaker.bio}}</p>
-            <a class="flex items-center pt-6" {% if speaker.twitter %}href="https://twitter.com/{{speaker.twitter}}"{% endif %}>
+            <a class="flex items-center mt-6" {% if speaker.twitter %}href="https://twitter.com/{{speaker.twitter}}"{% endif %}>
               <img class="w-10 h-10 rounded-full mr-4" src="/assets/img/people/{{speaker.photo}}" alt="Photo of {{speaker.name}}">
               <div class="text-sm">
                 <p class="text-gray-900 leading-none">{{speaker.name}}</p>
