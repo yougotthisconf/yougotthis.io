@@ -3,12 +3,10 @@
         <a class="max-w rounded overflow-hidden shadow-lg border border-gray-200 dark:border-gray-600
         {% if event.highlight %}bg-indigo-600 text-white{% else %}bg-gray-100{% endif %}" href="{{event.url}}">
         <div class="px-6 py-4">
-            <div class="font-bold text-xl my-2">
-            {{ event.name }}
-            </div>
+            <div class="text-xl my-2 uppercase">{{ event.name }}</div>
             <div class="pt-2">
-            <span class="inline-block rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-2 text-gray-700 {% if event.highlight %}bg-white{% else %}bg-indigo-200{% endif %}">{{ event.date | date: "%B %e %Y" }}</span>
-            <span class="inline-block rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-2 text-gray-700 {% if event.highlight %}bg-white{% else %}bg-indigo-200{% endif %}">{{ event.location }}</span>
+                <span class="inline-block rounded-full px-3 py-1 text-sm mr-2 mb-2 text-gray-700 {% if event.highlight %}bg-white{% else %}bg-indigo-200{% endif %}">{{ event.date | date: "%B %e %Y" }}</span>
+                <span class="inline-block rounded-full px-3 py-1 text-sm mr-2 mb-2 text-gray-700 {% if event.highlight %}bg-white{% else %}bg-indigo-200{% endif %}">{{ event.location }}</span>
             </div>
         </div>
         </a>

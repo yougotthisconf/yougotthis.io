@@ -6,7 +6,7 @@ module.exports = function (config) {
 
   config.addPassthroughCopy('src/assets/img')
   config.addPassthroughCopy('src/assets/js')
-  config.addPassthroughCopy('src/assets/couch')
+  config.addPassthroughCopy('src/assets/fonts')
   config.addPassthroughCopy('src/_redirects')
 
   config.addCollection('talks', collection => {
