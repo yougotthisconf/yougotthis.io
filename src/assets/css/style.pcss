@@ -29,6 +29,7 @@
     src: url('../fonts/scilla-narrow.eot');
     src: url('../fonts/scilla-narrow.woff') format('woff'),
          url('../fonts/scilla-narrow.woff2') format('woff2');
+    font-weight: bold;
     text-transform: uppercase;
 }
 
@@ -42,3 +43,9 @@
 .font-display {
   text-transform: uppercase;
 }
+
+.btn { @apply px-4 py-2 text-base leading-6 rounded-md transition ease-in-out duration-150; }
+.btn-dark { @apply text-white bg-green-800; }
+.btn-dark:hover { @apply bg-green-900; }
+.btn-light { @apply text-gray-800 bg-yellow-500; }
+.btn-light:hover { @apply bg-yellow-600; }
