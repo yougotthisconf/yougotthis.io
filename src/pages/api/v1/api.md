@@ -31,8 +31,7 @@ Returns all talks from the talk library.
         "url": "https://yougotthis.io/talks/...",
         "video": "https://stream.mux.com/...m3u8",
         "slug": "...",
-        "tags": [..., ..., ...],
-        "transcript": "<p>...</p><p>...</p>"
+        "tags": [..., ..., ...]
     },
     {
         ...
