@@ -4,7 +4,7 @@ video: tTke4rBTSubXCXu9wRbqbGNMCJn8CvvEU01LXEizLE1Q
 date: 2019-01-19
 talk:
   title: Where Did All My Money Go?
-  abstract: Six months after starting my first developer job I looked at my bank account and wondered, "Where did all my money go?" From a book by a Buddhist financial planner to swapping budgeting app recommendations with my best friend, this is my story of building a healthy relationship with money.
+  abstract: "Six months after starting my first developer job I looked at my bank account and wondered, 'Where did all my money go?' From a book by a Buddhist financial planner to swapping budgeting app recommendations with my best friend, this is my story of building a healthy relationship with money."
 speakers:
   - name: Paula Muldoon
     twitter: FiddlersCode

@@ -4,7 +4,7 @@ video: clx4DKvqRyly8QD7l0057otRnxJtbtnRAVFRStmND5Go
 date: 2020-06-06
 talk:
   title: "Making #RemoteWork Actually Work"
-  abstract: Shakespeare knew what he was talking about when he wrote "Some are born great remote workers, some achieve great remote work, and some have great remote work thrust upon them." Ok, maybe that's not exactly what he wrote. Whether you love working remotely or you were voluntold to work remotely, this is the session for you. Come discover tips and tricks to being a successful remote employee from a ten-year remote work veteran.
+  abstract: "Shakespeare knew what he was talking about when he wrote 'Some are born great remote workers, some achieve great remote work, and some have great remote work thrust upon them.' Ok, maybe that's not exactly what he wrote. Whether you love working remotely or you were voluntold to work remotely, this is the session for you. Come discover tips and tricks to being a successful remote employee from a ten-year remote work veteran."
 speakers:
   - name: Lauren Schaefer
     twitter: Lauren_Schaefer

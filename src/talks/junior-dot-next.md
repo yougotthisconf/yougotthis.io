@@ -5,7 +5,7 @@ date: 2019-01-19
 talk:
   title: Moving On From Being a Junior
   original_title: Junior.next()
-  abstract: Life as a "junior" developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors, and communities do to support the next generation of developers?
+  abstract: Life as a junior developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors, and communities do to support the next generation of developers?
 speakers:
   - name: Tara Ojo
     twitter: tara_ojo
