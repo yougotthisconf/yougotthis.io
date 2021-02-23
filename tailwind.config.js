@@ -9,8 +9,8 @@ module.exports = {
   },
   theme: {
     fontFamily: {
-      'sans': ['Soehne', 'sans-serif'],
-      'display': ['"Soehne Breit"', 'Soehne', 'sans-serif']
+      'sans': ['Freigeist', 'sans-serif'],
+      'display': ['"Freigeist Wide"', 'Freigeist', 'sans-serif']
     },
     extend: {
       screens: {
