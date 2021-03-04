@@ -1,6 +1,6 @@
 <div class="grid grid-cols-1 gap-4 max-w-screen-xl mx-auto p-4 lg:mt-5 sm:grid-cols-2 lg:grid-cols-3">
     {% for event in events %}
-        <a class="max-w rounded overflow-hidden shadow-lg border border-gray-200 dark:border-gray-600
+        <a class="max-w rounded overflow-hidden shadow-lg border border-gray-200
         {% if event.highlight %}bg-indigo-600 text-white{% else %}bg-gray-100{% endif %}" href="{{event.url}}">
         <div class="px-6 py-4">
             <div class="text-lg my-2 font-display">{{ event.name }}</div>

@@ -1,7 +1,8 @@
 module.exports = {
   plugins: [
     require('@tailwindcss/typography'),
-    require('@tailwindcss/custom-forms')
+    require('@tailwindcss/forms'),
+    require('@tailwindcss/aspect-ratio')
   ],
   purge: {
     mode: 'all',
@@ -11,11 +12,6 @@ module.exports = {
     fontFamily: {
       'sans': ['Freigeist', 'sans-serif'],
       'display': ['"Freigeist Wide"', 'Freigeist', 'sans-serif']
-    },
-    extend: {
-      screens: {
-        dark: { raw: '(prefers-color-scheme: dark)' }
-      }
     }
   }
 }
