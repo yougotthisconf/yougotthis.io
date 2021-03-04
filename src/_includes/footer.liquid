@@ -1,4 +1,4 @@
-<div class="bg-white border-t border-gray-200">
+<div class="bg-white border-t-2">
   <div class="max-w-screen-xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
     <nav class="-mx-5 -my-2 flex flex-wrap justify-center">
       <div class="px-5 py-2">
@@ -55,3 +55,32 @@
     </div>
   </div>
 </div>
+<div class="bg-gray-800 text-white px-4 py-4 sm:px-6 flex flex-col items-center justify-center sm:flex-row">
+  <h2 class="font-display mr-4">Accessibility</h2>
+  <button class="mr-4" id="a11y-dark">Dark Mode</button>
+  <button class="mr-4" id="a11y-font">Dyslexia-Friendly Font</button>
+</div>
+
+<script>
+if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) setDarkMode(true)
+else setDarkMode(false)
+
+document.getElementById('a11y-dark').addEventListener('click', () => {
+  if(localStorage.theme == 'light') setDarkMode(true)
+  else setDarkMode(false)
+})
+
+function setDarkMode(bool) {
+  const button = document.getElementById('a11y-dark')
+  const bodyClassList = document.documentElement.classList
+  if(bool) {
+    bodyClassList.add('dark')
+    localStorage.setItem('theme', 'dark')
+    button.textContent = 'Light Theme'
+  } else {
+    bodyClassList.remove('dark')
+    localStorage.setItem('theme', 'light')
+    button.textContent = 'Dark Theme'
+  }
+}
+</script>

@@ -1,30 +1,33 @@
-<div class="relative bg-gray-100">
+<div class="relative bg-gray-100 dark:bg-gray-700">
   {% comment %} Desktop Menu {% endcomment %}
   <div class="flex justify-between items-center px-4 py-6 sm:px-6 md:justify-start md:space-x-10">
     <div class="lg:w-0 lg:flex-1">
       <div class="flex items-center">
         <a href="/" class="flex items-center">
           <img class="h-8 w-auto sm:h-10" src="/assets/img/fist.svg" alt="Fist with Code Tattoo">
-          <h1 class="sm:text-l lg:text-2xl pl-4 font-bold font-display text-gray-900">You Got This</h1>
+          <h1 class="sm:text-l lg:text-2xl pl-4 font-bold font-display text-gray-900 dark:text-white">You Got This</h1>
         </a>
       </div>
     </div>
     <div id="mobile-menu-open" class="-mr-2 -my-2 md:hidden">
-      <button type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out" aria-label="Open Menu">
+      <button type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 dark:text-white transition duration-150 ease-in-out" aria-label="Open Menu">
         <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
         </svg>
       </button>
     </div>
     <nav class="hidden md:flex space-x-10">
-      <a href="/discord" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:text-gray-900 focus:outline-none transition ease-in-out duration-150">Discord</a>
-      <a href="/twitter" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:text-gray-900 focus:outline-none transition ease-in-out duration-150">Twitter</a>
-      <a href="/blog" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:text-gray-900 focus:outline-none transition ease-in-out duration-150">Blog</a>
+      <a href="/twitter" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none transition ease-in-out duration-150 dark:text-white dark:hover:text-gray-400">Twitter</a>
+      <a href="/conduct" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none transition ease-in-out duration-150 dark:text-white dark:hover:text-gray-400">Conduct</a>
     </nav>
     <div class="hidden md:flex items-center justify-end space-x-8 md:flex-1 lg:w-0">
-      <a href="/conduct" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:text-gray-900 focus:outline-none transition ease-in-out duration-150">Conduct</a>
+      <button class="text-gray-500 hover:text-gray-900 dark:text-white dark:hover:text-gray-400" aria-label="Accessibility Settings" id="a11y-skip">
+        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 100 100"">
+         <path d="M49.863,0C22.324,0,0,22.324,0,49.863s22.324,49.863,49.863,49.863s49.863-22.324,49.863-49.863S77.401,0,49.863,0z   M49.107,9.903c3.572,0,6.464,2.891,6.464,6.44c0,3.572-2.892,6.463-6.464,6.463c-3.547,0-6.438-2.892-6.44-6.463  C42.667,12.794,45.558,9.903,49.107,9.903z M77.05,30.728l-19.184,2.424l0.008,19.204l9.294,31.025  c0.491,1.959-0.687,3.919-2.625,4.403c-1.937,0.484-3.918-0.583-4.406-2.542L50.616,57h-2.932l-8.759,28.828  c-0.733,1.881-2.828,2.746-4.707,2.013c-1.861-0.726-2.997-2.844-2.263-4.725L40,52.67V33.152l-17.674-2.405  c-1.814-0.146-3.046-1.743-2.898-3.557c0.133-1.828,1.783-3.185,3.596-3.039L44.497,26h9.417l22.866-1.885  c1.817-0.073,3.357,1.34,3.418,3.171C80.271,29.104,78.868,30.653,77.05,30.728z"></path>
+        </svg>
+      </button>
       <span class="inline-flex rounded-md shadow-sm">
-        <a href="/talks" class="whitespace-no-wrap inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-500 focus:outline-none focus:border-pink-700 focus:shadow-outline-pink active:bg-pink-700 transition ease-in-out duration-150">Talk Library</a>
+        <a href="/talks" class="whitespace-no-wrap inline-flex items-center justify-center px-4 py-2 text-base leading-6 font-medium rounded-md text-white bg-gradient-to-br from-yellow-500 to-pink-500">Talk Library</a>
       </span>
     </div>
   </div>
@@ -32,14 +35,14 @@
   {% comment %} Mobile Menu {% endcomment %}
   <div id="mobile-menu" class="absolute top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden hidden z-10">
     <div class="rounded-lg shadow-lg">
-      <div class="rounded-lg shadow-xs bg-white divide-y-2 divide-gray-50">
+      <div class="rounded-lg shadow-xs bg-white dark:bg-gray-900 divide-y-2 divide-gray-50 dark:divide-gray-700">
         <div class="pt-5 pb-6 px-5 space-y-6">
           <div class="flex items-center justify-between">
             <a href="/">
               <img class="h-8 w-auto" src="/assets/img/fist.svg" alt="Fist with Code Tattoo">
             </a>
             <div class="-mr-2">
-              <button id="mobile-menu-close" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out" aria-label="Close Menu">
+              <button id="mobile-menu-close" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400" aria-label="Close Menu">
                 <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                 </svg>
@@ -49,14 +52,12 @@
         </div>
         <div class="py-6 px-5 space-y-6">
           <div class="grid grid-cols-2 gap-4">
-            <a href="/discord" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">Discord</a>
-            <a href="/twitter" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">Twitter</a>
-            <a href="/conduct" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">Code of Conduct</a>
-            <a href="/blog" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">Blog</a>
+            <a href="/twitter" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 dark:text-white dark:hover:text-gray-400 transition ease-in-out duration-150">Twitter</a>
+            <a href="/conduct" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 dark:text-white dark:hover:text-gray-400 transition ease-in-out duration-150">Code of Conduct</a>
           </div>
           <div class="space-y-6">
             <span class="w-full flex rounded-md shadow-sm">
-              <a href="/talks" class="w-full flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-500 focus:outline-none focus:border-pink-700 focus:shadow-outline-pink active:bg-pink-700 transition ease-in-out duration-150">Talk Library</a>
+              <a href="/talks" class="w-full flex items-center justify-center px-4 py-2 text-base leading-6 font-medium rounded-md text-white bg-gradient-to-br from-yellow-500 to-pink-500">Talk Library</a>
             </span>
           </div>
         </div>
@@ -71,5 +72,9 @@ document.getElementById('mobile-menu-open').addEventListener('click', () => {
 })
 document.getElementById('mobile-menu-close').addEventListener('click', () => {
   document.getElementById('mobile-menu').classList.add('hidden')
+})
+document.getElementById('a11y-skip').addEventListener('click', () => {
+  window.scrollTo(0, document.body.scrollHeight)
+  document.getElementById('a11y-dark').focus()
 })
 </script>

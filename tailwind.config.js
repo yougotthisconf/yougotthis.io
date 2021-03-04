@@ -13,5 +13,6 @@ module.exports = {
       'sans': ['Freigeist', 'sans-serif'],
       'display': ['"Freigeist Wide"', 'Freigeist', 'sans-serif']
     }
-  }
+  },
+  darkMode: 'class'
 }
