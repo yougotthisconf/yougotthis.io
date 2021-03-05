@@ -22,6 +22,18 @@
          url('../fonts/freigeist.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('../fonts/opendyslexic.woff') format('woff'),
+         url('../fonts/opendyslexic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OpenDyslexic Mono';
+    src: url('../fonts/opendyslexic-mono.woff') format('woff'),
+         url('../fonts/opendyslexic-mono.woff2') format('woff2');
+}
+
 .tw-header-link {
   @apply text-base leading-6 font-medium text-gray-900 hover:text-gray-700 dark:text-white dark:hover:text-gray-400 transition ease-in-out duration-150
 }
@@ -62,4 +74,12 @@
 }
 .dark .prose pre {
   background: #3e4b5c
+}
+
+.dyslexic * {
+  font-family: 'OpenDyslexic', sans-serif !important;
+}
+.dyslexic code,
+.dyslexic pre {
+  font-family: 'OpenDyslexic Mono', monospace !important;
 }

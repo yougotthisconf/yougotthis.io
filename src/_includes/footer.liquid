@@ -83,4 +83,26 @@ function setDarkMode(bool) {
     button.textContent = 'Dark Theme'
   }
 }
+
+if (localStorage.font === 'dyslexic') setFont('dyslexic')
+else setFont('default')
+
+document.getElementById('a11y-font').addEventListener('click', () => {
+  if(localStorage.font == 'dyslexic') setFont('default')
+  else setFont('dyslexic')
+})
+
+function setFont(type) {
+  const button = document.getElementById('a11y-font')
+  const bodyClassList = document.documentElement.classList
+  if(type == 'dyslexic') {
+    bodyClassList.add('dyslexic')
+    localStorage.setItem('font', 'dyslexic')
+    button.textContent = 'Default Font'
+  } else {
+    bodyClassList.remove('dyslexic')
+    localStorage.setItem('font', 'default')
+    button.textContent = 'Dyslexia-Friendly Font'
+  }
+}
 </script>
