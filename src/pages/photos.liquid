@@ -12,10 +12,10 @@ events:
     slug: 2019-london
 ---
 
-<h1 class="text-center tracking-tight leading-2 font-display pb-10 pt-16 md:pt-10 lg:pt-16 text-3xl text-gray-900 sm:text-4xl sm:leading-none md:text-5xl">Event Photos</h1>
+<h1 class="tw-heading-2 mt-12">In-Person Event Photos</h1>
 
 {% for event in events %}
-  <div class='text-center mb-10 px-4 text-gray-700 tracking-tight leading-2'>
+  <div class='text-center mb-10 px-4 text-gray-700 dark:text-white tracking-tight leading-2'>
     <h2 class="font-display text-xl sm:text-2xl lg:text-3xl pt-4">{{ event.name }}</h2>
     <p class='max-w-xl mx-auto'>Photos were taken by {{event.photographer}} on {{event.date}}. You may use them, but please provide a credit to the photographer and our event (CC-BY-SA License).</p>
     <div class='max-w-screen-lg mx-auto mt-5 photos'>

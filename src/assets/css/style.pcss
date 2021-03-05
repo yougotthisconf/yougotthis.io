@@ -21,3 +21,45 @@
     src: url('../fonts/freigeist.woff') format('woff'),
          url('../fonts/freigeist.woff2') format('woff2');
 }
+
+.tw-header-link {
+  @apply text-base leading-6 font-medium text-gray-900 hover:text-gray-700 dark:text-white dark:hover:text-gray-400 transition ease-in-out duration-150
+}
+
+.tw-btn {
+  @apply px-4 py-2 lg:mb-8 text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-500 transition ease-in-out duration-150
+}
+
+.tw-heading-2 {
+  @apply text-center tracking-tight leading-3 text-gray-900 text-2xl sm:leading-none sm:text-3xl md:text-5xl p-4 font-display dark:text-white
+}
+
+.tw-heading-3 {
+  @apply text-center text-lg text-gray-700 pt-4 dark:text-white font-display
+}
+
+.tw-card {
+  @apply rounded overflow-hidden shadow-lg border border-gray-200 bg-white dark:bg-gray-500 dark:border-gray-700 text-gray-900 dark:text-white
+}
+
+.tw-tag {
+  @apply inline-block rounded-full px-3 py-1 text-xs mr-2 mb-2 uppercase text-center text-white
+}
+
+.tw-tag-primary {
+  @apply bg-pink-600
+}
+
+.tw-tag-secondary {
+  @apply bg-gray-800
+}
+
+.prose h1, .prose h2, .prose h3, .prose h4, .prose a, .prose code {
+  color: #374151
+}
+.dark .prose h1, .dark .prose h2, .dark .prose h3, .dark .prose h4, .dark .prose a, .prose code {
+  color: white
+}
+.dark .prose pre {
+  background: #3e4b5c
+}
