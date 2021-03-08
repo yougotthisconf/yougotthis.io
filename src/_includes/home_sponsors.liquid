@@ -1,8 +1,6 @@
-<div class="bg-white lg:mb-12">
+<div class="lg:mb-12">
   <div class="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
-    <p class="text-center text-base leading-6 font-semibold uppercase text-gray-700 tracking-wider">
-      Thank you to all of the organizations who have supported our events
-    </p>
+    <h2 class="tw-heading-2">Supported by</h2>
     <div class="mt-6 grid gap-1 grid-cols-3 lg:mt-8 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6">
       {% for sponsor in sponsors %}
         <img src='/assets/img/sponsors/{{sponsor.file}}.png' alt='{{sponsor.name}}' class='lazyload rounded-lg   shadow-lg'>

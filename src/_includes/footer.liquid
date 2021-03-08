@@ -1,20 +1,20 @@
-<div class="bg-white border-t border-gray-200">
+<div class="border-t-2 dark:border-gray-600">
   <div class="max-w-screen-xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
     <nav class="-mx-5 -my-2 flex flex-wrap justify-center">
       <div class="px-5 py-2">
-        <a href="/search" class="text-base leading-6 text-gray-500 hover:text-gray-900">Search</a>
+        <a href="/search" class="tw-header-link">Search</a>
       </div>
       <div class="px-5 py-2">
-        <a href="/run" class="text-base leading-6 text-gray-500 hover:text-gray-900">Run Your Own Event</a>
+        <a href="/run" class="tw-header-link">Run Your Own Event</a>
       </div>
       <div class="px-5 py-2">
-        <a href="mailto:kevin@yougotthis.io" class="text-base leading-6 text-gray-500 hover:text-gray-900">Sponsorship Enquiries</a>
+        <a href="mailto:kevin@yougotthis.io" class="tw-header-link">Sponsorship Enquiries</a>
       </div>
       <div class="px-5 py-2">
-        <a href="/feed.xml" class="text-base leading-6 text-gray-500 hover:text-gray-900">RSS</a>
+        <a href="/feed.xml" class="tw-header-link">RSS</a>
       </div>
       <div class="px-5 py-2">
-        <a href="/api" class="text-base leading-6 text-gray-500 hover:text-gray-900">API</a>
+        <a href="/api" class="tw-header-link">API</a>
       </div>
     </nav>
     <div class="mt-8 flex justify-center">
@@ -49,9 +49,60 @@
       </a>
     </div>
     <div class="mt-8">
-      <p class="text-center text-base leading-6 text-gray-500">
+      <p class="text-center text-base leading-6 text-gray-500 dark:text-gray-200">
         You Got This is a network of community conferences focused on core, non-technical skills coordinated by <a href="https://twitter.com/_phzn">Kevin Lewis</a>.
       </p>
     </div>
   </div>
 </div>
+<div class="text-white px-4 py-4 sm:px-6 flex flex-col items-center justify-center sm:flex-row bg-indigo-600">
+  <h2 class="font-display mr-4">Accessibility</h2>
+  <button class="mr-4" id="a11y-dark">Dark Mode</button>
+  <button class="mr-4" id="a11y-font">Dyslexia-Friendly Font</button>
+</div>
+
+<script>
+if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) setDarkMode(true)
+else setDarkMode(false)
+
+document.getElementById('a11y-dark').addEventListener('click', () => {
+  if(localStorage.theme == 'light') setDarkMode(true)
+  else setDarkMode(false)
+})
+
+function setDarkMode(bool) {
+  const button = document.getElementById('a11y-dark')
+  const bodyClassList = document.documentElement.classList
+  if(bool) {
+    bodyClassList.add('dark')
+    localStorage.setItem('theme', 'dark')
+    button.textContent = 'Light Theme'
+  } else {
+    bodyClassList.remove('dark')
+    localStorage.setItem('theme', 'light')
+    button.textContent = 'Dark Theme'
+  }
+}
+
+if (localStorage.font === 'dyslexic') setFont('dyslexic')
+else setFont('default')
+
+document.getElementById('a11y-font').addEventListener('click', () => {
+  if(localStorage.font == 'dyslexic') setFont('default')
+  else setFont('dyslexic')
+})
+
+function setFont(type) {
+  const button = document.getElementById('a11y-font')
+  const bodyClassList = document.documentElement.classList
+  if(type == 'dyslexic') {
+    bodyClassList.add('dyslexic')
+    localStorage.setItem('font', 'dyslexic')
+    button.textContent = 'Default Font'
+  } else {
+    bodyClassList.remove('dyslexic')
+    localStorage.setItem('font', 'default')
+    button.textContent = 'Dyslexia-Friendly Font'
+  }
+}
+</script>
