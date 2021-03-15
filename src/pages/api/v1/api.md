@@ -4,7 +4,7 @@ permalink: api/
 title: You Got This API
 ---
 
-<!-- The You Got This API provides GET endpoints to consume data relating to talks, tags and events.
+The You Got This API provides GET endpoints to consume data relating to talks, tags and events.
 
 `The base URL is https://yougotthis.io`
 
@@ -144,4 +144,4 @@ Returns all events, past and present.
 ]
 ```
 
-Tag is only present if it is a valid tag used in the talk library. -->
+Tag is only present if it is a valid tag used in the talk library.
