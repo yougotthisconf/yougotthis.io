@@ -28,6 +28,8 @@
     {% endif %}
 
     <meta name="monetization" content="$ilp.uphold.com/DBEbnWEmPyJJ">
+
+    {% if custom_head %}{{custom_head}}{% endif %}
   </head>
   <body class='flex flex-col min-h-screen bg-white dark:bg-gray-800'>
     {% comment %}{% include announcement %} {% endcomment %}
