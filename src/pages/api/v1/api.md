@@ -6,7 +6,7 @@ title: You Got This API
 
 The You Got This API provides GET endpoints to consume data relating to talks, tags and events.
 
-`The base URL is https://yougotthis.io`
+`The base URL is https://charlie.yougotthis.io`
 
 ## [/talks.json](/talks.json)
 
