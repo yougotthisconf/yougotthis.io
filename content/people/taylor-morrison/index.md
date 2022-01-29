@@ -1,6 +1,6 @@
 ---
 name: Taylor Morrison
-pronouns:
+pronouns: she/her
 avatar: ./avatar.jpg
-twitter:
+twitter: taylorelysemo
 ---
