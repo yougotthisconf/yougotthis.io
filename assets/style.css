@@ -43,4 +43,7 @@ body {
         box-shadow: var(--theme-black) 0 0 0 0;
         transform: translate(2px, 2px);
     }
+    &.bright {
+        @apply !bg-theme-main !text-white
+    }
 }
