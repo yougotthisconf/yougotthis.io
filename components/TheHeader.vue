@@ -48,7 +48,7 @@ export default {
                     { label: 'Get Involved', url: '#' },
                 ]
             },
-            mobileMenuOpen: true
+            mobileMenuOpen: false
         }
     }
 }
