@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 module.exports = {
   mode: 'jit',
   purge: [],
@@ -12,6 +14,9 @@ module.exports = {
           black: '#331717',
           white: '#f1f1e7'
         }
+      },
+      fontFamily: {
+        heading: ['knicknack', ...defaultTheme.fontFamily.sans]
       }
     },
   },

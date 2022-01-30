@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --theme-main: #e9194a;
+    --theme-light: #FF6E75;
+    --theme-dark: #C4050F;
+    --theme-black: #331717;
+    --theme-white: #f1f1e7;
+}
+
+@font-face {
+    font-family: 'knicknack';
+    src: url('/fonts/knicknack/knicknack-reg.eot');
+    src: url('/fonts/knicknack/knicknack-reg.woff'),
+         url('/fonts/knicknack/knicknack-reg.woff2');
+}
+
+body {
+    @apply text-theme-black;
+}
+
+.wrapper {
+    @apply max-w-6xl px-4 mx-auto;
+    & .wrapper {
+        @apply px-0;
+    }
+}
+
+.button {
+    @apply bg-theme-white text-theme-black transition;
+    @apply border-2 border-theme-black;
+    @apply rounded-full py-1 px-4;
+    @apply font-bold text-center;
+    @apply inline-block;
+    box-shadow: var(--theme-black) 2.5px 2.5px 0 0;
+    &:hover {
+        @apply bg-white transition;
+    }
+    &:active {
+        @apply transition;
+        box-shadow: var(--theme-black) 0 0 0 0;
+        transform: translate(2px, 2px);
+    }
+}

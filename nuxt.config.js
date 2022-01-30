@@ -1,6 +1,9 @@
 export default {
   target: 'static',
-  components: true,
+  components: [
+    '~/components',
+    '~/components/one-off',
+  ],
   head: {
     title: 'You Got This!',
     htmlAttrs: {
@@ -28,5 +31,8 @@ export default {
   ],
   axios: {},
   content: {},
+  tailwindcss: {
+    cssPath: '~/assets/style.css'
+  },
   build: {}
 }
