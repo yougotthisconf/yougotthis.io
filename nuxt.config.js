@@ -2,7 +2,8 @@ export default {
   target: 'static',
   components: [
     '~/components',
-    '~/components/one-off',
+    '~/components/collections',
+    '~/components/one-off'
   ],
   head: {
     title: 'You Got This!',

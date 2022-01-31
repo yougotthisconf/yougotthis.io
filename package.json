@@ -13,6 +13,7 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/axios": "^5.13.6",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7"
   },
@@ -26,6 +27,7 @@
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
     "postcss": "^8.3.5",
-    "prettier": "^2.3.2"
+    "prettier": "^2.3.2",
+    "tailwindcss-text-fill-stroke": "^1.1.2"
   }
 }
