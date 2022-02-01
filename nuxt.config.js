@@ -3,6 +3,7 @@ export default {
   components: [
     '~/components',
     '~/components/collections',
+    '~/components/library',
     '~/components/one-off'
   ],
   head: {
@@ -25,6 +26,7 @@ export default {
   buildModules: [
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/moment'
   ],
   modules: [
     '@nuxtjs/axios',

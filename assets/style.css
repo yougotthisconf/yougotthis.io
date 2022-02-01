@@ -47,3 +47,7 @@ body {
         @apply !bg-theme-main !text-white
     }
 }
+
+.heading {
+    @apply font-heading text-xl md:text-3xl
+}

@@ -1,8 +1,8 @@
 <template>
     <section class="text-center bg-white pt-8 md:pt-16">
         <div class="max-w-3xl mx-auto p-4">
-            <h1 class="font-heading text-xl md:text-3xl">You Got This is a learning hub focused on core skills needed for a happy and healthy work life. </h1>
-            <h2 class="text-md mt-4">We hope you find value in our free <a href="/library">content library</a> and inclusive <a href="/events">community events</a>.</h2>
+            <h1 class="heading">You Got This is a learning hub focused on core skills needed for a happy and healthy work life. </h1>
+            <h2 class="text-md mt-4">We hope you find value in our free <a href="/library">content library</a> and inclusive community <a href="/events">events</a>.</h2>
             <n-link class="button bright mt-4" to="/about">Learn More</n-link>
         </div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 222" class="bg-theme-white">
