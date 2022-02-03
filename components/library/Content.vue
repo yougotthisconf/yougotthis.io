@@ -14,7 +14,7 @@
         </div>
         <div class="meta">
             <div class="images">
-                <!-- <ContentImg v-for="person in people" :key="person.name" :src="person.avatar" :alt="`Avatar of ${person.name}`" /> -->
+                <img v-for="person in people" :key="person.name" src="https://placekitten.com/100/100" :alt="`Avatar of ${person.name}`" />
             </div>
              <div>
                  <h3 class="text-sm">{{ title }}</h3>

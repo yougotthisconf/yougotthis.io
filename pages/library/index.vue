@@ -8,8 +8,8 @@
 <script>
 export default {
     async asyncData({ $content }) {
-    const videos = await $content('library/videos', { deep: true }).without(['body']).sortBy('published', 'desc').fetch()
-    const people = await $content('people', { deep: true }).fetch()
+    const videos = await $content('library/videos', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
+    const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
 
     const addTypes = [
         ...videos.map(v => ({ ...v, type: 'video' }))
@@ -22,8 +22,6 @@ export default {
     })
 
     const list = addFullProfiles
-
-    console.log(people[0])
     return { list }
   },
 }
