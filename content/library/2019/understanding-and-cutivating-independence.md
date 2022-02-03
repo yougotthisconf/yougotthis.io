@@ -3,7 +3,7 @@ title: Understanding and Cultivating Independence
 date: 2019-01-19
 people: ['violet-pena']
 descriptions:
-  - short: Independance isn't just working alone, its a mindset. 
+  - short: Running through a framework for developing and maintaining independence.
   - full: Independence is the key to professional growth. It doesn’t mean working alone; it means being able to problem-solve and seek help. This talk will give you a new definition of independence, as well as a framework for developing and maintaining independence in their professional life.
 vimeo: 666702480
 ---

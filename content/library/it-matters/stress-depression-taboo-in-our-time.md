@@ -3,8 +3,8 @@ title: Stress & Depression – a Taboo in our Time
 date: 2020-09-26
 people: ['gitte-klitgaard']
 descriptions:
-  - short: Our industry is rife with stress and its effects, how do we break the taboo and deal with it better and prevent it in the future?
-  - full: Stress and stress-induced depression hit many knowledge workers, and yet it is still a taboo. “I am stressed” has become something we hear every day, and it has almost become prestigious to say so; it shows that we are busy, important people. On the other hand, it is a bit embarrassing to be really stressed and not being able to handle it.  In this talk, I will discuss the taboo and explore why it hits knowledge workers so often, as well as come with tips and tricks to prevent it.
+  - short: Understanding why stress and depression is so common, and how you can manage it.
+  - full: Stress and stress-induced depression hit many knowledge workers, and yet it is still a taboo. “I am stressed” has become something we hear every day, and it has almost become prestigious to say so; it shows that we are busy, important people. On the other hand, it is a bit embarrassing to be really stressed and not being able to handle it. In this talk, I will discuss the taboo and explore why it hits knowledge workers so often, as well as come with tips and tricks to prevent it.
 vimeo: 666615437
 ---
 

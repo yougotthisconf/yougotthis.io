@@ -3,7 +3,7 @@ title: Engaging with Activism Online
 date: 2021-01-16
 people: ['lola-odelola']
 descriptions:
-  - short: How do we be good activists on the internet?
+  - short: Making sure your engagement with social causes is actually helping.
   - full: It’s summer and the year is 2020, the air is thick with rage, the people are protesting another public killing of an unarmed Black man, George Floyd. In the heat of our collective anger, black boxes begin to flood the social platforms; Twitter, Instagram, Facebook, the boxes are everywhere, some with heartfelt captions, others with hashtags related to Black lives. Most of us are confused. “Lazy!“, the critics shout. “Misguided”, the more gentle observers comment, but what happened? How did we get here? And more importantly, how can we avoid returning here when the inevitable happens again?
 vimeo: 666555518
 ---

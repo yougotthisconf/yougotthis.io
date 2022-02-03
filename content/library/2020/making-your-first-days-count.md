@@ -3,7 +3,7 @@ title: Making Your First Days Count
 date: 2020-01-18
 people: ['nathaniel-okenwa']
 descriptions:
-  - short: They can be one of the hardest parts of your career, how do we make our entry into a new job easier and valuable. 
+  - short: Let's look at some useful strategies to help you navigate your new job.
   - full: Hooray! You’ve landed your first full-time tech job, but what comes next? The first few months can be daunting and it is easy to feel like you don’t belong. In this talk, we look at some useful strategies to help you navigate your rookie year.
 vimeo: 670352493
 ---

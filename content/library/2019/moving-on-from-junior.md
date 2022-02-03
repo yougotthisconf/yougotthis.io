@@ -3,7 +3,7 @@ title: Moving On From Being a Junior
 date: 2019-01-19
 people: ['tara-ojo']
 descriptions:
-  - short: Whats the next step for junior developers?
+  - short: Learn about how to move on to the next level as a junior dev.
   - full: Life as a junior developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors, and communities do to support the next generation of developers?
 vimeo: 666700130
 ---

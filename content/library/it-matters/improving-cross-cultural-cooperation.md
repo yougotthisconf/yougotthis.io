@@ -3,7 +3,7 @@ title: Improving Cross-Cultural Co-Operation
 date: 2020-09-26
 people: ['agnieszka-chec']
 descriptions:
-  - short: Not all of the world is so focused on individualism, we must understand the values of collectism to make a successful cross-cultural team. 
+  - short: Better understand common cultural differences to build stronger teams.
   - full: The culture of the Western World values individualism, however, 70 percent of the global population lives within cultures characterized by values of collectivism. A deep understanding of the differences between collectivist and individualist mindsets enables building better co-operation within teams. Moreover, it helps to comprehend how the Western culture workplace might be perceived by Asian or African partners – a switch of perspectives is a game-changer for successful cross-cultural teamwork.
 vimeo: 666609431
 ---

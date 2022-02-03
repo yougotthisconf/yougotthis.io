@@ -3,7 +3,7 @@ title: Making the Most of Your Video Call Setup
 date: 2022-01-15
 people: ['felix-kerger']
 descriptions:
-  - short: You don't need a DLSR to make your video calls shine, just a few effective tips can make you look like a star. 
+  - short: Some free tips to improve your presentations and camera setup.
   - full: Today we are spending most of our day in front of a computer and quite a bit of that time with our cameras on. This change has happened rapidly and the transition from being in a meeting room to being in front of a camera can be difficult. In this talks I will present several tips and tricks on make the most of your video call setup by making tweaks to poisitioning, improving your body language, and using free software to make your setup shine.
 vimeo: 666513557
 ---

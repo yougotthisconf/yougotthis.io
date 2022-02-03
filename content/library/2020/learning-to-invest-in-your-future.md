@@ -3,7 +3,7 @@ title: Learning to Invest in Your Future
 date: 2020-01-18
 people: ['matthew-gilliard']
 descriptions:
-  - short: Learning how to learn is critical in the fast-changing world of tech, how do we do it?
+  - short: Learning how to learn is critical in the fast-changing world of tech.
   - full: When change is the only constant, learning is the only future-proof skill. In this talk, using examples from the pioneers of programming education in the 1960s through to the present day, Matthew will show some effective techniques for developing new programming skills. You’ll see how learning how to learn can benefit you through your whole career, and how valuable it can be to share what you’ve learned with others.
 vimeo: 670347714
 ---

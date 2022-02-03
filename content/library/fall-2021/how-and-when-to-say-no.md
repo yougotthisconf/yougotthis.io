@@ -3,7 +3,7 @@ title: How and When To Say No
 date: 2021-10-14
 people: ['nathaniel-okenwa']
 descriptions:
-  - short: We can't always say yes to a new opportunity, sometimes we have to say no. When do we decide whether something is right for us. 
+  - short: Deciding when opportunities are right for you, and when to say no.
   - full: "It can often feel like every day there is a new ask of us - people asking for our time, effort, or knowledge. While many of these requests represent great opportunities for career growth, income or a warm fuzzy feeling, it is impossible to say yes to everything that comes your way. In this talk we’ll consider how to decide whether something is right for you as well as some helpful advice for when and how to say no."
 vimeo: 666525877
 ---

@@ -4,7 +4,8 @@ export default {
     '~/components',
     '~/components/collections',
     '~/components/library',
-    '~/components/one-off'
+    '~/components/one-off',
+    '~/components/sponsors'
   ],
   head: {
     title: 'You Got This!',

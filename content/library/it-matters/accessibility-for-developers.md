@@ -3,7 +3,7 @@ title: Accessibility for Developers
 date: 2020-09-26
 people: ['franziska-hauck']
 descriptions:
-  - short: Living with a disability as a developer can be hard, what can we do to increase inclusion?
+  - short: How can you increase inclusion for team members with disabilities?
   - full: For developers living with disabilities and chronic illnesses, the experience in the workplace can be challenging. So what can you do to increase inclusion for these developers? A lot! In her talk, Franziska shares her perspective as a person living with chronic illnesses and gives concrete tips.
 vimeo: 666604949
 ---

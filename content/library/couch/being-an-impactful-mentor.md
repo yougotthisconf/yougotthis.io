@@ -3,7 +3,7 @@ title: Being an Impactful Mentor
 date: 2021-01-16
 people: ['julianne-burke']
 descriptions:
-  - short: Montoring can be incredibly fulfilling. How do we establish that relationship and be a positive influence to our mentees.
+  - short: How to work with mentees to have the most positive impact.
   - full: Mentoring has the potential to be one of the most fulfilling aspects of working as an industry professional. But how can you ensure that you make a real and lasting impact on your mentee and their future? In this talk, we'll discuss some of the best ways to get to know your mentee from your initial conversation, how to set an agenda and goals for the relationship, ways to inspire compelling discussions about your mentee's future, and what practical steps you as the mentor can take on your own to be a positive influence on your mentee's career.
 vimeo: 666693344
 ---

@@ -3,7 +3,7 @@ title: How to Align Your Values With Your Job
 date: 2021-08-12
 people: ['laura-morinigo']
 descriptions:
-  - short: How do we maintain our motivation and integrity through discovering our personal values and applying them to our workplace. 
+  - short: Maintaining both motivation and integrity through established personal values.
   - full: "Every time we land a new job, the excitement is there: new beginnings, a new opportunity, the chance to grow... but how can we keep this motivation during our journey and take it further from the newbie stage? Aligning your values within your workplace can be the answer. During this talk, we will learn how to recognize our own values and take them to our workplace (and step up when we don't find them) to achieve a greater commitment and satisfaction in our careers."
 vimeo: 666547287
 ---

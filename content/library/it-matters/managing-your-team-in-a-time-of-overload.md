@@ -3,7 +3,7 @@ title: Managing Your Team in a Time of Overload
 date: 2020-09-26
 people: ['piotr-nabielec']
 descriptions:
-  - short: Implementing good habits can mitigate a team from feeling overworked and make your workplace a healthier enviroment.
+  - short: Implementing good habits can mitigate a team from feeling overworked.
   - full: This talk will cover key aspects of effectively managing yourself and your team, some of the biggest problems in everyday productivity, and provide tips on how to not feel overworked and burned out. You should leave with an understanding of how to implement good habits and permanent changes in life.
 vimeo: 666612261
 ---

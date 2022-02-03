@@ -3,7 +3,7 @@ title: My Story of Learning to Ask for Help
 date: 2020-09-26
 people: ['veerle-verhagen']
 descriptions:
-  - short: How do we learn to reach out and get the support we need, it's hard but sometimes it what we need to solve the case. 
+  - short: Asking for help can be tough, but is vital for self-improvement.
   - full: This is a story about teamwork. In the summer of 2019, the London Metropolitan Police’s twitter account was hacked. Control of the account was soon recovered, but the culprits proved harder to find. Police were at a loss. However, there were about 5 million people in the UK with a very specific skill that could have helped solve the crime, if only they had been consulted. Asking for help can be incredibly difficult. I know, because I’ve been there. It is also vital to self-improvement. So how do you learn to reach out and get the support you need?
 vimeo: 666613662
 ---

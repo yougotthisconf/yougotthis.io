@@ -3,7 +3,7 @@ title: Early Career Negotiation
 date: 2021-10-14
 people: ['jess-rose']
 descriptions:
-  - short: We all have to start somewhere and that begins at the negotiation table. 
+  - short: Better inform your negotiations and tip the scales in your favor.
   - full: "Early in your career in technology it often feels like you need to take anything that’s given. And many employers want juniors to believe they don’t have any leverage to negotiate. Together, we’ll explore what kinds of negotiations are common in your early career and look at how you can begin to build out information to better inform these exchanges. We’ll also look at how you can use these experiences to help inform your choices as you gain more experience in tech."
 vimeo: 666527846
 ---

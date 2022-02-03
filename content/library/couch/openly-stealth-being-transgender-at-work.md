@@ -3,8 +3,8 @@ title: "Openly Stealth: Being Transgender at Work"
 date: 2021-01-16
 people: ['alex-papadopoulos']
 descriptions:
-  - short: Just being trans day to day can be hard, being trans in tech can be even moreso. How do we both face these unique challanges and showcase the importance of diversity in the workplace?
-  - full: Navigating being transgender anywhere is not an easy task, let alone in the workplace and in a male-dominated field such as tech. Landing a new job after transitioning (or at any point during transitioning really) always comes accompanied with a variety of emotions. “Should I disclose my transness? If I don’t, am I lying?”, “I am afraid to tell my colleagues that I am trans, but I don’t feel okay with myself if I don’t”, “People can tell. I am a fraud.”  The thoughts mentioned above, and a thousand others are very much expected and an additional stress when trying to adapt to a new workplace with new people and expectations. This talk will go through the experience of landing a new job as a transgender person, and ways to keep mental peace while doing so, as well as celebrate and showcase the importance of diversity in the workplace.
+  - short: Starting new jobs, meeting new people, keeping mental peace, and celebrating diversity in the workspace.
+  - full: Navigating being transgender anywhere is not an easy task, let alone in the workplace and in a male-dominated field such as tech. Landing a new job after transitioning (or at any point during transitioning really) always comes accompanied with a variety of emotions. “Should I disclose my transness? If I don’t, am I lying?”, “I am afraid to tell my colleagues that I am trans, but I don’t feel okay with myself if I don’t”, “People can tell. I am a fraud.” The thoughts mentioned above, and a thousand others are very much expected and an additional stress when trying to adapt to a new workplace with new people and expectations. This talk will go through the experience of landing a new job as a transgender person, and ways to keep mental peace while doing so, as well as celebrate and showcase the importance of diversity in the workplace.
 vimeo: 666598181
 ---
 

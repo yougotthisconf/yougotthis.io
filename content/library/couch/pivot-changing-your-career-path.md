@@ -1,10 +1,10 @@
 ---
 title: "Pivot! Changing Your Career Path"
 date: 2021-01-16
-people: ['malcolm-evans']
+people: ['malcolm-xavier']
 descriptions:
-  - short: How do we start a new chapter in our careers successfully without burning out?
-  - full: In an increasingly technological world, many professionals are seeing their career paths disappear before their eyes. As a result, many are seeking a career pivot, to change their career path, in order to stay on course for their professional futures. This talk will focus on strategies to successfully accomplish a pivot, providing resources and strategies on networking, self-advocacy, and self-care.  You will walk away with communication templates for outreach such as LinkedIn messaging and requesting a title change at work, a list of communities and resources to involve yourself with in order to access new opportunities and tech industry knowledge, and techniques to take care of yourself throughout the process such as scheduling methods and mindfulness practices.
+  - short: Successfully acomplish a career pivot and stay on course for your professional future.
+  - full: In an increasingly technological world, many professionals are seeing their career paths disappear before their eyes. As a result, many are seeking a career pivot, to change their career path, in order to stay on course for their professional futures. This talk will focus on strategies to successfully accomplish a pivot, providing resources and strategies on networking, self-advocacy, and self-care. You will walk away with communication templates for outreach such as LinkedIn messaging and requesting a title change at work, a list of communities and resources to involve yourself with in order to access new opportunities and tech industry knowledge, and techniques to take care of yourself throughout the process such as scheduling methods and mindfulness practices.
 vimeo: 666600137
 ---
 

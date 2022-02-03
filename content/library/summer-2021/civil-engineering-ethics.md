@@ -3,7 +3,7 @@ title: What Civil Engineering Can Teach Us About Ethics
 date: 2021-08-12
 people: ['richard-westenra']
 descriptions:
-  - short: Centurys of civil enginnering has taught us important lessons about ethics, what can we learn from its mistakes and apply it today.
+  - short: How can we apply learnings from civil engineering to our practice as developers?
   - full: 'Contemporary software engineering is at a crucial juncture in the evolution as a discipline. We’re professionalizing and expanding our abilities, but in doing so we’re encountering dramatic new risks and venturing into new ethical territory. In this way, we share similarities with the expansion of traditional civil engineering during the industrial revolution. In this talk I’ll discuss what lessons can we learn from that industry, and how we can try to avoid making some of the same mistakes. I’ll also give a basic introduction to engineering ethics, discuss some examples of ethical problems from my own career, and explore how we can try to improve our ethical decision-making by incorporating ethical reasoning into the different stages of our work.'
 vimeo: 666546189
 ---

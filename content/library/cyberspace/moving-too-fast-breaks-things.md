@@ -3,7 +3,7 @@ title: When Moving Too Fast Really Does Break Things
 date: 2022-01-15
 people: ['vidhika-bansal']
 descriptions:
-  - short: "Move fast and break-things" might not be the one and all development paradigm, how can we take a step back, slow down and prevent harm in the things we build when we move too fast.
+  - short: Proactively prevent harm in the products and services you build.
   - full: We live in the era of “move fast and break things” — where learning through iteration and delivering quick outcomes is prioritized, even if it comes at a cost. But at what point is that cost too high? What kinds of unintended consequences could we be unleashing on our users by shipping things without careful deliberation? In this talk, we'll go over some telling examples and talk about how we as technologists can use our privilege to proactively prevent harm in the products and services we build.
 vimeo: 666523879
 ---

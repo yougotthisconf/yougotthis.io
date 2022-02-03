@@ -3,7 +3,7 @@ title: "Self-Care: Beyond the Hashtags"
 date: 2019-01-19
 people: ['taylor-morrison']
 descriptions:
-  - short: Take self-care beyond the hashtags and into your daily life!
+  - short: Learn about self-care, and how to create personal rituals.
   - full: "#Selfcare has over 7.5 million Instagram posts, but we have more questions than ever about what self-care actually is. In this talk, we'll take self-care beyond the hashtags and into your daily life. We'll define it and walk through the process of creating meaningful self-care rituals."
 vimeo: 666701284
 ---

@@ -3,8 +3,8 @@ title: Understanding & Looking After Your Mental Health
 date: 2020-09-26
 people: ['gem-hill']
 descriptions:
-  - short: We may know how to look after our physical health, but how to we understand, respect and care for our mental health. 
-  - full: “I know how to look after my physical health, but I don’t know how to look after my mental health.”  This question is one that sparked the start of my talking about mental health and self care. During my time living with anxiety and C-PTSD, I’ve learned a lot about self care and looking after my mental health, and I knew I could share my strategies with people. This talk is about what self care is, why it’s important regardless of your mental health status, and how to use self care as a mood barometer. I’ll be sharing tricks and tips I use to keep my own mental health stable, and how to adapt them to find your own self care routine.
+  - short: Tips and tricks to create a self-care routine and know when to use it.
+  - full: “I know how to look after my physical health, but I don’t know how to look after my mental health.”  This question is one that sparked the start of my talking about mental health and self care. During my time living with anxiety and C-PTSD, I’ve learned a lot about self care and looking after my mental health, and I knew I could share my strategies with people. This talk is about what self care is, why it’s important regardless of your mental health status, and how to use self care as a mood barometer. I’ll be sharing tricks and tips I use to keep my own mental health stable, and how to adapt them to find your own self-care routine.
 vimeo: 666619803
 ---
 

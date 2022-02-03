@@ -3,7 +3,7 @@ title: It's Not Your Job To Love Your Job
 date: 2020-01-18
 people: ['keziyah-lewis']
 descriptions:
-  - short: Your not obliged to love your job, this harmful idea hurts tech workers.
+  - short: Your not obliged to love your job, and doing so may be hurting you.
   - full: Loving or appreciating your job isn’t a problem on its own. But you’re not obligated to do it. In fact, I’d argue that the pressure to love your job can be dangerous. Using examples from my personal experience and from the tech industry as a whole, I’ll talk about how unconditional job love is used to exploit or mistreat tech workers.
 vimeo: 670342902
 ---

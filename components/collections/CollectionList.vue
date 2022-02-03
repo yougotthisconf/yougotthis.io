@@ -5,7 +5,7 @@
         <Collection title="Second-Career Developers" summary="Content focused those with an existing career before tech." />
         <Collection title="When Things Aren't Great" summary="Helpful advice on what to do with your work situation isn't ideal." />
         <Collection title="When You're Still Working From Home" summary="Skills you need to be a happy and successful remote worker." />
-        <Collection title="Skills For First-Time Managers" summary="Learn from leaders about what will help you be the best manager possible." />
+        <Collection title="Skills For First-Time Managers" summary="Learn from leaders about hy is what will help you be the best manager possible." />
         <!-- Personal Finance -->
         <!-- Improving Your Practice -->
         <!-- Looking after MH/Self care -->

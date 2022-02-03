@@ -3,7 +3,7 @@ title: From Conflict To Cooperation
 date: 2022-01-14
 people: ['jordan-m-adler']
 descriptions:
-  - short: Conflict is a natural part of any working relationship, how do we naviagte and resolve our differences and let cooler heads prevail? 
+  - short: An in-depth talk about causes of, and resolutiosn for, conflict.
   - full: Conflict Resolution is a key skill in working effectively in engineering organizations. In this workshop, we'll review the causes of conflict, how to navigate and negotiate differences in perspectives, and develop language and process skills to manage, mitigate, and prevent conflict. With a basis in I/O Psychology and Management Science, this talk is relevant to all engineers from entry-level individual contributors to engineering executives.
 vimeo: 666514686
 ---

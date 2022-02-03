@@ -3,7 +3,7 @@ title: Tech, Neurodiversity and a Lot of Odd Angles…
 date: 2020-09-26
 people: ['matthew-parker','david-atkinson']
 descriptions:
-  - short: Realise the value of neurodiversity within your team and what opportunities and benefits it can bring. 
+  - short: Realise the value of neurodiversity within your team and what opportunities it presents.
   - full: We will be looking at neurodiversity and how it fits into the Tech industry. A brief experience report, where the industry is now and how we can revisit our approach to inclusion within teams. Looking at how accessibility, open doors and improved lines of communication can create opportunities for teams to grow and to realise the value of neurodiversity.
 vimeo: 666618136
 ---

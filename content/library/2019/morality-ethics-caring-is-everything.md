@@ -3,7 +3,7 @@ title: Morality and Ethics - Caring is Everything
 date: 2019-01-19
 people: ['sam-warner']
 descriptions:
-  - short: How do we be more ethical as developers?
+  - short: How do we prevent unethical technology spreading (and being made)?
   - full: In software development, caring is everything - and as the senior developers of tomorrow, we are should start the revolution. Are we the fix in the fight against guns-for-hire developers? How do we prevent unethical technology spreading (and being made)?
 vimeo: 666699647
 ---

@@ -3,7 +3,7 @@ title: "Making #RemoteWork Actually Work"
 date: 2020-06-06
 people: ['lauren-schaefer']
 descriptions:
-  - short: '"Some are born great remote workers, some achieve great remote work, and some have great remote work thrust upon them."'
+  - short: Tips and tricks to being a successful remote employee from a remote worker of 10 years.
   - full: "Shakespeare knew what he was talking about when he wrote 'Some are born great remote workers, some achieve great remote work, and some have great remote work thrust upon them.' Ok, maybe that's not exactly what he wrote. Whether you love working remotely or you were voluntold to work remotely, this is the session for you. Come discover tips and tricks to being a successful remote employee from a ten-year remote work veteran."
 vimeo: 670236600
 ---

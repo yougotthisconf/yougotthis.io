@@ -3,7 +3,7 @@ title: Buying Back Your Time
 date: 2022-01-15
 people: ['akash-goswani']
 descriptions:
-  - short: Time can be more valuable than money, when do we choose to save time and save money?
+  - short: If time is money - how can we spend to save?
   - full: If you had the choice of saving money or saving time, what would you pick? Many people start their careers by trying to spend as little as possible, but as you progress it may not make sense to continue doing the same. In this talk, we will discuss how and when to balance these priorities so you can have a happier and healthier relationship with spending money.
 vimeo: 666510351
 ---

@@ -3,7 +3,7 @@ title: Legal Tips To Build Your Business Safely
 date: 2022-01-15
 people: ['neil-brown']
 descriptions:
-  - short: Navigate the pitfalls of the legal side of starting a business without leaving you confused and broke.  
+  - short: Contracts, copyright, and knowing when to bring in experts.
   - full: It's not easy to get down to earth, practical, reasonably priced, legal advice. Neil, an experienced tech industry solicitor, will give you five (or more) key legal tips to help you run and build your business, without leaving your bamboozled by legalese. Or with a big bill. Running your own business, or thinking about it? This is for you.
 vimeo: 666520478
 ---

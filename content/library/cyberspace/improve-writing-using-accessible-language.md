@@ -3,7 +3,7 @@ title: Improve Your Writing Using Accessible Language
 date: 2022-01-14
 people: ['amy-dickens']
 descriptions:
-  - short: Fancy language may make our writing sound better but when the message is key, clear plain language is a must to make it heard by all. 
+  - short: Use plain language to be more concise, persuasive, and accessible.
   - full: You may think that you are already using clear language in your work, but there are many ways in which bad writing habits can confuse and complicate your message. In this workshop we will learn how to use plain language to make documents, emails, web content, and social media posts more accessible. This approach to writing has benefits for most readers and can help you improve your communication with others.
 vimeo: 666501764
 ---

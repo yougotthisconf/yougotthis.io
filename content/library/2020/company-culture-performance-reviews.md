@@ -3,7 +3,7 @@ title: Company Culture, Performance Reviews & You
 date: 2020-01-18
 people: ['ruth-lee']
 descriptions:
-  - short: Each company is different, how do you adapt and florish in any culture? 
+  - short: Understand how culture impacts your performance reviews, and how to adapt to your environment.
   - full: Culture fit. The dreaded phrase we all love to hear in our rejection letters, but culture's more than just being a cis white dude. In this talk I'll discuss engineering culture, particularly around approaches to risk and maturity of processes in companies of different sizes. This talk is aimed at helping junior engineers understand how this culture impacts performance reviews and how to adapt to flourish in different company environments.
 vimeo: 670328697
 ---

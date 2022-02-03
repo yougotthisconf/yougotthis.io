@@ -3,7 +3,7 @@ title: Learning is a Skill You Can Practice
 date: 2020-06-06
 people: ['magda-stenius']
 descriptions:
-  - short: When you learn how to learn, developing new skills becomes funner and easier.
+  - short: When you learn how to learn, developing new skills becomes easier.
   - full: Learning is one of the most important skills in ones work life. It can also be exhausting, frustrating and hard. Especially in the beginning of your career, becoming good at learning new skills makes work a lot less stressful and more enjoyable! This talk discusses what learning is, how to find your own ways of doing it and how to set goals for your studies and progress.
 vimeo: 670228818
 ---

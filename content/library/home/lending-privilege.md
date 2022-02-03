@@ -3,7 +3,7 @@ title: Lending Privilege
 date: 2020-06-06
 people: ['anjuan-simmons']
 descriptions:
-  - short: We all have some privlidge, how do we leverage that by lending it to those who have less. 
+  - short: Learn how to leverage your privilege to support others.
   - full: Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. However, this talk will help you understand that, no matter your background, you have privilege and can lend it to underrepresented groups in tech.
 vimeo: 670232107
 ---

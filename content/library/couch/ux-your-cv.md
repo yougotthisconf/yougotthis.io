@@ -3,7 +3,7 @@ title: UX Your CV
 date: 2021-01-15
 people: ['matt-rose']
 descriptions:
-  - short: UX isn't just for apps, it can help you CV read better and get the job you deserve.
+  - short: How to apply user experience techniques to your resume.
   - full: UX Your CV takes the principles and ideas we use in User Experience (UX) design for web pages and apps, and applies them to the document that we send to prospective employers when we want to work for them. There are very few unbreakable rules when writing a CV, so we'll consider your underlying objective, the realities of recruitment, and help you to feel confident making your own decisions about what to include and how to present it, and how to tailor it to specific roles.
 vimeo: 666603964
 ---

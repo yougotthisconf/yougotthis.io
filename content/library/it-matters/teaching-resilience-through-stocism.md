@@ -3,7 +3,7 @@ title: Teaching Resilience Through Stoicism
 date: 2020-09-26
 people: ['sanne-visser']
 descriptions:
-  - short: What can we practically learn from stoicism to never be miserable again!
+  - short: Practical, hands-on exercises to navigate things that make you miserable.
   - full: This presentation is a practical guide to dealing with stuff that makes you miserable. I’ll teach you an exercise (or two) how to stubbornly refuse to let things make you miserable. The answers are rooted in stoicism, and no, I promise it won’t be a philosophy lesson. I’m sticking to the practical, hands-on exercises that help at the moment. Attend this presentation and you’ll never be miserable again, about anything!
 vimeo: 666617083
 ---

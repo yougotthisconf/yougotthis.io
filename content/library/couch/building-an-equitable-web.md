@@ -3,8 +3,8 @@ title: Building an Equitable Web
 date: 2021-01-16
 people: ['olu-niyi-awosusi']
 descriptions:
-  - short: The web should be for everyone, how do we make it a more accessible place for all.
-  - full: Accessible web practices - meaning here ways of building the web that allow those with impairments and disabilities to use it - might not seem like the coolest way to bring your activism to the internet, but it’s vital to having a web that works for us all.   In this talk, we'll learn how transphobia, sexism, racism, ableism, homophobia, ageism and other types of discrimination are echoed and intersect on the web, locking some of the most vulnerable people out of essential services, fun activities and vital information, and what you can do to help make the web a more accessible place for all.
+  - short: The web is for everyone, but not without us putting in work.
+  - full: Accessible web practices - meaning here ways of building the web that allow those with impairments and disabilities to use it - might not seem like the coolest way to bring your activism to the internet, but it’s vital to having a web that works for us all. In this talk, we'll learn how transphobia, sexism, racism, ableism, homophobia, ageism and other types of discrimination are echoed and intersect on the web, locking some of the most vulnerable people out of essential services, fun activities and vital information, and what you can do to help make the web a more accessible place for all.
 vimeo: 666554661
 ---
 

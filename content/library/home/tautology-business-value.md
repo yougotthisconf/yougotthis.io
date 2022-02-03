@@ -3,7 +3,7 @@ title: Tautology and Business Value
 date: 2020-06-06
 people: ['heidi-waterhouse']
 descriptions:
-  - short: Understanding your value as an employee in the eyes of the employer can help us become a better person. 
+  - short: How to understand why your job exists, and make the most of it.
   - full: You didn't get that cool programming job because you're a great programmer. You got it because the company you work for wants to make money and they think you can help. It's easy for us to feel like our worth/value/capitalist expression is tied to our employment, but it's also useful to flip that narrative and talk about how our companies need us, and how we can use that understanding to be more valuable employees and even better humans.  What is the value that you bring to your employer? Can you articulate it? Can you expand it? Can you take that value and use it for your own purposes?
 vimeo: 670239409
 ---

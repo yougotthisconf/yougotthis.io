@@ -13,5 +13,8 @@
                 <Content title="Lending Privilege" :people="['Annjuan Simmons']" :length="45" type="writing" />
             </div>
         </div>
+        <div class="max-w-2xl mx-auto py-24">
+            <Example />
+        </div>
     </div>
 </template>

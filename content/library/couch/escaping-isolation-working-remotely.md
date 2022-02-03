@@ -3,7 +3,7 @@ title: Escaping Isolation While Working Remotely
 date: 2022-01-15
 people: ['niamh-mccooey']
 descriptions:
-  - short: Working from home can be amazing but sometimes overwhelming and difficult. How can we make it work for us?
+  - short: Identify, contain, and overcome the feeling of isolation.
   - full: Have you ever found it difficult to concentrate, struggled to keep up momentum, or felt your passion for your side-project wane while working from home? So many remote developers know this all too well, and often it's a result of isolation. But even when it all feels a bit too much, there are ways you can overcome it. In this talk we'll dive into different methods to identify its onset, how to stop it from becoming overwhelming, and the practical ways you can lift yourself up out of that funk.
 vimeo: 666498248
 ---

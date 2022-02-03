@@ -3,7 +3,7 @@ title: Making Your 1-1s Effective
 date: 2022-01-15
 people: ['naomi-pentrel']
 descriptions:
-  - short: 1-1s can be a great supportive tool, but must be wieled effectivly to give the help they can. 
+  - short: How to make 1-1s the supportive tool they are meant to be.
   - full: 1-1s are your opportunity to ensure you and your manager are on the same page, to work on your career development, and for you to give and receive feedback. Used effectively, 1-1s help you. However, many managers and reports don't know how to have effective 1-1s. In this talk you will learn how to use 1-1s as the supportive tool they are meant to be.
 vimeo: 666518635
 ---

@@ -3,7 +3,7 @@ title: Getting Unstuck and Solving Problems
 date: 2022-01-15
 people: ['steven-hicks']
 descriptions:
-  - short: Getting stuck on a problem can be immensly frustrating but can we reframe our problems into a positive experience to get yourself out of a jam?
+  - short: Strategies to break down problems and overcome them.
   - full: All software engineers get stuck - whether you're brand new or have 20 years experience. In this session, we’ll reframe the act of getting stuck as a positive. Then we’ll talk about strategies for getting past a tricky problem. We’ll discuss the psychology behind these strategies, and answer questions like “Why do my best ideas come to me in the shower?” Finally, we’ll look at ways to harden yourself for the next time you get stuck.
 vimeo: 666499889
 ---

@@ -3,7 +3,7 @@ title: Understanding Labels We Give Ourselves and Others
 date: 2020-09-26
 people: ['daria-dorda']
 descriptions:
-  - short: What are the labels you give yourself, understanding them can benefit you and those around you. 
+  - short: What are the labels you give yourself? Understanding them can benefit you and those around you.
   - full: 'If there is one certain thing I could tell about people while working with them as a trainer, that’s the one: we do love to read and hear about the most intriguing creature we know – that is ourselves. We love to call, think or speak about ourselves using specific, sometimes funny, sometimes odd terms like introverts, extraverts, ambiverts, yellow-thinker, red thinker, hyper activer, visualizer, and lately – the High Sensitive People. You probably have your favorite one to add to the list.This may seem harmless and not serious – like reading a horoscope – who believes in them! Oh… wait…  During this talk, I want to invite the audience to do a little self-scan: what is my favorite label and why do I need it? And as a fan of the evidence-based approach, I would like to show what the scientific approach has to say regarding such labels. I hope that after this talk you would be able to use the tests, quizzes and all other questionnaires with greater benefit to yourself and…those around you.'
 vimeo: 666610794
 ---

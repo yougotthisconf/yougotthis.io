@@ -3,7 +3,7 @@ title: Perfectionism, Imposter Syndrome, and Anxiety
 date: 2019-01-19
 people: ['jo-franchetti']
 descriptions:
-  - short: You are not an imposter! Learn to remember that and manage the dread. 
+  - short: How to spot, manage, and overcome imposter syndrome.
   - full: Impostor syndrome - the belief that you don’t deserve to be where you are, and perfectionism - a need to work to impossibly high standards, are exhausting. Learn how to spot these destructive thought patterns in yourself, how to manage anxiety and procrastination and how to start being kinder to yourself, because you’re awesome and you deserve to be here.
 vimeo: 666700618
 ---

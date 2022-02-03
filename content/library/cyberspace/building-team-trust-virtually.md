@@ -3,8 +3,8 @@ title: Building Team Trust Virtually
 date: 2022-01-15
 people: ['carol-huang']
 descriptions:
-  - short: Many of us have been forced into working from home, how can we still have fulfilling and happy work relationships through the webcam.
-  - full: Working with new teammates is *hard,* and it can be especially hard when you've never met, are all new to the team, are spread across multiple time zones, and/or are going through a pandemic -- all of which were the case for me in July of 2020. I’ll go through the tools and techniques we tried to build trust on virtual platforms, from weekly emoji check-ins to asynchronous video chats, what worked, what didn’t, and why I think being open and vulnerable are key to a successful and happy working relationship. This talk is for anyone who wants to build relationships and rapport with teammates virtually.
+  - short: Tools and techniques to build team trust remotely and across timezones.
+  - full: Working with new teammates is hard, and it can be especially hard when you've never met, are all new to the team, are spread across multiple time zones, and/or are going through a pandemic -- all of which were the case for me in July of 2020. I’ll go through the tools and techniques we tried to build trust on virtual platforms, from weekly emoji check-ins to asynchronous video chats, what worked, what didn’t, and why I think being open and vulnerable are key to a successful and happy working relationship. This talk is for anyone who wants to build relationships and rapport with teammates virtually.
 vimeo: 666511954
 ---
 

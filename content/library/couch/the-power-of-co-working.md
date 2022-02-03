@@ -3,7 +3,7 @@ title: The Power of Co-Working
 date: 2021-01-16
 people: ['suze-shardlow']
 descriptions:
-  - short: Many of us have stale projects and a portfolio to adapt, how to we use co-working to get them done!
+  - short: How to set up and use co-working sessions as a productivty tool.
   - full: Do you have a pile of projects that's gathering dust? Or a portfolio you know you need to build up, but can't seem to find the motivation? Are you feeling the pressure because everyone around you is saying you have loads of time now you have no commute? Let's look at how to allocate time and use co-working as a productivity tool, or even set up and run your own co-working sessions using a framework I developed in London during lockdown and has since been adopted in the USA.
 vimeo: 666602428
 ---

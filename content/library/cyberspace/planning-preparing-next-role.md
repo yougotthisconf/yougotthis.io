@@ -3,7 +3,7 @@ title: Planning and Preparing For Your Next Role
 date: 2022-01-15
 people: ['rachel-lee-nabors']
 descriptions:
-  - short: One day you are probably going to have to find the next role in your career, prepare yourself now by finding what you want and how you can get it. 
+  - short: Discover what you want to do, ace the interview, and leave before you're miserable.
   - full: 'There’s one guarantee in your career: you won’t work the same job forever. Don’t wait until you’re at the end of your patience with your current job or for someone to offer you your dream job on a whim—take control of your future by owning and planning your next move well ahead of sending out your resume. In this talk we’ll go over how to discover what you want next through experimentation at your day job, how to prepare to ace the interview, and then how to weigh your options and compare your Future You’s to make smart bets that take you where you want to go. This talk is intended for people who already have jobs in tech, whether they’re thinking about getting a new one or not!'
 vimeo: 666522127
 ---

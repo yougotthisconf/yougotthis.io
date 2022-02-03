@@ -3,7 +3,7 @@ title: Making Your Hard Work Visible
 date: 2020-01-18
 people: ['gargi-sharma']
 descriptions:
-  - short: Hard work alone might not get you ahead, how can we be seen and valued?
+  - short: Doing good work isn't enough - learn how to make it visible.
   - full: You are good at your job, are polite and deadline oriented. Your long-term professional goals are well-defined, and you work toward them consistently. But working hard is sometimes not enough. People around you need to see and value your work. This talk will cover hard-work, visibility, the myth of meritocracy, and what we owe one another once we are successful.
 vimeo: 670356965
 ---

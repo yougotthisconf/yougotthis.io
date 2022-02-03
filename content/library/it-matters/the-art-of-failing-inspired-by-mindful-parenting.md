@@ -3,7 +3,7 @@ title: The Art of Failing, Inspired by Mindful Parenting
 date: 2020-09-26
 people: ["tomasz-smaczny"]
 descriptions:
-  - short: How can we can take the principles of mindful parenting and apply it to our professional growth.
+  - short: Taking the principles of mindful parenting and applying it to our professional growth.
   - full: Simon Sinek claims that the closest thing to leadership is parenting. I absolutely agree. Parenting is solidly researched and may be a valuable inspiration for professional growth. In this talk I will explain how you can overcome a business failure by applying mindful parenting principles.
 vimeo: 666605597
 ---

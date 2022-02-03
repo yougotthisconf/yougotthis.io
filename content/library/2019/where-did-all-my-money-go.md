@@ -3,7 +3,7 @@ title: Where Did All My Money Go?
 date: 2019-01-19
 people: ['paula-muldoon']
 descriptions:
-  - short: A tenner here, a twenty there, it adds up and the next min you wonder where all you money went. This is a story of how I built a healty relationship with money. 
+  - short: A story of building a healthy relationship with money.
   - full: "Six months after starting my first developer job I looked at my bank account and wondered, 'Where did all my money go?' From a book by a Buddhist financial planner to swapping budgeting app recommendations with my best friend, this is my story of building a healthy relationship with money."
 vimeo: 666702883
 ---

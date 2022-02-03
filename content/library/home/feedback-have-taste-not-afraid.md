@@ -3,7 +3,7 @@ title: "Feedback: How to Have Taste and Not Be Afraid to Use It"
 date: 2020-06-06
 people: ['ben-bartle']
 descriptions:
-  - short: Feedback is fickle and can be hard to take and give effectivly. How do we get the feedback we want and the credit we deserve. 
+  - short: How do we get the feedback we want and the credit we deserve?
   - full: You're creative, made something great and want to tell people about it. In this talk, we will walk through some examples of how to maximise feedback on ideas from both your peers and managers to ensure your idea gets championed and you get the credit you deserve.
 vimeo: 670226561
 ---

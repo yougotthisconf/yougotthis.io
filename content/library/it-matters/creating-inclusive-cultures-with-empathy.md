@@ -3,7 +3,7 @@ title: Creating Inclusive Cultures with Empathy
 date: 2020-09-26
 people: ['sharon-steed']
 descriptions:
-  - short: Define empathy on your own terms and put yourself in the mindset for inclusion. 
+  - short: Learn how to operationalize engaging empathy in a way that supports diverse teams.
   - full: Inclusion has never been more important than right now. With a global pandemic forcing us all to adjust our lives and racial tensions that have hit a peak all over the world, understanding the struggles others are facing is imperative to successful conversations and team collaboration. But how do we approach these undoubtedly difficult conversations? And what do we do when we want to change our culture but don’t know exactly how to do it? We engage empathy. This talk will guide you through the process of creating inclusive, collaborative teams with empathy. You will learn to define empathy on your own terms; tap into your past experiences that will help put you in the correct mindset for inclusion; and break down the model that operationalizes engaging empathy in a way that supports diverse teams.
 vimeo: 666606859
 ---
