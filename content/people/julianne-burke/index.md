@@ -1,7 +1,7 @@
 ---
 name: Julianne Burke
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: julianne_burke
 ---
 

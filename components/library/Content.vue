@@ -13,11 +13,14 @@
             <span v-if="featured" class="featured">Featured</span>
         </div>
         <div class="meta">
-             <img src="https://placekitten.com/99/99" alt="">
+            <div class="images">
+                <!-- <ContentImg v-for="person in people" :key="person.name" :src="person.avatar" :alt="`Avatar of ${person.name}`" /> -->
+            </div>
              <div>
-                 <h3>{{ title }}</h3>
+                 <h3 class="text-sm">{{ title }}</h3>
                  <p>
-                     <span>{{ people.join(' & ') }}</span>
+                     <span>{{ people[0].name }}</span>
+                     <span v-if="people.length > 1">+{{people.length-1}}</span>
                  </p>
              </div>
         </div>
@@ -69,8 +72,23 @@ export default {
 }
 .meta {
     @apply flex gap-4 mt-4 pr-2 text-left;
-    & img {
-        @apply rounded-full h-10;
+    & .images {
+        @apply relative pl-8;
+        width: 2.125rem;
+        & img {
+            @apply rounded-full border-2 border-theme-white;
+            @apply absolute left-0 z-10;
+            --w: 2.125rem;
+            width: var(--w);
+            max-width: var(--w);
+            min-width: var(--w);
+            &:nth-child(2) {
+                @apply ml-1.5 z-0;
+            }
+            &:nth-child(n+3) {
+                @apply hidden;
+            }
+        }
     }
     & h3 {
         @apply font-bold leading-tight;

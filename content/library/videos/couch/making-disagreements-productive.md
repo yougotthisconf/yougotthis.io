@@ -3,7 +3,7 @@ title: Making Disagreements at Work Productive
 date: 2021-01-15
 people: ['claire-knight']
 descriptions:
-  - short: Disagreement don't have to be toxic - how do we make them a positive and productive experience?
+  - short: Disagreement don't have to be toxic, how do we make them a positive and productive experience? 
   - full: Do you want to know how disagreements can be positive? How to be respectful while disagreeing? How to get to mutual understanding through productive discussion, and hopefully to agree on a path forward? Then this workshop could be for you! This workshop will be useful not only for code reviews and team discussions but in day to day life beyond tech. Through hands on exercise, you’ll leave the workshop with some extra tools to apply in a variety of situations, already have tried some of them out, and have further resources to look up if you want to explore this more.
 vimeo: 666596336
 ---

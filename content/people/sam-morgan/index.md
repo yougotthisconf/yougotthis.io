@@ -1,7 +1,7 @@
 ---
 name: Sam Morgan
 pronouns: he/him
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: sjmog1
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Catherine Flick
 pronouns: she/her
-avatar: ./avatar.jpeg
+avatar: avatar.jpeg
 twitter: CatherineFlick
 ---
 

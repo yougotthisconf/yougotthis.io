@@ -1,7 +1,7 @@
 ---
 name: Shivangi Sareen
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: SareenShivangi
 ---
 

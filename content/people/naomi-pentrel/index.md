@@ -1,7 +1,7 @@
 ---
 name: Naomi Pentrel
 pronouns: she/her
-avatar: ./avatar.png
+avatar: avatar.png
 twitter: naomi_pen
 ---
 

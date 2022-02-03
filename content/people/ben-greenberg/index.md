@@ -1,7 +1,7 @@
 ---
 name: Ben Greenberg
 pronouns: he/him
-avatar: ./avatar.png
+avatar: avatar.png
 twitter: RabbiGreenberg
 ---
 

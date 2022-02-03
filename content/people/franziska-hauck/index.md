@@ -1,7 +1,7 @@
 ---
 name: Franziska Hauck
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: _francied
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Carol Huang
 pronouns: she/they
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: thisiscaroltoo
 ---
 

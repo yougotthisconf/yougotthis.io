@@ -1,6 +1,6 @@
 ---
 name: Tomasz Smaczny
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 ---
 
 Tomasz helps organizations operating better, healthier and with more fun by taking care of employees’ core needs within Healthy Organisation Project. He believes that parenting is an art worth continuous learning. Mindful parenting makes people more relaxed and competent both at home and at work. For leaders parenting may be the most effective and free form of training. If they accurately use it.

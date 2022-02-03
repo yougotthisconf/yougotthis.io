@@ -1,7 +1,7 @@
 ---
 name: Jordan M. Adler
 pronouns: he/him
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: jordanmadler
 ---
 

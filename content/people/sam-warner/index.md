@@ -1,7 +1,7 @@
 ---
 name: Sam Warner
 pronouns: he/him
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: sjwarner_
 ---
 

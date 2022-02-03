@@ -1,7 +1,7 @@
 ---
 name: Richard Westenra
 pronouns: he/him
-avatar: ./avatar.jpeg
+avatar: avatar.jpeg
 twitter: RichardWestenra
 ---
 

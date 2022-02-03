@@ -1,7 +1,7 @@
 ---
 name: Sanne Visser
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: SimplySanne
 ---
 

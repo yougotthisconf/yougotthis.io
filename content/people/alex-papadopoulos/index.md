@@ -1,7 +1,7 @@
 ---
 name: Alex Papadopoulos
 pronouns: he/him
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter:
 --- imalexnowuk
 ---

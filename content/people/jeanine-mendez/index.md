@@ -1,7 +1,7 @@
 ---
 name: Jeanine Mendez
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: j9mendez
 ---
 

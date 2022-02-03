@@ -1,7 +1,7 @@
 ---
 name: Amy Dickens
 pronouns: they/them
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: RedRoxProjects
 ---
 

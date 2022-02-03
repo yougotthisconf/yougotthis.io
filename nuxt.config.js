@@ -3,6 +3,7 @@ export default {
   components: [
     '~/components',
     '~/components/collections',
+    '~/components/global',
     '~/components/library',
     '~/components/one-off',
     '~/components/sponsors'

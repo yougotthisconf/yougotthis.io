@@ -1,7 +1,7 @@
 ---
 name: Matt Rose
 pronouns: he/him
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: yamiacat
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Laura Morinigo
 pronouns: she/her
-avatar: ./avatar.png
+avatar: avatar.png
 twitter: thisislalaok
 ---
 

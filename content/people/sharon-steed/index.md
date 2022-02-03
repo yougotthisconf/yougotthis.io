@@ -1,7 +1,7 @@
 ---
 name: Sharon Steed
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: sharonsteed
 ---
 

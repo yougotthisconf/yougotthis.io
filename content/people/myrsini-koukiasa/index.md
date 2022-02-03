@@ -1,7 +1,7 @@
 ---
 name: Myrsini Koukiasa
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: myrsiningos
 ---
 

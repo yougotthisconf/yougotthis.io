@@ -1,6 +1,6 @@
 ---
 name: Sascha Wolf
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: wolf4earth
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Lauren Schaefer
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: Lauren_Schaefer
 ---
 

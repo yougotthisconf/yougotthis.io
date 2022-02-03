@@ -1,7 +1,7 @@
 ---
 name: Vidhika Bansal
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: vidhster
 ---
 

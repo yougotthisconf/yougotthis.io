@@ -1,7 +1,7 @@
 ---
 name: Melinda Seckington
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: mseckington
 ---
 

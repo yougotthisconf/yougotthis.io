@@ -1,7 +1,7 @@
 ---
 name: Olu Niyi Awosusi
 pronouns: they/them
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: oluoluoxenfree
 ---
 

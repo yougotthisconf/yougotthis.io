@@ -1,7 +1,7 @@
 ---
 name: Tara Ojo
 pronouns: she/her
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: tara_ojo
 ---
 

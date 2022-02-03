@@ -1,6 +1,6 @@
 ---
 name: Gargi Sharma
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: gawwrgi
 ---
 

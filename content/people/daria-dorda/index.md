@@ -1,6 +1,6 @@
 ---
 name: Daria Dorda
-avatar: ./avatar.jpg
+avatar: avatar.jpg
 twitter: DariaDorda
 ---
 
