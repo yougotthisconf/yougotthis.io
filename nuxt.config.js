@@ -1,3 +1,6 @@
+const copyContentImages = require('./utils/copy-content-images.js')
+copyContentImages()
+
 export default {
   target: 'static',
   components: [

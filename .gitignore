@@ -91,3 +91,5 @@ sw.*
 
 # Local Netlify folder
 .netlify
+
+/static/people
