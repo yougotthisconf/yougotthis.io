@@ -28,7 +28,7 @@ export default {
 <style scoped>
 a {
     @apply flex flex-col;
-    @apply bg-white rounded-lg transition;
+    @apply bg-white text-theme-black rounded-lg transition;
     @apply border-2 border-theme-black;
     @apply text-left;
     box-shadow: var(--theme-black) 2.5px 2.5px 0 0;
