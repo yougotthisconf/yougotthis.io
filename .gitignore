@@ -93,3 +93,4 @@ sw.*
 .netlify
 
 /static/people
+/static/library
