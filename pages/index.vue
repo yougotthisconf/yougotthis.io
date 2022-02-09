@@ -4,16 +4,23 @@
 
     <div class="wrapper text-center pb-24">
       <h2 class="heading">Collections</h2>
-      <p class="mt-2 mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas in enim dolor iste sunt accusamus.</p>
+      <p class="mt-2 mb-4">View our curated collections designed to help you navigate specific core skill areas.</p>
       <CollectionList />
       <n-link class="button bright mt-8 grid-rows-1" to="/collections">See all collections</n-link>
     </div>
 
     <div class="wrapper text-center pb-24">
-      <h2 class="heading">Content Library</h2>
+      <h2 class="heading">Latest From the Content Library</h2>
       <p class="mt-2 mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas in enim dolor iste sunt accusamus.</p>
       <ContentList :list="list" />
       <n-link class="button bright mt-8 grid-rows-1" to="/library">See full library</n-link>
+    </div>
+
+    <div class="wrapper pb-8">
+      <div class="bg-green-500 p-4 mb-8">Todo: newsletter cta</div>
+      <div class="bg-green-500 p-4 mb-8">Todo: upcoming events</div>
+      <div class="bg-green-500 p-4 mb-8">Todo: sponsors</div>
+      <div class="bg-green-500 p-4 mb-8">Todo: footer</div>
     </div>
 
   </div>
