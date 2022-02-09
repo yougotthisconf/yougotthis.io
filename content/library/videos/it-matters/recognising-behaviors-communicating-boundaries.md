@@ -1,11 +1,26 @@
 ---
 title: Recognising Behaviors and Communicating Boundaries
-date: 2020-09-26
-people: ['klaartje-van-zwoll']
+date: 2020-09-26T00:00:00.000Z
+people:
+  - klaartje-van-zwoll
 descriptions:
-  - short: How do we recognise the patterns in our life and change them to improve our relationships?
-  - full: Last year I divorced. My relationship ended after 14 years. Naturally I was devastated, but it also meant the start of immense personal development. I recognised some patterns in my behaviour that I wanted to change. So I took a workshop. And then another. And then another. What I learned there was not only applicable to my personal relationships, but also to my professional ones. In this talk, I want to help you understand how to recognise patterns in your own behaviour, communicate your needs and boundaries, and help you understand the feelings you may have when trying to change these patterns.
+  - short: >-
+      How do we recognise the patterns in our life and change them to improve
+      our relationships?
+  - full: >-
+      Last year I divorced. My relationship ended after 14 years. Naturally I
+      was devastated, but it also meant the start of immense personal
+      development. I recognised some patterns in my behaviour that I wanted to
+      change. So I took a workshop. And then another. And then another. What I
+      learned there was not only applicable to my personal relationships, but
+      also to my professional ones. In this talk, I want to help you understand
+      how to recognise patterns in your own behaviour, communicate your needs
+      and boundaries, and help you understand the feelings you may have when
+      trying to change these patterns.
 vimeo: 666608454
+duration: 32
+cover: >-
+  https://i.vimeocdn.com/video/1349973992-69a8ecf23b66f801026e02d6f19d429b42b9c174af12cfc823a7fd2dc03a222d-d
 ---
 
 So Hi everybody, my name is Klaartje, Klaartje van Zwoll. I live in the Netherlands and I work as a tester and agile coach at the Agile testers. A small, but happy, friendly company. So, I want to talk to you today about communication. And I'd like to have a little bit of a disclaimer first. I'm not a professional, I'm not a certified communication coach, I have no official education in this, I just want to share this with you because it has been so very important for me the last years. And also I don't know if you can feel it, but I'm quite nervous about sharing this because it does feel personal to me. And like I said, it has been a huge focus for me. And although I've grown, in a lot of ways in communicating, I'm also very much aware that I'm nowhere near perfect in it. And I'm not sure if I ever will be but we can strive to be better than we used to be, right. So why do I want to tell you something about communication or clear communication? I found out I had experience that were similar patterns in behaviour and communication within the private space and the workspace, we tend to assume a lot, at least I know I do. I assume a lot about what other people want for me what they need. We are not trained to talk about this. And often when we try to talk about needs and boundaries that we have, we failed to be specific. And by failing to be specific, we fail to reach a common understanding. So that's to be added to a lot of other people I heard this morning, or today has been important. So that's why I want to talk to you. So I need you to tell a bit about my story, my history. Two years ago, about two years ago, a, I went through a divorce. I had a relationship for about 14 years, and it ended. And, and of course, I was so devastated and felt horrible, horrible, but also it was the start of me for intense personal development. I saw a lot of veterans in my own way of thinking and my behaviour and in my ways of communicating that I wanted to change. And therefore I took some workshops and some more. And I read some books and I listened to podcasts and I read some blogs and I sponged up all of the information that's out there, or not all of it, but quite some, at least the stuff that would resonate with me. And what I learned there, I think is first applicable to well, all regions of life really not only when you're talking about communication within relationships. So what did I became aware of? I became aware of [---], like I said, that I have about assumptions I had and made about other people about the fact that I really, really find it difficult to say no. And to hold boundaries, also, that I find it difficult to say no to needs that I assume other people have. So they don't actually have to tell me this, but I will think it for them. And then I feel that I can't say no to it, and then I'll get mad about it. Yeah, that's complicated stuff. And it's not very healthy or useful for anybody. And today, I want to talk to you about these four things you see here, how to recognise patterns, how to communicate needs, how to communicate your boundaries, and how to be well more specific in general. And let it be said that this shit is awkward. Can I say shit? Yeah, I can. Okay. And it's awkward. It's clunky and it's difficult and it takes a lot of courage to do so. That has to be said. Right.
@@ -63,3 +78,4 @@ You are very welcome.
 I really enjoyed how personal and heartfelt it was. I think that's incredibly important and valuable.
 
 Thanks for having me.
+

@@ -1,11 +1,23 @@
 ---
 title: When Moving Too Fast Really Does Break Things
-date: 2022-01-15
-people: ['vidhika-bansal']
+date: 2022-01-15T00:00:00.000Z
+people:
+  - vidhika-bansal
 descriptions:
   - short: Proactively prevent harm in the products and services you build.
-  - full: We live in the era of “move fast and break things” — where learning through iteration and delivering quick outcomes is prioritized, even if it comes at a cost. But at what point is that cost too high? What kinds of unintended consequences could we be unleashing on our users by shipping things without careful deliberation? In this talk, we'll go over some telling examples and talk about how we as technologists can use our privilege to proactively prevent harm in the products and services we build.
+  - full: >-
+      We live in the era of “move fast and break things” — where learning
+      through iteration and delivering quick outcomes is prioritized, even if it
+      comes at a cost. But at what point is that cost too high? What kinds of
+      unintended consequences could we be unleashing on our users by shipping
+      things without careful deliberation? In this talk, we'll go over some
+      telling examples and talk about how we as technologists can use our
+      privilege to proactively prevent harm in the products and services we
+      build.
 vimeo: 666523879
+duration: 34
+cover: >-
+  https://i.vimeocdn.com/video/1349548126-3d2ba39eb94d4b708d4264c4305e253b94e2386d5ee375b1835445db8268b269-d
 ---
 
 My name is Vidhika, and I'm a UX manager, and I work very closely with a lot of different functions, but one of the things that I see as a very common ask is this idea of we have to move fast and a mantra we are all used to, that when moving too fast really isn't supposed to break things, the intentions are always good, it's the intention is let's not obsess about perfection, let's make sure we're just keeping some momentum, so it is really great in theory, but I've noticed that it is a little bit outdated, because sometimes when we move too fast, we really can break things, and not break things, but we can hurt people. So my argument here is that I don't think we always have to break some things.
@@ -137,3 +149,4 @@ Sometimes saving time is great, but not when it comes at a cost. This is a sayin
 Let's try to be the voice in the room that brings these things up proactively. It will help us sleep at night, feel better, help our customers in the long run, and it will just pave the way for a better society.
 
 Thank you so much for the gift of your attention, and your time, and please feel free to reach out to me. I'm on Twitter, way more than I should be, and you can also find me on LinkedIn if you prefer.
+

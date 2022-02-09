@@ -1,11 +1,24 @@
 ---
-title: Company Culture, Performance Reviews & You
-date: 2020-01-18
-people: ['ruth-lee']
+title: 'Company Culture, Performance Reviews & You'
+date: 2020-01-18T00:00:00.000Z
+people:
+  - ruth-lee
 descriptions:
-  - short: Understand how culture impacts your performance reviews, and how to adapt to your environment.
-  - full: Culture fit. The dreaded phrase we all love to hear in our rejection letters, but culture's more than just being a cis white dude. In this talk I'll discuss engineering culture, particularly around approaches to risk and maturity of processes in companies of different sizes. This talk is aimed at helping junior engineers understand how this culture impacts performance reviews and how to adapt to flourish in different company environments.
+  - short: >-
+      Understand how culture impacts your performance reviews, and how to adapt
+      to your environment.
+  - full: >-
+      Culture fit. The dreaded phrase we all love to hear in our rejection
+      letters, but culture's more than just being a cis white dude. In this talk
+      I'll discuss engineering culture, particularly around approaches to risk
+      and maturity of processes in companies of different sizes. This talk is
+      aimed at helping junior engineers understand how this culture impacts
+      performance reviews and how to adapt to flourish in different company
+      environments.
 vimeo: 670328697
+duration: 25
+cover: >-
+  https://i.vimeocdn.com/video/1358051719-66c46e21f66f281a512f47c9fce291b1aa1a8e0f9d985363801262e24bb27972-d
 ---
 
 I'm here today to talk about company culture, performance reviews, and you. We might as well kick it off. I've already been introduced. But I'm a site reliability engineering manager at a company called Splunk and and I work on our cloud project. I've been a sys admin for nine years, so if you have questions, I'm unfortunately the person to ask. I've been a manager for about a year, so I do know what it is like to be an individual contributor, or IC, as they're known in managerland.
@@ -99,3 +112,4 @@ So, use your manager. Another engineer is not going to be seeing the bigger pict
 The takeaway from this is there is no wrong place. I don't want anyone to feel like I'm in the wrong place for the wrong stage of my career. These are merely areas that can help you focus on different strengths and skill sets. Ideally, you want to be in a place where what you view as your strengths is the same thing as what your boss and team-mates view as your strengths. Know what areas you're strong in, or areas you might like to grow into, and think about the company culture, and kind of use a bit of a yardstick to guess that I've given you from this, and, when you find that you can align the strengths of what you bring to a business, and what the business needs from you, and from engineers, then you will find yourself getting consistently strong performance reviews, and plenty of opportunities to advance.
 
 That's my talk. Thank you. You can find me at all of these places, and we are always hiring. [Applause].
+

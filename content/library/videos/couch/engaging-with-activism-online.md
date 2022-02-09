@@ -1,11 +1,24 @@
 ---
 title: Engaging with Activism Online
-date: 2021-01-16
-people: ['lola-odelola']
+date: 2021-01-16T00:00:00.000Z
+people:
+  - lola-odelola
 descriptions:
   - short: Making sure your engagement with social causes is actually helping.
-  - full: It’s summer and the year is 2020, the air is thick with rage, the people are protesting another public killing of an unarmed Black man, George Floyd. In the heat of our collective anger, black boxes begin to flood the social platforms; Twitter, Instagram, Facebook, the boxes are everywhere, some with heartfelt captions, others with hashtags related to Black lives. Most of us are confused. “Lazy!“, the critics shout. “Misguided”, the more gentle observers comment, but what happened? How did we get here? And more importantly, how can we avoid returning here when the inevitable happens again?
+  - full: >-
+      It’s summer and the year is 2020, the air is thick with rage, the people
+      are protesting another public killing of an unarmed Black man, George
+      Floyd. In the heat of our collective anger, black boxes begin to flood the
+      social platforms; Twitter, Instagram, Facebook, the boxes are everywhere,
+      some with heartfelt captions, others with hashtags related to Black lives.
+      Most of us are confused. “Lazy!“, the critics shout. “Misguided”, the more
+      gentle observers comment, but what happened? How did we get here? And more
+      importantly, how can we avoid returning here when the inevitable happens
+      again?
 vimeo: 666555518
+duration: 16
+cover: >-
+  https://i.vimeocdn.com/video/1349966580-d11862a70615075b43c81d7512ef18bfd9465e83d9c643891403e1c8514aa0a2-d
 ---
 
 LOLA: Good morning. I'm Lola, and please don't upset your neighbours. It's already a trying time, as it is! My neighbour is currently enjoying his Saturday and playing a lot of music, so I hope it's not disturbing anyone! Today, I'm going to be talking to you about engaging with activism on social media. It's going to be a quick lightning talk. There won't be time for any questions at the end, but I am on Discord, so feel free to chat to me there if you have any questions. I'm Lola, and I'm the host of Lost in the Source, which is a podcast about my journey as a Black woman through the tech industry. I'm also an anti-cheesecake activist. Don't argue with me about it, cheesecake is trash, and I stand by that! I'm not willing to die on that hill, but I will put a flag on that hill!
@@ -38,3 +51,4 @@ So, what does acting not look like? It doesn't look like silencing voices in the
 I think the last thing we should remember is that online action works in tandem with offline action. So these retweets that you're sharing, these resource packs that you're sharing, they have real offline effect. As I said, MSARS is a great example of that. A lot of the organising was online. It had to be online, especially with Covid, especially with the fact that a lot of the organisers were across the world. It had to take place online, and the online action had real offline benefits. You had people who couldn't afford medical bills getting medical treatment; you had people who were wrongfully arrested being freed, you know, because of the works of lawyers, and all of this kind of stuff, and people actually going to jails to make sure that people were released, and things like this.
 
 You had protesters who had food and drink while they were protesting, umbrellas to protect them from the rain, all of this, and that is all because of the online action. So it is not useless, but it should just be done in a productive and healthy way, so that is pretty much it for my talk. I'm Lola Odelola. You can follow me on Twitter. You can follow Samsung Internet on Twitter. You should check out Samsung Internet's Medium blog, which is also medium.com/samsunginternet. Check out what we are doing. Thanks for listening to my talk. It's been good.
+

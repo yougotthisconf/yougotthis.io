@@ -1,11 +1,21 @@
 ---
 title: How and When To Say No
-date: 2021-10-14
-people: ['nathaniel-okenwa']
+date: 2021-10-14T00:00:00.000Z
+people:
+  - nathaniel-okenwa
 descriptions:
-  - short: Deciding when opportunities are right for you, and when to say no.
-  - full: "It can often feel like every day there is a new ask of us - people asking for our time, effort, or knowledge. While many of these requests represent great opportunities for career growth, income or a warm fuzzy feeling, it is impossible to say yes to everything that comes your way. In this talk we’ll consider how to decide whether something is right for you as well as some helpful advice for when and how to say no."
+  - short: 'Deciding when opportunities are right for you, and when to say no.'
+  - full: >-
+      It can often feel like every day there is a new ask of us - people asking
+      for our time, effort, or knowledge. While many of these requests represent
+      great opportunities for career growth, income or a warm fuzzy feeling, it
+      is impossible to say yes to everything that comes your way. In this talk
+      we’ll consider how to decide whether something is right for you as well as
+      some helpful advice for when and how to say no.
 vimeo: 666525877
+duration: 24
+cover: >-
+  https://i.vimeocdn.com/video/1349539027-37d75b43a60b62ad4e43b06f14b0ef51dbe847ebb9ed022688f388850ea10407-d
 ---
 
 Thank you so much, Kevin, I love you, but I must admit, I have a confession to make. When I was asked to make this talk, I should have said no, but I didn't. And why didn't I? That's because I have a problem. I'm a people pleaser. I love saying yes to people. I absolutely adore receiving thank yous, and I just get excited at the thought that somebody's life was made even just a tiny bit easier by me. But over time, I can overextend myself, and I've begun to realize that it's getting harder and harder for me to keep up with all of those yeses that I've agreed to. And I realized a couple of weeks ago that I needed to learn how to say no. And this talk is about some of the lessons I've learned from reading some books and listening to some talks.
@@ -67,3 +77,5 @@ Also, I'm from an underrepresented community, but I've been so privileged and I 
 But remember, at the end of the day, it is your right to say no. Now, you can be graceful, but don't let anyone make you feel guilty for setting boundaries. Remember, yeses are like ice cream. Feel so good, but too much of it can be really taxing. But, rather, what you want to do is gather as much information as you can and balance that effort cost against the impact it could have. Remember The Matrix. Kind of like Neo. And last but not least, when you need to say no, say no with grace and strength like a ballerina. Now, there will be many requests coming your way from work, friends, and family, and with all of that noise, it can be easy to overlook one of the most important set of requests. These are the requests that come from within. Sometimes, the best thing that you can do is to drown out the noise and swipe right on yourself. Say yes to your body when it needs a break. Say yes to your mind when you need peace. Say yes to your dreams, your hopes, your visions, and if you need a little help saying those yeses to yourself, just remember that saying no lets you say yes.
 
 My name's Nathaniel Okenwa, and next time I'm asked to do a talk, I might just say no. Thank you.
+
+

@@ -1,11 +1,21 @@
 ---
 title: Making Your Hard Work Visible
-date: 2020-01-18
-people: ['gargi-sharma']
+date: 2020-01-18T00:00:00.000Z
+people:
+  - gargi-sharma
 descriptions:
   - short: Doing good work isn't enough - learn how to make it visible.
-  - full: You are good at your job, are polite and deadline oriented. Your long-term professional goals are well-defined, and you work toward them consistently. But working hard is sometimes not enough. People around you need to see and value your work. This talk will cover hard-work, visibility, the myth of meritocracy, and what we owe one another once we are successful.
+  - full: >-
+      You are good at your job, are polite and deadline oriented. Your long-term
+      professional goals are well-defined, and you work toward them
+      consistently. But working hard is sometimes not enough. People around you
+      need to see and value your work. This talk will cover hard-work,
+      visibility, the myth of meritocracy, and what we owe one another once we
+      are successful.
 vimeo: 670356965
+duration: 26
+cover: >-
+  https://i.vimeocdn.com/video/1358046642-78f82f830678f6d4ac23799528306f4ad2b5458e1591e8bdb2c2f7e413a9c8b9-d
 ---
 
 Hi, everyone. My name is Gargi, and I'm going to be talking about being so good they can't ignore you. I kind of made the title because - it sounds douchy, but the idea is how to make your work visible.
@@ -83,3 +93,4 @@ So, brag documents are also a way to help you track this, that you're doing too 
 Like there is much more growth and much more opportunity outside the career ladders that we see, and, if you think about those opportunities, you make more nothing less, and feel more progress. And better yet, you will find ways and opportunities to partner with people within your peers, because you no longer are competing for the same limited promotion slot.
 
 So you should not mentor folks who is a junior engineer. It could be someone starting out. You have lessons that you learned that you can teach others. Help those around you. We're all in this together. We all need to brag more. Maybe not all. Most people certainly need to brag more! And you can run a brag doc workshop, help other people brag more, and you can set up networking events. It can be something low effort like a book club, or a conference if you want. Yes, and that's it. Thank you so much. [Applause].
+

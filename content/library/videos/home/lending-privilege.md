@@ -1,11 +1,19 @@
 ---
 title: Lending Privilege
-date: 2020-06-06
-people: ['anjuan-simmons']
+date: 2020-06-06T00:00:00.000Z
+people:
+  - anjuan-simmons
 descriptions:
   - short: Learn how to leverage your privilege to support others.
-  - full: Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. However, this talk will help you understand that, no matter your background, you have privilege and can lend it to underrepresented groups in tech.
+  - full: >-
+      Diversity and inclusion have become hot topics in technology, but you may
+      not know how you can make a difference. However, this talk will help you
+      understand that, no matter your background, you have privilege and can
+      lend it to underrepresented groups in tech.
 vimeo: 670232107
+duration: 45
+cover: >-
+  https://i.vimeocdn.com/video/1357813552-b15a507c8300a0efb76b3d13e33414a0c0c90ff0b5d58240a395ebab1b58a2f9-d
 ---
 
 Thank you. I cannot tell you how excited I'm to be here with the You Got This audience. I know this is weird because we are normally together and we can mingle, and, due to the current state of events in the world, that's not possible, but one thing that will always be true is my love of working in technology.
@@ -156,3 +164,4 @@ I think if you really want to get down to brass tacks, if you want to show you'r
 __Carolyn:__ Absolutely. That was a great note to end on. Thank you so much, Anjuan for taking the time today. I hope we can continue the discussion over at diversity, accessibility, and inclusion channel. I'm sure there will be a lot more to talk about.
 
 __Anjuan:__ Absolutely, I will be hopping over there. Obviously, if you want to follow me on Twitter and continue this discussion, happy to engage there as well.
+

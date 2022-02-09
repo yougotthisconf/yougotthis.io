@@ -1,11 +1,20 @@
 ---
 title: Accessibility for Developers
-date: 2020-09-26
-people: ['franziska-hauck']
+date: 2020-09-26T00:00:00.000Z
+people:
+  - franziska-hauck
 descriptions:
   - short: How can you increase inclusion for team members with disabilities?
-  - full: For developers living with disabilities and chronic illnesses, the experience in the workplace can be challenging. So what can you do to increase inclusion for these developers? A lot! In her talk, Franziska shares her perspective as a person living with chronic illnesses and gives concrete tips.
+  - full: >-
+      For developers living with disabilities and chronic illnesses, the
+      experience in the workplace can be challenging. So what can you do to
+      increase inclusion for these developers? A lot! In her talk, Franziska
+      shares her perspective as a person living with chronic illnesses and gives
+      concrete tips.
 vimeo: 666604949
+duration: 28
+cover: >-
+  https://i.vimeocdn.com/video/1349976832-95d3815217726da9caad3a297062f55f346db7fd011f8c8b8a9a224ad60642af-d
 ---
 
 Inclusion matters: accessibility for developers. I will be talking about this topic today. My name is Franziska Hauck. I'm a people lead in engineering, I currently manage three teams. I'm a coach, media time consultant. I'm also co-organiser of the accessibility meetup in Berlin. You can find me on Twitter with the underscore frenzied handle. So please tweet and share so that we can spread the message about all the things that we can do. I also started tech people code recently, which is the hub for all things human in tech, where I talk about things like pronouns, inclusivity, but also about stats and how we can offer different perspectives on the job market. So any and everything I do can find me on acca, as well as on YouTube and find also the video developer inside Germany 2020. If you're interested in the stats about Germany, you can find all of that. So why am I talking about this topic? First of all, I live with chronic illnesses, myself, I live with chronic illnesses that are not very well researched, and that basically, there is no prescribed or good treatment. So I have sometimes different mannerisms and things that I look at differently or where I act differently. And over over the years, I found that it's always good to communicate that and to basically make sure that I also advocate for myself, and through that advocating for all of the others that are on this vast spectrum of chronic illnesses, disabilities, and neurodiversity. And one of the things that I consistently come across also as a manager of technical teams is how to get a developer job when you're blind, advice from a blind developer works alongside a sighted team or things like the day we hired a blind coder judged by skills and experience not disability, or even what it's like to be applying software engineer at Amazon. Same thing for a heart of hearing developers, we would assume that it's a little bit easier for them, because you know, they can still look at a screen where blind developers often don't do that. But it's the same, it's basically it's an out of the ordinary, it's not the default. There is even a deaf IT conference in Germany, which a good friend of mine organises. I've come across this whole accessibility topic Also, while giving my talk last year at the accessibility club summit in Berlin, and being committed and engaged in the communities and exchanging with people about that and making sure that I understand the various perspectives of the tech community.
@@ -35,3 +44,4 @@ Okay, none at the moment. And but even if there are other questions, they can al
 Thank you. It was a huge fun being here. And as he said, any follow up conversation anytime. Just reach out. And that's that chat further. Thank you so much for having me.
 
 Thank you.
+

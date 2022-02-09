@@ -1,11 +1,29 @@
 ---
 title: Creating Inclusive Cultures with Empathy
-date: 2020-09-26
-people: ['sharon-steed']
+date: 2020-09-26T00:00:00.000Z
+people:
+  - sharon-steed
 descriptions:
-  - short: Learn how to operationalize engaging empathy in a way that supports diverse teams.
-  - full: Inclusion has never been more important than right now. With a global pandemic forcing us all to adjust our lives and racial tensions that have hit a peak all over the world, understanding the struggles others are facing is imperative to successful conversations and team collaboration. But how do we approach these undoubtedly difficult conversations? And what do we do when we want to change our culture but don’t know exactly how to do it? We engage empathy. This talk will guide you through the process of creating inclusive, collaborative teams with empathy. You will learn to define empathy on your own terms; tap into your past experiences that will help put you in the correct mindset for inclusion; and break down the model that operationalizes engaging empathy in a way that supports diverse teams.
+  - short: >-
+      Learn how to operationalize engaging empathy in a way that supports
+      diverse teams.
+  - full: >-
+      Inclusion has never been more important than right now. With a global
+      pandemic forcing us all to adjust our lives and racial tensions that have
+      hit a peak all over the world, understanding the struggles others are
+      facing is imperative to successful conversations and team collaboration.
+      But how do we approach these undoubtedly difficult conversations? And what
+      do we do when we want to change our culture but don’t know exactly how to
+      do it? We engage empathy. This talk will guide you through the process of
+      creating inclusive, collaborative teams with empathy. You will learn to
+      define empathy on your own terms; tap into your past experiences that will
+      help put you in the correct mindset for inclusion; and break down the
+      model that operationalizes engaging empathy in a way that supports diverse
+      teams.
 vimeo: 666606859
+duration: 43
+cover: >-
+  https://i.vimeocdn.com/video/1349976439-fa42c35192eb86ac0eaa6aa4da779a3ca74fcd3ac7d295211b921cbdec983a14-d
 ---
 
 This is a word that for a really long time sort of encompassed everything about who I was, you know, I am a person who stutters, and it's, um, it really impacted my life in a way and in every way that anything that you could describe yourself could. I spent a lot of time just being very embarrassed about speaking, incredibly ashamed about the way I sounded. And it shaped how I view and approach communication, in a way that for years and years was not productive, it wasn't positive. And so you know, after, you know, all this time of, of, of trying to who, to hide who I was, you know, I, I sort of figured out that, you know, I'm not a bad person, as a result of having a speech impediment, however, I am a little bit different. And as a result of having this sort of situation like that is outside of the norm, I knew that I was going to have to make some changes.
@@ -91,3 +109,4 @@ And then I say that, this is the beginning, you know, every time you end a conve
 So this is the end of my presentation, I'm here is all of my contact information, I'm actually creating a longer form course, you know, on these key empathy behaviours. And that's going to be available on my website towards the end of this year in the fourth quarter, probably around November.
 
 And yeah, I'm incredibly active on Twitter, as well as on LinkedIn. So please, please, please reach out. I love to get your notes. And then if you have any other questions, you can also send me an email then with that. Thank you to everyone here, who was a part of this amazing conversation. And thank you to everybody over at IT Matters especially to Joanna for putting this whole thing together. She's just an absolute gem. You've worked really hard and it's been an absolute joy to be a part of this.
+

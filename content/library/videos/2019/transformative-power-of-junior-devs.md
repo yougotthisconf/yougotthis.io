@@ -1,11 +1,20 @@
 ---
 title: The Transformative Power of Junior Developers
-date: 2019-01-19
-people: ['sam-morgan']
+date: 2019-01-19T00:00:00.000Z
+people:
+  - sam-morgan
 descriptions:
-  - short: When junior devs are growing, so can your team.
-  - full: How do you help junior developers succeed? How do you maintain your team’s productivity while building a culture of learning? We’ll focus on practical, easy-to-implement insights which will not only help you support your new developers’ success and growth, but enhance your team’s progress as a whole, making it a more fun and productive place to work.
+  - short: 'When junior devs are growing, so can your team.'
+  - full: >-
+      How do you help junior developers succeed? How do you maintain your team’s
+      productivity while building a culture of learning? We’ll focus on
+      practical, easy-to-implement insights which will not only help you support
+      your new developers’ success and growth, but enhance your team’s progress
+      as a whole, making it a more fun and productive place to work.
 vimeo: 666701823
+duration: 27
+cover: >-
+  https://i.vimeocdn.com/video/1349987214-fee6f9f53cb74da9418c1846ff55ecd6712551a472bc6fe531ff0f2b6d48ea28-d
 ---
 
 Hi, everybody. We're almost there. It's nearly the end of the day. Wow. There's a lot more people than I expected. You don't get that sense when you're sitting amongst everybody. Thank you so much to Kevin for organising, and to Scary for emceeing and the other speakers today. It's been a heck of a lot of fun, and I've learned a ridiculous amount.
@@ -97,3 +106,4 @@ And so, I would ask you, when you came in, what kind of industry would you have 
 Thanks very much for listening to my TED Talk! [Laughter].
 
 Go out there and change things. You got this! [Cheering and Applause].
+

@@ -1,11 +1,21 @@
 ---
 title: Learning is a Skill You Can Practice
-date: 2020-06-06
-people: ['magda-stenius']
+date: 2020-06-06T00:00:00.000Z
+people:
+  - magda-stenius
 descriptions:
-  - short: When you learn how to learn, developing new skills becomes easier.
-  - full: Learning is one of the most important skills in ones work life. It can also be exhausting, frustrating and hard. Especially in the beginning of your career, becoming good at learning new skills makes work a lot less stressful and more enjoyable! This talk discusses what learning is, how to find your own ways of doing it and how to set goals for your studies and progress.
+  - short: 'When you learn how to learn, developing new skills becomes easier.'
+  - full: >-
+      Learning is one of the most important skills in ones work life. It can
+      also be exhausting, frustrating and hard. Especially in the beginning of
+      your career, becoming good at learning new skills makes work a lot less
+      stressful and more enjoyable! This talk discusses what learning is, how to
+      find your own ways of doing it and how to set goals for your studies and
+      progress.
 vimeo: 670228818
+duration: 35
+cover: >-
+  https://i.vimeocdn.com/video/1357807497-7d7da08244c1861f2672d972216f01746598d0fcbbbb091bc64206cf347c6c37-d
 ---
 
 So, today's topic from me is learning is a skill, and, when I was thinking about topics that I could propose to You Got This, this came to my mind first, because, well, yes, my background is in educational science, but also I think learning is one of the most salient things about working as a developer in this time and age, and that's something that really, really will help you as a person if you feel comfortable with it, and feel at home with learning new stuff every day at work.
@@ -87,3 +97,4 @@ I'm glad to say there is a talk coming up about burnout after this, so I will de
 One of the conclusive points I have is it is said in Finnish that something takes butt muscles, which means it takes time, and that is actually everything. Becoming a great developer is about - well, small habits, but also just staying at it, not giving up. I think that's also one thing that a lot of minority developers feel such pressure, maybe their own created pressure, or maybe it's external pressure, but the pressure forces people out of software engineering jobs, maybe into less technical jobs, because they feel like they will never be good enough, but, actually, just sticking around year in, year out, instead of back ing down will make you in the end one of those senior developers who are sitting there and knowing a lot of stuff that all the juniors are looking up to.
 
 So don't give up. Hang around. Stay determined. I think that's also what learning is about. At least in this specific case, learning a skill or a craft. So that's all I have to say about learning. Thanks for listening, and please come and shoot me some questions later.
+

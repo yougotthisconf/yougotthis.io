@@ -1,11 +1,18 @@
 ---
 title: Moving On From Being a Junior
-date: 2019-01-19
-people: ['tara-ojo']
+date: 2019-01-19T00:00:00.000Z
+people:
+  - tara-ojo
 descriptions:
   - short: Learn about how to move on to the next level as a junior dev.
-  - full: Life as a junior developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors, and communities do to support the next generation of developers?
+  - full: >-
+      Life as a junior developer can be intense, overwhelming, but rewarding.
+      How can juniors move on to the next level? And, what can employers,
+      mentors, and communities do to support the next generation of developers?
 vimeo: 666700130
+duration: 29
+cover: >-
+  https://i.vimeocdn.com/video/1349993614-60b911a01fa46493fab4dd7c00351d699f0a14a5c4c6f6444fa2328f61389587-d
 ---
 
 Hello, everyone. Today, I want to talk about career progression, and specifically upskilling and moving on in your careers to mid-level, seniors, and beyond.
@@ -55,3 +62,4 @@ So an example might be in the sprint review we just had, I wasn't completely sur
 Think about ways that you can share your opinions in a different scenarios that you're in at work, and make sure to celebrate your achievements. That's really important. And, if you're a supporter of a junior developer, invest time in helping them develop. Create opportunities for them to focus on the things that they consider their weak areas, and keep giving them regular feedback so they know where they are. One final quote from from another graduate developer I used to work with. You don't wake up one day and realise you're not a genius any more. It's true. You don't do that. For me, I became a mid-level developer when I had enough examples against the mid-level role in our career framework, and it could be slightly different for each of your team. But absolutely don't worry about where you're at right now. I can guarantee you're doing great, that you've got this!
 
 Thanks for listening. [Applause].
+

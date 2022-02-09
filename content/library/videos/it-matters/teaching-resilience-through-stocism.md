@@ -1,11 +1,21 @@
 ---
 title: Teaching Resilience Through Stoicism
-date: 2020-09-26
-people: ['sanne-visser']
+date: 2020-09-26T00:00:00.000Z
+people:
+  - sanne-visser
 descriptions:
-  - short: Practical, hands-on exercises to navigate things that make you miserable.
-  - full: This presentation is a practical guide to dealing with stuff that makes you miserable. I’ll teach you an exercise (or two) how to stubbornly refuse to let things make you miserable. The answers are rooted in stoicism, and no, I promise it won’t be a philosophy lesson. I’m sticking to the practical, hands-on exercises that help at the moment. Attend this presentation and you’ll never be miserable again, about anything!
+  - short: 'Practical, hands-on exercises to navigate things that make you miserable.'
+  - full: >-
+      This presentation is a practical guide to dealing with stuff that makes
+      you miserable. I’ll teach you an exercise (or two) how to stubbornly
+      refuse to let things make you miserable. The answers are rooted in
+      stoicism, and no, I promise it won’t be a philosophy lesson. I’m sticking
+      to the practical, hands-on exercises that help at the moment. Attend this
+      presentation and you’ll never be miserable again, about anything!
 vimeo: 666617083
+duration: 31
+cover: >-
+  https://i.vimeocdn.com/video/1349971562-4575ffa9e2450922ff74a5d10fc3d66364d2e3cb4eeaa240390c2d20e440fe5e-d
 ---
 
 Today I'd like to talk to you a lot about stubbornness, which is one of my core skills, but also how to use that type of stubbornness in order to refuse to become miserable about absolutely anything. Now, this title has been blatantly stolen. It's the title of a book by Albert Ellis, I'll link it to you in the last slide again. But this is all about resilience, and it's based in stoicism. But before we begin, I just want to set the scene to about a year ago where I was in quite a tough situation. And I'm going to use this tough situation to explain all these concepts and the way I use these techniques to manage my stress levels. So here we go. Now as a consultant, you tend to enter teams in quite unexpected ways. So this is the situation that I knew I was entering into, it was going to be a seven person team, I was replacing the tester of the team, we knew that our business analysts was leaving us, but someone was already lined up. So we knew there would be two new people, and the rest of the team was expected to stay stable. Now, you will notice I've labelled this team 'Misery', the moment I entered, I did notice that the team wasn't very happy together. There were no socials, there was not much joking around. John, our product owner definitely seemed to be a big fan of playing the blame game. So he pushed on the team a lot. And he put a lot of pressure on there. But I figured, you know, we'll manage this. We'll see how it goes. And I think it will get better. Two weeks later, this is what happened. So our business analyst told us that he's not coming. He basically didn't sign the contract. After spending a day with the team, decided it was too dangerous, having just come out of a burnout to there was no way he was going to come and work with us. Our developer who'd been with the team for seven years, announced that he was quitting in two months time. And our team lead Joe suddenly stayed home after we didn't meet a sprint deadline. And for three days basically fell off the map. So we spent that week, very depressed, with John yelling at us, and all of us being quite miserable, all at the same time. And I honestly felt about two weeks in "what am I doing here? Can I still quit? Can I go and find a different project, please?" How am I going to now get out of feeling this stressed this pressured and also quite hopeless, because when the person that has significantly taking the lead in a group, and this person suddenly disappears, it can leave you feeling very, without a way forward. So having Joe drop out all of a sudden, and not communicate with us, which was a personal crisis for him as well, he felt he told us later, personally responsible for not having met any of these targets. So he felt so bad and so pressured, that he felt unable to come and faces us and [come in] come into work or even explain his absence. So that that just was about where the team was at. So how do you avoid becoming miserable in a situation like this? Now luckily, for me, I am an avid reader and I had discovered stoicism through a coach of mine two years before. Now as things will go when you're feeling good, and you're feeling happy, you tend not to need any of these techniques. But once the shit hits the fan, so to speak, there are things that you can do to manage stress to manage the way you're feeling, and to deal with the circumstances that you're in in a way that is both virtuous and wise. And this is what stoicism is all about. stoicism is about finding a way to become calm. So I like this as a little picture. I have it in a lot of my notebooks. I think about it as a way to load calm, a way to get to a situation where you're not necessarily very happy, very sad or very miserable or ecstatic. But you're generally just calm. I like to call this the more or less, okay, not more, okay, not less, okay, but more or less. Okay, so somewhere just about in the middle.
@@ -39,3 +49,4 @@ Yeah. Cool. Then we have one more question. I'm not sure what it means I am miss
 No, so they didn't. So the team just ended. I didn't really manage to turn any of those things around. And I tried within the bounds of what I felt I wanted to do, I was very careful about managing my energy in terms of trying to change an entire team. I did feel very responsible for it, especially having come from other places where usually I am the social glue within a group. But I was very careful about managing how I did and didn't try and help this particular team. And I was much more focused on coming out of it. More or less, okay.
 
 Okay, thank you very much.
+

@@ -1,11 +1,22 @@
 ---
 title: Escaping Isolation While Working Remotely
-date: 2022-01-15
-people: ['niamh-mccooey']
+date: 2022-01-15T00:00:00.000Z
+people:
+  - niamh-mccooey
 descriptions:
-  - short: Identify, contain, and overcome the feeling of isolation.
-  - full: Have you ever found it difficult to concentrate, struggled to keep up momentum, or felt your passion for your side-project wane while working from home? So many remote developers know this all too well, and often it's a result of isolation. But even when it all feels a bit too much, there are ways you can overcome it. In this talk we'll dive into different methods to identify its onset, how to stop it from becoming overwhelming, and the practical ways you can lift yourself up out of that funk.
+  - short: 'Identify, contain, and overcome the feeling of isolation.'
+  - full: >-
+      Have you ever found it difficult to concentrate, struggled to keep up
+      momentum, or felt your passion for your side-project wane while working
+      from home? So many remote developers know this all too well, and often
+      it's a result of isolation. But even when it all feels a bit too much,
+      there are ways you can overcome it. In this talk we'll dive into different
+      methods to identify its onset, how to stop it from becoming overwhelming,
+      and the practical ways you can lift yourself up out of that funk.
 vimeo: 666498248
+duration: 30
+cover: >-
+  https://i.vimeocdn.com/video/1349513160-414ba278c75be673c3f3fc9e0ab6961a35ab424da94f2c13f5f5111a9e40ef84-d
 ---
 
 My name is Niamh, I'm a front-end developer, and, today, I want to talk about working from home, and what kind of impact that can have on us, and how we can overcome one of its biggest challenges: isolation.
@@ -129,3 +140,4 @@ We've outlined three core frameworks that you can use to escape isolation while 
 Hopefully, all of this was practical and helpful, and if you struggle with isolation while working from home, I can personally attest to all of these practices. I'm not saying it's easy but they do make a difference and help you back to feeling good, working, at home, at work. You can find me on Twitter here where I will be sharing links to resources later on.
 
 If you have any of your own practices or tips working from home, feel free to reach out and let me know. I'm always up for a chat to learn new things. I guess that wraps it up. Nothing left to say except thank you for listening, and thank you You Got This for having me today.
+

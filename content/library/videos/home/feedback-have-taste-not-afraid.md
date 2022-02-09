@@ -1,11 +1,19 @@
 ---
-title: "Feedback: How to Have Taste and Not Be Afraid to Use It"
-date: 2020-06-06
-people: ['ben-bartle']
+title: 'Feedback: How to Have Taste and Not Be Afraid to Use It'
+date: 2020-06-06T00:00:00.000Z
+people:
+  - ben-bartle
 descriptions:
   - short: How do we get the feedback we want and the credit we deserve?
-  - full: You're creative, made something great and want to tell people about it. In this talk, we will walk through some examples of how to maximise feedback on ideas from both your peers and managers to ensure your idea gets championed and you get the credit you deserve.
+  - full: >-
+      You're creative, made something great and want to tell people about it. In
+      this talk, we will walk through some examples of how to maximise feedback
+      on ideas from both your peers and managers to ensure your idea gets
+      championed and you get the credit you deserve.
 vimeo: 670226561
+duration: 24
+cover: >-
+  https://i.vimeocdn.com/video/1357806070-81365ca0eeefd734b6f4ee6c39dfdabc19e8df9705087381cea22cc6a128d5c2-d
 ---
 
 
@@ -78,3 +86,4 @@ I don't want to do that. I want to finish on three key messages to try to emphas
 The second one is creativity is not just for the experienced. So people think that you need years and years of experience to come up with a great idea, and it's not worth going for feedback until you have had that grounding in reality, and that's just not true. Great ideas come from people who are not experienced all the time. You just need a blank slate, and a complete lack of a predetermined way of going.
 
 Finally, you have taste, you have ideas, you have drive, you have things you believe in. Don't be afraid to use it. Thank you very much, and I welcome your feedback.
+

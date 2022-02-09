@@ -1,11 +1,28 @@
 ---
 title: What Civil Engineering Can Teach Us About Ethics
-date: 2021-08-12
-people: ['richard-westenra']
+date: 2021-08-12T00:00:00.000Z
+people:
+  - richard-westenra
 descriptions:
-  - short: How can we apply learnings from civil engineering to our practice as developers?
-  - full: 'Contemporary software engineering is at a crucial juncture in the evolution as a discipline. We’re professionalizing and expanding our abilities, but in doing so we’re encountering dramatic new risks and venturing into new ethical territory. In this way, we share similarities with the expansion of traditional civil engineering during the industrial revolution. In this talk I’ll discuss what lessons can we learn from that industry, and how we can try to avoid making some of the same mistakes. I’ll also give a basic introduction to engineering ethics, discuss some examples of ethical problems from my own career, and explore how we can try to improve our ethical decision-making by incorporating ethical reasoning into the different stages of our work.'
+  - short: >-
+      How can we apply learnings from civil engineering to our practice as
+      developers?
+  - full: >-
+      Contemporary software engineering is at a crucial juncture in the
+      evolution as a discipline. We’re professionalizing and expanding our
+      abilities, but in doing so we’re encountering dramatic new risks and
+      venturing into new ethical territory. In this way, we share similarities
+      with the expansion of traditional civil engineering during the industrial
+      revolution. In this talk I’ll discuss what lessons can we learn from that
+      industry, and how we can try to avoid making some of the same mistakes.
+      I’ll also give a basic introduction to engineering ethics, discuss some
+      examples of ethical problems from my own career, and explore how we can
+      try to improve our ethical decision-making by incorporating ethical
+      reasoning into the different stages of our work.
 vimeo: 666546189
+duration: 24
+cover: >-
+  https://i.vimeocdn.com/video/1349710007-b3a5645d6cdea2049bd30e8a9a9954cbed2cef992e786731f7f4c0d245669dbf-d
 ---
 
 I'm Richard! I've been living in London ten years but just moved to New Zealand like a month ago, so I'm coming to you from New Zealand. It is winter, it is 5.47 am and still dark outside! If I struggle to talk at all, that is my excuse! I'm here to talk to you today about what is best in life. So, a bit about my background. I started out at university studying mechanical engineering, which I honestly hated. And I switched to studying philosophy, which I loved. Now it's more than ten years later, and my official job title is front-end engineer. Go figure!

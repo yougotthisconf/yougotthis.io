@@ -1,11 +1,19 @@
 ---
 title: Understanding and Cultivating Independence
-date: 2019-01-19
-people: ['violet-pena']
+date: 2019-01-19T00:00:00.000Z
+people:
+  - violet-pena
 descriptions:
   - short: Running through a framework for developing and maintaining independence.
-  - full: Independence is the key to professional growth. It doesn’t mean working alone; it means being able to problem-solve and seek help. This talk will give you a new definition of independence, as well as a framework for developing and maintaining independence in their professional life.
+  - full: >-
+      Independence is the key to professional growth. It doesn’t mean working
+      alone; it means being able to problem-solve and seek help. This talk will
+      give you a new definition of independence, as well as a framework for
+      developing and maintaining independence in their professional life.
 vimeo: 666702480
+duration: 25
+cover: >-
+  https://i.vimeocdn.com/video/1349992143-d77ea892a6f372000e97379c665761482ce789fbfb3b279ac6289215e11aa302-d
 ---
 
 Thank you, everyone. Thanks for being here, and for having me. I'm excited to talk to you about a thing close to my heart.
@@ -109,3 +117,4 @@ Lastly, it's just nice to end with a thank you. It will keep the virtues cycle g
 With that, that wraps up problem-solving. Have a plan, be honest, and use your tools. Those are the best skills that any of us in this field can develop. I hope you're able to bring those skills into your own work and your own practice. As you gain experience solving problems, you'll be able to push harder on your own boundaries and open up new creative possibilities for yourself.
 
 So, thanks so much, again. I'm excited to see how you grow and how you create. Say hi, shoot me an email, come work with me, and, in the meantime, happy problem-solving!
+

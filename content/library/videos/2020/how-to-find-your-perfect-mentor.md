@@ -1,11 +1,23 @@
 ---
 title: How to Find Your Perfect Mentor
-date: 2020-01-18
-people: ['amina-adewusi']
+date: 2020-01-18T00:00:00.000Z
+people:
+  - amina-adewusi
 descriptions:
   - short: Learn how to find and work with your perfect mentor.
-  - full: Identifying and connecting with good mentors ensures that the time you spend trying to achieve your goals is both efficient and effective. Mentors can open doors to more knowledge, job opportunities and support you mentally and emotionally. In this talk, we will cover exactly what you should say when reaching out to someone you don’t know, whether in-person or online. We will explore how to interact with your mentor to understand and meet their needs, so that you can create a sustainable symbiotic relationship.
+  - full: >-
+      Identifying and connecting with good mentors ensures that the time you
+      spend trying to achieve your goals is both efficient and effective.
+      Mentors can open doors to more knowledge, job opportunities and support
+      you mentally and emotionally. In this talk, we will cover exactly what you
+      should say when reaching out to someone you don’t know, whether in-person
+      or online. We will explore how to interact with your mentor to understand
+      and meet their needs, so that you can create a sustainable symbiotic
+      relationship.
 vimeo: 670337878
+duration: 27
+cover: >-
+  https://i.vimeocdn.com/video/1358049319-f9fa989d340f0befa8ac3aff9f746740002cdd92a66144493762abf0a6512944-d
 ---
 
 Good morning, everyone! Hi, it's great to be here. My name is Amina. I feel really passionate about You Got This. I was here at last year's conference sitting where you are. I actually came with my husband and my son, who was one at the time. I wasn't organised to buy tickets - organised enough to buy tickets for them, so we just rocked up, and we weren't really sure we would be allowed in, but I was so bowled over when the person at the welcome desk so kindly welcomed us in, and said, yes, of course you should all come. So I feel this is a conference where they really put people first. I love that we have this conference in the UK for early careers, so thank you very much to everyone who put it together. [Applause].
@@ -77,3 +89,4 @@ For example, when I got my first job, I decided that I didn't need to work on co
 To conclude, overall, I believe that there are many people waiting to help you. In this talk, we've discussed assessing your goals, getting specific. We've looked at a bunch of different platforms that you can use. We've talked about some generic tips like storytelling, creating rapport, and creating a clear call to action as well as having a testing phase.
 
 We looked at nurturing these relationships by considering our mentors' needs, making best use of their time, preparing for meetings, and actioning appropriately afterwards. We also looked at network research in how meeting people outside of our network can bring us new information and opportunity. Sometimes, learning how to code can be tough. I know. I've been there. I want you to know that there are many people out there willing to help you. Create your own luck. Start initiating mentoring relationships today. Thank you.
+

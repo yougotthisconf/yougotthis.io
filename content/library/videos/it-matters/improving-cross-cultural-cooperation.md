@@ -1,11 +1,22 @@
 ---
 title: Improving Cross-Cultural Co-Operation
-date: 2020-09-26
-people: ['agnieszka-chec']
+date: 2020-09-26T00:00:00.000Z
+people:
+  - agnieszka-chec
 descriptions:
   - short: Better understand common cultural differences to build stronger teams.
-  - full: The culture of the Western World values individualism, however, 70 percent of the global population lives within cultures characterized by values of collectivism. A deep understanding of the differences between collectivist and individualist mindsets enables building better co-operation within teams. Moreover, it helps to comprehend how the Western culture workplace might be perceived by Asian or African partners – a switch of perspectives is a game-changer for successful cross-cultural teamwork.
+  - full: >-
+      The culture of the Western World values individualism, however, 70 percent
+      of the global population lives within cultures characterized by values of
+      collectivism. A deep understanding of the differences between collectivist
+      and individualist mindsets enables building better co-operation within
+      teams. Moreover, it helps to comprehend how the Western culture workplace
+      might be perceived by Asian or African partners – a switch of perspectives
+      is a game-changer for successful cross-cultural teamwork.
 vimeo: 666609431
+duration: 34
+cover: >-
+  https://i.vimeocdn.com/video/1349975983-8a1deefe07b624cb21f8905619f126f6249d65c90b16bf9420cdbd458cea6d78-d
 ---
 
 Again, welcome to this session and i'm happy to share with you a bit of my experience and since we are quite a crowd here, could you please write in the chat box? Where are you from? But I mean, where are you from your cultural backgrounds referring to your cultural background, which culture you subscribed to. It can be your ethnic culture, it can be your national culture, it can be the culture of your of your religion. I see we have Polish people and from Nigeria, Argentina, amazing, actually. And we are a global team. And it's a great community to discuss Polish and German cultural backgrounds. Turkish Western universalism. Great, great. So yeah, so we are a perfect team and definitely if this was face to face, we would have great conversations; Greek and French. Yes. So, you see, culture is not a black and white. actually answer, not black and white topic to discuss, because we may have different different identities. Why is it that I suggested to this topic about Western cultures and the rest of the world? Mainly because I have struggled myself in many, many years in many, many projects. As you can see, I am a project manager. And I am also an academic teacher. And and I work on projects in different markets. I worked for four years in the Middle East, I led a team of colleagues from Zanzibar, India, and Oman. And we cooperated closely with American colleagues. So I think I have some insights to share with you that hopefully, will be useful for you, maybe tomorrow, or maybe one day. And the picture you can see here, it's a picture I got from an Omani friend, he actually had it as his profile picture. And I believe that is a beautiful metaphor of collective cultures. It's appealed orange.
@@ -35,3 +46,4 @@ Thank you so much.
 Thank you and wish you all the best for the rest of today's presentation.
 
 Thank you
+

@@ -1,11 +1,22 @@
 ---
 title: How and When to Walk Away
-date: 2020-01-18
-people: ['amy-dickens']
+date: 2020-01-18T00:00:00.000Z
+people:
+  - amy-dickens
 descriptions:
-  - short: Learn how unconditional job love is used to exploit or mistreat tech workers.
-  - full: Loving or appreciating your job isn’t a problem on its own. But you’re not obligated to do it. In fact, I’d argue that the pressure to love your job can be dangerous. Using examples from my personal experience and from the tech industry as a whole, I’ll talk about how unconditional job love is used to exploit or mistreat tech workers.
+  - short: >-
+      Learn how unconditional job love is used to exploit or mistreat tech
+      workers.
+  - full: >-
+      Loving or appreciating your job isn’t a problem on its own. But you’re not
+      obligated to do it. In fact, I’d argue that the pressure to love your job
+      can be dangerous. Using examples from my personal experience and from the
+      tech industry as a whole, I’ll talk about how unconditional job love is
+      used to exploit or mistreat tech workers.
 vimeo: 670366418
+duration: 26
+cover: >-
+  https://i.vimeocdn.com/video/1358044822-b5a39b66c341ffa9aaed42b1f85e54ef344331ec9670a96a14d7d31114398aca-d
 ---
 
 Hello. Can you all hear me well enough? Fantastic. Okay. Yeah. Final talk. You made it through some time travel today with those schedules, and you made it through a whole day of really inspirational content. Some of what I'm going to talk about today will touch on what the other speakers covered, especially in terms of - because I used to talk about loving your job - but there are many other aspects to this talk.
@@ -79,3 +90,4 @@ Unfortunately, some of us only learn those from being in negative positions in t
 Chat with strangers, if it helps. I don't mean the person on the bus. Therapy is a wonderful thing for this kind of strategising element. I'm actually really grateful that at Pusher, we offer free Sanctus sessions for employees, which means anyone in the company can talk to a wellness coach about anything. It's confidential, it doesn't have to be related to your career, or work at all. You can talk about how, like I sometimes talk about how my dog is really difficult to work with sometimes. You saw him up on the screen earlier if you were in here earlier. He looks sweet. Don't let him fool you! He's really tough.
 
 But most importantly, don't persevere through these feelings alone, because, if nothing else that that song shows you where I played it earlier, there is a huge amount of shared emotion in feeling this way, and you're not alone, and you won't be the first person to go through it. You might not be the only person going through it in your company at this time. Just understand that. Remember, you are way, way, way more than your job. Thank you. [Applause].
+

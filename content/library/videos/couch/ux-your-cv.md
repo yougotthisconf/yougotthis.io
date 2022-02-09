@@ -1,11 +1,22 @@
 ---
 title: UX Your CV
-date: 2021-01-15
-people: ['matt-rose']
+date: 2021-01-15T00:00:00.000Z
+people:
+  - matt-rose
 descriptions:
   - short: How to apply user experience techniques to your resume.
-  - full: UX Your CV takes the principles and ideas we use in User Experience (UX) design for web pages and apps, and applies them to the document that we send to prospective employers when we want to work for them. There are very few unbreakable rules when writing a CV, so we'll consider your underlying objective, the realities of recruitment, and help you to feel confident making your own decisions about what to include and how to present it, and how to tailor it to specific roles.
+  - full: >-
+      UX Your CV takes the principles and ideas we use in User Experience (UX)
+      design for web pages and apps, and applies them to the document that we
+      send to prospective employers when we want to work for them. There are
+      very few unbreakable rules when writing a CV, so we'll consider your
+      underlying objective, the realities of recruitment, and help you to feel
+      confident making your own decisions about what to include and how to
+      present it, and how to tailor it to specific roles.
 vimeo: 666603964
+duration: 47
+cover: >-
+  https://i.vimeocdn.com/video/1349958069-8ae884b301694b8bcbc5e3c44447d4d8057c22a670de00e189fa905783440b29-d
 ---
 
 Yes, so, my first open-ended question is: what do we need the CV to do? So, when you're thinking about user experience, this is where you need to start. Like, "What does my site need to do? What does my app need to do?" Let's count that as rhetoric consolidate, shall we?
@@ -127,3 +138,4 @@ So you can put your jobs, so you might want to break employment history into two
 If you were out of work for a while, you might want to instead of writing dates, you might want to put durations, so just say at this job, two years. And if they care when those two years were, they will ask you. One thing I do as well: I never mention months. If you just mention years, then it, like let them think those were whole years, right? If you did a job that started in December and finished in January, put 2020/2021. Don't lie about it if they ask you, but if they care about the specific dates, they will get you to fill in an exhaustive application form where they ask the exact dates of everything you've ever done. If you don't - if they don't dare that much about the dates, put the years, and let them assume. If your most relevant experience was a long time ago, put two years, or 18 months. Put durations rather than dates. Again, that is something you can A/B test.
 
 Okay, so, as I work at GitHub, ... so, yes, I think that there are lots of good reasons why GitHub should not be an extension of your CV. The little green squares - am I muted? .I'm not muted, I don't think. Can everyone hear me?
+

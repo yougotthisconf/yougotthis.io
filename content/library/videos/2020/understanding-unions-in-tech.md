@@ -1,11 +1,19 @@
 ---
 title: Understanding Unions in the Tech Trade
-date: 2020-01-18
-people: ['dan-parkes']
+date: 2020-01-18T00:00:00.000Z
+people:
+  - dan-parkes
 descriptions:
-  - short: The what, how and why of unionism in todays tech world. 
-  - full: This will be a whistle-stop tour of what unionism means in today’s world of tech. We’ll briefly cover what a union is, the various shapes and sizes they take and what they can do for you, using the recently formed Game Workers Unite UK branch of the IWGB as an example.
+  - short: 'The what, how and why of unionism in todays tech world.'
+  - full: >-
+      This will be a whistle-stop tour of what unionism means in today’s world
+      of tech. We’ll briefly cover what a union is, the various shapes and sizes
+      they take and what they can do for you, using the recently formed Game
+      Workers Unite UK branch of the IWGB as an example.
 vimeo: 670361852
+duration: 26
+cover: >-
+  https://i.vimeocdn.com/video/1358045768-be97a8305590e3c64f84c73dcaea185cb455f37fcf2fe1e1a32e6297699ac576-d
 ---
 
 My name's Dan. I'm an audio engineer by day, and an organiser by night. This is about unions. So, I'm going first off start off what are unions? I want to know how many people know what a union is? Raise your hand. That's good. So, for those of you who don't know, we're not talking about set theory. Yes, I did do a maths degree! Not very good, but this is the bit I knew. We're not talking about set theory. We're talking about trade unions.
@@ -77,3 +85,4 @@ If I wanted to step up even more, they would give me plenty of opportunity to do
 So this is the website you should check out. There are meetings in London. There is a tech workers' coalition London already, so, if you're London-based, that exists. If you're not, I would love for you maybe to - well, definitely join the Slack, and then maybe set up a meeting here in Birmingham, if you're based in Birmingham, or wherever you're from. It could be just in the pub. Set up a meet-up, and chat about your work. Chat about what is good about your work, what's not about the work. And everything you've heard today, creating a space to talk about all of the, that you've heard about today, like the Bragg Docs, all of these things would be perfect to be discussed in such an environment. But also, with your fellow workers.
 
 Because it's all about camaraderie, and comrades, and being better, making the workplace better for everyone. So, on that, I would like to say thank you. Go and join a Slack. Yeah! Thank you. [Cheering and applause].
+

@@ -1,11 +1,24 @@
 ---
-title: "Individual Contributor to Manager: Navigating the Shift"
-date: 2021-01-16
-people: ['myrsini-koukiasa']
+title: 'Individual Contributor to Manager: Navigating the Shift'
+date: 2021-01-16T00:00:00.000Z
+people:
+  - myrsini-koukiasa
 descriptions:
-  - short: Let's explore themes around mentoring, delegating, and leadership skills for new managers.
-  - full: Becoming a people manager poses new and exciting challenges for those who have spent most of their careers in individual contributor roles. In this talk, we’ll explore themes around mentoring, delegating, leadership and more for new managers. We'll also go through practical tips for making the mental and tangible shift between the two roles as smooth as possible. This talk will be useful both for new managers and for those thinking of making the move.
+  - short: >-
+      Let's explore themes around mentoring, delegating, and leadership skills
+      for new managers.
+  - full: >-
+      Becoming a people manager poses new and exciting challenges for those who
+      have spent most of their careers in individual contributor roles. In this
+      talk, we’ll explore themes around mentoring, delegating, leadership and
+      more for new managers. We'll also go through practical tips for making the
+      mental and tangible shift between the two roles as smooth as possible.
+      This talk will be useful both for new managers and for those thinking of
+      making the move.
 vimeo: 666590196
+duration: 25
+cover: >-
+  https://i.vimeocdn.com/video/1349964990-47439018f07fa160832822cca1317f7e3e19ff05c74266f7991c66ddfae2aa58-d
 ---
 
 MYRSINI: Hi, everyone, good morning, good afternoon, evening - wherever you are. Thank you very much for having me. This is not a topic I'm an expert on in any way, but, I'm here to share my experiences, and learning that will hopefully help you if you are, or when you're at a senior stage in your career. I'm Myrsini Koukiasa. I work at Vonage. If you didn't catch our message earlier today, we do communications, APIs. I've been with the company for two and a half now, and since last April, I've been a manager of a small team. My background is in events and comms campaigns and I've worked in tech the last seven years or so. I mention all this as it is relevant to what we will talk about today. I recently became a people manager, and although I've managed teams of volunteers, interns, and other colleagues on projects before, this was the first time I would be directly responsible for individuals. Whatever size company you work for, they probably or hopefully have some sort of training they provide, and support for your managers, even if you're a new hire. At Vonage, I went through webinars, six-week hands-on training, and I if I needed support from my own manager or HR, they were there. I found some things that are not really taught in training. Challenges might come up that you don't consciously think of, or might not feel comfortable talking about. We will focus more on this aspect today.
@@ -53,3 +66,4 @@ Empathy: like imposter syndrome is another concept you will hear a lot about in 
 Okay. So we're about to wrap up. First, I wanted, as a culmination of what we looked at, to show you how some of the challenge and opportunity examples we saw can be matched to give you more balance in your role. Here are some of the things we went through. Empathy: it can help you understand others, and respect you have different ways of thinking, and communicating. Cross-functional management can help you avoid micromanaging. If you've managed folks you have had little control over in that cross-functional management setting and where project bases where we talked about but the job still got done, you can trust your direct reports to deliver, over which you can also work on the process with on them developing like their skills on how to manage a project.
 
 Finally, project management can help with breaking down large projects and ensuring you're delegating. Let's have a final look at what we learned. There is almost certainly going to be an overlap of your previous role with a new managerial role. Challenges will appear. Recognising this, having an open and clear communication with your manager, on your responsibilities, and not overstretching yourself can be a real help. We looked at how to leverage past experiences and turn them into opportunities. Figuring out what you're good at, and using it to your advantage, and I hope that you followed with the exercise, or, if you didn't, you could do it at another time. I hope that the examples and challenges, and opportunities we went through, although might not exactly match what you're going through, or what you might go through when you shift between an individual contributor to a manager role, they have provided a light-touch formula together with discovering what you're good at, exercise that will help you best prepare for the change. So thank you very much, and I'm happy to answer any of your questions, if you have them.
+

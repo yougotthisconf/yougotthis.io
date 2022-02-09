@@ -1,11 +1,20 @@
 ---
 title: Making Your 1-1s Effective
-date: 2022-01-15
-people: ['naomi-pentrel']
+date: 2022-01-15T00:00:00.000Z
+people:
+  - naomi-pentrel
 descriptions:
   - short: How to make 1-1s the supportive tool they are meant to be.
-  - full: 1-1s are your opportunity to ensure you and your manager are on the same page, to work on your career development, and for you to give and receive feedback. Used effectively, 1-1s help you. However, many managers and reports don't know how to have effective 1-1s. In this talk you will learn how to use 1-1s as the supportive tool they are meant to be.
+  - full: >-
+      1-1s are your opportunity to ensure you and your manager are on the same
+      page, to work on your career development, and for you to give and receive
+      feedback. Used effectively, 1-1s help you. However, many managers and
+      reports don't know how to have effective 1-1s. In this talk you will learn
+      how to use 1-1s as the supportive tool they are meant to be.
 vimeo: 666518635
+duration: 28
+cover: >-
+  https://i.vimeocdn.com/video/1349543499-74c397220a2bf55afa5c5840db2b4d0fe731e78630b844551003ffc2c492c680-d
 ---
 
 Welcome, everyone to You Got This, effective one-on-ones. I'm here to talk to you about something close to my heart, and that is one-on-ones. It's been quite close to my heart because it has taken me many, many years to actually start using they might  them as the tool they are meant to be. So I started having them ten years ago when I started having internships and later when I became a full-time employee.
@@ -99,3 +108,4 @@ There is one more thing that I put into the template which are action items. Goi
 Right. Now, one pro tip, and I've mentioned this before. Put this all into one document, all of the one-on-ones should be in one document so that you have easy access to them, searchable, and once a performance review comes around, you can scroll through all of them, look at what went well, look at your accomplishments, and it will be a lot, maybe look at what your manager said about good things that you've done, and you can write about all of that in your performance review, it will become a lot easier to write those. For a lot of people, those are hard things to write, especially the first few times that you're writing them, this will make it easier.
 
 Okay. I hope what I've told you just now will help you use the one-on-ones as the support tool they are meant to be and make your one-on-ones more effective from the get-go. I think that leaves us time for questions.
+

@@ -1,11 +1,31 @@
 ---
 title: Understanding Labels We Give Ourselves and Others
-date: 2020-09-26
-people: ['daria-dorda']
+date: 2020-09-26T00:00:00.000Z
+people:
+  - daria-dorda
 descriptions:
-  - short: What are the labels you give yourself? Understanding them can benefit you and those around you.
-  - full: 'If there is one certain thing I could tell about people while working with them as a trainer, that’s the one: we do love to read and hear about the most intriguing creature we know – that is ourselves. We love to call, think or speak about ourselves using specific, sometimes funny, sometimes odd terms like introverts, extraverts, ambiverts, yellow-thinker, red thinker, hyper activer, visualizer, and lately – the High Sensitive People. You probably have your favorite one to add to the list.This may seem harmless and not serious – like reading a horoscope – who believes in them! Oh… wait…  During this talk, I want to invite the audience to do a little self-scan: what is my favorite label and why do I need it? And as a fan of the evidence-based approach, I would like to show what the scientific approach has to say regarding such labels. I hope that after this talk you would be able to use the tests, quizzes and all other questionnaires with greater benefit to yourself and…those around you.'
+  - short: >-
+      What are the labels you give yourself? Understanding them can benefit you
+      and those around you.
+  - full: >-
+      If there is one certain thing I could tell about people while working with
+      them as a trainer, that’s the one: we do love to read and hear about the
+      most intriguing creature we know – that is ourselves. We love to call,
+      think or speak about ourselves using specific, sometimes funny, sometimes
+      odd terms like introverts, extraverts, ambiverts, yellow-thinker, red
+      thinker, hyper activer, visualizer, and lately – the High Sensitive
+      People. You probably have your favorite one to add to the list.This may
+      seem harmless and not serious – like reading a horoscope – who believes in
+      them! Oh… wait…  During this talk, I want to invite the audience to do a
+      little self-scan: what is my favorite label and why do I need it? And as a
+      fan of the evidence-based approach, I would like to show what the
+      scientific approach has to say regarding such labels. I hope that after
+      this talk you would be able to use the tests, quizzes and all other
+      questionnaires with greater benefit to yourself and…those around you.
 vimeo: 666610794
+duration: 35
+cover: >-
+  https://i.vimeocdn.com/video/1349975664-fd79bec4517749af8d8a966eceff129520d09a054272d4ef4573ffa156348528-d
 ---
 
 So when I was preparing this talk, I decided to start with the labels I put on myself, you know, there's always this this moment when you train with your coach, or when you talk to people that every, every trainer school says you need to build authority. So then you try to figure out what this is actually, that you can, that you know, that gives you the mandate, the opportunity, ability to even talk to people. So when I listed all the labels, that I put on myself, before I start to talk. It's about things I really do. But when I saw the list, it was like, Oh, my God, the backpack is pretty heavy. So probably, there's a little bias that I fell into myself. But fortunately, I find this photo somewhere on my hard drive. And it does remind me that I'm not all that, you know, too much serious, Why so serious, kind of person as that. Luckily, I have some other labels as well. If you will, if you like to share, to type in the labels that you put on yourself, you can you are free to do that. Or you can just start to think about them right now. What is it that you put, you know, like a sticky note on your on your head and what's written on it, and what it does to you. So this is pretty much about me. And before we start and before we go deeper into this topic, I would like to ask you to perform a little mental activity. And we'll get to back that later, at the end of the speech, not right now, but at the end of it. So, as a first step, please think of a person with whom you have some kind of difficulty, emotional difficulty, it can be a partner, someone in your family, maybe your boss in your professional environment. Think about a person and what he or she does that upsets you irritates you, and in generally, in general gives you nerves, I'm going to give you a moment to remind yourself of this person. And I asked you to really visualise, that one, that someone. Put that person in front of your eyes imagine what it is that he does, she does that, you know, gives you a headache. And once you have done that, once you once you can see the person in front of you write down somewhere on a piece of paper or maybe in your work or whatever it suits you best, write down three to five, of that person's qualities, traits. that upsets you most, maybe that someone is lazy, or maybe that someone talks too much, whatever. Just find three to five words that describe that person, you will I will not ask you to share it. It's just do it for yourself. Okay. I'm not going to talk right now for a 30 seconds, one minute just to give you an opportunity to write it down. And to visualise. I think you should have it by now. I hope, just keep this piece of paper or whatever you have notice written it down somewhere. Yeah, somewhere near you will we're going to get to get back to that shortly before the speech closure.
@@ -27,3 +47,4 @@ What I just wanted to say is that when you look at that lady, you probably would
 We do have some minutes left. That was very good. Thank you very much. So I'm going to go into the queue and a mode. And a lot of questions have been asked. Hmm. That's the and let's start with [---] Question. So are the Jungian models, useful as a discussion to keeping away from using them with labels? and [---] also asked this question I remarked on this.
 
 Yeah. I would say yes, I'm, you know, I'm not. I wouldn't dare to say don't use them, it can be ,they can be put into trash. No, but we definitely have to remember that they aren't 100% scientific. And I think it is because of the business models of the different companies because well developed, researched, scientific test costs, like about five euro per person. And if you remember how much cost at your company or yourself, your Gallup test, your disk, well, my MBTI is for free. But some of the tests are pretty expensive, right? And it is because yeah, that's if we don't know what's going on, then it's probably about money. So yes, they are useful as a discussion but what I noticed from my experience from the trainings, even if I say guys, don't be that serious about that I just want you to discuss, to get to know your, your, who you are ,just you know, to maybe form a better team. That isn't always enough because our brain has this tendency to label. So it will happen. Also, if you if we if we would take a serious scientific test the labelling thing would happen as well. But if so then it is much, you know, safer and better for everyone to have a tool that is actually confirmed right than a tool that describes your that you're a cat or a workfit or whatever right?
+

@@ -1,11 +1,19 @@
 ---
 title: Making Your First Days Count
-date: 2020-01-18
-people: ['nathaniel-okenwa']
+date: 2020-01-18T00:00:00.000Z
+people:
+  - nathaniel-okenwa
 descriptions:
   - short: Let's look at some useful strategies to help you navigate your new job.
-  - full: Hooray! You’ve landed your first full-time tech job, but what comes next? The first few months can be daunting and it is easy to feel like you don’t belong. In this talk, we look at some useful strategies to help you navigate your rookie year.
+  - full: >-
+      Hooray! You’ve landed your first full-time tech job, but what comes next?
+      The first few months can be daunting and it is easy to feel like you don’t
+      belong. In this talk, we look at some useful strategies to help you
+      navigate your rookie year.
 vimeo: 670352493
+duration: 22
+cover: >-
+  https://i.vimeocdn.com/video/1358047298-25128faad92371e1998077f5df8c05a843fed09e1f10cc677a4137e5e1ab0c97-d
 ---
 
 The name of my talk is Zero to 100 Real Quick inspired by the Drake lyric. The reason why I decided to come up with this talk is, about a year ago, I didn't work at Twilio. I've only been working here for seven months. I remember sitting down to next one of my now colleagues at Twilio and telling her there is this amazing job called a Developer Evangelist at Twilio, and I don't think I can make it. I don't know if I'm good enough. They said apply, because even though you apply, you may not have the skills, you have enough skills to get started and you can improve as you go.
@@ -95,3 +103,4 @@ And the next thing is to infinity and beyond. Even I don't know president the. T
 You can keep going through the cycles of observing, gathering as much information about everything as you can, understanding. Never shy away from asking why. And then create. Go and draw the owl. Remember, every successful career is a series of successful assignments, and every successful assignment is launched with a successful transition.
 
 This may be you going for your first job, or you've just started your first job, or maybe your new job in a new role at a different company, you can use some of the things I've spoken about in this talk to help you get started. Keep me updated. I would love to hear about your journeys, and feel free to reach out to me on Facebook, Instagram, and Twitter, and everything, and thank you so much for listening. [Applause].
+

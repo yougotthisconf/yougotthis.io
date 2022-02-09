@@ -1,11 +1,24 @@
 ---
 title: Building Team Trust Virtually
-date: 2022-01-15
-people: ['carol-huang']
+date: 2022-01-15T00:00:00.000Z
+people:
+  - carol-huang
 descriptions:
   - short: Tools and techniques to build team trust remotely and across timezones.
-  - full: Working with new teammates is hard, and it can be especially hard when you've never met, are all new to the team, are spread across multiple time zones, and/or are going through a pandemic -- all of which were the case for me in July of 2020. I’ll go through the tools and techniques we tried to build trust on virtual platforms, from weekly emoji check-ins to asynchronous video chats, what worked, what didn’t, and why I think being open and vulnerable are key to a successful and happy working relationship. This talk is for anyone who wants to build relationships and rapport with teammates virtually.
+  - full: >-
+      Working with new teammates is hard, and it can be especially hard when
+      you've never met, are all new to the team, are spread across multiple time
+      zones, and/or are going through a pandemic -- all of which were the case
+      for me in July of 2020. I’ll go through the tools and techniques we tried
+      to build trust on virtual platforms, from weekly emoji check-ins to
+      asynchronous video chats, what worked, what didn’t, and why I think being
+      open and vulnerable are key to a successful and happy working
+      relationship. This talk is for anyone who wants to build relationships and
+      rapport with teammates virtually.
 vimeo: 666511954
+duration: 27
+cover: >-
+  https://i.vimeocdn.com/video/1349545579-7c05eed7771d40cab2b0ecea5161394311054c3281dc4f1b2bb5f72828a50011-d
 ---
 
 Welcome to You Got This 2022. I hope you're having a wonderful time. If you're joining us for the first time, you've got this as a community event series, discussing core skills. I will be talking about building team trust virtually, strategies and tactics that my team has used and why I think this is so important.
@@ -119,3 +132,4 @@ So I let you look at the summary slide while I share real-world example, is that
 We were able to have that private team channel to economies rate about it with others whilst still being productive and we had this constant open conversation about what we were good at and what we liked doing, I felt comfortable taking over all of the project management, stepping in dealing with the scheduling, the people-chasing, and I was able to do this without feeling like I was stepping on his toes. And I was able to trust that he wasn't going to kill the content and video, handle all of that entirely without any input from me, and he did, because we both knew what we were good at.
 
 The important thing for me here isn't that we got it done, we got it done in a way that we felt good about. My goal for myself and my team-mates is we are all able to find the best ways to let each other shine. In the middle of everything that we are going through right now, a bare minimum, I think I can ask for, is helping each other be helpful at fulfilled at work. I know that we couldn't have knocked this out the park the way we did without the trust built on communication and empathy. And there we go!
+

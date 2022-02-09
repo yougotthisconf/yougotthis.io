@@ -1,11 +1,22 @@
 ---
 title: From Conflict To Cooperation
-date: 2022-01-14
-people: ['jordan-m-adler']
+date: 2022-01-14T00:00:00.000Z
+people:
+  - jordan-m-adler
 descriptions:
-  - short: An in-depth talk about causes of, and resolutiosn for, conflict.
-  - full: Conflict Resolution is a key skill in working effectively in engineering organizations. In this workshop, we'll review the causes of conflict, how to navigate and negotiate differences in perspectives, and develop language and process skills to manage, mitigate, and prevent conflict. With a basis in I/O Psychology and Management Science, this talk is relevant to all engineers from entry-level individual contributors to engineering executives.
+  - short: 'An in-depth talk about causes of, and resolutiosn for, conflict.'
+  - full: >-
+      Conflict Resolution is a key skill in working effectively in engineering
+      organizations. In this workshop, we'll review the causes of conflict, how
+      to navigate and negotiate differences in perspectives, and develop
+      language and process skills to manage, mitigate, and prevent conflict.
+      With a basis in I/O Psychology and Management Science, this talk is
+      relevant to all engineers from entry-level individual contributors to
+      engineering executives.
 vimeo: 666514686
+duration: 68
+cover: >-
+  https://i.vimeocdn.com/video/1349544590-ffd69bdc0dfbf280c2851f7d4238b0f3ffc269b720f3d00aa03273ccd1933d4e-d
 ---
 
 Hello, everyone. Thanks for coming to my workshop today. The workshop is called From Conflict to Co-operation, and our focus will be on conflict in engineering organisations, techniques for conflict resolution, and, you know, conflict avoidance in general. While I go along a brief introduction, stand up, stretch a bit, I know this is the last workshop of the day, so maybe do a couple of jumping jacks, raise your heart rate, elevate your attention, energy level, get ready to wrap up the day, and maybe cap off in a couple of hours with a couple of pints for sure, if you would like.
@@ -256,3 +267,4 @@ With that in mind, I would like to go ahead and open the conversation if anybody
 
 Thank you all so much for coming. I hope this was helpful. I've taken your notes. I will polish the lecture notes and pass to Kevin so he can send them out as well. Feel free to reach out to me. I'm on LinkedIn and Twitter if you would like to continue having contact, and being a kind acquaintance of mine.
 Thank you so much, folks. Have a great one.
+

@@ -1,11 +1,21 @@
 ---
-title: The Art of Failing, Inspired by Mindful Parenting
-date: 2020-09-26
-people: ["tomasz-smaczny"]
+title: 'The Art of Failing, Inspired by Mindful Parenting'
+date: 2020-09-26T00:00:00.000Z
+people:
+  - tomasz-smaczny
 descriptions:
-  - short: Taking the principles of mindful parenting and applying it to our professional growth.
-  - full: Simon Sinek claims that the closest thing to leadership is parenting. I absolutely agree. Parenting is solidly researched and may be a valuable inspiration for professional growth. In this talk I will explain how you can overcome a business failure by applying mindful parenting principles.
+  - short: >-
+      Taking the principles of mindful parenting and applying it to our
+      professional growth.
+  - full: >-
+      Simon Sinek claims that the closest thing to leadership is parenting. I
+      absolutely agree. Parenting is solidly researched and may be a valuable
+      inspiration for professional growth. In this talk I will explain how you
+      can overcome a business failure by applying mindful parenting principles.
 vimeo: 666605597
+duration: 33
+cover: >-
+  https://i.vimeocdn.com/video/1349980257-7a5a982c32081d7c9c84191304138abbbb1a1d046cc8b2f019f13b85957925b6-d
 ---
 
 Hello, I'm Thomasz Smaczny. I have been in the business for the last 20 years in different positions and different sectors, but mainly in sales and marketing. But what I'm doing now I'm a parenting educator and a leadership coach. For start, I would like to invite you for a walk with a child, this might be a child of your own, or this might be a child, you know very well. So imagine you are preparing for this walk, and the kid is putting his shoes on. But he's very, very struggling in. He's struggling with lacing his shoes, and he's getting frustrated. And all of a sudden, he's actually taking off the shoes and throwing them against the door. What do you do? And then eventually, you're leaving the house and you are in the playground. And the kid is climbing a structure and he's getting to the point that he's hesitating to go farther. He's pretty, pretty high already. But he's frustrated, he's a bit hesitating. And he calls for your attention. He calls help. What do you do? And then you, you continue your journey through the park, and you just walking around along one of the paths. And he's running freely, exploring the environments, but he's, he's really energetic, and he runs here and there. And all of a sudden, he stumbles and falls down. And there is this terrible silence for a moment. And then you start hearing him crying? What do you do? I'm not going to test your parenting knowledge. But with this simple exercise and maybe reflection of what would you do in this situation.
@@ -31,3 +41,4 @@ And I hope just to finish the meeting, I hope I know Crystal, it was very stress
 So thank you. Thank you so much. I think this talk was literally the best talk to have just after that. Yeah. Okay, so I will see all of you in 'gather town'. I'm going to be joining as well. Thank you so much. See you later.
 
 Bye bye. Thank you, everyone.
+

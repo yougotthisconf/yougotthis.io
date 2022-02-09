@@ -1,11 +1,28 @@
 ---
 title: The Art of Communication
-date: 2020-06-06
-people: ['katie-walker']
+date: 2020-06-06T00:00:00.000Z
+people:
+  - katie-walker
 descriptions:
-  - short: Principles to follow for strengthening work communication skills and build relationships.
-  - full: The stereotype of software developers working alone in a basement is far from the reality of open-plan offices and collaborating frequently with colleagues on projects. Therefore, good communication skills are a necessity, and you're not alone if you struggle with some aspect of this. For many people, everyday occurrences such as small talk and making friends can be a daunting and anxious experience. Fortunately, just like learning to code, communication skills can be improved with time and some guidance. In this talk, I will be discussing principles to follow for strengthening work communication skills and to help with building meaningful relationships while becoming a more approachable, friendly person.
+  - short: >-
+      Principles to follow for strengthening work communication skills and build
+      relationships.
+  - full: >-
+      The stereotype of software developers working alone in a basement is far
+      from the reality of open-plan offices and collaborating frequently with
+      colleagues on projects. Therefore, good communication skills are a
+      necessity, and you're not alone if you struggle with some aspect of this.
+      For many people, everyday occurrences such as small talk and making
+      friends can be a daunting and anxious experience. Fortunately, just like
+      learning to code, communication skills can be improved with time and some
+      guidance. In this talk, I will be discussing principles to follow for
+      strengthening work communication skills and to help with building
+      meaningful relationships while becoming a more approachable, friendly
+      person.
 vimeo: 670242613
+duration: 23
+cover: >-
+  https://i.vimeocdn.com/video/1357810556-72c3fdc77d6c0d4fb693c4381a2bca1a5228c4143d0698b9279191fcf79f48c6-d
 ---
 
 Hey, I'm Katie, and, today I'm going to be talking about the art of communication. I don't know about you, but growing up, there was really a stereotype of what a programmer looked like and how they work, in a basement, they don't see or work with anybody.
@@ -93,3 +110,4 @@ I think mentorship and teaching is a fantastic thing to dip your toes into. It's
 To conclude: celebrate your strengths, and make sure you elevate others with them if you can. You can identify weaknesses, and speak opportunities in these areas. If you're always in your comfort zone, you might not be growing and learning. Finally, you belong in tech if you're introverted or extroverted. You don't have to be out there leading every meeting and excelling in every conversation and presentation to succeed in your career, so don't  be too hard on yourself.
 
 Equally, there's nothing good about being a so-called ten-times engineer that is amazing with coding but can't communicate or work with anybody. It's really important to strike a balance. I've still got a really long way to go in my communication skills, but I hope what I've spoken about today helps someone else. Thank you very much.
+

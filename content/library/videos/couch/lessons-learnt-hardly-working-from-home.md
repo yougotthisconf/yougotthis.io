@@ -1,11 +1,28 @@
 ---
 title: Lessons Learnt (Hardly) Working From Home
-date: 2021-01-16
-people: ['massi-mapani', 'shivangi-sareen']
+date: 2021-01-16T00:00:00.000Z
+people:
+  - massi-mapani
+  - shivangi-sareen
 descriptions:
-  - short: The pandemic has forced many of use to work from home, how do we bring old routines and habits into our new lives? 
-  - full: The whole world shook when the pandemic took over and completely changed the way we live our lives. Travelling, socialising, working from the office - just basic everyday things stopped dead right in their tracks. Those of us who're able to work from home have been really lucky to do so and to have the support from the companies we work for. This experience is hard, especially for new hires to navigate and that preparation a commute gives us before we start work, gets substituted into a new routine or habit we need to take responsibility for. Our talk offers experiences, lessons and advice in hope that it encourages others and lets them know that even though it feels hard, you got this and you are not alone.
+  - short: >-
+      The pandemic has forced many of use to work from home, how do we bring old
+      routines and habits into our new lives?
+  - full: >-
+      The whole world shook when the pandemic took over and completely changed
+      the way we live our lives. Travelling, socialising, working from the
+      office - just basic everyday things stopped dead right in their tracks.
+      Those of us who're able to work from home have been really lucky to do so
+      and to have the support from the companies we work for. This experience is
+      hard, especially for new hires to navigate and that preparation a commute
+      gives us before we start work, gets substituted into a new routine or
+      habit we need to take responsibility for. Our talk offers experiences,
+      lessons and advice in hope that it encourages others and lets them know
+      that even though it feels hard, you got this and you are not alone.
 vimeo: 666594080
+duration: 25
+cover: >-
+  https://i.vimeocdn.com/video/1349962668-2221e017d727ceffbcd8812df5860c4370fad8cf7b19da067ba3efc15b5ba7b4-d
 ---
 
 SHIVANGI: Hi, everyone. The whole world shook when the pandemic took over, and changed the way we live our lives - travelling, socialising, working from the office, just basic everyday things stopped right in their tracks. People lost their jobs, businesses have been shut down, doctors and nurses have been working overtime, and so much more. Those of us who have the support in the companies we work for have been lucky to work from home at such time, and, with it, comes its own set of challenges. We want to share with you our experience from working from home and share some of the lessons we've learned that can be applied from your own work routine.
@@ -64,3 +81,4 @@ SHIVANGI: This is a very impressive set-up, with a minimalist structure. The tab
 
 MASSI: A space can mirror who you are in different ways and help break up your day. Getting a space to work for you may require you incorporate some of your truss, such as music, artwork, or even gaming - music. Whatever other hobbies you have to shift from your personal mindset to a work mindset, a space may find that you need to have familiar aspects in it, whether it be having a pet nearby, or personal pictures, or personal quotes, motivation, whatever works for you. Whether you need to take notes, you may need different stationary, or even different accessories, or difference in lighting, investing time and energy, and being mindful about the space in which you're working. It helps you get into a mindset that allows you to function and do your job.
 SHIVANGI: We hope these pictures are inspiring to get creative with your own work-from-home set-up and to take a few lessons away about working from home. Finally, thank you so much for tuning in to hear our talk.
+

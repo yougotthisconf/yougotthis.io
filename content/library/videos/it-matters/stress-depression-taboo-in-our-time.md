@@ -1,11 +1,24 @@
 ---
 title: Stress & Depression – a Taboo in our Time
-date: 2020-09-26
-people: ['gitte-klitgaard']
+date: 2020-09-26T00:00:00.000Z
+people:
+  - gitte-klitgaard
 descriptions:
-  - short: Understanding why stress and depression is so common, and how you can manage it.
-  - full: Stress and stress-induced depression hit many knowledge workers, and yet it is still a taboo. “I am stressed” has become something we hear every day, and it has almost become prestigious to say so; it shows that we are busy, important people. On the other hand, it is a bit embarrassing to be really stressed and not being able to handle it. In this talk, I will discuss the taboo and explore why it hits knowledge workers so often, as well as come with tips and tricks to prevent it.
+  - short: >-
+      Understanding why stress and depression is so common, and how you can
+      manage it.
+  - full: >-
+      Stress and stress-induced depression hit many knowledge workers, and yet
+      it is still a taboo. “I am stressed” has become something we hear every
+      day, and it has almost become prestigious to say so; it shows that we are
+      busy, important people. On the other hand, it is a bit embarrassing to be
+      really stressed and not being able to handle it. In this talk, I will
+      discuss the taboo and explore why it hits knowledge workers so often, as
+      well as come with tips and tricks to prevent it.
 vimeo: 666615437
+duration: 41
+cover: >-
+  https://i.vimeocdn.com/video/1349969521-c09b2c2a612b93ca0a8c3666b15929348873e25f2544bfac13fd0a3b18d67853-d
 ---
 
 So I'm just gonna shortly say a little bit about me. So yes, I'm an agile coach. And a lot of what I do is working with people, I tend to work on stuff like psychological safety or communication, collaboration and retrospectives. So it's very often on the softer side of Agile coaching. I'm also a speaker, and I like to do co speaking and co workshops as well. And I have my own company called Native Wired. This is my Twitter ID, but be aware that I do tweet a lot. And of course, I am a certified unicorn and I am also a certified unicorn certifier.
@@ -43,3 +56,4 @@ So now I talked a lot about how could you help yourself? And I'm going to talk a
 So to wrap this up, talk about these things, I think that's one of the best things we can do is start talking more about these things. Because it does exist everywhere. Ask for help. Whether that is you know, help with work or help to actually cope with these things. But do ask for help. And offer help. And I deliberately write offer instead of give help, because it needs to be an offer. It is very rare that people are at a point where you have to give them help. There can be people who are so far out that you need to kind of take them by the hand and take them to a doctor but this is very, very, very rare. And talk to each other. So have these discussions, talk about things, talk about your life, talk about what's going on, talk about the good things. And of course, be kind and care for people.
 
 So that's what I had to say. I will send these slides to you and you can get access to them afterwards. And one of the things that I always talk to people about is Feel free to approach me afterwards whether I will be in Ghana town or my email, or Twitter, whatever all my information is on here, plus some link to some amazing videos, because sometimes it doesn't feel comfortable to speak about things in a big setting like this.
+

@@ -1,11 +1,24 @@
 ---
-title: "The Breaking Point: Recovering from Burnout"
-date: 2020-06-06
-people: ['pauline-narvas']
+title: 'The Breaking Point: Recovering from Burnout'
+date: 2020-06-06T00:00:00.000Z
+people:
+  - pauline-narvas
 descriptions:
-  - short: Burnout is real and unhealthy - how do we stop it before it gets out of hand?
-  - full: Being in an industry that technically doesn’t stop, we can all get caught up with chasing on what the next new shiny thing there is to learn or take part in. As someone who was keen and ambitious in “breaking through” the industry, I found myself thinly spread to a point that was unhealthy and potentially dangerous long-term. Burnout is real. In this talk, I’ll share experiences as well as tips on helping spot patterns that lead to burnout and how to deal with it before it gets out of hand.
+  - short: >-
+      Burnout is real and unhealthy - how do we stop it before it gets out of
+      hand?
+  - full: >-
+      Being in an industry that technically doesn’t stop, we can all get caught
+      up with chasing on what the next new shiny thing there is to learn or take
+      part in. As someone who was keen and ambitious in “breaking through” the
+      industry, I found myself thinly spread to a point that was unhealthy and
+      potentially dangerous long-term. Burnout is real. In this talk, I’ll share
+      experiences as well as tips on helping spot patterns that lead to burnout
+      and how to deal with it before it gets out of hand.
 vimeo: 670245143
+duration: 24
+cover: >-
+  https://i.vimeocdn.com/video/1357811038-805ecfb6513ce9dd6229123732052f6b9cced4670a62c14e773d5a1695d3a8a2-d
 ---
 
 Okay, hello, everyone, thank you for joining me today. It's great to see so many of you tuning in from at home. I'm Pauline, your second speaker for today's conference, and I will be talking about how real burnout is, and sharing tips on spotting early signs of burnout and dealing with it so that hopefully you can take this on board and apply it to your own life.
@@ -79,3 +92,4 @@ Yes, so this doesn't actually men the end of taking up opportunities. Just becau
 If there is one thing you want to remember from this talk, and take away from this talk, it's this: we need to let go of this destructive belief that, if you keep working hard constantly, you will succeed, because it's just unhealthy, and un sustainable.
 
 I love this quote I'm showing up on the screen right now. So you won't find true balance unless you install checks on your time, energy, and other resources. Draw the lines you will not cross lines with permanent markers, laser beams, and barbed-wire. Defend your bandwidth with repeat ed and firm resolve. Your survival depends on it. We aren't machines, so let's stop acting like one. Thank you so much, and stay safe out there, folks.
+

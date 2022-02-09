@@ -1,11 +1,21 @@
 ---
 title: Getting Unstuck and Solving Problems
-date: 2022-01-15
-people: ['steven-hicks']
+date: 2022-01-15T00:00:00.000Z
+people:
+  - steven-hicks
 descriptions:
   - short: Strategies to break down problems and overcome them.
-  - full: All software engineers get stuck - whether you're brand new or have 20 years experience. In this session, we’ll reframe the act of getting stuck as a positive. Then we’ll talk about strategies for getting past a tricky problem. We’ll discuss the psychology behind these strategies, and answer questions like “Why do my best ideas come to me in the shower?” Finally, we’ll look at ways to harden yourself for the next time you get stuck.
+  - full: >-
+      All software engineers get stuck - whether you're brand new or have 20
+      years experience. In this session, we’ll reframe the act of getting stuck
+      as a positive. Then we’ll talk about strategies for getting past a tricky
+      problem. We’ll discuss the psychology behind these strategies, and answer
+      questions like “Why do my best ideas come to me in the shower?” Finally,
+      we’ll look at ways to harden yourself for the next time you get stuck.
 vimeo: 666499889
+duration: 32
+cover: >-
+  https://i.vimeocdn.com/video/1349476661-f73c2ed97b24c0d452a9c3d40715d214c20d93b3a46c48d7d6df12a75708d548-d
 ---
 
 Thank you so much. Thank you for having me here. This has been the talks that I've watched that have been awake, and they've been fantastic. I hope you've enjoyed them. My name is Steve. I say it as Steve and write it as Steven. On the screen, you can see my contact info on Twitter. That's probably the best place to reach me, and my Gmail. All the slides we are looking at today are available on the internet at that URL.
@@ -121,3 +131,4 @@ The common thread for these hardening strategies is about getting into, really. 
 Strategy groups: embrace getting stuck. Getting stuck and unstuck is the job. Explain things to someone else. It will help you challenge assumptions and rebuild the model in your head and figure out why you may be stuck on something. Try to break the problem down, isolate it. Give yourself a smaller surface area to focus on. Set it aside. Walk away. Go for a run, take a shower, take a nap. Let your brain process this thing on its own.
 
 And finally, condition yourself for the next time that you're going to run into this, because you're going to get stuck again, and that's okay, and that is you doing your job. I just want to thank you all for your time. And I'm happy to answer any questions or have any discussion here.
+

@@ -1,11 +1,22 @@
 ---
 title: You Can Share Knowledge
-date: 2019-01-19
-people: ['sascha-wolf']
+date: 2019-01-19T00:00:00.000Z
+people:
+  - sascha-wolf
 descriptions:
-  - short: You might think that you have nothing to add. You'll be surprised how much you actually know.
-  - full: Each and every day we encounter the knowledge of thousands of people. We read articles, blog posts, documentation and smart answers on StackOverflow. How can we compete against this well of wisdom? You might think that you have nothing to add. You'll be surprised how much you actually know.
+  - short: >-
+      You might think that you have nothing to add. You'll be surprised how much
+      you actually know.
+  - full: >-
+      Each and every day we encounter the knowledge of thousands of people. We
+      read articles, blog posts, documentation and smart answers on
+      StackOverflow. How can we compete against this well of wisdom? You might
+      think that you have nothing to add. You'll be surprised how much you
+      actually know.
 vimeo: 666703281
+duration: 23
+cover: >-
+  https://i.vimeocdn.com/video/1349994584-73679027caaf6eeb855e11c0a73de40037484735d674dc3818bdd4e1d042b4b6-d
 ---
 
 Today, I'm going to talk about You Know Nothing... or do you? I will try to make this talk as accessible as possible, thank you for the organisers who provided some great resources on how to do that. If there is anything in here that you can follow, I tend to speak very fast when I'm nervous, so, yes, just stop me when I do that.
@@ -69,3 +80,4 @@ And, yeah, after all of this, I would like to reintroduce myself to you, but I'm
 Thank you for listening. You can find me on Twitter, or you can go to my website. And please tweet me the tweets you think you have acquired because I would be curious to see where you got these from. Go off and write some blog posts!
 
 Thank you! [Cheering and Applause].
+

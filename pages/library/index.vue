@@ -1,6 +1,7 @@
 <template>
     <div>
         <div class="wrapper pt-16 mb-8">
+            <div class="bg-green-500 p-4 mb-8">Todo: filters for content type, sorting by alphabetical or latest.</div>
             <h1 class="heading text-center">Library</h1>
             <ContentList :list="aboveFold" class="mt-8" />
         </div>

@@ -1,11 +1,19 @@
 ---
-title: "Self-Care: Beyond the Hashtags"
-date: 2019-01-19
-people: ['taylor-morrison']
+title: 'Self-Care: Beyond the Hashtags'
+date: 2019-01-19T00:00:00.000Z
+people:
+  - taylor-morrison
 descriptions:
-  - short: Learn about self-care, and how to create personal rituals.
-  - full: "#Selfcare has over 7.5 million Instagram posts, but we have more questions than ever about what self-care actually is. In this talk, we'll take self-care beyond the hashtags and into your daily life. We'll define it and walk through the process of creating meaningful self-care rituals."
+  - short: 'Learn about self-care, and how to create personal rituals.'
+  - full: >-
+      #Selfcare has over 7.5 million Instagram posts, but we have more questions
+      than ever about what self-care actually is. In this talk, we'll take
+      self-care beyond the hashtags and into your daily life. We'll define it
+      and walk through the process of creating meaningful self-care rituals.
 vimeo: 666701284
+duration: 25
+cover: >-
+  https://i.vimeocdn.com/video/1349992805-6baca9c82f263611f11079f5a4f8b6b0debfa3fa5a2904fec2001a3bf493c017-d
 ---
 
 Well, hello, everyone. My name is Taylor Elyse Morrison, and I do a lot of different things.
@@ -61,3 +69,4 @@ The thing that is most of service to me is to not set an alarm in the morning, a
 Here, if you go up to this link on the slide, I've got an overview of a what I've talked about, and a 31-day checklist of different practices to try. It's fun if you don't know which self-care practices to do. Some might surprise you. If you have any questions, you can DM me on Twitter, or Instagram, or pull me aside here. I would love to talk to you about self-care and maybe steal some of your self-care practices!
 
 Thank you. [Applause].
+

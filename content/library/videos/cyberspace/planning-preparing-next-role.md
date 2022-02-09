@@ -1,11 +1,27 @@
 ---
 title: Planning and Preparing For Your Next Role
-date: 2022-01-15
-people: ['rachel-lee-nabors']
+date: 2022-01-15T00:00:00.000Z
+people:
+  - rachel-lee-nabors
 descriptions:
-  - short: Discover what you want to do, ace the interview, and leave before you're miserable.
-  - full: 'There’s one guarantee in your career: you won’t work the same job forever. Don’t wait until you’re at the end of your patience with your current job or for someone to offer you your dream job on a whim—take control of your future by owning and planning your next move well ahead of sending out your resume. In this talk we’ll go over how to discover what you want next through experimentation at your day job, how to prepare to ace the interview, and then how to weigh your options and compare your Future You’s to make smart bets that take you where you want to go. This talk is intended for people who already have jobs in tech, whether they’re thinking about getting a new one or not!'
+  - short: >-
+      Discover what you want to do, ace the interview, and leave before you're
+      miserable.
+  - full: >-
+      There’s one guarantee in your career: you won’t work the same job forever.
+      Don’t wait until you’re at the end of your patience with your current job
+      or for someone to offer you your dream job on a whim—take control of your
+      future by owning and planning your next move well ahead of sending out
+      your resume. In this talk we’ll go over how to discover what you want next
+      through experimentation at your day job, how to prepare to ace the
+      interview, and then how to weigh your options and compare your Future
+      You’s to make smart bets that take you where you want to go. This talk is
+      intended for people who already have jobs in tech, whether they’re
+      thinking about getting a new one or not!
 vimeo: 666522127
+duration: 35
+cover: >-
+  https://i.vimeocdn.com/video/1349542666-1baa8d894ed7262392c74de4a57ab1fe3fd4ac97a1e18d8832cfa241af2af76b-d
 ---
 
 Let's do it. All right. Hi, there. The past couple of years have been really interesting. I know a lot of people have been looking into what their next job is going to be in something that is called the Great Resignation. A lot of people have been slugging it out in their home offices and now ready for the next jump. I want to tell you how to plan and prepare for the next role.
@@ -153,3 +169,4 @@ Time to say goodbye, and something important to remember when you do decide it i
 I know we love to focus on this is what I'm going to do next, what I'm going to deliver and who I'm joining, and I've been deeply embarrassed by some of the old posts I made in the past when the thing I was hired to deliver wasn't what I actually delivered. Always focus on what you've done before, and then mention you're excited about going on to the things that is coming next. This is the proper way to do it.
 
 Celebrate your wins. Speaking of ending and new beginnings, I'm working on a possible book about surviving and succeeding in big tech for people who don't come from a computer science or MBA background. There are a lot of us out there. You can check it out at that URL, and you will find links to all. Slides links at that URL as well. Catch me on Twitter as well under @RachelNabors. I wish you the best of luck in your next role. There will be a next one, and a next one, and a next one! You will find them all amazing and have great stories to tell.
+

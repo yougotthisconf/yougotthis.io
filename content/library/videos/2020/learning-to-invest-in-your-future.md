@@ -1,11 +1,21 @@
 ---
 title: Learning to Invest in Your Future
-date: 2020-01-18
-people: ['matthew-gilliard']
+date: 2020-01-18T00:00:00.000Z
+people:
+  - matthew-gilliard
 descriptions:
   - short: Learning how to learn is critical in the fast-changing world of tech.
-  - full: When change is the only constant, learning is the only future-proof skill. In this talk, using examples from the pioneers of programming education in the 1960s through to the present day, Matthew will show some effective techniques for developing new programming skills. You’ll see how learning how to learn can benefit you through your whole career, and how valuable it can be to share what you’ve learned with others.
+  - full: >-
+      When change is the only constant, learning is the only future-proof skill.
+      In this talk, using examples from the pioneers of programming education in
+      the 1960s through to the present day, Matthew will show some effective
+      techniques for developing new programming skills. You’ll see how learning
+      how to learn can benefit you through your whole career, and how valuable
+      it can be to share what you’ve learned with others.
 vimeo: 670347714
+duration: 26
+cover: >-
+  https://i.vimeocdn.com/video/1358048059-3ec66b09ac635b50da898ca1ddd4fd24892bef389a8570fd796e2beaa899bcfc-d
 ---
 
 Hello, everyone. So, thank you Keziyah for that great talk. I thought that was wonderful. I don't know about you, but, when I was at school, I studied a whole bunch of different things like maths, geography, what have you. But I never was taught the skill of learning. I was expected maybe to kind of already know it, or pick it up as I was going along.
@@ -91,3 +101,4 @@ I mention I'm a Java programmer. Java projects can be a pain in the arse to set 
 Keep yourself a "Today I learned" diary, and find your learning style and engage in it. We still have, like I showed at the beginning, 95 per cent of 2020 left. I don't think it's too late for a New Year's Resolution. Try setting some learning goals for 2020, and be explicit about the fact that they are for learning and not for any particular technology.
 
 So, you have got this. You've got this. Thank you very much for listening. And here's where you can go to find out more about what I said. Thank you. [Applause].
+

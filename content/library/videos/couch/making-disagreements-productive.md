@@ -1,11 +1,25 @@
 ---
 title: Making Disagreements at Work Productive
-date: 2021-01-15
-people: ['claire-knight']
+date: 2021-01-15T00:00:00.000Z
+people:
+  - claire-knight
 descriptions:
-  - short: Disagreement don't have to be toxic, how do we make them a positive and productive experience? 
-  - full: Do you want to know how disagreements can be positive? How to be respectful while disagreeing? How to get to mutual understanding through productive discussion, and hopefully to agree on a path forward? Then this workshop could be for you! This workshop will be useful not only for code reviews and team discussions but in day to day life beyond tech. Through hands on exercise, you’ll leave the workshop with some extra tools to apply in a variety of situations, already have tried some of them out, and have further resources to look up if you want to explore this more.
+  - short: >-
+      Disagreement don't have to be toxic, how do we make them a positive and
+      productive experience?
+  - full: >-
+      Do you want to know how disagreements can be positive? How to be
+      respectful while disagreeing? How to get to mutual understanding through
+      productive discussion, and hopefully to agree on a path forward? Then this
+      workshop could be for you! This workshop will be useful not only for code
+      reviews and team discussions but in day to day life beyond tech. Through
+      hands on exercise, you’ll leave the workshop with some extra tools to
+      apply in a variety of situations, already have tried some of them out, and
+      have further resources to look up if you want to explore this more.
 vimeo: 666596336
+duration: 23
+cover: >-
+  https://i.vimeocdn.com/video/1349961879-922b72e88b0618cf858581a344ff14b2a633f26ff16fff30d269dc9a3277a69d-d
 ---
 
 CLAIRE: Lovely. Right, so, as Katie has already introduced, this is about making disagreements at work respectful and productive. I will just get started. Okay, so, a little bit about me. Thank you very much for signing up to this, and thanks, Kevin, for involving me in this. You might want to know why you want to listen to me. Well, I've kind of been in tech for quite a long time now. I've spent something like 20 years in tech. I've been an engineer in all sorts of languages, tech stacks, et cetera. I've been a junior engineer, worked my up to being tech lead, et cetera. So I've come across a bunch and seen how tech has changed in the last 20 years, and whilst sometimes it may not feel we're all that respectful, we're quite a lot better than we used to be, and I would love for us to continue to improve. Giving you tips and tricks, and explaining how you can do some things more is something I'm really keen to do. When I joined GitHub, I actually was an engineer, so I've been involved in code reviews at somewhere like GitHub where there is a very high bar on things, and also as a manager now, I've brought on engineers, and educated them and got them used to communicating in a respectful style, so, hopefully, I can convey some of that to you today.
@@ -60,3 +74,4 @@ Going into conversations, when you go into that disagreement, or potential disag
 So, this is kind of a really useful thing before we go into the first exercise, that is used, it is good to remember that really you're trying to build relationships. There are humans involved here. It - we're in tech but it isn't all machines and code. Positive disagreements can moving everybody forward and help the business. Also, those relationships grow over time, and they make further communication easier, so there is less thinking involved, and you know you can say certain things to certain people, and you get to learn each other's styles, and so forth.
 
 So keep that in mind along with the kind of empathy and aspects of it as we go into the exercise.
+

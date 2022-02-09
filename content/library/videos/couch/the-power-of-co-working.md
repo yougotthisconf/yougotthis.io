@@ -1,11 +1,22 @@
 ---
 title: The Power of Co-Working
-date: 2021-01-16
-people: ['suze-shardlow']
+date: 2021-01-16T00:00:00.000Z
+people:
+  - suze-shardlow
 descriptions:
   - short: How to set up and use co-working sessions as a productivty tool.
-  - full: Do you have a pile of projects that's gathering dust? Or a portfolio you know you need to build up, but can't seem to find the motivation? Are you feeling the pressure because everyone around you is saying you have loads of time now you have no commute? Let's look at how to allocate time and use co-working as a productivity tool, or even set up and run your own co-working sessions using a framework I developed in London during lockdown and has since been adopted in the USA.
+  - full: >-
+      Do you have a pile of projects that's gathering dust? Or a portfolio you
+      know you need to build up, but can't seem to find the motivation? Are you
+      feeling the pressure because everyone around you is saying you have loads
+      of time now you have no commute? Let's look at how to allocate time and
+      use co-working as a productivity tool, or even set up and run your own
+      co-working sessions using a framework I developed in London during
+      lockdown and has since been adopted in the USA.
 vimeo: 666602428
+duration: 24
+cover: >-
+  https://i.vimeocdn.com/video/1349959526-13785c18dd5a22299e129488637cc7a1e6a4f7991c78282f998da0618d875da2-d
 ---
 
 SUZE: The UK went into lockdown in March 2020. Many people found themselves working from home, thereby spending more time at home and less time commuting. We were surrounded by messages like the ones you see here. People were saying things like "when you go for a job in the future, employers are going to ask how you spent lockdown, and you need to have a good answer that involves learning and personal development". "You have more free time than ever before." "You have no excuse not to learn that new skill or finish those projects, or get fit." Now, this wasn't helpful because there were millions of people it didn't apply to. Some people were struggling because they had less time, or the lockdown actually affected their mental health and motivation.
@@ -73,3 +84,4 @@ Provide communication channels for people to check in if they want to. They migh
 And that leads onto celebrating. Make sure you do a check-in at the very end. Find out what people have done. It might be that some folks didn't get as much done as they wanted, but as long as they're further forward than they were when they joined you, then it's all good.
 
 Thank you for listening to my talk. My name is Suze Shardlow, and I hope that I've encouraged you to consider co-working as a productivity tool. Here's the link to my [blog post](https://suze.dev/blog/get-on-with-it) that I mentioned outlining the full methodology for Get On With It. I've also put a link there to my [meetup group](https://suze.dev/loc) in case you'd like to join us one Sunday afternoon. The next one is tomorrow. Everybody is welcome. Don't be put off by the name Ladies Of Code London. We welcome everybody. Enjoy the rest of the conference.
+

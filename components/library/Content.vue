@@ -1,26 +1,26 @@
 <template>
     <n-link to="/">
         <div class="thumb">
-            <img src="https://placekitten.com/1280/721" alt="">
+            <img :src="item.cover" alt="">
             <span class="icon">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                    <path v-if="type == 'video'" fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
-                    <path v-if="type == 'article'" fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd" />
+                    <path v-if="item.type == 'video'" fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
+                    <path v-if="item.type == 'article'" fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd" />
 
                 </svg>
-                <span>{{ length }} min {{ type }}</span>
+                <span>{{ item.duration }} min {{ item.type }}</span>
             </span>
             <span v-if="featured" class="featured">Featured</span>
         </div>
         <div class="meta">
             <div class="images">
-                <img v-for="person in people" :key="person.name" :src="person.avatar" :alt="`Avatar of ${person.name}`" />
+                <img v-for="person in item.people" :key="person.name" :src="person.avatar" :alt="`Avatar of ${person.name}`" />
             </div>
              <div>
-                 <h3 class="text-sm">{{ title }}</h3>
+                 <h3 class="text-sm">{{ item.title }}</h3>
                  <p>
-                     <span>{{ people[0].name }}</span>
-                     <span v-if="people.length > 1">+{{people.length-1}}</span>
+                     <span>{{ item.people[0].name }}</span>
+                     <span v-if="item.people.length > 1">+{{ item.people.length-1 }}</span>
                  </p>
              </div>
         </div>
@@ -30,16 +30,8 @@
 <script>
 export default {
     props: {
-        title: {
-            type: String,
-            required: true
-        },
-        people: {
-            type: Array,
-            required: true
-        },
-        length: {
-            type: Number,
+        item: {
+            type: Object,
             required: true
         },
         type: {

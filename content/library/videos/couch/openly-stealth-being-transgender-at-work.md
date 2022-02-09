@@ -1,11 +1,29 @@
 ---
-title: "Openly Stealth: Being Transgender at Work"
-date: 2021-01-16
-people: ['alex-papadopoulos']
+title: 'Openly Stealth: Being Transgender at Work'
+date: 2021-01-16T00:00:00.000Z
+people:
+  - alex-papadopoulos
 descriptions:
-  - short: Starting new jobs, meeting new people, keeping mental peace, and celebrating diversity in the workspace.
-  - full: Navigating being transgender anywhere is not an easy task, let alone in the workplace and in a male-dominated field such as tech. Landing a new job after transitioning (or at any point during transitioning really) always comes accompanied with a variety of emotions. “Should I disclose my transness? If I don’t, am I lying?”, “I am afraid to tell my colleagues that I am trans, but I don’t feel okay with myself if I don’t”, “People can tell. I am a fraud.” The thoughts mentioned above, and a thousand others are very much expected and an additional stress when trying to adapt to a new workplace with new people and expectations. This talk will go through the experience of landing a new job as a transgender person, and ways to keep mental peace while doing so, as well as celebrate and showcase the importance of diversity in the workplace.
+  - short: >-
+      Starting new jobs, meeting new people, keeping mental peace, and
+      celebrating diversity in the workspace.
+  - full: >-
+      Navigating being transgender anywhere is not an easy task, let alone in
+      the workplace and in a male-dominated field such as tech. Landing a new
+      job after transitioning (or at any point during transitioning really)
+      always comes accompanied with a variety of emotions. “Should I disclose my
+      transness? If I don’t, am I lying?”, “I am afraid to tell my colleagues
+      that I am trans, but I don’t feel okay with myself if I don’t”, “People
+      can tell. I am a fraud.” The thoughts mentioned above, and a thousand
+      others are very much expected and an additional stress when trying to
+      adapt to a new workplace with new people and expectations. This talk will
+      go through the experience of landing a new job as a transgender person,
+      and ways to keep mental peace while doing so, as well as celebrate and
+      showcase the importance of diversity in the workplace.
 vimeo: 666598181
+duration: 23
+cover: >-
+  https://i.vimeocdn.com/video/1349960623-b714d95b21b72115aaf568e0dea8d221fb5c30fcb2c5b3f4793085864c564e2a-d
 ---
 
 ALEX: Thank you, I was actively looking for something like this talk when I was considering my options about how to come out at work, so, yes, now I'm doing one. It was just really cool. Starting a new job can be intimidating for a variety of reasons, like starting from very practical things like learning how to actually do the work you've been hiring to do, getting to know your colleagues, and building trusting relationships with them, to a number of other things that have nothing to do with the job, and more to do with ourselves.
@@ -53,3 +71,4 @@ A good analogy that I like to use that if you accidentally got into someone else
 In tech, for example, we value user experience, and we praise it as the secret ingredient for any recipe we are trying to sell, but the users in that experience are not a homogeneous group, and neither should people accommodating those users should be. If you can understand what your users need because you haven't walked in their shoes, how are you supposed to create something that they would want to use, and they would find enjoyable? There is still so much more to be done to make trans folk feel welcome and heard in the corporation, when for so many years we've been excluded and fired because we didn't fit the narrative.
 
 The world is moving forward, and the fact that I can sit here and talk to you about coming out where you work, which in the past would be the biggest no-no, it is really a huge step. I do wish some day this won't be a matter of discussion. I genuinely wish one day the act of coming out will be met with the same surprise and enthusiasm as announcing that you're getting married, or that your sister is pregnant. It is remarkable and huge for the people who share them, but unremarkable and everyday occurrences to the receivers. Until then, I hope that we continue to do everything in our power to make this journey a bit easier day by day with a bit of empathy, and a lot of understanding. Thanks!
+

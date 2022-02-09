@@ -1,11 +1,24 @@
 ---
 title: How to Align Your Values With Your Job
-date: 2021-08-12
-people: ['laura-morinigo']
+date: 2021-08-12T00:00:00.000Z
+people:
+  - laura-morinigo
 descriptions:
-  - short: Maintaining both motivation and integrity through established personal values.
-  - full: "Every time we land a new job, the excitement is there: new beginnings, a new opportunity, the chance to grow... but how can we keep this motivation during our journey and take it further from the newbie stage? Aligning your values within your workplace can be the answer. During this talk, we will learn how to recognize our own values and take them to our workplace (and step up when we don't find them) to achieve a greater commitment and satisfaction in our careers."
+  - short: >-
+      Maintaining both motivation and integrity through established personal
+      values.
+  - full: >-
+      Every time we land a new job, the excitement is there: new beginnings, a
+      new opportunity, the chance to grow... but how can we keep this motivation
+      during our journey and take it further from the newbie stage? Aligning
+      your values within your workplace can be the answer. During this talk, we
+      will learn how to recognize our own values and take them to our workplace
+      (and step up when we don't find them) to achieve a greater commitment and
+      satisfaction in our careers.
 vimeo: 666547287
+duration: 25
+cover: >-
+  https://i.vimeocdn.com/video/1349709776-7f64dd2de2dc22bee68b7b241346ad8edfe5514c2ca2454e6ed3271ef4e8ce81-d
 ---
 
 Hi, everybody. So, first of all, thanks for having me. Again, You Got This is a great conference, so I'm excited to be here. And today we're going to talk about a few things. The first one would be how to align your values with your work, right? How is it? How can I enjoy my daily life at work, how do I know my values, and so on?
@@ -53,3 +66,4 @@ Especially this part is before, if you have to make a decision about a new job, 
 I think that is a very good approach to see, when you can expect from job. Last but not least, when you're there, sometimes, it's hard, you don't see at once how it is behind the scenes, but let's say that you kind of are happy and I think like you're aligned with what you are doing, trying to plant your own seeds, share your values with the rest of the people, and your work, even if you work with your team-mates, if you work on your own as a freelance, if you're a student, sometimes, when I feel like, you know, I'm not, I'm a little bit lost, okay, what can I do? Whatever, again, if fun is my value, I'm trying to do something to make my colleagues enjoy the work, or go for a coffee, or make it feel like we are having fun in this process, of it can be a conference, it can be, I don't know, in any specific scenario, but that's my last advice, especially if you are in a place, even though if you think you're not someone 100% sure about which are your values, or the company values, have that checked and try to put your values in your daily day.
 
 So, yes, I think, I hope that talk was useful. Yes, my cartoon, like during Covid times, hopefully you're all safe out there, and still take care of yourself. You can find me on Twitter. Sometimes I put stuff that I like on Instagram too, and then you can find on Samsung Internet where we talk about the web. So, yes, that is it for today.
+

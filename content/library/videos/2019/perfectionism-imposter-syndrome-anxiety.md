@@ -1,11 +1,20 @@
 ---
-title: Perfectionism, Imposter Syndrome, and Anxiety
-date: 2019-01-19
-people: ['jo-franchetti']
+title: 'Perfectionism, Imposter Syndrome, and Anxiety'
+date: 2019-01-19T00:00:00.000Z
+people:
+  - jo-franchetti
 descriptions:
-  - short: How to spot, manage, and overcome imposter syndrome.
-  - full: Impostor syndrome - the belief that you don’t deserve to be where you are, and perfectionism - a need to work to impossibly high standards, are exhausting. Learn how to spot these destructive thought patterns in yourself, how to manage anxiety and procrastination and how to start being kinder to yourself, because you’re awesome and you deserve to be here.
+  - short: 'How to spot, manage, and overcome imposter syndrome.'
+  - full: >-
+      Impostor syndrome - the belief that you don’t deserve to be where you are,
+      and perfectionism - a need to work to impossibly high standards, are
+      exhausting. Learn how to spot these destructive thought patterns in
+      yourself, how to manage anxiety and procrastination and how to start being
+      kinder to yourself, because you’re awesome and you deserve to be here.
 vimeo: 666700618
+duration: 33
+cover: >-
+  https://i.vimeocdn.com/video/1349993096-1e51dc3ae7e5c9bc965fbb6c354f4490c8d99ceb56ee064d8ea95223b7ae27cb-d
 ---
 
 Thank you for the introduction, Scary. It's amazing to be speaking here to all of you. My name is Jo Franchetti. I'm a developer advocate at Samsung Internet.
@@ -99,3 +108,4 @@ And you've got a brilliant talk coming up on self-care later this afternoon from
 Why am I telling you all these things? Because I never want anybody else to go through what I did, or to feel alone or unsupported. Because, I really think that, by talking about it, we can increase awareness and learning about mental health in the tech industry, because you deserve to feel happy and comfortable, and, as evidenced by the brilliant line-up that you've got coming today, the tech industry, wonderful, empowering, and it can be a brilliant place to be, and you deserve to be there.
 
 Thank you. [Cheering and Applause]
+

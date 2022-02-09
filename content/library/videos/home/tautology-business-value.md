@@ -1,11 +1,24 @@
 ---
 title: Tautology and Business Value
-date: 2020-06-06
-people: ['heidi-waterhouse']
+date: 2020-06-06T00:00:00.000Z
+people:
+  - heidi-waterhouse
 descriptions:
-  - short: How to understand why your job exists, and make the most of it.
-  - full: You didn't get that cool programming job because you're a great programmer. You got it because the company you work for wants to make money and they think you can help. It's easy for us to feel like our worth/value/capitalist expression is tied to our employment, but it's also useful to flip that narrative and talk about how our companies need us, and how we can use that understanding to be more valuable employees and even better humans.  What is the value that you bring to your employer? Can you articulate it? Can you expand it? Can you take that value and use it for your own purposes?
+  - short: 'How to understand why your job exists, and make the most of it.'
+  - full: >-
+      You didn't get that cool programming job because you're a great
+      programmer. You got it because the company you work for wants to make
+      money and they think you can help. It's easy for us to feel like our
+      worth/value/capitalist expression is tied to our employment, but it's also
+      useful to flip that narrative and talk about how our companies need us,
+      and how we can use that understanding to be more valuable employees and
+      even better humans.  What is the value that you bring to your employer?
+      Can you articulate it? Can you expand it? Can you take that value and use
+      it for your own purposes?
 vimeo: 670239409
+duration: 33
+cover: >-
+  https://i.vimeocdn.com/video/1357810162-4665a625167aee23add127f3b4c6cf662277620bd897eb538add275bd9c9fbad-d
 ---
 
 It's great to be here. I'm so excited to talk to you all today. I spoke at adulting.dev, and it was really meaningful for me to give a talk to people who are at a stage of their career where they want to learn about these core skills. The thing I have to tell you is about your business value, and it's going to be super useful.
@@ -133,3 +146,4 @@ What in general - but, in general if the company doesn't know - you ... you can'
 __Carolyn:__ Definitely. That's all the time we have, but I really want to thank for taking the time to say that's okay to advocate for ourselves, and we will continue this conversation hopefully in the self-advocacy channel on Discord.
 
 __Heidi:__ That sounds great. I will be in the sponsored channel on Discord if anybody has any questions. I will be around for a few hours this afternoon.
+
