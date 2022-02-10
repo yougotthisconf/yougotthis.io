@@ -14,7 +14,7 @@ export default {
     props: {
         collection: {
             type: Object,
-            require: true
+            required: true
         }
     }
 }

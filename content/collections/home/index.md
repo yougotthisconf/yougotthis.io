@@ -2,7 +2,7 @@
 title: "You Got This From Home"
 description: "Content from our You Got This From Home event."
 date: 2020-06-06
-cover: cover.png
+cover: home.png
 items:
     - videos/home/art-of-communication
     - videos/home/burnout-recovery
