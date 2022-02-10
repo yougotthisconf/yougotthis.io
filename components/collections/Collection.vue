@@ -1,7 +1,6 @@
 <template>
     <n-link to="/">
         <div class="background-image" :style="`background-image: url('${collection.dir}/${collection.cover}')`">
-            <img :src="`${collection.dir}/${collection.icon}`" alt="Icon desc">
         </div>
         <div class="meta">
             <h2 :data-title="collection.title">{{ collection.title }}</h2>

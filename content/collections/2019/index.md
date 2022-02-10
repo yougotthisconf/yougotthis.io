@@ -3,7 +3,6 @@ title: "You Got This 2019"
 description: "Content from our You Got This 2019 event."
 date: 2019-01-19
 cover: cover.png
-icon: icon.png
 items:
     - videos/2019/cultivating-independence
     - videos/2019/junior-next
