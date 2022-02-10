@@ -2,8 +2,8 @@
 title: "IT Matters Online"
 description: "Content from our IT Matters Online event."
 date: 2020-09-26
-cover: ./cover.png
-icon: ./icon.png
+cover: cover.png
+icon: icon.png
 items:
     - videos/it-matters/accessibility-for-devs
     - videos/it-matters/behaviors-boundaries

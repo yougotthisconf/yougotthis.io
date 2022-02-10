@@ -33,23 +33,23 @@
 <script>
 export default {
     async asyncData({ $content }) {
-    const videos = await $content('library/videos', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
-    const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
+        const videos = await $content('library/videos', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
+        const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
 
-    const addTypes = [
-        ...videos.map(v => ({ ...v, type: 'video' }))
-    ]
+        const addTypes = [
+            ...videos.map(v => ({ ...v, type: 'video' }))
+        ]
 
-    const addFullProfiles = addTypes.map(item => {
-        let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
-        profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
-        return { ...item, people: profiles }
-    })
+        const addFullProfiles = addTypes.map(item => {
+            let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
+            profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
+            return { ...item, people: profiles }
+        })
 
-    const aboveFold = addFullProfiles.slice(0, 12)
-    const belowFold = addFullProfiles.slice(12, addFullProfiles.length)
+        const aboveFold = addFullProfiles.slice(0, 12)
+        const belowFold = addFullProfiles.slice(12, addFullProfiles.length)
 
-    return { aboveFold, belowFold }
-  },
+        return { aboveFold, belowFold }
+    },
 }
 </script>

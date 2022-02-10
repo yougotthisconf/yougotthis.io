@@ -2,8 +2,8 @@
 title: "You Got This 2020"
 description: "Content from our You Got This 2020 event."
 date: 2020-01-18
-cover: ./cover.png
-icon: ./icon.png
+cover: cover.png
+icon: icon.png
 items:
     - videos/2020/culture-perf-reviews
     - videos/2020/developing-team-game-design

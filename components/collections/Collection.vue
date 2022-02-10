@@ -1,11 +1,11 @@
 <template>
     <n-link to="/">
-        <div class="background-image" style="background-image: url('https://placekitten.com/300/200')">
-            <img src="https://placekitten.com/100/100" alt="Icon desc">
+        <div class="background-image" :style="`background-image: url('${collection.dir}/${collection.cover}')`">
+            <img :src="`${collection.dir}/${collection.icon}`" alt="Icon desc">
         </div>
         <div class="meta">
-            <h2 :data-title="title">{{ title }}</h2>
-            <p>{{ summary }}</p>
+            <h2 :data-title="collection.title">{{ collection.title }}</h2>
+            <p>{{ collection.description }}</p>
         </div>
     </n-link>
 </template>
@@ -13,14 +13,10 @@
 <script>
 export default {
     props: {
-        title: {
-            type: String,
-            required: true
-        },
-        summary: {
-            type: String,
-            required: true
-        },
+        collection: {
+            type: Object,
+            require: true
+        }
     }
 }
 </script>
@@ -40,13 +36,13 @@ a {
 }
 .background-image {
     height: 36vw;
-    @apply md:h-48 rounded-t-md bg-cover bg-no-repeat relative;
+    @apply md:h-48 rounded-t-md bg-cover bg-center bg-no-repeat relative;
     & img {
         @apply absolute bottom-8 left-4 h-12 rounded-full;
     }
 }
 .meta {
-    @apply p-4 flex-1 flex flex-col justify-between;
+    @apply p-4 flex-1 flex flex-col justify-start;
 }
 h2 {
   @apply font-heading text-theme-main text-2xl md:text-3xl -mt-7 md:-mt-8;

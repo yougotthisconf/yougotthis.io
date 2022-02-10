@@ -2,8 +2,8 @@
 title: You Got This In Cyberspace
 description: Content from our You Got This In Cyberspace event.
 date: 2022-01-15
-cover: ./cover.png
-icon: ./icon.png
+cover: cover.png
+icon: icon.png
 items:
     - videos/cyberspace/building-team-trust-virtually
     - videos/cyberspace/buying-back-time
