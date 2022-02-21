@@ -27,7 +27,6 @@
 
     <div class="wrapper pb-8">
       <div class="bg-green-500 p-4 mb-8">Todo: sponsors</div>
-      <div class="bg-green-500 p-4 mb-8">Todo: footer</div>
     </div>
 
   </div>
