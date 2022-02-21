@@ -6,6 +6,7 @@ export default {
   components: [
     '~/components',
     '~/components/collections',
+    '~/components/events',
     '~/components/global',
     '~/components/library',
     '~/components/one-off',
