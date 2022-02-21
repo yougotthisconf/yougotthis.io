@@ -51,7 +51,6 @@ export default {
       return { ...item, people: profiles }
     })
 
-
     return {
       content: contentWithPeople,
       collections,

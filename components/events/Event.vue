@@ -1,7 +1,7 @@
 <template>
     <n-link to="/">
         <div class="thumb">
-            <img src="https://placekitten.com/1920/1080" alt="">
+            <img :src="`${event.dir}/${event.og}`" alt="">
         </div>
         <h2 :data-title="event.title">{{ event.title }}</h2>
         <p>{{ event.description }}</p>
