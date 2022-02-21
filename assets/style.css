@@ -48,6 +48,16 @@ body {
     }
 }
 
+.text-input {
+    @apply rounded-md;
+    @apply text-base px-2 py-1;
+    @apply border-2 border-theme-black outline-none;
+    @apply bg-theme-white;
+    &:focus {
+        @apply border-theme-dark bg-white;
+    }
+}
+
 .heading {
     @apply font-heading text-xl md:text-3xl
 }

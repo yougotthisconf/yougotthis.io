@@ -16,8 +16,9 @@
       <n-link class="button bright mt-8 grid-rows-1" to="/library">See full library</n-link>
     </div>
 
+    <Newsletter />
+
     <div class="wrapper pb-8">
-      <div class="bg-green-500 p-4 mb-8">Todo: newsletter cta</div>
       <div class="bg-green-500 p-4 mb-8">Todo: upcoming events</div>
       <div class="bg-green-500 p-4 mb-8">Todo: sponsors</div>
       <div class="bg-green-500 p-4 mb-8">Todo: footer</div>
