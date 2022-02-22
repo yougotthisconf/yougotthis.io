@@ -24,12 +24,14 @@ export default {
 a {
     @apply flex flex-col;
     @apply bg-white text-theme-black rounded-lg transition;
-    @apply border-2 border-theme-black;
     @apply text-left;
-    box-shadow: var(--theme-black) 2.5px 2.5px 0 0;
+    @apply shadow;
+    &:hover {
+        @apply transition shadow-lg;
+        transform: translate(0, -2px);
+    }
     &:active {
-        @apply transition;
-        box-shadow: var(--theme-black) 0 0 0 0;
+        @apply transition shadow-none;
         transform: translate(2px, 2px);
     }
 }

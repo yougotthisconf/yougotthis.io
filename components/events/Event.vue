@@ -41,7 +41,15 @@ export default {
 
 <style scoped>
 a {
-    @apply text-left;
+    @apply text-left transition;
+    &:hover .thumb {
+        @apply transition shadow-lg;
+        transform: translate(0, -2px);
+    }
+    & .thumb:active {
+        @apply transition shadow-none;
+        transform: translate(2px, 2px);
+    }
 }
 .thumb {
     @apply relative shadow rounded-lg overflow-hidden

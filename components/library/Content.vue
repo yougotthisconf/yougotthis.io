@@ -47,8 +47,19 @@ export default {
 </script>
 
 <style scoped>
+a {
+    @apply transition;
+    &:hover .thumb {
+        @apply transition shadow-lg;
+        transform: translate(0, -2px);
+    }
+    & .thumb:active {
+        @apply transition shadow-none;
+        transform: translate(2px, 2px);
+    }
+}
 .thumb {
-    @apply relative shadow rounded-lg overflow-hidden
+    @apply relative shadow rounded-lg overflow-hidden;
 }
 .icon, .featured {
     @apply absolute text-white text-xs px-2 py-1 rounded-md
