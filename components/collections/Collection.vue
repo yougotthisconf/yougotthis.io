@@ -1,7 +1,6 @@
 <template>
     <n-link to="/">
-        <div class="background-image" :style="`background-image: url('${collection.dir}/${collection.cover}')`">
-        </div>
+        <img :src="`${collection.dir}/${collection.cover}`" alt="">
         <div class="meta">
             <h2 :data-title="collection.title">{{ collection.title }}</h2>
             <p>{{ collection.description }}</p>
@@ -35,12 +34,8 @@ a {
         transform: translate(2px, 2px);
     }
 }
-.background-image {
-    height: 36vw;
-    @apply md:h-48 rounded-t-md bg-cover bg-center bg-no-repeat relative;
-    & img {
-        @apply absolute bottom-8 left-4 h-12 rounded-full;
-    }
+img {
+    @apply rounded-t-md;
 }
 .meta {
     @apply p-4 flex-1 flex flex-col justify-start;
