@@ -1,30 +1,30 @@
 <template>
     <div>
-        <div class="wrapper pt-16 mb-8">
+        <div class="wrapper pt-16 mb-16">
             <div class="bg-green-500 p-4 mb-8">Todo: filters for content type, sorting by alphabetical or latest.</div>
             <h1 class="heading text-center">Library</h1>
             <ContentList :list="aboveFold" class="mt-8" />
         </div>
 
         <div class="bg-theme-main text-white">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 60 1440 140" class="bg-theme-white -mb-2 border-b border-theme-main">
-                <path fill="var(--theme-main)" fill-opacity="1" d="M0,192L80,165.3C160,139,320,85,480,85.3C640,85,800,139,960,144C1120,149,1280,107,1360,85.3L1440,64L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none" class="h-6 w-full bg-theme-white">
+                <path transform="scale(1, -1) translate(0, -100)"  d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="var(--theme-main)"></path>
             </svg>
 
-            <div class="wrapper pb-4 pt-8 text-center">
+            <div class="wrapper py-16 text-center">
                 <h2 class="heading">Check out our collections!</h2>
                 <p class="mt-2 mb-4">View our curated collections designed to help you navigate specific core skill areas.</p>
                 <CollectionList :list="collections" />
                 <n-link class="button mt-8 grid-rows-1" to="/collections">See all collections</n-link>
             </div>
 
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 290" class="bg-theme-white -mt-2 border-t border-theme-main">
-                <path fill="var(--theme-main)" fill-opacity="1" d="M0,0L80,48C160,96,320,192,480,197.3C640,203,800,117,960,117.3C1120,117,1280,203,1360,245.3L1440,288L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="h-6 w-full bg-theme-white">
+                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="var(--theme-main)"></path>
             </svg>
 
         </div>
 
-        <div class="wrapper pt-8 pb-16">
+        <div class="wrapper py-16">
             <ContentList :list="belowFold" />
         </div>
     </div>
