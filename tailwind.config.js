@@ -26,5 +26,6 @@ module.exports = {
   plugins: [
     require('@tailwindcss/aspect-ratio'),
     require('tailwindcss-text-fill-stroke')(),
+    require('@tailwindcss/typography'),
   ],
 }

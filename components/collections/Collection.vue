@@ -1,5 +1,5 @@
 <template>
-    <n-link to="/">
+    <n-link :to="collection.dir">
         <img :src="`${collection.dir}/${collection.cover}`" alt="">
         <div class="meta">
             <h2 :data-title="collection.title">{{ collection.title }}</h2>
