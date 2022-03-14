@@ -13,5 +13,3 @@ sponsors:
     - circleci
     - samsung-internet
 ---
-
-Lorem ipsum

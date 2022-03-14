@@ -6,5 +6,5 @@ type: Meetup
 location: Online
 start: 2022-09-15T18:00:00
 end: 2022-09-15T20:00:00
-og: placeholder.png
+og: fall.jpg
 ---

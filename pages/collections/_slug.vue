@@ -25,7 +25,7 @@
                 <nuxt-content :document="collection" class="prose lg:prose-lg"></nuxt-content>
             </article>
             <div class="listing">
-                <h2 class="heading">All items in collection</h2>
+                <h2 v-if="collection.body.children.length > 0" class="heading">All items in collection</h2>
                 <ContentList :list="items" grid="md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-x-6" />
             </div>
         </main>
@@ -82,11 +82,11 @@ export default {
         @apply mt-2 md:mt-4;
     }
 }
-.listing {
-    @apply mt-8;
-    & h2 {
-        @apply text-theme-main mb-4
-    }
+article {
+    @apply mb-8;
+}
+.listing h2 {
+    @apply text-theme-main mb-4
 }
 main .meta {
     @apply mb-4 space-x-4;
