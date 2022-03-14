@@ -34,7 +34,7 @@
             </div>
         </div>
         <main class="col-span-2">
-            <article>
+            <article v-if="collection.body.children.length > 0">
                 <nuxt-content :document="collection" class="prose lg:prose-lg"></nuxt-content>
             </article>
             <div class="listing">
