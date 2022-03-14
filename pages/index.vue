@@ -42,7 +42,7 @@ export default {
     const collections = await $content('collections', { deep: true }).without(['body']).sortBy('date', 'desc').limit(6).fetch()
     const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
     const events = await $content('events', { deep: true }).where({ end: { $gt: Date.now() } }).sortBy('start', 'asc').limit(3).without(['body']).fetch()
-    const sponsors = await $content('sponsors', { deep: true }).where({ feature: true }).fetch()
+    const sponsors = await $content('sponsors', { deep: true }).where({ feature: true }).sortBy('name', 'asc').fetch()
 
     const contentWithTypes = [
       ...videos.map(v => ({ ...v, type: 'video' }))
