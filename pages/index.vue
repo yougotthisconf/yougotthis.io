@@ -10,7 +10,7 @@
     </div>
 
     <div class="wrapper text-center pb-24">
-      <h2 class="heading">Latest From the Content Library</h2>
+      <h2 class="heading">Latest Content</h2>
       <p class="mt-2 mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas in enim dolor iste sunt accusamus.</p>
       <ContentList :list="content" />
       <n-link class="button bright mt-8 grid-rows-1" to="/library">See full library</n-link>
@@ -25,8 +25,11 @@
       <n-link class="button bright mt-8 grid-rows-1" to="/events">See all events</n-link>
     </div>
 
-    <div class="wrapper pb-8">
-      <div class="bg-green-500 p-4 mb-8">Todo: sponsors</div>
+    <div class="wrapper pb-8 text-center">
+      <h2 class="heading">Sponsors</h2>
+      <p class="mt-2 mb-4">Thanks to all of our current and past sponsors.</p>
+      <SponsorList :list="sponsors" grid="grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-2" />
+      <n-link class="button bright mt-8 grid-rows-1" to="/sponsors">See all sponsors</n-link>
     </div>
 
   </div>
@@ -39,6 +42,7 @@ export default {
     const collections = await $content('collections', { deep: true }).without(['body']).sortBy('date', 'desc').limit(6).fetch()
     const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
     const events = await $content('events', { deep: true }).where({ end: { $gt: Date.now() } }).sortBy('start', 'asc').limit(3).without(['body']).fetch()
+    const sponsors = await $content('sponsors', { deep: true }).where({ feature: true }).fetch()
 
     const contentWithTypes = [
       ...videos.map(v => ({ ...v, type: 'video' }))
@@ -53,7 +57,8 @@ export default {
     return {
       content: contentWithPeople,
       collections,
-      events
+      events,
+      sponsors
     }
   },
 }

@@ -8,11 +8,9 @@
                     <p>{{ collection.description }}</p>
                 </div>
             </div>
-            <div class="box">
-                <h2>Sponsors</h2>
-                <ul class="list-disc pl-4">
-                    <li v-for="sponsor in collection.sponsors" :key="sponsor">{{sponsor}}</li>
-                </ul>
+            <div v-if="sponsors && sponsors.length > 0" class="box">
+                <h2 class="font-heading mb-2 text-lg">Sponsored by</h2>
+                <SponsorList :list="sponsors" grid="grid-cols-2 gap-2" />
             </div>
         </div>
         <main class="col-span-2">
@@ -38,20 +36,21 @@ export default {
     const collection = await $content('collections', params.slug, 'index').fetch()
     const fullLibrary = await $content('library', { deep: true }).without(['body']).fetch()
     const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
+    const allSponsors = await $content('sponsors', { deep: true }).fetch()
 
     let items = fullLibrary.filter(libItem => collection.items.find(colItem => libItem.path.includes(colItem)))
-
     items = items.map(item => ({ ...item, type: item.vimeo ? 'video' : 'article'}))
-
     items = items.map(item => {
         let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
         profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
         return { ...item, people: profiles }
     })
 
+    const sponsors = allSponsors.filter(sponsor => collection.sponsors.find(name => sponsor.path.includes(name)))
+
     const { duration } = items.reduce((a, b) => ({duration: a.duration + b.duration}))
 
-    return { collection, items, duration }
+    return { collection, items, duration, sponsors }
   },
 }
 </script>
