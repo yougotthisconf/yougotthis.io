@@ -4,5 +4,10 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 date: 2022-06-01
 cover: placeholder-5.png
 items:
-    - videos/home/art-of-communication
+    - videos/fall-2021/saying-no
+    - videos/2019/perfectionism-imposter-syndrome-anxiety
+    - videos/it-matters/stress-depression-taboo
+    - videos/it-matters/understand-mental-health
+    - videos/it-matters/managing-team-overload
+    - videos/home/burnout-recovery
 ---

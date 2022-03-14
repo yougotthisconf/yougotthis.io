@@ -4,5 +4,7 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 date: 2022-06-01
 cover: placeholder-4.png
 items:
-    - videos/home/art-of-communication
+    - videos/cyberspace/conflict-to-cooperation
+    - videos/2020/not-your-job-to-love-job
+    - videos/2020/walking-away
 ---

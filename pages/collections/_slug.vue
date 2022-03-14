@@ -1,5 +1,5 @@
 <template>
-    <div class="wrapper grid sm:grid-cols-3 gap-y-8 sm:gap-8 my-12">
+    <div class="wrapper md:grid md:grid-cols-3 gap-y-8 sm:gap-8 my-12">
         <div class="col-span-1">
             <div class="card box">
                 <img :src="`${collection.dir}/${collection.cover}`" alt="">
@@ -35,7 +35,7 @@
         </div>
         <main class="col-span-2">
             <article v-if="collection.body.children.length > 0">
-                <nuxt-content :document="collection" class="prose lg:prose-lg"></nuxt-content>
+                <nuxt-content :document="collection" class="max-w-full prose lg:prose-lg"></nuxt-content>
             </article>
             <div class="listing">
                 <h2 v-if="collection.body.children.length > 0" class="heading">All items in collection</h2>
@@ -73,10 +73,10 @@ export default {
 
 <style scoped>
 .box {
-    @apply bg-white text-theme-black rounded-lg transition text-left shadow mb-4 p-4;
+    @apply bg-white text-theme-black rounded-lg transition text-left shadow mb-4 p-4 w-full;
 }
 .card {
-    @apply flex flex-col p-0;
+    @apply flex flex-col p-0 w-full;
     & img {
         @apply rounded-t-md;
     }
@@ -104,12 +104,15 @@ article {
     @apply text-theme-main mb-4
 }
 .stats {
-    @apply mb-4 space-y-2;
+    @apply mb-4 space-y-2 flex flex-wrap items-center;
     & .stat {
-        @apply flex items-center text-lg;
+        @apply flex items-center text-lg !mt-0 mr-4;
         & svg {
             @apply w-4 h-4 mr-1;
         }
+    }
+    &:last-child {
+        @apply mr-0;
     }
 }
 </style>
