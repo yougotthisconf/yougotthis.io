@@ -11,7 +11,29 @@ git<template>
                 </n-link>
                 <p class="text-lg text-theme-main font-bold">You Got This is a learning hub focused on core skills needed for a happy and healthy work life.</p>
                 <p class="text-theme-main text-sm font-bold mt-2">A project by Kevin Lewis (<a href="https://twitter.com/_phzn">@_phzn</a>)</p>
-                <ul class="mt-6 space-y-2">
+            </div>
+            <div class="pt-6 lg:pt-20 lg:col-span-2">
+                <ul class="flex flex-wrap lg:text-xl gap-6 mb-12 mt-6 lg:mt-0">
+                    <li>
+                        <a href="#">Content Library</a>
+                    </li>
+                    <li>
+                        <a href="#">Upcoming Events</a>
+                    </li>
+                    <li>
+                        <a href="#">Community Chat</a>
+                    </li>
+                    <li>
+                        <a href="#">Speak or Write for Us</a>
+                    </li>
+                    <li>
+                        <a href="#">Sponsor You Got This</a>
+                    </li>
+                    <li>
+                        <a href="#">Code of Conduct</a>
+                    </li>
+                </ul>
+                <ul class="flex flex-wrap gap-6">
                     <li>
                         <a href="#">Twitter</a>
                     </li>
@@ -26,62 +48,6 @@ git<template>
                     </li>
                     <li>
                         <a href="#">Email Us</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="pt-6 lg:pt-20">
-                <ul class="space-y-2">
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="pt-6 lg:pt-20">
-                <ul class="space-y-2">
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
-                    </li>
-                    <li>
-                        <a href="#">Link</a>
                     </li>
                 </ul>
             </div>
