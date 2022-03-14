@@ -34,7 +34,7 @@
 export default {
     async asyncData({ $content }) {
         const videos = await $content('library/videos', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
-        const collections = await $content('collections', { deep: true }).without(['body']).sortBy('date', 'desc').limit(3).fetch()
+        const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(3).fetch()
         const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
 
         const addTypes = [

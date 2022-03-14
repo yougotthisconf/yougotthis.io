@@ -39,7 +39,7 @@
 export default {
   async asyncData({ $content }) {
     const videos = await $content('library/videos', { deep: true }).without(['body']).sortBy('date', 'desc').limit(8).fetch()
-    const collections = await $content('collections', { deep: true }).without(['body']).sortBy('date', 'desc').limit(6).fetch()
+    const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(6).fetch()
     const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
     const events = await $content('events', { deep: true }).where({ end: { $gt: Date.now() } }).sortBy('start', 'asc').limit(3).without(['body']).fetch()
     const sponsors = await $content('sponsors', { deep: true }).where({ feature: true }).sortBy('name', 'asc').fetch()
