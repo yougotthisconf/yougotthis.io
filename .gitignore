@@ -95,3 +95,5 @@ sw.*
 /static/people
 /static/library
 /static/collections
+/static/events
+/static/sponsors
