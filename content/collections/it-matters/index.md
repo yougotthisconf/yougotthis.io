@@ -2,6 +2,7 @@
 title: "IT Matters Online"
 description: "Content from our IT Matters Online event."
 date: 2020-09-26
+type: event
 cover: it-matters.png
 items:
     - videos/it-matters/accessibility-for-devs
@@ -19,5 +20,3 @@ items:
 sponsors:
     - ing-tech-poland
 ---
-
-Lorem ipsum

@@ -2,6 +2,7 @@
 title: You Got This In Cyberspace
 description: Content from our You Got This In Cyberspace event.
 date: 2022-01-15
+type: event
 cover: cyberspace.png
 items:
     - videos/cyberspace/building-team-trust-virtually

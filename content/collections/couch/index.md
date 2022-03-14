@@ -2,6 +2,7 @@
 title: "You Got This From Your Couch"
 description: "Content from our You Got This From Your Couch event."
 date: 2021-01-15
+type: event
 cover: couch.png
 items:
     - videos/couch/activism-engagement
@@ -27,5 +28,3 @@ sponsors:
     - samsung-internet
     - vonage
 ---
-
-Lorem ipsum

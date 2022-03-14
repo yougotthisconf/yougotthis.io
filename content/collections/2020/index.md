@@ -2,6 +2,7 @@
 title: "You Got This 2020"
 description: "Content from our You Got This 2020 event."
 date: 2020-01-18
+type: event
 cover: 2020.png
 items:
     - videos/2020/culture-perf-reviews
@@ -26,5 +27,3 @@ sponsors:
     - fastprint
     - proactive
 ---
-
-Lorem ipsum

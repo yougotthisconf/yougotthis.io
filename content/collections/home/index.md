@@ -2,6 +2,7 @@
 title: "You Got This From Home"
 description: "Content from our You Got This From Home event."
 date: 2020-06-06
+type: event
 cover: home.png
 items:
     - videos/home/art-of-communication
@@ -19,5 +20,3 @@ sponsors:
     - vonage
     - contentful
 ---
-
-Lorem ipsum

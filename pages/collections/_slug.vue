@@ -12,7 +12,7 @@
                 <h2 class="font-heading mb-2 -mt-2 text-lg">Sponsored by</h2>
                 <SponsorList :list="sponsors" grid="grid-cols-2 gap-2" />
             </div>
-            <div class="meta">
+            <div class="stats">
                 <div class="stat">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
@@ -61,9 +61,9 @@ export default {
         return { ...item, people: profiles }
     })
 
-    const sponsors = allSponsors.filter(sponsor => collection.sponsors.find(name => sponsor.path.includes(name)))
+    const sponsors = collection.sponsors ? allSponsors.filter(sponsor => collection.sponsors.find(name => sponsor.path.includes(name))) : []
 
-    const { duration: minutes } = items.reduce((a, b) => ({duration: a.duration + b.duration}))
+    const { duration: minutes } = items.reduce((a, b) => ({duration: a.duration + b.duration}), {duration: 0})
     const duration = Math.floor(minutes/60)+':'+ String(minutes%60).padStart(2, '0');
 
     return { collection, items, duration, sponsors }
@@ -103,10 +103,10 @@ article {
 .listing h2 {
     @apply text-theme-main mb-4
 }
-.meta {
+.stats {
     @apply mb-4 space-y-2;
     & .stat {
-        @apply flex items-center;
+        @apply flex items-center text-lg;
         & svg {
             @apply w-4 h-4 mr-1;
         }

@@ -1,6 +1,7 @@
 ---
 title: "You Got This 2019"
 description: "Content from our You Got This 2019 event."
+type: event
 date: 2019-01-19
 cover: 2019.png
 items:
@@ -31,5 +32,3 @@ sponsors:
     - balsamiq
     - nedap
 ---
-
-Lorem ipsum
