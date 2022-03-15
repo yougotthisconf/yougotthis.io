@@ -14,11 +14,11 @@
         </section>
         <section>
             <h2>Featured in</h2>
-            <CollectionList :list="collections" grid="grid-cols-1 gap-4" />
+            <CollectionList :list="collections" grid-class="grid-cols-1 gap-4" />
         </section>
         <section>
             <h2>Sponsored by</h2>
-            <SponsorList :list="sponsors" grid="grid-cols-2 gap-2 mb-8" />
+            <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mb-8" />
         </section>
     </div>
 </template>

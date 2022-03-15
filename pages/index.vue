@@ -21,14 +21,14 @@
     <div class="wrapper text-center pb-24">
       <h2 class="heading">Upcoming events</h2>
       <p class="mt-2 mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas in enim dolor iste sunt accusamus.</p>
-      <EventList :list="events" />
+      <EventList :list="events" eventClass="last:hidden lg:last:block" />
       <n-link class="button bright mt-8 grid-rows-1" to="/events">See all events</n-link>
     </div>
 
     <div class="wrapper pb-8 text-center">
       <h2 class="heading">Sponsors</h2>
       <p class="mt-2 mb-4">Thanks to all of our current and past sponsors.</p>
-      <SponsorList :list="sponsors" grid="grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-2" />
+      <SponsorList :list="sponsors" grid-class="grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-2" />
       <n-link class="button bright mt-8 grid-rows-1" to="/sponsors">See all sponsors</n-link>
     </div>
 

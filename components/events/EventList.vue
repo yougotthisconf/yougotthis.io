@@ -1,6 +1,6 @@
 <template>
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-        <Event v-for="item in list" :key="item.title" :event="item" class="event" />
+    <div class="grid" :class="gridClass">
+        <Event v-for="item in list" :key="item.title" :event="item" class="event" :class="eventClass" />
     </div>
 </template>
 
@@ -10,13 +10,17 @@ export default {
         list: {
             type: Array,
             required: true
+        },
+        gridClass: {
+            type: String,
+            required: false,
+            default: 'md:grid-cols-2 lg:grid-cols-3 gap-4'
+        },
+        eventClass: {
+            type: String,
+            required: false,
+            default: ''
         }
     }
 }
 </script>
-
-<style scoped>
-.event:last-child {
-    @apply hidden lg:block;
-}
-</style>

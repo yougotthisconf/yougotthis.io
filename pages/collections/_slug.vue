@@ -10,7 +10,7 @@
             </div>
             <div v-if="sponsors && sponsors.length > 0" class="box">
                 <h2 class="font-heading mb-2 -mt-2 text-lg">Sponsored by</h2>
-                <SponsorList :list="sponsors" grid="grid-cols-2 gap-2" />
+                <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2" />
             </div>
             <div class="stats">
                 <div class="stat">
@@ -39,7 +39,7 @@
             </article>
             <div class="listing">
                 <h2 v-if="collection.body.children.length > 0" class="heading">All items in collection</h2>
-                <ContentList :list="items" grid="md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-x-6" />
+                <ContentList :list="items" grid-class="md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-x-6" />
             </div>
         </main>
     </div>

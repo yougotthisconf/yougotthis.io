@@ -1,6 +1,6 @@
 <template>
-    <div :class="`grid ${grid}`">
-        <Content v-for="item in list" :key="item.title" :item="item" :type="item.type" />
+    <div class="grid" :class="gridClass">
+        <Content v-for="item in list" :key="item.title" :item="item" :type="item.type" :class="contentClass" />
     </div>
 </template>
 
@@ -11,10 +11,15 @@ export default {
             type: Array,
             required: true
         },
-        grid: {
+        gridClass: {
             type: String,
             required: false,
             default: 'md:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-8'
+        },
+        contentClass: {
+            type: String,
+            required: false,
+            default: ''
         }
     }
 }

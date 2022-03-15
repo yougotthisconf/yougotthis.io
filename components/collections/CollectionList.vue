@@ -1,6 +1,6 @@
 <template>
-    <div class="grid" :class="grid">
-        <Collection v-for="item in list" :key="item.title" :collection="item" />
+    <div class="grid" :class="gridClass">
+        <Collection v-for="item in list" :key="item.title" :collection="item" :class="collectionClass" />
     </div>
 </template>
 
@@ -11,10 +11,15 @@ export default {
             type: Array,
             required: true
         },
-        grid: {
+        gridClass: {
             type: String,
             required: false,
             default: 'md:grid-cols-2 lg:grid-cols-3 gap-4'
+        },
+        collectionClass: {
+            type: String,
+            required: false,
+            default: ''
         }
     }
 }

@@ -17,7 +17,7 @@
                 <img v-for="person in item.people" :key="person.name" :src="person.avatar" :alt="`Avatar of ${person.name}`" />
             </div>
              <div>
-                 <h3 class="text-sm">{{ item.title }}</h3>
+                 <h2 class="text-sm">{{ item.title }}</h2>
                  <p>
                      <span>{{ item.people[0].name }}</span>
                      <span v-if="item.people.length > 1">+{{ item.people.length-1 }}</span>
