@@ -33,22 +33,18 @@
 <script>
 export default {
     async asyncData({ $content }) {
-        const videos = await $content('library/videos', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
+        let content = await $content('library', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
         const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(4).fetch()
         const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
 
-        const addTypes = [
-            ...videos.map(v => ({ ...v, type: 'video' }))
-        ]
-
-        const addFullProfiles = addTypes.map(item => {
+        content = content.map(item => {
             let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
             profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
             return { ...item, people: profiles }
         })
 
-        const aboveFold = addFullProfiles.slice(0, 12)
-        const belowFold = addFullProfiles.slice(12, addFullProfiles.length)
+        const aboveFold = content.slice(0, 12)
+        const belowFold = content.slice(12, content.length)
 
         return { aboveFold, belowFold, collections }
     },
