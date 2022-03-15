@@ -5,6 +5,6 @@ type: Conference
 location: Online
 start: 2022-01-14T10:00:00
 end: 2022-01-15T19:00:00
-og: cyberspace.png
+cover: cyberspace.png
 url: /collections/cyberspace
 ---

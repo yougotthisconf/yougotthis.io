@@ -61,3 +61,7 @@ body {
 .heading {
     @apply font-heading text-xl md:text-3xl
 }
+
+.prose * {
+    @apply !text-theme-black;
+}

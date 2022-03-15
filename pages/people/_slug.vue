@@ -23,7 +23,7 @@
 <script>
 export default {
     async asyncData({ $content, params }) {
-        const [person] = await $content('people', { deep: true }).where({ dir: `/people/${params.slug}` }).fetch()
+        const person = await $content('people', params.slug, 'index').fetch()
         const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
         let content = await $content('library', { deep: true }).where({ people: { $contains: params.slug } }).without(['body']).fetch()
 
