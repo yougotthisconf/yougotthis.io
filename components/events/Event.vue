@@ -1,5 +1,5 @@
 <template>
-    <n-link :to="event.dir">
+    <a :href="event.url || event.dir">
         <div class="thumb">
             <img :src="`${event.dir}/${event.og}`" alt="">
         </div>
@@ -25,7 +25,7 @@
                 <span>{{ event.type }}</span>
             </div>
         </div>
-    </n-link>
+    </a>
 </template>
 
 <script>
@@ -68,7 +68,7 @@ p {
     @apply my-2
 }
 .meta {
-    @apply flex flex-wrap gap-4 text-sm;
+    @apply flex flex-wrap gap-x-4 gap-y-2 text-sm;
 }
 .info {
     @apply flex items-center gap-1;

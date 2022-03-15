@@ -14,7 +14,7 @@ export default {
         gridClass: {
             type: String,
             required: false,
-            default: 'md:grid-cols-2 lg:grid-cols-3 gap-4'
+            default: 'md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-8'
         },
         eventClass: {
             type: String,

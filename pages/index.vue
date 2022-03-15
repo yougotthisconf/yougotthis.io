@@ -19,7 +19,7 @@
     <Newsletter class="mb-24" />
 
     <div class="wrapper text-center pb-24">
-      <h2 class="heading">Upcoming events</h2>
+      <h2 class="heading">Upcoming Events</h2>
       <p class="mt-2 mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas in enim dolor iste sunt accusamus.</p>
       <EventList :list="events" event-class="last:hidden lg:last:block" />
       <n-link class="button bright mt-8 grid-rows-1" to="/events">See all events</n-link>
