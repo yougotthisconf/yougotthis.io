@@ -1,10 +1,12 @@
 <template>
-    <!-- <div>Person page - list all content they've produced, bio, links, pronouns if we have them.</div> -->
     <div>
         <section class="top">
             <div class="max-w-3xl mx-auto p-4 pb-20">
                 <img :src="`${person.dir}/${person.avatar}`" :alt="`Picture of ${person.name}`">
-                <h1 class="heading">{{ person.name }}</h1>
+                <h1 class="heading">
+                    <span>{{ person.name }}</span>
+                    <span v-if="person.pronouns" class="pronouns">({{ person.pronouns }})</span>
+                </h1>
                 <nuxt-content :document="person" class="mt-6 mb-4"></nuxt-content>
                 <a v-if="person.twitter" class="button bright mt-4" href="/about">@{{ person.twitter }} on Twitter</a>
             </div>
@@ -31,18 +33,6 @@ export default {
             profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
             return { ...item, people: profiles }
         })
-
-        // const collections = await $content('collections', { deep: true }).where({ items: { $contains: dir } }).without(['items', 'body']).fetch()
-
-        // const allPeople = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
-        // const people = doc.people.map(docP => allPeople.find(allP => allP.dir.includes(docP)))
-
-        // const allSponsors = await $content('sponsors', { deep: true }).fetch()
-        // let sponsorList = []
-        // sponsorList.push(...collections.map(c => c.sponsors).filter(a => a))
-        // if(doc.sponsors) sponsorList.push([...doc.sponsors])
-        // sponsorList = [...new Set(sponsorList.flat())]
-        // const sponsors = sponsorList.map(s => allSponsors.find(t => t.dir.includes(s)))
 
         return { person, content }
     }
