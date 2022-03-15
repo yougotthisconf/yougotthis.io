@@ -1,5 +1,5 @@
 <template>
-    <n-link to="/">
+    <n-link :to="event.dir">
         <div class="thumb">
             <img :src="`${event.dir}/${event.og}`" alt="">
         </div>

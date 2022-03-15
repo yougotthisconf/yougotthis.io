@@ -15,22 +15,22 @@ git<template>
             <div class="pt-6 lg:pt-20 lg:col-span-2">
                 <ul class="flex flex-wrap lg:text-xl gap-6 mb-12 mt-6 lg:mt-0">
                     <li>
-                        <a href="#">Content Library</a>
+                        <n-link to="/library">Content Library</n-link>
                     </li>
                     <li>
-                        <a href="#">Upcoming Events</a>
+                        <n-link to="/events">Upcoming Events</n-link>
                     </li>
                     <li>
-                        <a href="#">Community Chat</a>
+                        <n-link to="/community">Community Chat</n-link>
                     </li>
                     <li>
-                        <a href="#">Speak or Write for Us</a>
+                        <n-link to="/contribute">Speak or Write for Us</n-link>
                     </li>
                     <li>
-                        <a href="#">Sponsor You Got This</a>
+                        <n-link to="/sponsors/info">Sponsor You Got This</n-link>
                     </li>
                     <li>
-                        <a href="#">Code of Conduct</a>
+                        <n-link to="/conduct">Code of Conduct</n-link>
                     </li>
                 </ul>
                 <ul class="flex flex-wrap gap-6">
