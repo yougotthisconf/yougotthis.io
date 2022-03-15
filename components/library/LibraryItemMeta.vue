@@ -44,7 +44,7 @@ export default {
 
 <style scoped>
 h2 {
-    @apply font-heading text-xl mb-2 mt-8;
+    @apply font-heading text-xl mb-4 mt-8;
 }
 .box {
     @apply bg-white text-theme-black rounded-lg transition text-left shadow;
