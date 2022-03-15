@@ -4,8 +4,8 @@ date: 2019-01-19T00:00:00.000Z
 people:
   - sam-morgan
 descriptions:
-  - short: 'When junior devs are growing, so can your team.'
-  - full: >-
+  short: 'When junior devs are growing, so can your team.'
+  full: >-
       How do you help junior developers succeed? How do you maintain your team’s
       productivity while building a culture of learning? We’ll focus on
       practical, easy-to-implement insights which will not only help you support
@@ -106,4 +106,3 @@ And so, I would ask you, when you came in, what kind of industry would you have 
 Thanks very much for listening to my TED Talk! [Laughter].
 
 Go out there and change things. You got this! [Cheering and Applause].
-

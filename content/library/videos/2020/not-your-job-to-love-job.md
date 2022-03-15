@@ -4,8 +4,8 @@ date: 2020-01-18T00:00:00.000Z
 people:
   - keziyah-lewis
 descriptions:
-  - short: 'Your not obliged to love your job, and doing so may be hurting you.'
-  - full: >-
+  short: 'Your not obliged to love your job, and doing so may be hurting you.'
+  full: >-
       Loving or appreciating your job isn’t a problem on its own. But you’re not
       obligated to do it. In fact, I’d argue that the pressure to love your job
       can be dangerous. Using examples from my personal experience and from the
@@ -112,4 +112,3 @@ So, if you have a job, or when you get a job, prepare for the worst. You never k
 Finally, put yourself first. Love yourself more than your job. Because your number-one job is to take care of yourself. Your other jobs are to go to work, get paid, and be the best junior developer that your company has ever seen, and take care of your family, and have a good work-life balance, and make some money and spend it on whatever you want to spend it on. I spend it ice cream and music festivals! It's not your job to be a cheerleader for your company.
 
 It's not your job to work yourself to death. It's not your job to sacrifice yourself for your company. And it's not your job to love your job. Thank you so much. [Cheering and applause].
-

@@ -4,8 +4,8 @@ date: 2021-01-16T00:00:00.000Z
 people:
   - lola-odelola
 descriptions:
-  - short: Making sure your engagement with social causes is actually helping.
-  - full: >-
+  short: Making sure your engagement with social causes is actually helping.
+  full: >-
       It’s summer and the year is 2020, the air is thick with rage, the people
       are protesting another public killing of an unarmed Black man, George
       Floyd. In the heat of our collective anger, black boxes begin to flood the
@@ -51,4 +51,3 @@ So, what does acting not look like? It doesn't look like silencing voices in the
 I think the last thing we should remember is that online action works in tandem with offline action. So these retweets that you're sharing, these resource packs that you're sharing, they have real offline effect. As I said, MSARS is a great example of that. A lot of the organising was online. It had to be online, especially with Covid, especially with the fact that a lot of the organisers were across the world. It had to take place online, and the online action had real offline benefits. You had people who couldn't afford medical bills getting medical treatment; you had people who were wrongfully arrested being freed, you know, because of the works of lawyers, and all of this kind of stuff, and people actually going to jails to make sure that people were released, and things like this.
 
 You had protesters who had food and drink while they were protesting, umbrellas to protect them from the rain, all of this, and that is all because of the online action. So it is not useless, but it should just be done in a productive and healthy way, so that is pretty much it for my talk. I'm Lola Odelola. You can follow me on Twitter. You can follow Samsung Internet on Twitter. You should check out Samsung Internet's Medium blog, which is also medium.com/samsunginternet. Check out what we are doing. Thanks for listening to my talk. It's been good.
-

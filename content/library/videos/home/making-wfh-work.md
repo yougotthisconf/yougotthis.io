@@ -4,10 +4,10 @@ date: 2020-06-06T00:00:00.000Z
 people:
   - lauren-schaefer
 descriptions:
-  - short: >-
+  short: >-
       Tips and tricks to being a successful remote employee from a remote worker
       of 10 years.
-  - full: >-
+  full: >-
       Shakespeare knew what he was talking about when he wrote 'Some are born
       great remote workers, some achieve great remote work, and some have great
       remote work thrust upon them.' Ok, maybe that's not exactly what he wrote.
@@ -131,4 +131,3 @@ Number ten:  acknowledge this isn't normal. If you're struggling to work region 
 Number five:  embrace the kids. They're around right now. Let parents that know it's okay. Number four: Care for yourself. Every day, try to exercise in some form, eat something healthy, and do something fun. Number three:  take a lunch break. In the middle of your day, step away from your computer for 30 minutes to clear your head. Number two:  ask for what you want. People probably don't know what you want or need unless you ask, so ask. And, finally, number one:  be a great PR agent for yourself. Advertise your work, and be conscious of the words that you are using when you do so.
 
 I would love to connect with you on social. You can find me on Twitter and TikTok with the user name Lauren_Schaefer. As a reminder, the slides for this presentation are available on my Twitter page. I've compiled a list of resources and related links if you want to deep-dive into this topic more, so you can find those at the back of this presentation. So I hope these tips help you to be a happy and productive remote employee. You've got this! Thank you.
-

@@ -4,10 +4,10 @@ date: 2020-06-06T00:00:00.000Z
 people:
   - pauline-narvas
 descriptions:
-  - short: >-
+  short: >-
       Burnout is real and unhealthy - how do we stop it before it gets out of
       hand?
-  - full: >-
+  full: >-
       Being in an industry that technically doesn’t stop, we can all get caught
       up with chasing on what the next new shiny thing there is to learn or take
       part in. As someone who was keen and ambitious in “breaking through” the
@@ -92,4 +92,3 @@ Yes, so this doesn't actually men the end of taking up opportunities. Just becau
 If there is one thing you want to remember from this talk, and take away from this talk, it's this: we need to let go of this destructive belief that, if you keep working hard constantly, you will succeed, because it's just unhealthy, and un sustainable.
 
 I love this quote I'm showing up on the screen right now. So you won't find true balance unless you install checks on your time, energy, and other resources. Draw the lines you will not cross lines with permanent markers, laser beams, and barbed-wire. Defend your bandwidth with repeat ed and firm resolve. Your survival depends on it. We aren't machines, so let's stop acting like one. Thank you so much, and stay safe out there, folks.
-

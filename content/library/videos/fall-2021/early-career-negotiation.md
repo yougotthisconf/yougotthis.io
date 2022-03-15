@@ -4,8 +4,8 @@ date: 2021-10-14T00:00:00.000Z
 people:
   - jess-rose
 descriptions:
-  - short: Better inform your negotiations and tip the scales in your favor.
-  - full: >-
+  short: Better inform your negotiations and tip the scales in your favor.
+  full: >-
       Early in your career in technology it often feels like you need to take
       anything that’s given. And many employers want juniors to believe they
       don’t have any leverage to negotiate. Together, we’ll explore what kinds
@@ -74,5 +74,3 @@ I am a deeply petty person, and what I'd love to encourage you to do is get a ph
 So, let's recap the most important things. And I'm going to gently yell them at you. Just gently aggressively. What do we not do, my loves? We do not work for free. Obviously, there are those exceptions. Yes, your sister's engineering club, yes, volunteering, but generally speaking, early career, you can work for free when you get to be more senior. Right now, you don't need to do it. The people asking you to do it should go in that book. If it sucks, if there is something that is going it hurt you, if there is something that is bad for you and you have the option to walk away, withdraw your labor and withdraw your attention and leave when you can. And the thing I want you to carry with you as you grow more and more of your power is to remember how they treated you. Remember how people helped you or didn't help you and remember who gave you what you deserved and who didn't.
 
 Thank you so much. If you want me to double check if anything's weird for you, you can .. you know what? Twitter's probably the best place to find me. But, seriously, come and get me and be like, oh, hey, is this job weird? Should I, indeed, hit those bricks? And I will always endeavor to get back to you. Thank you so much.
-
-

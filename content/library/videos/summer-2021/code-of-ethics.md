@@ -4,8 +4,8 @@ date: 2021-08-12T00:00:00.000Z
 people:
   - catherine-flick
 descriptions:
-  - short: A whirlwind tour of code of ethics in software development.
-  - full: >-
+  short: A whirlwind tour of code of ethics in software development.
+  full: >-
       In this talk we will cover what's in a code of ethics, and why should you
       care about it. Go behind the scenes with an ethicist and co-author of the
       Association of Computing Machinery's (ACM) new code of ethics that affects
@@ -88,4 +88,3 @@ Then, finally acting by putting methods in place to ensure that issues are resol
 There are some benefits ... oh, this didn't come out very well. There are some benefits to doing it. I'm sure I probably already told you all those, but, really if you want to look at more of this stuff, there is the ACM Code of Ethics here. If you want to look at the case studies, they are available on the website.
 
 I do a podcast on video games and ethics which is not updated very often these days, but this one here, the Other Orbit is orbit-rii.org, all sorts of interesting information about responsible innovation, and do training for researchers if you're a research organisation, that sort of thing. And here's where you find me. Thank you very much. I'm really excited to answer any questions.
-

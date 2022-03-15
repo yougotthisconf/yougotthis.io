@@ -4,10 +4,10 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - klaartje-van-zwoll
 descriptions:
-  - short: >-
+  short: >-
       How do we recognise the patterns in our life and change them to improve
       our relationships?
-  - full: >-
+  full: >-
       Last year I divorced. My relationship ended after 14 years. Naturally I
       was devastated, but it also meant the start of immense personal
       development. I recognised some patterns in my behaviour that I wanted to
@@ -78,4 +78,3 @@ You are very welcome.
 I really enjoyed how personal and heartfelt it was. I think that's incredibly important and valuable.
 
 Thanks for having me.
-

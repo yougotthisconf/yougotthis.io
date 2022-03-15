@@ -4,10 +4,10 @@ date: 2021-01-16T00:00:00.000Z
 people:
   - malcolm-xavier
 descriptions:
-  - short: >-
+  short: >-
       Successfully acomplish a career pivot and stay on course for your
       professional future.
-  - full: >-
+  full: >-
       In an increasingly technological world, many professionals are seeing
       their career paths disappear before their eyes. As a result, many are
       seeking a career pivot, to change their career path, in order to stay on
@@ -84,4 +84,3 @@ The founder of the hospitality groups I works believes they should hire 51-per-c
 One of the things that enables me to practise self-care successfully is maintaining a schedule. I was unemployed from February until September last year, but was busier than I was. This is a sample week in my calendar. A few notes on what is included that have helped me. One, the first thing in my calendar every morning is some form of exercise. I refer running on the treadmill, so while it says gym, I was learning to run outside again, or doing an indoor HIIT workout. Over breakfast, I would start my day by journalling, and checking on my email. Not naturally a morning person, but sticking to this routine got my brain working and allowed me to maximise my productivity which I also want to say is just not something that is necessarily laudable, especially as we work to survive in this pandemic. The yellow boxes were applying for jobs, large green boxes for studying web development, and the blue boxes were meetings or social engagement. Many are recurring like the BIPOC network I attended during the summer, and the app I'm working on, and hopefully launching on this weekend.
 
 Further still, I meet with my Dungeons and Dragons group on Friday night. It is important to have regular social interaction. This week includes my first user interview on Wednesday. An important note on all of this is that outside of interviews or meetings, everything else in my calendar is subject to change. If I don't feel like working out one day, guess what I'm not doing. If I'm exhausted and burnt out from meetings, even most of my social plans are - and I'm an extrovert in all of this. You have to prioritise at all costs because, if you don't, you will pay the cost. You know that you have to put your mask on first before helping anyone else, and that is when we're in a pandemic. That's all I have for you today. There are an slew of other things I'm happy to share about accountability, goal-setting, so if you would like to connect, my URL is there. My email is there also for you. On the right is a QR code you can scan to take you to a short feedback form for this presentation, and I would appreciate any you have to give as it helps me help other people. Thank you to the spore speakers, and to the organisers and hosts. It is so critical to have accessible spaces to have these conversations, and I'm grateful you've included this conference for all of us to learn. There should now be time for a brief Q&A.
-

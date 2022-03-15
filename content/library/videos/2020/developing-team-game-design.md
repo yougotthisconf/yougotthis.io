@@ -4,8 +4,8 @@ date: 2020-01-18T00:00:00.000Z
 people:
   - melinda-seckington
 descriptions:
-  - short: Apply the principles of game design to level up your teams.
-  - full: >-
+  short: Apply the principles of game design to level up your teams.
+  full: >-
       As video games have become more and more complex, game designers put way
       more time into creating environments where players are engaged and willing
       to put the time and effort into learning and mastering these skills. This
@@ -119,4 +119,3 @@ And for people to plan and figure out what they next should focus on in the same
 So, to recap: don't overload new starters. Support and guide new starters. Give people direct and timely feedback. Provide opportunities to apply new skills. Acknowledge people's growth. Ex pose basic competencies and how to use. Allow people to choose their own path. Visualise what progression looks like. So, as a manager, my main focus is in creating the developer experiences. So I think in the busyness and what developers do, it's easy to lose the way that our developers are our stakeholders, and we should be the ones creating experiences for them that allow them to grow, progress, and level up.
 
 So, if you're a manager, try to do this type of stuff. If you're not, it's not unreasonable to ask your manager whether they can provide some of this stuff. So creating better developer experiences are the way we can make not only our companies better, but also the people that are in our teams trying to grow, learn, and progress. So that's it. Thank you for listening. [Applause].
-

@@ -4,10 +4,10 @@ date: 2019-01-19T00:00:00.000Z
 people:
   - sascha-wolf
 descriptions:
-  - short: >-
+  short: >-
       You might think that you have nothing to add. You'll be surprised how much
       you actually know.
-  - full: >-
+  full: >-
       Each and every day we encounter the knowledge of thousands of people. We
       read articles, blog posts, documentation and smart answers on
       StackOverflow. How can we compete against this well of wisdom? You might
@@ -80,4 +80,3 @@ And, yeah, after all of this, I would like to reintroduce myself to you, but I'm
 Thank you for listening. You can find me on Twitter, or you can go to my website. And please tweet me the tweets you think you have acquired because I would be curious to see where you got these from. Go off and write some blog posts!
 
 Thank you! [Cheering and Applause].
-

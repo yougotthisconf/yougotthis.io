@@ -4,10 +4,10 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - rachel-lee-nabors
 descriptions:
-  - short: >-
+  short: >-
       Discover what you want to do, ace the interview, and leave before you're
       miserable.
-  - full: >-
+  full: >-
       There’s one guarantee in your career: you won’t work the same job forever.
       Don’t wait until you’re at the end of your patience with your current job
       or for someone to offer you your dream job on a whim—take control of your
@@ -169,4 +169,3 @@ Time to say goodbye, and something important to remember when you do decide it i
 I know we love to focus on this is what I'm going to do next, what I'm going to deliver and who I'm joining, and I've been deeply embarrassed by some of the old posts I made in the past when the thing I was hired to deliver wasn't what I actually delivered. Always focus on what you've done before, and then mention you're excited about going on to the things that is coming next. This is the proper way to do it.
 
 Celebrate your wins. Speaking of ending and new beginnings, I'm working on a possible book about surviving and succeeding in big tech for people who don't come from a computer science or MBA background. There are a lot of us out there. You can check it out at that URL, and you will find links to all. Slides links at that URL as well. Catch me on Twitter as well under @RachelNabors. I wish you the best of luck in your next role. There will be a next one, and a next one, and a next one! You will find them all amazing and have great stories to tell.
-

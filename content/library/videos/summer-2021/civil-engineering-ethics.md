@@ -4,10 +4,10 @@ date: 2021-08-12T00:00:00.000Z
 people:
   - richard-westenra
 descriptions:
-  - short: >-
+  short: >-
       How can we apply learnings from civil engineering to our practice as
       developers?
-  - full: >-
+  full: >-
       Contemporary software engineering is at a crucial juncture in the
       evolution as a discipline. We’re professionalizing and expanding our
       abilities, but in doing so we’re encountering dramatic new risks and

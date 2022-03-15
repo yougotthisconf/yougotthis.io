@@ -4,10 +4,10 @@ date: 2021-10-14T00:00:00.000Z
 people:
   - ben-greenberg
 descriptions:
-  - short: >-
+  short: >-
       Navigate the challenges related to hiring and being hired with an existing
       career.
-  - full: >-
+  full: >-
       Being early in your career always presents unique challenges, while being
       early in your second career later in life has its own particular issues to
       grapple with. The typical pipeline for the software industry does not fit
@@ -68,5 +68,3 @@ These two paths are exclusive to people who come from backgrounds, A, maybe they
 Traditional backgrounds if I don't know they exist. I no they exist by opening the door for them to walk through. It's really, really important. So, to recap from the perspective of the manager, it's about coming to the role with an orientation of a servant leader. It's understanding that a diverse team of people who are old or second career developers across all spectrums of diversity, including older developers, is not only a good thing to do, the ethic, it's a good thing to do for your profit motive. It creates a better product. It creates better work. Your ego, your ability to see beyond yourself, can be obstructing to that process of creating a more diverse team. The way in which you create that more diverse team is to start at the very beginning, which is your hiring pipeline. Open as many door as you possibly can to bring in as many people.
 
 This can seem like a lot. It's a lot of work to do. It seems like it's neverending, and I really do believe it's a lot of work to do, but I'm very moved by the idea that just because it's a lot of work to do doesn't mean it's not incumbent on us to get involved and do what we can. Whether we are entering the field, whether we are managing the field, whether we entered already and now we have some credentials, some leverage to exert on the field, every time we make it better, make it better in the organizations we're in, make it better for ourselves, we are ipso facto making it better for ourselves. Changing careers en masse, maybe one of the greatest career switching in modern times, it is really deeply important that we exert that effort to make it better for everyone because we'll make our teams, companies and the organizations we work for all the better for it. Thank you so much. I would love to stay in touch. You can find me on Twitter or you can email me. It's been great. Thank you.
-
-

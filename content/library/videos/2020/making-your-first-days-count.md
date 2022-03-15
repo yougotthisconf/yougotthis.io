@@ -4,8 +4,8 @@ date: 2020-01-18T00:00:00.000Z
 people:
   - nathaniel-okenwa
 descriptions:
-  - short: Let's look at some useful strategies to help you navigate your new job.
-  - full: >-
+  short: Let's look at some useful strategies to help you navigate your new job.
+  full: >-
       Hooray! You’ve landed your first full-time tech job, but what comes next?
       The first few months can be daunting and it is easy to feel like you don’t
       belong. In this talk, we look at some useful strategies to help you
@@ -103,4 +103,3 @@ And the next thing is to infinity and beyond. Even I don't know president the. T
 You can keep going through the cycles of observing, gathering as much information about everything as you can, understanding. Never shy away from asking why. And then create. Go and draw the owl. Remember, every successful career is a series of successful assignments, and every successful assignment is launched with a successful transition.
 
 This may be you going for your first job, or you've just started your first job, or maybe your new job in a new role at a different company, you can use some of the things I've spoken about in this talk to help you get started. Keep me updated. I would love to hear about your journeys, and feel free to reach out to me on Facebook, Instagram, and Twitter, and everything, and thank you so much for listening. [Applause].
-

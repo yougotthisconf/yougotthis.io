@@ -4,8 +4,8 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - naomi-pentrel
 descriptions:
-  - short: How to make 1-1s the supportive tool they are meant to be.
-  - full: >-
+  short: How to make 1-1s the supportive tool they are meant to be.
+  full: >-
       1-1s are your opportunity to ensure you and your manager are on the same
       page, to work on your career development, and for you to give and receive
       feedback. Used effectively, 1-1s help you. However, many managers and
@@ -108,4 +108,3 @@ There is one more thing that I put into the template which are action items. Goi
 Right. Now, one pro tip, and I've mentioned this before. Put this all into one document, all of the one-on-ones should be in one document so that you have easy access to them, searchable, and once a performance review comes around, you can scroll through all of them, look at what went well, look at your accomplishments, and it will be a lot, maybe look at what your manager said about good things that you've done, and you can write about all of that in your performance review, it will become a lot easier to write those. For a lot of people, those are hard things to write, especially the first few times that you're writing them, this will make it easier.
 
 Okay. I hope what I've told you just now will help you use the one-on-ones as the support tool they are meant to be and make your one-on-ones more effective from the get-go. I think that leaves us time for questions.
-

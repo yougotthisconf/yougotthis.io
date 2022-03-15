@@ -4,8 +4,8 @@ date: 2019-01-19T00:00:00.000Z
 people:
   - violet-pena
 descriptions:
-  - short: Running through a framework for developing and maintaining independence.
-  - full: >-
+  short: Running through a framework for developing and maintaining independence.
+  full: >-
       Independence is the key to professional growth. It doesn’t mean working
       alone; it means being able to problem-solve and seek help. This talk will
       give you a new definition of independence, as well as a framework for
@@ -117,4 +117,3 @@ Lastly, it's just nice to end with a thank you. It will keep the virtues cycle g
 With that, that wraps up problem-solving. Have a plan, be honest, and use your tools. Those are the best skills that any of us in this field can develop. I hope you're able to bring those skills into your own work and your own practice. As you gain experience solving problems, you'll be able to push harder on your own boundaries and open up new creative possibilities for yourself.
 
 So, thanks so much, again. I'm excited to see how you grow and how you create. Say hi, shoot me an email, come work with me, and, in the meantime, happy problem-solving!
-

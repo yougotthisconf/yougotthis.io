@@ -4,10 +4,10 @@ date: 2021-01-15T00:00:00.000Z
 people:
   - claire-knight
 descriptions:
-  - short: >-
+  short: >-
       Disagreement don't have to be toxic, how do we make them a positive and
       productive experience?
-  - full: >-
+  full: >-
       Do you want to know how disagreements can be positive? How to be
       respectful while disagreeing? How to get to mutual understanding through
       productive discussion, and hopefully to agree on a path forward? Then this
@@ -74,4 +74,3 @@ Going into conversations, when you go into that disagreement, or potential disag
 So, this is kind of a really useful thing before we go into the first exercise, that is used, it is good to remember that really you're trying to build relationships. There are humans involved here. It - we're in tech but it isn't all machines and code. Positive disagreements can moving everybody forward and help the business. Also, those relationships grow over time, and they make further communication easier, so there is less thinking involved, and you know you can say certain things to certain people, and you get to learn each other's styles, and so forth.
 
 So keep that in mind along with the kind of empathy and aspects of it as we go into the exercise.
-

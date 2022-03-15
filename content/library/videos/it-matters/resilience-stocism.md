@@ -4,8 +4,8 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - sanne-visser
 descriptions:
-  - short: 'Practical, hands-on exercises to navigate things that make you miserable.'
-  - full: >-
+  short: 'Practical, hands-on exercises to navigate things that make you miserable.'
+  full: >-
       This presentation is a practical guide to dealing with stuff that makes
       you miserable. I’ll teach you an exercise (or two) how to stubbornly
       refuse to let things make you miserable. The answers are rooted in
@@ -49,4 +49,3 @@ Yeah. Cool. Then we have one more question. I'm not sure what it means I am miss
 No, so they didn't. So the team just ended. I didn't really manage to turn any of those things around. And I tried within the bounds of what I felt I wanted to do, I was very careful about managing my energy in terms of trying to change an entire team. I did feel very responsible for it, especially having come from other places where usually I am the social glue within a group. But I was very careful about managing how I did and didn't try and help this particular team. And I was much more focused on coming out of it. More or less, okay.
 
 Okay, thank you very much.
-

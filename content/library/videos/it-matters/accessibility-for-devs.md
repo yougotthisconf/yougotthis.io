@@ -4,8 +4,8 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - franziska-hauck
 descriptions:
-  - short: How can you increase inclusion for team members with disabilities?
-  - full: >-
+  short: How can you increase inclusion for team members with disabilities?
+  full: >-
       For developers living with disabilities and chronic illnesses, the
       experience in the workplace can be challenging. So what can you do to
       increase inclusion for these developers? A lot! In her talk, Franziska
@@ -44,4 +44,3 @@ Okay, none at the moment. And but even if there are other questions, they can al
 Thank you. It was a huge fun being here. And as he said, any follow up conversation anytime. Just reach out. And that's that chat further. Thank you so much for having me.
 
 Thank you.
-

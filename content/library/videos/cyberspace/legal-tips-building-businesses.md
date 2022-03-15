@@ -4,8 +4,8 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - neil-brown
 descriptions:
-  - short: 'Contracts, copyright, and knowing when to bring in experts.'
-  - full: >-
+  short: 'Contracts, copyright, and knowing when to bring in experts.'
+  full: >-
       It's not easy to get down to earth, practical, reasonably priced, legal
       advice. Neil, an experienced tech industry solicitor, will give you five
       (or more) key legal tips to help you run and build your business, without
@@ -136,4 +136,3 @@ Realistically, they could probably give you a price for a fixed scope. Do your h
 You can download the slides from our website, or just scan this QR code on your phone, and the slides should either start to download automatically, or you will get prompted to do so. Not too many questions have come through at the moment, so, if you have them, now's the time. I think there are probably a couple more minutes before we run out.
 
 My email address is on the last slide, and you're welcome to get in touch and email me about it. There we go. The slides have come back! There is our website again, and my email address. Just say this is where you heard of me from because, by all means, drop me an email. Talk with me on Twitter, or Mastodon. Question, can I go back to the QR code for the slides. There we go. I will leave it there.
-

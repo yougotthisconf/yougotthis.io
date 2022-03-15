@@ -4,8 +4,8 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - gem-hill
 descriptions:
-  - short: Tips and tricks to create a self-care routine and know when to use it.
-  - full: >-
+  short: Tips and tricks to create a self-care routine and know when to use it.
+  full: >-
       “I know how to look after my physical health, but I don’t know how to look
       after my mental health.”  This question is one that sparked the start of
       my talking about mental health and self care. During my time living with
@@ -70,4 +70,3 @@ Yes, it can be difficult when an app is telling you that but at least it's a rea
 Oh, so I have sort of from a couple of mental illnesses, I have generalised anxiety, and I have complex PTSD. So I got to a point where my anxiety was really quite bad. And I was like, I, I can't actually continue keeping like holding down a job. Oh, and holding down a relationship. It was one things where I started looking around going, how is everyone else doing like a job and a relationship and tidying the house and not? How is everyone surviving doing this? That's a lot of things. I'm not doing all those things. And it did get to a point, that point where I was like, Is this normal? And then I started kind of generally just asking friends, and they were like, have you considered? Maybe you need to get some help? And I was like, Yeah, okay, that seems fair. And then two years later, I decided to start getting some, okay, some, because it was still quite scary, I'm not going to again, I, I'm not going to tell you that it worked perfectly. And I'm this perfect person who knows what they're doing. And it took a long time for me to engage with it. But you do get to a point I think a lot of people do where it's like, Alright, I either change the link or I continue on, it's the same as coping and dealing again, right? I had to change something fundamental, or this is my life for the rest of my life. Can I deal with this not changing? If the answer is yes, fine. If the answer's no, then you've got to engage and make some changes. It's as simple and difficult as that.
 
 "As simple and difficult as that." I love that. And also, culture comes into play as well. So when I was young, I grew up in a culture where I'm going to see a therapist or asking for help was meant you were weak. So any sign of weakness was not really appreciated. So you had to just power through and not have any self care and just sure that everything is always fine all the time. So now hopefully coaches are changing, things are changing. People are talking more openly about mental health and about self care. So I'm really, really happy that we can be part of this as well. Okay, so thank you everyone for your questions. Thank you so much Gem for this presentation as well.
-

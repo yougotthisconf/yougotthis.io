@@ -4,8 +4,8 @@ date: 2021-01-16T00:00:00.000Z
 people:
   - julianne-burke
 descriptions:
-  - short: How to work with mentees to have the most positive impact.
-  - full: >-
+  short: How to work with mentees to have the most positive impact.
+  full: >-
       Mentoring has the potential to be one of the most fulfilling aspects of
       working as an industry professional. But how can you ensure that you make
       a real and lasting impact on your mentee and their future? In this talk,
@@ -47,4 +47,3 @@ Some examples include networks, or relevant Slack spaces for your mentee to join
 Next, keep it real. You don't have to know everything as a mentor, and you don't have to skip over the negatives or failure. Authenticity has a far greater impact on your mentee than perfection. Being authentic will clear the way for your mentee to be authentically themselves. Plans and agendas are great tools especially for someone who is newer to mentoring, still figuring out their discussion style and collaboration style, but genuine conversation can make the most tremendous impact in your mentee, so you can tell them about a promotion that you didn't get, or a conflict that you experienced at work during your project. And if is really important to normalise failures because your mentee will experience them at some point, and those situations can be flipped in a productive way. If you were passed over for a promotion or job, you can talk about how you grew from that experience, or how you pivoted to a new path after being rejected, and if you experienced conflict on a projecting you can talk about what you learned, and how you communicated with your team.
 
 All of those things really help your mentee develop, not just seeing you swiftly move up the company or make all these achievements, your mentees will benefit from seeing you as a whole person, including your failures. Use those situations to help your mentee grow more. Number 10: be encouraging. Believe in your mentee. Allow them to have lofty goals, and encourage it, even. It's your job as a mentor to impart your expertise and experience and help them craft goals and takable next steps to reach those goals. You're their partner in crime. Again, no future goal or creative idea is too ambitious. It's our job to here our mentees' goals and dreams and see their path to success based on our experience and all the resources we can provide to them, so really be encouraging. Okay, the last slide was a recap. To go back through. Make sure that you have goals of your own so that you can set up an offering and a goal for your mentor/mentee relationship. Make sure that you have resources to provide to your mentees, networks ready to introduce them and let them grow, and be encouraging and allow your mentee to be as ambitious as they want to be. Yes, thank you.
-

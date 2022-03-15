@@ -4,8 +4,8 @@ date: 2020-01-18T00:00:00.000Z
 people:
   - matthew-gilliard
 descriptions:
-  - short: Learning how to learn is critical in the fast-changing world of tech.
-  - full: >-
+  short: Learning how to learn is critical in the fast-changing world of tech.
+  full: >-
       When change is the only constant, learning is the only future-proof skill.
       In this talk, using examples from the pioneers of programming education in
       the 1960s through to the present day, Matthew will show some effective
@@ -101,4 +101,3 @@ I mention I'm a Java programmer. Java projects can be a pain in the arse to set 
 Keep yourself a "Today I learned" diary, and find your learning style and engage in it. We still have, like I showed at the beginning, 95 per cent of 2020 left. I don't think it's too late for a New Year's Resolution. Try setting some learning goals for 2020, and be explicit about the fact that they are for learning and not for any particular technology.
 
 So, you have got this. You've got this. Thank you very much for listening. And here's where you can go to find out more about what I said. Thank you. [Applause].
-

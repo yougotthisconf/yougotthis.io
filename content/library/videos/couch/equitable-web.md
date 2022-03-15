@@ -4,8 +4,8 @@ date: 2021-01-16T00:00:00.000Z
 people:
   - olu-niyi-awosusi
 descriptions:
-  - short: 'The web is for everyone, but not without us putting in work.'
-  - full: >-
+  short: 'The web is for everyone, but not without us putting in work.'
+  full: >-
       Accessible web practices - meaning here ways of building the web that
       allow those with impairments and disabilities to use it - might not seem
       like the coolest way to bring your activism to the internet, but it’s
@@ -50,4 +50,3 @@ So, yes, I think we can rebuild the web. It's not as if we don't have the techno
 Also, hiring platforms. And, there's like laws for public sector workers. There are other helpful laws too that I can talk about after. And, of course, you can do basic checks once you know what to look for. Most people can use the keyboard to try and access a web size and see how it is so they can be involved in  QA. Screenreaders are involved with other things for things like Cursory. And, captions are your friend, of course, on all sites. If you're user of a site, make sure that you use captions on Instagram. Instagram, I think their captioning is not in-built, but you can put a caption in your description. Also, Twitter has recently added them, and I think we of course caption on the FT with our pictures and stuff, and yes, as far as possible, caption things. So, automatically, use captions is another one, and there are services that have automatic captioning like Rev. Not is fancy to have a stenographer on site, but it is important to have captions as far as possible. And, yes, of course, you can also help with making the internet a safer place by making it more diverse. If you have knowledge that you think should be shared on the internet, or in places like Wikipedia, there are different ways that you can get involved with. There are different hackathons are just focusing on editing, and things like that. Try to increase your knowledge and encourage people who are marginalised than you also to ...
 
 also, one last thing, the original name of this talk was "building - I'm not African - building a woke web. All the things that we talked about, these are not end points, they're just the beginnings of a journey, and it is not like, this is not a switch that you flick on and off, it's a constant learning process. Accessibility is a process, inclusive design is the goal. Try to make sure that you include all these things from day 1, and that they're important to you in the whole process, and, yes, thank you for listening!
-

@@ -4,10 +4,10 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - sharon-steed
 descriptions:
-  - short: >-
+  short: >-
       Learn how to operationalize engaging empathy in a way that supports
       diverse teams.
-  - full: >-
+  full: >-
       Inclusion has never been more important than right now. With a global
       pandemic forcing us all to adjust our lives and racial tensions that have
       hit a peak all over the world, understanding the struggles others are
@@ -109,4 +109,3 @@ And then I say that, this is the beginning, you know, every time you end a conve
 So this is the end of my presentation, I'm here is all of my contact information, I'm actually creating a longer form course, you know, on these key empathy behaviours. And that's going to be available on my website towards the end of this year in the fourth quarter, probably around November.
 
 And yeah, I'm incredibly active on Twitter, as well as on LinkedIn. So please, please, please reach out. I love to get your notes. And then if you have any other questions, you can also send me an email then with that. Thank you to everyone here, who was a part of this amazing conversation. And thank you to everybody over at IT Matters especially to Joanna for putting this whole thing together. She's just an absolute gem. You've worked really hard and it's been an absolute joy to be a part of this.
-

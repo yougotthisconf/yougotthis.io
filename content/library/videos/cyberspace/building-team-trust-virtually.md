@@ -4,8 +4,8 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - carol-huang
 descriptions:
-  - short: Tools and techniques to build team trust remotely and across timezones.
-  - full: >-
+  short: Tools and techniques to build team trust remotely and across timezones.
+  full: >-
       Working with new teammates is hard, and it can be especially hard when
       you've never met, are all new to the team, are spread across multiple time
       zones, and/or are going through a pandemic -- all of which were the case
@@ -132,4 +132,3 @@ So I let you look at the summary slide while I share real-world example, is that
 We were able to have that private team channel to economies rate about it with others whilst still being productive and we had this constant open conversation about what we were good at and what we liked doing, I felt comfortable taking over all of the project management, stepping in dealing with the scheduling, the people-chasing, and I was able to do this without feeling like I was stepping on his toes. And I was able to trust that he wasn't going to kill the content and video, handle all of that entirely without any input from me, and he did, because we both knew what we were good at.
 
 The important thing for me here isn't that we got it done, we got it done in a way that we felt good about. My goal for myself and my team-mates is we are all able to find the best ways to let each other shine. In the middle of everything that we are going through right now, a bare minimum, I think I can ask for, is helping each other be helpful at fulfilled at work. I know that we couldn't have knocked this out the park the way we did without the trust built on communication and empathy. And there we go!
-

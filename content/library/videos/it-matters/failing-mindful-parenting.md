@@ -4,10 +4,10 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - tomasz-smaczny
 descriptions:
-  - short: >-
+  short: >-
       Taking the principles of mindful parenting and applying it to our
       professional growth.
-  - full: >-
+  full: >-
       Simon Sinek claims that the closest thing to leadership is parenting. I
       absolutely agree. Parenting is solidly researched and may be a valuable
       inspiration for professional growth. In this talk I will explain how you
@@ -41,4 +41,3 @@ And I hope just to finish the meeting, I hope I know Crystal, it was very stress
 So thank you. Thank you so much. I think this talk was literally the best talk to have just after that. Yeah. Okay, so I will see all of you in 'gather town'. I'm going to be joining as well. Thank you so much. See you later.
 
 Bye bye. Thank you, everyone.
-

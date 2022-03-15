@@ -22,7 +22,7 @@ sponsors:
     - auth0
     - balsamiq
     - buzzfeed
-    - circleci
+    - circle-ci
     - futuregov
     - mux
     - samsung-internet

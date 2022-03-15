@@ -4,8 +4,8 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - veerle-verhagen
 descriptions:
-  - short: 'Asking for help can be tough, but is vital for self-improvement.'
-  - full: >-
+  short: 'Asking for help can be tough, but is vital for self-improvement.'
+  full: >-
       This is a story about teamwork. In the summer of 2019, the London
       Metropolitan Police’s twitter account was hacked. Control of the account
       was soon recovered, but the culprits proved harder to find. Police were at
@@ -71,4 +71,3 @@ I'm just gonnaput in a quick aside, because I just saw, I just saw from the corn
 Thank you so much for answering them because I noticed the question came up a lot in the beginning.
 
 Yeah, there you go.Thanks so much for having me. All right. Bye.
-

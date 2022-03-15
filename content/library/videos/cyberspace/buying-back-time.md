@@ -4,8 +4,8 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - akash-goswami
 descriptions:
-  - short: If time is money - how can we spend to save?
-  - full: >-
+  short: If time is money - how can we spend to save?
+  full: >-
       If you had the choice of saving money or saving time, what would you pick?
       Many people start their careers by trying to spend as little as possible,
       but as you progress it may not make sense to continue doing the same. In
@@ -104,4 +104,3 @@ Now, at this point, if you're carrying a massive piece of luggage around and you
 So in the process of trying to save money, I made my own holiday a lot more stressful, and I lost an entire day of that holiday. Now, if I ever think about going back to New York, I'm going to fly directly to JFK and likely book a taxi as well even though I know won't be saving me money. When I book holidays, I focus on saving time where I can as opposed to saving money.
 
 Now, before I go, there's just one more thing I want to remind you to take away from this talk: there are no refunds on how you spend your time, so make sure that you're spending it wisely. So, thanks for having me today, folks, and, remember, you've got this!
-

@@ -4,8 +4,8 @@ date: 2020-01-18T00:00:00.000Z
 people:
   - dan-parkes
 descriptions:
-  - short: 'The what, how and why of unionism in todays tech world.'
-  - full: >-
+  short: 'The what, how and why of unionism in todays tech world.'
+  full: >-
       This will be a whistle-stop tour of what unionism means in today’s world
       of tech. We’ll briefly cover what a union is, the various shapes and sizes
       they take and what they can do for you, using the recently formed Game
@@ -85,4 +85,3 @@ If I wanted to step up even more, they would give me plenty of opportunity to do
 So this is the website you should check out. There are meetings in London. There is a tech workers' coalition London already, so, if you're London-based, that exists. If you're not, I would love for you maybe to - well, definitely join the Slack, and then maybe set up a meeting here in Birmingham, if you're based in Birmingham, or wherever you're from. It could be just in the pub. Set up a meet-up, and chat about your work. Chat about what is good about your work, what's not about the work. And everything you've heard today, creating a space to talk about all of the, that you've heard about today, like the Bragg Docs, all of these things would be perfect to be discussed in such an environment. But also, with your fellow workers.
 
 Because it's all about camaraderie, and comrades, and being better, making the workplace better for everyone. So, on that, I would like to say thank you. Go and join a Slack. Yeah! Thank you. [Cheering and applause].
-

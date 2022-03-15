@@ -4,8 +4,8 @@ date: 2021-10-14T00:00:00.000Z
 people:
   - nathaniel-okenwa
 descriptions:
-  - short: 'Deciding when opportunities are right for you, and when to say no.'
-  - full: >-
+  short: 'Deciding when opportunities are right for you, and when to say no.'
+  full: >-
       It can often feel like every day there is a new ask of us - people asking
       for our time, effort, or knowledge. While many of these requests represent
       great opportunities for career growth, income or a warm fuzzy feeling, it
@@ -77,5 +77,3 @@ Also, I'm from an underrepresented community, but I've been so privileged and I 
 But remember, at the end of the day, it is your right to say no. Now, you can be graceful, but don't let anyone make you feel guilty for setting boundaries. Remember, yeses are like ice cream. Feel so good, but too much of it can be really taxing. But, rather, what you want to do is gather as much information as you can and balance that effort cost against the impact it could have. Remember The Matrix. Kind of like Neo. And last but not least, when you need to say no, say no with grace and strength like a ballerina. Now, there will be many requests coming your way from work, friends, and family, and with all of that noise, it can be easy to overlook one of the most important set of requests. These are the requests that come from within. Sometimes, the best thing that you can do is to drown out the noise and swipe right on yourself. Say yes to your body when it needs a break. Say yes to your mind when you need peace. Say yes to your dreams, your hopes, your visions, and if you need a little help saying those yeses to yourself, just remember that saying no lets you say yes.
 
 My name's Nathaniel Okenwa, and next time I'm asked to do a talk, I might just say no. Thank you.
-
-

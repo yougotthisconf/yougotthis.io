@@ -4,10 +4,10 @@ date: 2021-01-16T00:00:00.000Z
 people:
   - jeanine-mendez
 descriptions:
-  - short: >-
+  short: >-
       Negotiation shouldn't stop once you get the job. How and when do we push
       for more?
-  - full: >-
+  full: >-
       You got the job and you crushed it at the negotiating table. For most of
       us, we stop negotiating and advocating for ourselves after we sign on the
       dotted line. Internal negotiating for promotions, salary bumps, and
@@ -57,4 +57,3 @@ What ends up happening is that people at the company will say, hey, Jeanine is w
 And then finally, don't, you know, do skip level meetings where you need to, if that means someone speaking above the fray, above your manager. Make sure your manager knows you're having the meetings, but is it is good to show what you're doing to someone slightly higher up in the company. Engage in Slack with co-workers, build relationships, how was your weekend, what is going on? It's really easy to get huddled in our work. I tell everyone now I'm an inside person because I spend so much time in my house. Make sure you're using Slack or whatever communication system you have to engage and build those relationships. Have ten-minute coffee chats with people, whatever it takes. Ask for feedback as often as possible. I can't stress this enough.
 
 Ask for feedback. Ask for that pay raise and promotion, and do it really early, because that's going to really set you up for success when you get to that final performance. Okay, I kind of sped through that a little bit, but hopefully, everyone got something valuable out of it. Please follow me on LinkedIn, follow KindWork on LinkedIn. We're doing some really, really awesome work getting folks into tech, and it was so lovely hearing from all of you and chatting with all of you. I will be in the Discord answering any questions you have about pay raise promotions, levels, benefits, whatever you need, I will be in the Discord for a little bit.
-

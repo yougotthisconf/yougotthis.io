@@ -4,8 +4,8 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - steven-hicks
 descriptions:
-  - short: Strategies to break down problems and overcome them.
-  - full: >-
+  short: Strategies to break down problems and overcome them.
+  full: >-
       All software engineers get stuck - whether you're brand new or have 20
       years experience. In this session, we’ll reframe the act of getting stuck
       as a positive. Then we’ll talk about strategies for getting past a tricky
@@ -131,4 +131,3 @@ The common thread for these hardening strategies is about getting into, really. 
 Strategy groups: embrace getting stuck. Getting stuck and unstuck is the job. Explain things to someone else. It will help you challenge assumptions and rebuild the model in your head and figure out why you may be stuck on something. Try to break the problem down, isolate it. Give yourself a smaller surface area to focus on. Set it aside. Walk away. Go for a run, take a shower, take a nap. Let your brain process this thing on its own.
 
 And finally, condition yourself for the next time that you're going to run into this, because you're going to get stuck again, and that's okay, and that is you doing your job. I just want to thank you all for your time. And I'm happy to answer any questions or have any discussion here.
-

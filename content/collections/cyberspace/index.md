@@ -21,7 +21,7 @@ sponsors:
     - ably
     - balsamiq
     - bryter
-    - circleci
+    - circle-ci
     - twilio
 ---
 

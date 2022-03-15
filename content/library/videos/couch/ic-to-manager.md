@@ -4,10 +4,10 @@ date: 2021-01-16T00:00:00.000Z
 people:
   - myrsini-koukiasa
 descriptions:
-  - short: >-
+  short: >-
       Let's explore themes around mentoring, delegating, and leadership skills
       for new managers.
-  - full: >-
+  full: >-
       Becoming a people manager poses new and exciting challenges for those who
       have spent most of their careers in individual contributor roles. In this
       talk, we’ll explore themes around mentoring, delegating, leadership and
@@ -66,4 +66,3 @@ Empathy: like imposter syndrome is another concept you will hear a lot about in 
 Okay. So we're about to wrap up. First, I wanted, as a culmination of what we looked at, to show you how some of the challenge and opportunity examples we saw can be matched to give you more balance in your role. Here are some of the things we went through. Empathy: it can help you understand others, and respect you have different ways of thinking, and communicating. Cross-functional management can help you avoid micromanaging. If you've managed folks you have had little control over in that cross-functional management setting and where project bases where we talked about but the job still got done, you can trust your direct reports to deliver, over which you can also work on the process with on them developing like their skills on how to manage a project.
 
 Finally, project management can help with breaking down large projects and ensuring you're delegating. Let's have a final look at what we learned. There is almost certainly going to be an overlap of your previous role with a new managerial role. Challenges will appear. Recognising this, having an open and clear communication with your manager, on your responsibilities, and not overstretching yourself can be a real help. We looked at how to leverage past experiences and turn them into opportunities. Figuring out what you're good at, and using it to your advantage, and I hope that you followed with the exercise, or, if you didn't, you could do it at another time. I hope that the examples and challenges, and opportunities we went through, although might not exactly match what you're going through, or what you might go through when you shift between an individual contributor to a manager role, they have provided a light-touch formula together with discovering what you're good at, exercise that will help you best prepare for the change. So thank you very much, and I'm happy to answer any of your questions, if you have them.
-

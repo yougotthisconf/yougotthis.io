@@ -4,8 +4,8 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - vidhika-bansal
 descriptions:
-  - short: Proactively prevent harm in the products and services you build.
-  - full: >-
+  short: Proactively prevent harm in the products and services you build.
+  full: >-
       We live in the era of “move fast and break things” — where learning
       through iteration and delivering quick outcomes is prioritized, even if it
       comes at a cost. But at what point is that cost too high? What kinds of
@@ -149,4 +149,3 @@ Sometimes saving time is great, but not when it comes at a cost. This is a sayin
 Let's try to be the voice in the room that brings these things up proactively. It will help us sleep at night, feel better, help our customers in the long run, and it will just pave the way for a better society.
 
 Thank you so much for the gift of your attention, and your time, and please feel free to reach out to me. I'm on Twitter, way more than I should be, and you can also find me on LinkedIn if you prefer.
-

@@ -4,10 +4,10 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - benjamin-reitzammer
 descriptions:
-  - short: >-
+  short: >-
       This simple but powerful technique can make your meeting more effective
       and enjoyable.
-  - full: >-
+  full: >-
       In our work as knowledge workers, there are only few things that are more
       despised and at the same time necessary as meetings. The move of more and
       more teams towards working in a distributed manner, has only made this
@@ -52,4 +52,3 @@ If you want to go a little bit deeper, I found the most useful and accessible re
 So, if you're somehow interested in how groups can work with more equal participation from everyone, and you haven't socio-ocracy, check them out, and see what you can do to make your work life more happy and healthy. I hope I started your conference with something useful, and maybe most of you are doing this naturally, but if you're not part of that group, and these things that do these things normally, me having told you about this concept now and trying it out maybe improves some of your meetings at work and as a result makes your work life more happy and healthy.
 
 In if that is the case, that would make me happy. Reach out to me on Discord or Twitter, and tell me how it worked out for you. Thank you all, Kevin and Nathaniel, for this great intro, and I wish you all an amazing day with lots of learning and meaningful conversations. Goodbye.
-

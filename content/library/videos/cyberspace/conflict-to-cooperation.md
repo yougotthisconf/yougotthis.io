@@ -4,8 +4,8 @@ date: 2022-01-14T00:00:00.000Z
 people:
   - jordan-m-adler
 descriptions:
-  - short: 'An in-depth talk about causes of, and resolutiosn for, conflict.'
-  - full: >-
+  short: 'An in-depth talk about causes of, and resolutiosn for, conflict.'
+  full: >-
       Conflict Resolution is a key skill in working effectively in engineering
       organizations. In this workshop, we'll review the causes of conflict, how
       to navigate and negotiate differences in perspectives, and develop
@@ -267,4 +267,3 @@ With that in mind, I would like to go ahead and open the conversation if anybody
 
 Thank you all so much for coming. I hope this was helpful. I've taken your notes. I will polish the lecture notes and pass to Kevin so he can send them out as well. Feel free to reach out to me. I'm on LinkedIn and Twitter if you would like to continue having contact, and being a kind acquaintance of mine.
 Thank you so much, folks. Have a great one.
-

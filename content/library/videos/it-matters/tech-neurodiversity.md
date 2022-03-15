@@ -5,10 +5,10 @@ people:
   - matthew-parker
   - david-atkinson
 descriptions:
-  - short: >-
+  short: >-
       Realise the value of neurodiversity within your team and what
       opportunities it presents.
-  - full: >-
+  full: >-
       We will be looking at neurodiversity and how it fits into the Tech
       industry. A brief experience report, where the industry is now and how we
       can revisit our approach to inclusion within teams. Looking at how
@@ -46,4 +46,3 @@ Right, so we've talked about accessibility. But what are we really want to end o
 So, JP Morgan's autism at work programme, a guy named Anthony Sileo. Talked about an individual that was that they were trying they were interviewing. This guy had no Java programming experience. They interviewed him on the Friday. He didn't know Java, but he said he learned it by the Monday. And sure enough, he came back after a few books and YouTube tutorials and by Monday he was profecient enough to get the job. Rational decision making and in different ways of thinking tend to result in less cognitive bias and drive innovation. And SAP have have talked about this in a few research programmes that are out there. So SAPs autism at work programme. They talked about how people who see things differently have made massive impact. And people who don't easily fit seamlessly tend to change the direction that the company looks in. And as a big company, it means that not everybody is looking in the same direction. Finally as a society, it's really valuable to us. So David touched on this already, but reducing the cost of owner underemployment in that neurodiverse group is going to save us money. An example study found that lifetime economic cost of the support of under unemployment for neurodiverse people is around 1.4 to 2.4 million per person. That is an awful, awful big cost to society that if we can work on, on driving inclusivity. And diversity in the way we hire, and the way we retain staff will save us a lot of money in the long run. There are a lot of other figures out there that you'll be able to find. And on that note,we come to the end of the slides.
 
 So myself and David are passionate about this very important personal reasons. So much so that we came together and we started Diversitas. Our aims are quite simple, provoked promoting the value in neurodiversity, improving opportunities for neurodiverse community, and helping grow greater greater diversity and inclusion across theacross the whole community. I'd advise you to keep your eyes open, because Diversitas, we're hoping to go live very soon, we've got some beta testing. So if anybody's interested in getting involved to help us early on with that, and just just having a look at the site for us and [getting some] giving us some feedback, go taking some of those things we want to lead from the front. So taking some of those examples I talked about around accessibility, the more people we can get looking at that. Those early examples of the sort of their platform, the better we will come out at the end. And the more diverse the product is going to be. You can follow us on LinkedIn, and Facebook. And if you want any more information, drop us a line the emails there. Thank you.
-

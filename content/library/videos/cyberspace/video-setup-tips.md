@@ -4,8 +4,8 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - felix-kerger
 descriptions:
-  - short: Some free tips to improve your presentations and camera setup.
-  - full: >-
+  short: Some free tips to improve your presentations and camera setup.
+  full: >-
       Today we are spending most of our day in front of a computer and quite a
       bit of that time with our cameras on. This change has happened rapidly and
       the transition from being in a meeting room to being in front of a camera
@@ -104,4 +104,3 @@ And then I said before, you don't need expensive equipment to have, a an impact,
 If people can hear you better, the intonation in your voice, it's better, compared to if there is a noise in the background, or if they can only hear every second word, that's really bad. Once you have a good microphone, the next thing to invest this is a good webcam. Have an HD H can webcam with autofocus to make sure your image is always nice and clear so people can see you at your best. It's not necessary, but it helps.
 
 If you follow those guidelines and rules, I can't promise everyone will follow your advice or the things that you're saying, but at least they will listen to you more and there is a higher chance they will actually remember what you told them and how to deal with it. And that is all. I hope there were some helpful things. There might be some questions in the chat, and I'm happy and looking forward to answering them.
-

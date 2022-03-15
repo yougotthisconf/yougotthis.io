@@ -4,10 +4,10 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - daria-dorda
 descriptions:
-  - short: >-
+  short: >-
       What are the labels you give yourself? Understanding them can benefit you
       and those around you.
-  - full: >-
+  full: >-
       If there is one certain thing I could tell about people while working with
       them as a trainer, that’s the one: we do love to read and hear about the
       most intriguing creature we know – that is ourselves. We love to call,
@@ -47,4 +47,3 @@ What I just wanted to say is that when you look at that lady, you probably would
 We do have some minutes left. That was very good. Thank you very much. So I'm going to go into the queue and a mode. And a lot of questions have been asked. Hmm. That's the and let's start with [---] Question. So are the Jungian models, useful as a discussion to keeping away from using them with labels? and [---] also asked this question I remarked on this.
 
 Yeah. I would say yes, I'm, you know, I'm not. I wouldn't dare to say don't use them, it can be ,they can be put into trash. No, but we definitely have to remember that they aren't 100% scientific. And I think it is because of the business models of the different companies because well developed, researched, scientific test costs, like about five euro per person. And if you remember how much cost at your company or yourself, your Gallup test, your disk, well, my MBTI is for free. But some of the tests are pretty expensive, right? And it is because yeah, that's if we don't know what's going on, then it's probably about money. So yes, they are useful as a discussion but what I noticed from my experience from the trainings, even if I say guys, don't be that serious about that I just want you to discuss, to get to know your, your, who you are ,just you know, to maybe form a better team. That isn't always enough because our brain has this tendency to label. So it will happen. Also, if you if we if we would take a serious scientific test the labelling thing would happen as well. But if so then it is much, you know, safer and better for everyone to have a tool that is actually confirmed right than a tool that describes your that you're a cat or a workfit or whatever right?
-

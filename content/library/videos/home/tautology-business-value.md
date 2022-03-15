@@ -4,8 +4,8 @@ date: 2020-06-06T00:00:00.000Z
 people:
   - heidi-waterhouse
 descriptions:
-  - short: 'How to understand why your job exists, and make the most of it.'
-  - full: >-
+  short: 'How to understand why your job exists, and make the most of it.'
+  full: >-
       You didn't get that cool programming job because you're a great
       programmer. You got it because the company you work for wants to make
       money and they think you can help. It's easy for us to feel like our
@@ -146,4 +146,3 @@ What in general - but, in general if the company doesn't know - you ... you can'
 __Carolyn:__ Definitely. That's all the time we have, but I really want to thank for taking the time to say that's okay to advocate for ourselves, and we will continue this conversation hopefully in the self-advocacy channel on Discord.
 
 __Heidi:__ That sounds great. I will be in the sponsored channel on Discord if anybody has any questions. I will be around for a few hours this afternoon.
-

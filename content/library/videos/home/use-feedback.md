@@ -4,8 +4,8 @@ date: 2020-06-06T00:00:00.000Z
 people:
   - ben-bartle
 descriptions:
-  - short: How do we get the feedback we want and the credit we deserve?
-  - full: >-
+  short: How do we get the feedback we want and the credit we deserve?
+  full: >-
       You're creative, made something great and want to tell people about it. In
       this talk, we will walk through some examples of how to maximise feedback
       on ideas from both your peers and managers to ensure your idea gets
@@ -86,4 +86,3 @@ I don't want to do that. I want to finish on three key messages to try to emphas
 The second one is creativity is not just for the experienced. So people think that you need years and years of experience to come up with a great idea, and it's not worth going for feedback until you have had that grounding in reality, and that's just not true. Great ideas come from people who are not experienced all the time. You just need a blank slate, and a complete lack of a predetermined way of going.
 
 Finally, you have taste, you have ideas, you have drive, you have things you believe in. Don't be afraid to use it. Thank you very much, and I welcome your feedback.
-

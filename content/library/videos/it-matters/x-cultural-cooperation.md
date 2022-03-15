@@ -4,8 +4,8 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - agnieszka-chec
 descriptions:
-  - short: Better understand common cultural differences to build stronger teams.
-  - full: >-
+  short: Better understand common cultural differences to build stronger teams.
+  full: >-
       The culture of the Western World values individualism, however, 70 percent
       of the global population lives within cultures characterized by values of
       collectivism. A deep understanding of the differences between collectivist
@@ -46,4 +46,3 @@ Thank you so much.
 Thank you and wish you all the best for the rest of today's presentation.
 
 Thank you
-

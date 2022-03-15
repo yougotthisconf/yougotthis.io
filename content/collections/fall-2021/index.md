@@ -11,6 +11,6 @@ items:
 sponsors:
     - balsamiq
     - bryter
-    - circleci
+    - circle-ci
     - samsung-internet
 ---

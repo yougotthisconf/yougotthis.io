@@ -4,10 +4,10 @@ date: 2020-09-26T00:00:00.000Z
 people:
   - gitte-klitgaard
 descriptions:
-  - short: >-
+  short: >-
       Understanding why stress and depression is so common, and how you can
       manage it.
-  - full: >-
+  full: >-
       Stress and stress-induced depression hit many knowledge workers, and yet
       it is still a taboo. “I am stressed” has become something we hear every
       day, and it has almost become prestigious to say so; it shows that we are
@@ -56,4 +56,3 @@ So now I talked a lot about how could you help yourself? And I'm going to talk a
 So to wrap this up, talk about these things, I think that's one of the best things we can do is start talking more about these things. Because it does exist everywhere. Ask for help. Whether that is you know, help with work or help to actually cope with these things. But do ask for help. And offer help. And I deliberately write offer instead of give help, because it needs to be an offer. It is very rare that people are at a point where you have to give them help. There can be people who are so far out that you need to kind of take them by the hand and take them to a doctor but this is very, very, very rare. And talk to each other. So have these discussions, talk about things, talk about your life, talk about what's going on, talk about the good things. And of course, be kind and care for people.
 
 So that's what I had to say. I will send these slides to you and you can get access to them afterwards. And one of the things that I always talk to people about is Feel free to approach me afterwards whether I will be in Ghana town or my email, or Twitter, whatever all my information is on here, plus some link to some amazing videos, because sometimes it doesn't feel comfortable to speak about things in a big setting like this.
-

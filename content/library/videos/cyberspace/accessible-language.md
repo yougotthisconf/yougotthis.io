@@ -4,8 +4,8 @@ date: 2022-01-14T00:00:00.000Z
 people:
   - amy-dickens
 descriptions:
-  - short: 'Use plain language to be more concise, persuasive, and accessible.'
-  - full: >-
+  short: 'Use plain language to be more concise, persuasive, and accessible.'
+  full: >-
       You may think that you are already using clear language in your work, but
       there are many ways in which bad writing habits can confuse and complicate
       your message. In this workshop we will learn how to use plain language to
@@ -121,4 +121,3 @@ If you have ten links that all say "read more", "read more", it's like I don't h
 Use left-aligned text online. This is something that again is an arrangement thing, but if you use anything like justified text, or centralised text, you can come across something where we call them like "white rivers" in text, or gaps in text. If you're using magnification and something is justified or not left-aligned, you will find there will be big gaps. When you magnify it, you can get lost because you come across a sea of the background colour or whatever it is, and you can't navigate to where you just came from, because it doesn't give you any indication of where the next word is.
 
 Whilst you're doing like thinking about your arrangement, if there is content that you can support with images where appropriate, this is actually very helpful for people with dyslexia, and people who think in a more image-focused way. So, yes. That is like a whirlwind summary of the things that you can do. If you have any questions that you would like to ask me right now, we've got some time for that. If we don't have questions, we've got a little bit of time to get ourselves to drink and a refresh, and then we can go into our activities. So, I guess I'm opening the floor.
-

@@ -5,10 +5,10 @@ people:
   - massi-mapani
   - shivangi-sareen
 descriptions:
-  - short: >-
+  short: >-
       The pandemic has forced many of use to work from home, how do we bring old
       routines and habits into our new lives?
-  - full: >-
+  full: >-
       The whole world shook when the pandemic took over and completely changed
       the way we live our lives. Travelling, socialising, working from the
       office - just basic everyday things stopped dead right in their tracks.
@@ -81,4 +81,3 @@ SHIVANGI: This is a very impressive set-up, with a minimalist structure. The tab
 
 MASSI: A space can mirror who you are in different ways and help break up your day. Getting a space to work for you may require you incorporate some of your truss, such as music, artwork, or even gaming - music. Whatever other hobbies you have to shift from your personal mindset to a work mindset, a space may find that you need to have familiar aspects in it, whether it be having a pet nearby, or personal pictures, or personal quotes, motivation, whatever works for you. Whether you need to take notes, you may need different stationary, or even different accessories, or difference in lighting, investing time and energy, and being mindful about the space in which you're working. It helps you get into a mindset that allows you to function and do your job.
 SHIVANGI: We hope these pictures are inspiring to get creative with your own work-from-home set-up and to take a few lessons away about working from home. Finally, thank you so much for tuning in to hear our talk.
-

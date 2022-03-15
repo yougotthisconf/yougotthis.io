@@ -1,5 +1,5 @@
 <template>
-    <n-link to="/">
+    <n-link :to="`/library/${item.slug}`">
         <div class="thumb">
             <img :src="item.cover" alt="">
             <span class="icon">

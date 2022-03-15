@@ -4,8 +4,8 @@ date: 2019-01-19T00:00:00.000Z
 people:
   - jo-franchetti
 descriptions:
-  - short: 'How to spot, manage, and overcome imposter syndrome.'
-  - full: >-
+  short: 'How to spot, manage, and overcome imposter syndrome.'
+  full: >-
       Impostor syndrome - the belief that you don’t deserve to be where you are,
       and perfectionism - a need to work to impossibly high standards, are
       exhausting. Learn how to spot these destructive thought patterns in
@@ -108,4 +108,3 @@ And you've got a brilliant talk coming up on self-care later this afternoon from
 Why am I telling you all these things? Because I never want anybody else to go through what I did, or to feel alone or unsupported. Because, I really think that, by talking about it, we can increase awareness and learning about mental health in the tech industry, because you deserve to feel happy and comfortable, and, as evidenced by the brilliant line-up that you've got coming today, the tech industry, wonderful, empowering, and it can be a brilliant place to be, and you deserve to be there.
 
 Thank you. [Cheering and Applause]
-

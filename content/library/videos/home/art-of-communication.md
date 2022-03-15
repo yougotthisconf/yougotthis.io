@@ -4,10 +4,10 @@ date: 2020-06-06T00:00:00.000Z
 people:
   - katie-walker
 descriptions:
-  - short: >-
+  short: >-
       Principles to follow for strengthening work communication skills and build
       relationships.
-  - full: >-
+  full: >-
       The stereotype of software developers working alone in a basement is far
       from the reality of open-plan offices and collaborating frequently with
       colleagues on projects. Therefore, good communication skills are a
@@ -110,4 +110,3 @@ I think mentorship and teaching is a fantastic thing to dip your toes into. It's
 To conclude: celebrate your strengths, and make sure you elevate others with them if you can. You can identify weaknesses, and speak opportunities in these areas. If you're always in your comfort zone, you might not be growing and learning. Finally, you belong in tech if you're introverted or extroverted. You don't have to be out there leading every meeting and excelling in every conversation and presentation to succeed in your career, so don't  be too hard on yourself.
 
 Equally, there's nothing good about being a so-called ten-times engineer that is amazing with coding but can't communicate or work with anybody. It's really important to strike a balance. I've still got a really long way to go in my communication skills, but I hope what I've spoken about today helps someone else. Thank you very much.
-

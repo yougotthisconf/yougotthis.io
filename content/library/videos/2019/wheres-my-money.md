@@ -4,8 +4,8 @@ date: 2019-01-19T00:00:00.000Z
 people:
   - paula-muldoon
 descriptions:
-  - short: A story of building a healthy relationship with money.
-  - full: >-
+  short: A story of building a healthy relationship with money.
+  full: >-
       Six months after starting my first developer job I looked at my bank
       account and wondered, 'Where did all my money go?' From a book by a
       Buddhist financial planner to swapping budgeting app recommendations with
@@ -46,4 +46,3 @@ Also, check out for ISAs, they're a really cool savings account where you don't 
 If you're paying online, some will protect against fraudulent uses and others won't. Know what happens. The main thing is, know what is going on. Understand your beliefs about money, and be kind to yourself, and speak with friends and family, and trusted people about it. Because you'll find that the answers are really interesting, you'll gain trust, and that's all really useful. So, that is almost it from me. Thanks to all of you for coming. Thanks for the hosting and the bank where we are. Tweet me as well! If you try any of the things in this talk, do let me know. I'll be very curious. I'm going to close with a final movement of my sonata that I wrote. It's about my journey from being in the music world to being in the tech world.
 
 Thank you very much. [Cheering and Applause].
-

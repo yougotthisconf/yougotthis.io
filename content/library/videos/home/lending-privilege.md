@@ -4,8 +4,8 @@ date: 2020-06-06T00:00:00.000Z
 people:
   - anjuan-simmons
 descriptions:
-  - short: Learn how to leverage your privilege to support others.
-  - full: >-
+  short: Learn how to leverage your privilege to support others.
+  full: >-
       Diversity and inclusion have become hot topics in technology, but you may
       not know how you can make a difference. However, this talk will help you
       understand that, no matter your background, you have privilege and can
@@ -164,4 +164,3 @@ I think if you really want to get down to brass tacks, if you want to show you'r
 __Carolyn:__ Absolutely. That was a great note to end on. Thank you so much, Anjuan for taking the time today. I hope we can continue the discussion over at diversity, accessibility, and inclusion channel. I'm sure there will be a lot more to talk about.
 
 __Anjuan:__ Absolutely, I will be hopping over there. Obviously, if you want to follow me on Twitter and continue this discussion, happy to engage there as well.
-

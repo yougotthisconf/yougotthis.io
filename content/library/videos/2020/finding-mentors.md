@@ -4,8 +4,8 @@ date: 2020-01-18T00:00:00.000Z
 people:
   - amina-adewusi
 descriptions:
-  - short: Learn how to find and work with your perfect mentor.
-  - full: >-
+  short: Learn how to find and work with your perfect mentor.
+  full: >-
       Identifying and connecting with good mentors ensures that the time you
       spend trying to achieve your goals is both efficient and effective.
       Mentors can open doors to more knowledge, job opportunities and support
@@ -89,4 +89,3 @@ For example, when I got my first job, I decided that I didn't need to work on co
 To conclude, overall, I believe that there are many people waiting to help you. In this talk, we've discussed assessing your goals, getting specific. We've looked at a bunch of different platforms that you can use. We've talked about some generic tips like storytelling, creating rapport, and creating a clear call to action as well as having a testing phase.
 
 We looked at nurturing these relationships by considering our mentors' needs, making best use of their time, preparing for meetings, and actioning appropriately afterwards. We also looked at network research in how meeting people outside of our network can bring us new information and opportunity. Sometimes, learning how to code can be tough. I know. I've been there. I want you to know that there are many people out there willing to help you. Create your own luck. Start initiating mentoring relationships today. Thank you.
-

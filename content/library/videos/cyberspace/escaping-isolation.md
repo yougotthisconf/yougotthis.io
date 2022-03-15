@@ -4,8 +4,8 @@ date: 2022-01-15T00:00:00.000Z
 people:
   - niamh-mccooey
 descriptions:
-  - short: 'Identify, contain, and overcome the feeling of isolation.'
-  - full: >-
+  short: 'Identify, contain, and overcome the feeling of isolation.'
+  full: >-
       Have you ever found it difficult to concentrate, struggled to keep up
       momentum, or felt your passion for your side-project wane while working
       from home? So many remote developers know this all too well, and often
@@ -140,4 +140,3 @@ We've outlined three core frameworks that you can use to escape isolation while 
 Hopefully, all of this was practical and helpful, and if you struggle with isolation while working from home, I can personally attest to all of these practices. I'm not saying it's easy but they do make a difference and help you back to feeling good, working, at home, at work. You can find me on Twitter here where I will be sharing links to resources later on.
 
 If you have any of your own practices or tips working from home, feel free to reach out and let me know. I'm always up for a chat to learn new things. I guess that wraps it up. Nothing left to say except thank you for listening, and thank you You Got This for having me today.
-
