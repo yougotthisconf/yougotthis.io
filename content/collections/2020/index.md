@@ -24,6 +24,5 @@ sponsors:
     - pusher
     - mlh
     - auth0
-    - fastprint
     - proactive
 ---

@@ -18,15 +18,15 @@ sponsors:
     - github
     - twilio
     - wildrocket
-    - anddigital
+    - and-digital
     - mongodb
     - verve
     - buzzfeed
-    - notbinary
+    - not-binary
     - indee
     - proactive
     - futuregov
-    - dxw-digital
+    - dxw
     - samsung-internet
     - mlh
     - balsamiq
