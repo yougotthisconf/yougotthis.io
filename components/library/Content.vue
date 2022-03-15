@@ -93,7 +93,7 @@ a {
             }
         }
     }
-    & h3 {
+    & h2 {
         @apply font-bold leading-tight;
     }
     & p {
