@@ -34,10 +34,6 @@ export default {
             type: Object,
             required: true
         },
-        type: {
-            validator: (value) => ['video', 'article'].includes(value),
-            required: true
-        },
         featured: {
             type: Boolean,
             default: false
