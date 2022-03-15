@@ -6,7 +6,8 @@
         <main>
             <LibraryItem :path="dir" class="my-8 md:my-0" />
             <LibraryItemMeta :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" class="block md:hidden" />
-            <nuxt-content :document="doc" class="max-w-full prose lg:prose-lg mt-8"></nuxt-content>
+            <h2>Transcript</h2>
+            <nuxt-content :document="doc" class="max-w-full prose lg:prose-lg"></nuxt-content>
         </main>
     </div>
 </template>
@@ -44,5 +45,8 @@ aside {
 }
 main {
     @apply md:col-span-2;
+}
+h2 {
+    @apply mt-8 mb-4 font-heading text-xl;
 }
 </style>
