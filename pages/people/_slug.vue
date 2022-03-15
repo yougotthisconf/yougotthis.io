@@ -2,7 +2,7 @@
     <div>
         <section class="top">
             <div class="max-w-3xl mx-auto p-4 pb-20">
-                <img :src="`${person.dir}/${person.avatar}`" :alt="`Picture of ${person.name}`">
+                <img :src="`${person.dir}/${person.avatar}`" :alt="`Picture of ${person.name}`" class="w-24">
                 <h1 class="heading">
                     <span>{{ person.name }}</span>
                     <span v-if="person.pronouns" class="pronouns">({{ person.pronouns }})</span>
