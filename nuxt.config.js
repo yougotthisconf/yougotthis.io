@@ -10,7 +10,8 @@ export default {
     '~/components/global',
     '~/components/library',
     '~/components/one-off',
-    '~/components/sponsors'
+    '~/components/sponsors',
+    '~/components/people'
   ],
   head: {
     title: 'You Got This!',

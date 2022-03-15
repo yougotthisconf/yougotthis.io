@@ -45,8 +45,4 @@ aside {
 main {
     @apply md:col-span-2;
 }
-.box, /deep/ .box {
-    @apply bg-white text-theme-black rounded-lg transition text-left shadow;
-    @apply mb-4 p-4 w-full;
-}
 </style>
