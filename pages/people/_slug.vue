@@ -23,10 +23,13 @@
 <script>
 export default {
     async asyncData({ $content, params }) {
-        // const person = await $content('people', { deep: true }).fetch()
         const [person] = await $content('people', { deep: true }).where({ dir: `/people/${params.slug}` }).fetch()
         const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
-        let content = await $content('library', { deep: true }).where({ people: { $contains: params.slug } }).without(['body']).fetch()
+        const videos = await $content('library/videos', { deep: true }).where({ people: { $contains: params.slug } }).without(['body']).fetch()
+
+        let content = [
+            ...videos.map(v => ({ ...v, type: 'video' }))
+        ]
 
         content = content.map(item => {
             let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
