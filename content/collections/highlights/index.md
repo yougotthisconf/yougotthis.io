@@ -1,7 +1,7 @@
 ---
 title: "You Got This Highlights"
 description: "If you're new to You Got This, start here! Some of our favorite content from throughout the years."
-highlight: 1
+highlight: 5
 date: 2022-06-01
 cover: placeholder-1.png
 items:

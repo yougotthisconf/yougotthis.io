@@ -11,7 +11,7 @@ export default {
         const [doc] = await $content('library', { deep: true }).where({ slug: params.slug }).fetch()
         const dir = doc.path.split('/library/').join('')
 
-        const collections = await $content('collections', { deep: true }).where({ items: { $contains: dir } }).without(['items', 'body']).fetch()
+        const collections = await $content('collections', { deep: true }).where({ items: { $contains: dir } }).sortBy('highlight', 'desc').without(['items', 'body']).fetch()
 
         const allPeople = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
         const people = doc.people.map(docP => allPeople.find(allP => allP.dir.includes(docP)))
