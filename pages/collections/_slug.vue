@@ -8,8 +8,8 @@
                     <p>{{ collection.description }}</p>
                 </div>
             </div>
-            <div v-if="sponsors && sponsors.length > 0" class="box">
-                <h2 class="font-heading mb-2 -mt-2 text-lg">Sponsored by</h2>
+            <div v-if="sponsors && sponsors.length > 0" class="my-8">
+                <h2 class="font-heading mb-2 text-xl">Sponsored by</h2>
                 <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2" />
             </div>
             <div class="stats">

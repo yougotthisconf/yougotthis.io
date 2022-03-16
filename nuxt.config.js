@@ -31,8 +31,6 @@ export default {
       { src: 'https://player.vimeo.com/api/player.js' }
     ]
   },
-  css: [],
-  plugins: [],
   buildModules: [
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
@@ -42,10 +40,10 @@ export default {
     '@nuxtjs/axios',
     '@nuxt/content',
   ],
-  axios: {},
-  content: {},
+  moment: {
+		timezone: true,
+	},
   tailwindcss: {
     cssPath: '~/assets/style.css'
-  },
-  build: {}
+  }
 }
