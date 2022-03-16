@@ -15,9 +15,10 @@
         <slot />
         </div>
         <div v-if="people.length > 0" class="people">
-            <details v-for="person in people" :key="person.dir" class="cursor-pointer">
-                <summary>About {{ person.name }}</summary>
+            <details v-for="person in people" :key="person.dir">
+                <summary><span>About {{ person.name }}</span></summary>
                 <nuxt-content :document="person"></nuxt-content>
+                <a v-if="person.twitter" :href="`https://twitter.com/${person.twitter}`" class="button text-xs mt-2">@{{ person.twitter }} on Twitter</a>
             </details>
         </div>
     </div>
@@ -85,7 +86,10 @@ export default {
     @apply p-4 flex flex-col gap-2 border-t;
     & details {
         & summary {
-            @apply font-bold;
+            @apply font-bold cursor-pointer;
+            & span {
+                @apply ml-2;
+            }
         }
     }
 }
