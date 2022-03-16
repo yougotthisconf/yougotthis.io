@@ -35,19 +35,19 @@ git<template>
                 </ul>
                 <ul class="flex flex-wrap gap-6">
                     <li>
-                        <a href="#">Twitter</a>
+                        <a href="https://twitter.com/yougotthisconf">Twitter</a>
                     </li>
                     <li>
-                        <a href="#">Instagram</a>
+                        <a href="https://instagram.com/yougotthisconf">Instagram</a>
                     </li>
                     <li>
-                        <a href="#">Newsletter</a>
+                        <a href="/newsletter">Newsletter</a>
                     </li>
                     <li>
-                        <a href="#">Discord</a>
+                        <a href="/discord">Discord</a>
                     </li>
                     <li>
-                        <a href="#">Email Us</a>
+                        <a href="mailto:kevin@yougotthis.io">Email Us</a>
                     </li>
                 </ul>
             </div>

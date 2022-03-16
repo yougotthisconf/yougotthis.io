@@ -43,9 +43,9 @@ export default {
                     { label: 'Community', path: '/community' },
                 ],
                 secondary: [
-                    { label: 'Newsletter', url: '#' },
-                    { label: 'Twitter', url: '#' },
-                    { label: 'Get Involved', url: '#' },
+                    { label: 'Newsletter', url: '/newsletter' },
+                    { label: 'Twitter', url: 'https://twitter.com/yougotthisconf' },
+                    { label: 'Get Involved', url: '/contribute' },
                 ]
             },
             mobileMenuOpen: false
