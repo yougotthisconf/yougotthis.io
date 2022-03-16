@@ -1,6 +1,6 @@
 <template>
     <div class="grid" :class="gridClass">
-        <Event v-for="item in list" :key="item.title" :event="item" class="event" :class="eventClass" />
+        <Event v-for="item in list" :key="item.title" :event="item" class="event" :class="eventClass" :show-description="showDescription" />
     </div>
 </template>
 
@@ -20,6 +20,11 @@ export default {
             type: String,
             required: false,
             default: ''
+        },
+        showDescription: {
+            type: Boolean,
+            required: false,
+            default: true
         }
     }
 }

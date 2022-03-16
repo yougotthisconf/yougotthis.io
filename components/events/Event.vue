@@ -4,7 +4,7 @@
             <img :src="`${event.dir}/${event.cover}`" alt="">
         </div>
         <h2 :data-title="event.title">{{ event.title }}</h2>
-        <p>{{ event.description }}</p>
+        <p v-if="showDescription">{{ event.description }}</p>
         <EventMeta :event="event" />
     </a>
 </template>
@@ -15,6 +15,11 @@ export default {
         event: {
             type: Object,
             required: true
+        },
+        showDescription: {
+            type: Boolean,
+            required: false,
+            default: true
         }
     }
 }
@@ -36,7 +41,7 @@ a {
     @apply relative shadow rounded-lg overflow-hidden
 }
 h2 {
-  @apply font-heading text-theme-main text-xl md:text-2xl mt-2;
+  @apply font-heading text-theme-main text-xl mt-2 mb-2;
   transform: translate3d(0,0,0) rotate(0);
   &:before {
     @apply absolute;
@@ -46,6 +51,6 @@ h2 {
   }
 }
 p {
-    @apply my-2
+    @apply mb-2
 }
 </style>
