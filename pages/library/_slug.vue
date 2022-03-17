@@ -2,6 +2,7 @@
     <div class="wrapper my-12">
         <h1 class="heading text-center mb-12">{{ doc.title }}</h1>
         <LayoutVideo v-if="doc.vimeo" :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" />
+        <!-- TODO: LayoutArticle -->
     </div>
 </template>
 

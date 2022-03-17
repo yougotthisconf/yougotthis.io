@@ -19,6 +19,7 @@ export default {
     htmlAttrs: {
       lang: 'en'
     },
+    // TODO: Handle meta tag generation
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

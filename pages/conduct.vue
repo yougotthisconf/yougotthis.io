@@ -1,3 +1,3 @@
 <template>
-    <div>Code of Conduct</div>
+    <div>TODO: Code of Conduct</div>
 </template>

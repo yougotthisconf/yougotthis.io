@@ -1,3 +1,3 @@
 <template>
-    <div>Community page - big Discord embed here</div>
+    <div>TODO: Community page - big Discord embed here</div>
 </template>
