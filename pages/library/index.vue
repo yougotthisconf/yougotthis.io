@@ -56,7 +56,7 @@ export default {
     },
     data() {
         return {
-            query: 'adsasd'
+            query: ''
         }
     },
     computed: {
