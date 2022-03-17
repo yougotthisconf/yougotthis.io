@@ -16,7 +16,7 @@
       <n-link class="button bright mt-8 grid-rows-1" to="/library">See full library</n-link>
     </div>
 
-    <Newsletter class="mb-24" />
+    <NewsletterHome class="mb-24" />
 
     <div class="wrapper text-center pb-24">
       <h2 class="heading">Upcoming Events</h2>

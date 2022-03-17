@@ -11,7 +11,8 @@ export default {
     '~/components/library',
     '~/components/one-off',
     '~/components/sponsors',
-    '~/components/people'
+    '~/components/people',
+    '~/components/newsletter'
   ],
   head: {
     title: 'You Got This!',

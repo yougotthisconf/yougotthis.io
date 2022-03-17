@@ -16,11 +16,7 @@
         </aside>
         <main>
             <nuxt-content v-if="!event.save_the_date" :document="event" class="max-w-full prose lg:prose-lg" />
-            <div v-if="event.save_the_date" class="newsletter">
-                <h2 class="heading">Tickets available soon</h2>
-                <p class="mt-2 mb-4">To get updates about this event, register for our newsletter.</p>
-                <NewsletterForm />
-            </div>
+            <NewsletterBlock v-if="event.save_the_date" title="Tickets available soon" text="To get updates about this event, register for our newsletter." />
         </main>
     </div>
 </template>
@@ -68,11 +64,5 @@ aside {
 }
 main {
     @apply md:col-span-2;
-}
-.newsletter {
-    @apply px-4 py-8;
-    @apply rounded-lg shadow bg-theme-main;
-    @apply text-white text-center;
-
 }
 </style>
