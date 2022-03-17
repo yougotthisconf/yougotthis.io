@@ -80,8 +80,16 @@ export default {
             return this.search.slice(12, this.search.length)
         }
     },
+    watch: {
+        'query'(query) {
+            const params = new URLSearchParams(location.search)
+            params.set('query', query)
+            params.toString()
+            window.history.replaceState({}, '', `${location.pathname}?${params.toString()}`)
+        },
+    },
     created() {
-        // TODO: Initial query happens from URL
+        if (this.$route.query.query) this.query = this.$route.query.query
     },
 }
 </script>
