@@ -65,3 +65,7 @@ body {
 .prose * {
     @apply !text-theme-black;
 }
+
+.box {
+    @apply bg-white text-theme-black rounded-lg transition text-left shadow p-4 w-full;
+}

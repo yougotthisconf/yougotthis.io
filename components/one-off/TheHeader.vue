@@ -40,7 +40,7 @@ export default {
                 primary: [
                     { label: 'Library', path: '/library' },
                     { label: 'Events', path: '/events' },
-                    { label: 'Get Involved', path: '/contribute' },
+                    { label: 'Contribute', path: '/contribute' },
                 ],
                 secondary: [
                     { label: 'Newsletter', url: '/newsletter' },

@@ -1,5 +1,5 @@
 <template>
-    <div class="session not-prose">
+    <div class="box not-prose">
         <div class="top">
             <h2>{{ title }}</h2>
             <div class="key">
@@ -65,10 +65,8 @@ export default {
 </script>
 
 <style scoped>
-.session {
+.box {
     @apply my-4;
-    @apply rounded-lg shadow bg-white;
-    @apply text-theme-black text-left;
 }
 .top {
     @apply p-4;

@@ -73,7 +73,7 @@ export default {
 
 <style scoped>
 .box {
-    @apply bg-white text-theme-black rounded-lg transition text-left shadow mb-4 p-4 w-full;
+    @apply mb-4;
 }
 .card {
     @apply flex flex-col p-0 w-full;

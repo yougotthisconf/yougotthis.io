@@ -1,5 +1,5 @@
 <template>
-    <div class="newsletter">
+    <div class="newsletter not-prose">
         <h2 class="heading">{{ title }}</h2>
         <p class="mt-2 mb-4">{{ text }}</p>
         <NewsletterForm />
@@ -26,6 +26,9 @@ export default {
     @apply px-4 py-8;
     @apply rounded-lg shadow bg-theme-main;
     @apply text-white text-center;
+}
 
+.newsletter h2, .newsletter p {
+    @apply !text-white;
 }
 </style>
