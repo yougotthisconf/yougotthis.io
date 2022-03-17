@@ -40,12 +40,12 @@ export default {
                 primary: [
                     { label: 'Library', path: '/library' },
                     { label: 'Events', path: '/events' },
-                    { label: 'Community', path: '/community' },
+                    { label: 'Get Involved', path: '/contribute' },
                 ],
                 secondary: [
                     { label: 'Newsletter', url: '/newsletter' },
                     { label: 'Twitter', url: 'https://twitter.com/yougotthisconf' },
-                    { label: 'Get Involved', url: '/contribute' },
+                    { label: 'Instagram', url: 'https://instagram.com/yougotthisconf' },
                 ]
             },
             mobileMenuOpen: false

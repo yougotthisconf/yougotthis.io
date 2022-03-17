@@ -21,9 +21,6 @@ git<template>
                         <n-link to="/events">Upcoming Events</n-link>
                     </li>
                     <li>
-                        <n-link to="/community">Community Chat</n-link>
-                    </li>
-                    <li>
                         <n-link to="/contribute">Speak or Write for Us</n-link>
                     </li>
                     <li>
@@ -44,7 +41,7 @@ git<template>
                         <a href="/newsletter">Newsletter</a>
                     </li>
                     <li>
-                        <a href="/discord">Discord</a>
+                        <a href="https://discord.gg/Z9QHcPxXe3">Discord</a>
                     </li>
                     <li>
                         <a href="mailto:kevin@yougotthis.io">Email Us</a>
