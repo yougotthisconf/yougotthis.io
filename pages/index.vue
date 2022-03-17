@@ -10,8 +10,7 @@
     </div>
 
     <div class="wrapper text-center pb-24">
-      <h2 class="heading">Latest Content</h2>
-      <p class="mt-2 mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas in enim dolor iste sunt accusamus.</p>
+      <h2 class="heading mb-4">Latest Content</h2>
       <ContentList :list="content" />
       <n-link class="button bright mt-8 grid-rows-1" to="/library">See full library</n-link>
     </div>
@@ -19,8 +18,7 @@
     <NewsletterHome class="mb-24" />
 
     <div class="wrapper text-center pb-24">
-      <h2 class="heading">Upcoming Events</h2>
-      <p class="mt-2 mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas in enim dolor iste sunt accusamus.</p>
+      <h2 class="heading mb-4">Upcoming Events</h2>
       <EventList :list="events" event-class="last:hidden lg:last:block" />
       <n-link class="button bright mt-8 grid-rows-1" to="/events">See all events</n-link>
     </div>
