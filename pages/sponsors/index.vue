@@ -1,7 +1,7 @@
 <template>
     <div class="wrapper py-16 text-center">
         <h1 class="heading">Sponsors</h1>
-        <p class="mt-2 mb-4">We feel very strongly about making sure You Got This runs inclusive initiatives for our audience, and that it's worthwhile for people who help make it happen. Thanks to sponsors, we have live captioning at every event and pay our speakers and authors.</p>
+        <p class="mt-2 mb-4">We feel very strongly about making sure You Got This! runs inclusive initiatives for our audience, and that it's worthwhile for people who help make it happen. Thanks to sponsors, we have live captioning at every event and pay our speakers and authors.</p>
         <h2 class="heading !text-xl mt-12 mb-2">2022 Sponsors</h2>
         <SponsorList :list="current" grid-class="grid-cols-2 lg:grid-cols-4 gap-2" />
 

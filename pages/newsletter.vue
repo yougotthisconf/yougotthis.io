@@ -1,6 +1,6 @@
 <template>
     <div class="wrapper py-4">
-        <NewsletterBlock title="You Got This Newsletter" text="Get (infrequent) news about You Got This! Opt-out in one click." />
+        <NewsletterBlock title="You Got This! Newsletter" text="Get (infrequent) news about You Got This! Opt-out in one click." />
     </div>
 </template>
 

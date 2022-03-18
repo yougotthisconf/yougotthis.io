@@ -59,6 +59,12 @@ export default {
             query: ''
         }
     },
+    head() {
+        return headFactory({
+            title: 'Library',
+            path: this.$route.path
+        })
+    },
     computed: {
         search() {
             const l = this.content
@@ -91,12 +97,6 @@ export default {
     created() {
         if (this.$route.query.query) this.query = this.$route.query.query
     },
-    head() {
-        return headFactory({
-            title: 'Library',
-            path: this.$route.path
-        })
-  },
 }
 </script>
 
