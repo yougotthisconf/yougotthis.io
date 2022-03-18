@@ -6,10 +6,19 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
   async asyncData({ $content }) {
     const page = await $content('static/contribute').fetch()
     return { page }
+  },
+  head() {
+    return headFactory({
+      title: 'Contribute',
+      description: 'Learn about becoming a speaker, writer, or sponsor for You Got This!',
+      path: this.$route.path
+    })
   },
 }
 </script>

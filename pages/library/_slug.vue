@@ -7,6 +7,8 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
     async asyncData({ $content, params }) {
         const [doc] = await $content('library', { deep: true }).where({ slug: params.slug }).fetch()
@@ -25,6 +27,15 @@ export default {
         const sponsors = sponsorList.map(s => allSponsors.find(t => t.dir.includes(s)))
 
         return { doc, collections, people, sponsors, dir }
-    }
+    },
+    head() {
+        return headFactory({
+            title: this.doc.title,
+            description: this.doc.descriptions.short,
+            path: this.$route.path,
+            image: this.doc.cover,
+            absolute: true
+        })
+    },
 }
 </script>

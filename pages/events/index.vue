@@ -8,12 +8,20 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
   async asyncData({ $content }) {
     const events = await $content('events', { deep: true }).where({ hide: { $ne: true } }).without(['body']).fetch()
     const upcoming = events.filter(e => !e.past).sort((a, b) => new Date(a.start) > new Date(b.start))
     const past = events.filter(e => e.past).sort((a, b) => new Date(a.start) < new Date(b.start))
     return { past, upcoming }
+  },
+  head() {
+    return headFactory({
+      title: 'Events',
+      path: this.$route.path
+    })
   },
 }
 </script>

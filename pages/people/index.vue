@@ -7,10 +7,19 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
     async asyncData({ $content, params }) {
         const people = await $content('people', { deep: true }).sortBy('title', 'asc').only(['title', 'avatar', 'dir']).fetch()
         return { people }
-    }
+    },
+    head() {
+      return headFactory({
+        title: 'People',
+        description: 'Here are the wonderful people who have given talks or written articles for You Got This.',
+        path: this.$route.path
+      })
+    },
 }
 </script>

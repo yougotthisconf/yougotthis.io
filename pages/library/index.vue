@@ -39,6 +39,7 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
 export default {
     async asyncData({ $content }) {
         let content = await $content('library', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
@@ -90,6 +91,12 @@ export default {
     created() {
         if (this.$route.query.query) this.query = this.$route.query.query
     },
+    head() {
+        return headFactory({
+            title: 'Library',
+            path: this.$route.path
+        })
+  },
 }
 </script>
 

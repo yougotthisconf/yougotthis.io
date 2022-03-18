@@ -1,7 +1,7 @@
 <template>
     <section class="text-center bg-white pt-8 md:pt-16">
         <div class="max-w-3xl mx-auto p-4">
-            <h1 class="heading">You Got This is a learning hub focused on core skills needed for a happy and healthy work life. </h1>
+            <h1 class="heading">{{ config.description }}</h1>
             <h2 class="text-md mt-4">We hope you find value in our free <a href="/library">content library</a> and inclusive community <a href="/events">events</a>.</h2>
             <n-link class="button bright mt-4" to="/about">Learn More</n-link>
         </div>
@@ -10,6 +10,18 @@
         </svg>
     </section>
 </template>
+
+<script>
+import config from '@/config'
+export default {
+    data() {
+        return {
+            config
+        }
+    }
+}
+</script>
+
 
 <style scoped>
 h2 a {

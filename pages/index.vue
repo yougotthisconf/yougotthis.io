@@ -34,6 +34,8 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
   async asyncData({ $content }) {
     const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(6).fetch()
@@ -55,6 +57,9 @@ export default {
       events,
       sponsors
     }
+  },
+  head() {
+    return headFactory()
   },
 }
 </script>

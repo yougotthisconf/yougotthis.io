@@ -9,12 +9,20 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
 export default {
   async asyncData({ $content }) {
     const main = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').fetch()
     const events = await $content('collections', { deep: true }).without(['body']).where({ type: 'event' }).sortBy('highlight', 'desc').sortBy('date', 'desc').fetch()
 
     return { main, events }
+  },
+  head() {
+    return headFactory({
+      title: 'Collections',
+      description: 'View our curated collections designed to help you navigate specific core skill areas.',
+      path: this.$route.path
+    })
   },
 }
 </script>

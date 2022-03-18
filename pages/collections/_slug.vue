@@ -46,6 +46,8 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
   async asyncData({ $content, params }) {
     const collection = await $content('collections', params.slug, 'index').fetch()
@@ -67,6 +69,14 @@ export default {
     const duration = Math.floor(minutes/60)+':'+ String(minutes%60).padStart(2, '0');
 
     return { collection, items, duration, sponsors }
+  },
+  head() {
+    return headFactory({
+      title: this.collection.title,
+      description: this.collection.description,
+      path: this.$route.path,
+      image: this.collection.cover
+    })
   },
 }
 </script>

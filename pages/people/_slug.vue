@@ -21,6 +21,8 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
     async asyncData({ $content, params }) {
         const person = await $content('people', params.slug, 'index').fetch()
@@ -34,7 +36,13 @@ export default {
         })
 
         return { person, content }
-    }
+    },
+    head() {
+        return headFactory({
+            title: this.person.title,
+            path: this.$route.path
+        })
+    },
 }
 </script>
 

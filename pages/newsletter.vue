@@ -4,6 +4,19 @@
     </div>
 </template>
 
+<script>
+import headFactory from '@/utils/head-factory'
+
+export default {
+    head() {
+        return headFactory({
+            title: 'Newsletter',
+            path: this.$route.path
+        })
+    },
+}
+</script>
+
 <style scoped>
 .newsletter {
     @apply px-4 py-8;

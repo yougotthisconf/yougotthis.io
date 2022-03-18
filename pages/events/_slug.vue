@@ -22,6 +22,8 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
     async asyncData({ $content, params, redirect }) {
         const event = await $content('events', params.slug, 'index').fetch()
@@ -29,7 +31,15 @@ export default {
 
         const sponsors = event.sponsors ? await $content('sponsors', { deep: true }).where({dir: {'$in': event.sponsors.map(s => `/sponsors/${s}`)}}).fetch() : []
         return { event, sponsors }
-    }
+    },
+    head() {
+        return headFactory({
+            title: this.event.title,
+            description: this.event.description,
+            path: this.$route.path,
+            image: this.event.cover
+        })
+    },
 }
 
 </script>
