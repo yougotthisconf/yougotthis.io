@@ -66,6 +66,10 @@ body {
     @apply !text-theme-black;
 }
 
+.prose a {
+    @apply underline;
+}
+
 .box {
     @apply bg-white text-theme-black rounded-lg transition text-left shadow p-4 w-full;
 }

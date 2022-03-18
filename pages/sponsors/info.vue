@@ -1,3 +1,3 @@
 <template>
-    <div>Sponsor YGT</div>
+    <div>TODO: Sponsor YGT</div>
 </template>
