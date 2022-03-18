@@ -1,2 +1,0 @@
-<!-- TODO: Redirects -->
-<!-- TODO: RSS -->
