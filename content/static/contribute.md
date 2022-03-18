@@ -1,15 +1,15 @@
 ---
 title: Contribute
-description: Speak at, write for, or sponsor You Got This.
+description: Learn about becoming a speaker, writer, or sponsor for You Got This!
 ---
 
-You Got This can only happen because of our wonderful contributors. There are three ways to contribute: speak at an event, write articles, or becoming a sponsor.
+You Got This! can only happen because of our wonderful contributors. There are three ways to contribute: speak at an event, write articles, or becoming a sponsor.
 
 We welcome all topics related to core skills. If topics are related to technical implementation, this isn't the place for them. We prefer to not accept content that focuses on "my story" unless it has generalized key insights that our audience can find value in. We also do not accept product pitches.
 
 At this stage, we also look specifically for new topics, so please take a look at our [library](/library) before reaching out. Over time, we expect to have multiple pieces of content on the same topic with different context and points of view.
 
-It is incredibly important to us that speakers and writers are paid for their time, although we also offer the option to donate your fee towards You Got This running costs.
+It is incredibly important to us that speakers and writers are paid for their time, although we also offer the option to donate your fee towards You Got This! running costs.
 
 ## Speak
 
@@ -31,9 +31,13 @@ Our __annual January conference__ has 20-25 minute talks with 5-10 minutes of cu
 
 ## Write
 
-From mid-2022, we are starting our writing program which will publish a new article every fortnight. Articles should be 1500-1700 words, and be exclusive to this website (not posted fully elsewhere). We pay £150 for an article.
+From mid-2022, we are starting our writing program which will publish a new article every fortnight. Articles should be 1500-1700 words, and be exclusive to this website (not posted fully elsewhere). We pay £150 for an article, or 50% of the sponsorship we raise - whatever is higher.
 
 If you are interested in writing, then please [email us](mailto:kevin@yougotthis.io) so we can discuss.
+
+## Surplus Funds
+
+Surplus funds go towards ongoing running costs of You Got This! Any further additional funds are put towards the next inclusion programme we run (generally providing free tickets to our paid workshops before conferences).
 
 ## Sponsor
 

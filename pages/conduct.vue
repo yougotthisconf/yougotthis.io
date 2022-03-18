@@ -15,8 +15,8 @@ export default {
   },
   head() {
     return headFactory({
-      title: 'Code of Conduct',
-      description: 'You can help create a welcoming, respectful, and friendly community based on respect and trust. We are committed to creating a harassment-free community.',
+      title: this.page.title,
+      description: this.page.description,
       path: this.$route.path
     })
   },

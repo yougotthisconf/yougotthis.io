@@ -15,8 +15,8 @@ export default {
   },
   head() {
     return headFactory({
-      title: 'Contribute',
-      description: 'Learn about becoming a speaker, writer, or sponsor for You Got This!',
+      title: this.page.title,
+      description: this.page.description,
       path: this.$route.path
     })
   },

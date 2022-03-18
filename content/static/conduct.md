@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-description: Expectations and rules for You Got This community members.
+description: You can help create a welcoming, respectful, and friendly community based on respect and trust. We are committed to creating a harassment-free community.
 ---
 
 The You Got This community is filled with amazing, clever and creative people, and we're excited for you to join us. Our goal is to create spaces where people can gather and discuss important themes and feelings that many of us will experience during our careers.
