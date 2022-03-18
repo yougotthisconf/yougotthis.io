@@ -1,4 +1,4 @@
-const baseURL = 'https://yougotthis.io'
+const baseURL = 'https://next.yougotthis.io'
 
 export default {
   baseURL,
