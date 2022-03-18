@@ -1,6 +1,6 @@
 ---
 save_the_date: true
-title: 'You Got This: Navigating Nightmares 2022'
+title: 'You Got This: Navigating Nightmares'
 description: What would you do when faced with horror?
 type: Meetup
 location: Online

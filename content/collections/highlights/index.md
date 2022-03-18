@@ -2,7 +2,7 @@
 title: "You Got This Highlights"
 description: "If you're new to You Got This, start here! Some of our favorite content from throughout the years."
 highlight: 5
-date: 2022-06-01
+date: 2022-05-15
 cover: placeholder-1.png
 items:
     - videos/cyberspace/planning-preparing-next-role

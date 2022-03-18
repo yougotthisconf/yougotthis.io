@@ -1,7 +1,7 @@
 ---
 title: "When Things Aren't Going Great"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-date: 2022-06-01
+description: "Your new job can quickly become your worst job. Gain tools, techniques, and strategies to protect yourself."
+date: 2022-05-15
 highlight: 3
 cover: placeholder-4.png
 items:

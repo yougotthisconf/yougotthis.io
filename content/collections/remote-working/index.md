@@ -1,7 +1,7 @@
 ---
 title: "Happy & Healthy Remote Working"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-date: 2022-06-01
+description: "Learn how to make the most of working remotely, from being productive to protecting your mental health."
+date: 2022-05-15
 cover: placeholder-3.png
 items:
     - videos/cyberspace/video-setup-tips

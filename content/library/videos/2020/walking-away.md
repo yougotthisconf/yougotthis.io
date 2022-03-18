@@ -5,14 +5,9 @@ people:
   - amy-dickens
 descriptions:
   short: >-
-      Learn how unconditional job love is used to exploit or mistreat tech
-      workers.
+      What to do when your best job becomes your worse job.
   full: >-
-      Loving or appreciating your job isn’t a problem on its own. But you’re not
-      obligated to do it. In fact, I’d argue that the pressure to love your job
-      can be dangerous. Using examples from my personal experience and from the
-      tech industry as a whole, I’ll talk about how unconditional job love is
-      used to exploit or mistreat tech workers.
+      In this talk we will take an honest look at what happens when your new job becomes your worst job. Including tools to help you recognize the signs of this happening & what you can do to establish your own boundaries & rules about when to walk away.
 vimeo: 670366418
 duration: 26
 cover: >-

@@ -1,7 +1,7 @@
 ---
 title: "Recognizing and Managing Burnout"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-date: 2022-06-01
+description: "Feeling constantly exhausted, overwhelmed, or drained? You're not alone. Here is our content related to burnout."
+date: 2022-05-15
 cover: placeholder-5.png
 items:
     - videos/fall-2021/saying-no
