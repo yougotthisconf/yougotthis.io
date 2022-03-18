@@ -1,5 +1,5 @@
 <template>
-    <div class="box not-prose">
+    <div class="box !p-0 not-prose">
         <div class="top">
             <h2>{{ title }}</h2>
             <div class="key">
