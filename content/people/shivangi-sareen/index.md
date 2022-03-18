@@ -1,5 +1,5 @@
 ---
-name: Shivangi Sareen
+title: Shivangi Sareen
 pronouns: she/her
 avatar: avatar.jpg
 twitter: SareenShivangi

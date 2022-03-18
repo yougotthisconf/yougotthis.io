@@ -1,6 +1,6 @@
 ---
 feature: true
-name: BuzzFeed
+title: BuzzFeed
 url: https://www.buzzfeed.com/uk
 file: buzzfeed.png
 ---

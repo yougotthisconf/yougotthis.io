@@ -1,5 +1,5 @@
 ---
-name: Sascha Wolf
+title: Sascha Wolf
 avatar: avatar.jpg
 twitter: wolf4earth
 ---

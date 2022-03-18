@@ -1,5 +1,5 @@
 ---
-name: Kara Dennison
+title: Kara Dennison
 pronouns: she/her
 avatar: kara-dennison.jpg
 ---

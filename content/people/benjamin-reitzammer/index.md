@@ -1,5 +1,5 @@
 ---
-name: Benjamin Reitzammer
+title: Benjamin Reitzammer
 pronouns: he/him
 avatar: avatar.jpg
 twitter: benjamin

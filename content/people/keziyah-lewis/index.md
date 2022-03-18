@@ -1,5 +1,5 @@
 ---
-name: Keziyah Lewis
+title: Keziyah Lewis
 pronouns: she/they
 avatar: avatar.jpg
 twitter: KeziyahL

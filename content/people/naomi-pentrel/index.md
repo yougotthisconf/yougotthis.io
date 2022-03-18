@@ -1,5 +1,5 @@
 ---
-name: Naomi Pentrel
+title: Naomi Pentrel
 pronouns: she/her
 avatar: avatar.png
 twitter: naomi_pen

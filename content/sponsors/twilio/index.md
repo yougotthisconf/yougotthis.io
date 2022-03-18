@@ -1,7 +1,7 @@
 ---
 current: true
 feature: true
-name: Twilio
+title: Twilio
 url: https://twilio.com
 file: twilio.png
 ---

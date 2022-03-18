@@ -3,7 +3,7 @@
         <div class="top">
             <h2>{{ title }}</h2>
             <div class="key">
-                <p v-if="people.length > 0">{{ people.map(p => p.name).join(', ') }}</p>
+                <p v-if="people.length > 0">{{ people.map(p => p.title).join(', ') }}</p>
                 <p>
                     {{ $moment.utc(start).local().format('HH:mm') }}
                     {{ $moment.tz.guess(true).split('/')[1] }}
@@ -16,7 +16,7 @@
         </div>
         <div v-if="people.length > 0" class="people">
             <details v-for="person in people" :key="person.dir">
-                <summary><span>About {{ person.name }}</span></summary>
+                <summary><span>About {{ person.title }}</span></summary>
                 <nuxt-content :document="person"></nuxt-content>
                 <a v-if="person.twitter" :href="`https://twitter.com/${person.twitter}`" class="button text-xs mt-2">@{{ person.twitter }} on Twitter</a>
             </details>

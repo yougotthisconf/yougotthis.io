@@ -1,6 +1,6 @@
 <template>
     <div class="grid" :class="gridClass">
-        <Person v-for="item in list" :key="item.name" :person="item" :class="personClass" />
+        <Person v-for="item in list" :key="item.title" :person="item" :class="personClass" />
     </div>
 </template>
 

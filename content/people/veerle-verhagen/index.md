@@ -1,5 +1,5 @@
 ---
-name: Veerle Verhagen
+title: Veerle Verhagen
 pronouns: she/her
 avatar: avatar.jpg
 twitter: witchofthetest

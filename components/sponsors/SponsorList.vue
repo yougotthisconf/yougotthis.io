@@ -1,6 +1,6 @@
 <template>
     <div class="grid" :class="gridClass">
-        <Sponsor v-for="item in list" :key="item.name" :sponsor="item" :class="sponsorClass" />
+        <Sponsor v-for="item in list" :key="item.title" :sponsor="item" :class="sponsorClass" />
     </div>
 </template>
 

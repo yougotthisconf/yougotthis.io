@@ -1,5 +1,5 @@
 ---
-name: Daria Dorda
+title: Daria Dorda
 avatar: avatar.jpg
 twitter: DariaDorda
 ---

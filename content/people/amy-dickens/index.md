@@ -1,5 +1,5 @@
 ---
-name: Amy Dickens
+title: Amy Dickens
 pronouns: they/them
 avatar: avatar.jpg
 twitter: RedRoxProjects

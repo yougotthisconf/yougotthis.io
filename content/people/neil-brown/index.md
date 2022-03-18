@@ -1,5 +1,5 @@
 ---
-name: Neil Brown
+title: Neil Brown
 pronouns: he/him
 avatar: avatar.jpg
 twitter: neil_neilzone

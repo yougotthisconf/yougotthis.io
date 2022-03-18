@@ -1,5 +1,5 @@
 ---
-name: Klaartje Van Zwoll
+title: Klaartje Van Zwoll
 pronouns: she/her
 avatar: avatar.jpg
 twitter: klaartjejulia

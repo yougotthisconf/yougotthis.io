@@ -14,7 +14,7 @@ export default {
 
         const collections = await $content('collections', { deep: true }).where({ items: { $contains: dir } }).sortBy('highlight', 'desc').without(['items', 'body']).fetch()
 
-        const allPeople = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
+        const allPeople = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
         const people = doc.people.map(docP => allPeople.find(allP => allP.dir.includes(docP)))
 
         const allSponsors = await $content('sponsors', { deep: true }).fetch()

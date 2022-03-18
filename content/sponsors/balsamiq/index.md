@@ -1,7 +1,7 @@
 ---
 current: true
 feature: true
-name: Balsamiq
+title: Balsamiq
 url: https://balsamiq.com
 file: balsamiq.png
 ---

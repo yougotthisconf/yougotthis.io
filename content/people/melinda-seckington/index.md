@@ -1,5 +1,5 @@
 ---
-name: Melinda Seckington
+title: Melinda Seckington
 pronouns: she/her
 avatar: avatar.jpg
 twitter: mseckington

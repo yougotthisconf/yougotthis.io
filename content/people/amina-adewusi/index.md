@@ -1,5 +1,5 @@
 ---
-name: Amina Adewusi
+title: Amina Adewusi
 pronouns: she/her
 avatar: avatar.jpg
 twitter: a_adewusi

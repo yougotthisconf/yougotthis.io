@@ -1,5 +1,5 @@
 ---
-name: Sanne Visser
+title: Sanne Visser
 pronouns: she/her
 avatar: avatar.jpg
 twitter: SimplySanne

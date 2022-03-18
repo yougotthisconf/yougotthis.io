@@ -1,5 +1,5 @@
 ---
-name: Richard Westenra
+title: Richard Westenra
 pronouns: he/him
 avatar: avatar.jpeg
 twitter: RichardWestenra

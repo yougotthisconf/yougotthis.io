@@ -1,5 +1,5 @@
 ---
-name: Julianne Burke
+title: Julianne Burke
 pronouns: she/her
 avatar: avatar.jpg
 twitter: julianne_burke

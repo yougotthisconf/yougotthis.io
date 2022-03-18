@@ -1,5 +1,5 @@
 ---
-name: Monzo
+title: Monzo
 url: https://monzo.com
 file: monzo.png
 ---

@@ -1,5 +1,5 @@
 ---
-name: Lola Odelola
+title: Lola Odelola
 pronouns: she/her
 avatar: avatar.jpg
 twitter: lolaodelola

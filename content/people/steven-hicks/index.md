@@ -1,5 +1,5 @@
 ---
-name: Steven Hicks
+title: Steven Hicks
 pronouns: he/him
 avatar: avatar.jpg
 twitter: pepopowitz

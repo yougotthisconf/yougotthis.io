@@ -1,5 +1,5 @@
 ---
-name: Tomasz Smaczny
+title: Tomasz Smaczny
 avatar: avatar.jpg
 ---
 

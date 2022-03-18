@@ -1,5 +1,5 @@
 ---
-name: Matt Rose
+title: Matt Rose
 pronouns: he/him
 avatar: avatar.jpg
 twitter: yamiacat

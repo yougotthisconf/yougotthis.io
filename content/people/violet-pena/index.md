@@ -1,5 +1,5 @@
 ---
-name: Violet Peña
+title: Violet Peña
 pronouns: she/her
 avatar: avatar.jpg
 ---

@@ -3,7 +3,6 @@
         <div class="wrapper pt-16 mb-16">
             <h1 class="heading text-center">Library</h1>
             <div class="filters">
-                <!-- TODO: Add Content Type Filter -->
                 <div class="search">
                     <input v-model="query" type="text" placeholder="Type to filter" class="text-input">
                 </div>
@@ -44,7 +43,7 @@ export default {
     async asyncData({ $content }) {
         let content = await $content('library', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
         const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(4).fetch()
-        const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
+        const people = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
 
         content = content.map(item => {
             let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
@@ -66,7 +65,7 @@ export default {
                 const q = this.query.toLowerCase()
                 const results = []
                 results.push(...l.filter(i => i.title.toLowerCase().includes(q)))
-                results.push(...l.filter(i => i.people.map(p => p.name.toLowerCase()).join(', ').includes(q)))
+                results.push(...l.filter(i => i.people.map(p => p.title.toLowerCase()).join(', ').includes(q)))
                 results.push(...l.filter(i => i.descriptions.short.toLowerCase().includes(q)))
                 results.push(...l.filter(i => i.descriptions.full.toLowerCase().includes(q)))
                 return [...new Set(results)]

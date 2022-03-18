@@ -1,5 +1,5 @@
 ---
-name: Matthew Parker
+title: Matthew Parker
 pronouns: he/him
 avatar: avatar.jpg
 ---

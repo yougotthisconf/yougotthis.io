@@ -1,5 +1,5 @@
 ---
-name: Auth0
+title: Auth0
 url: https://auth0.com
 file: auth0.png
 ---

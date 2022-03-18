@@ -1,5 +1,5 @@
 ---
-name: Gem Hill
+title: Gem Hill
 pronouns: she/her
 avatar: avatar.jpg
 twitter: gem_hill

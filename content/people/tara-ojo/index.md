@@ -1,5 +1,5 @@
 ---
-name: Tara Ojo
+title: Tara Ojo
 pronouns: she/her
 avatar: avatar.jpg
 twitter: tara_ojo

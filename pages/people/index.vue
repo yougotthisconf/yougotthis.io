@@ -9,7 +9,7 @@
 <script>
 export default {
     async asyncData({ $content, params }) {
-        const people = await $content('people', { deep: true }).sortBy('name', 'asc').only(['name', 'avatar', 'dir']).fetch()
+        const people = await $content('people', { deep: true }).sortBy('title', 'asc').only(['title', 'avatar', 'dir']).fetch()
         return { people }
     }
 }

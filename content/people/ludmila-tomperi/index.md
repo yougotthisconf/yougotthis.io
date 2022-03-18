@@ -1,5 +1,5 @@
 ---
-name: Ludmila Tomperi
+title: Ludmila Tomperi
 pronouns: she/her
 avatar: ludmila-tomperi.jpeg
 twitter: Nessa_Lumi

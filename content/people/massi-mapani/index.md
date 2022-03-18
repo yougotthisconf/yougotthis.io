@@ -1,5 +1,5 @@
 ---
-name: Massi Mapani
+title: Massi Mapani
 pronouns: she/her
 avatar: avatar.jpg
 twitter: mas_mapani

@@ -1,5 +1,5 @@
 ---
-name: Nathaniel Okenwa
+title: Nathaniel Okenwa
 pronouns: he/him
 avatar: avatar.jpg
 twitter: chatterboxCoder

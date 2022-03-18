@@ -1,5 +1,5 @@
 ---
-name: Gargi Sharma
+title: Gargi Sharma
 avatar: avatar.jpg
 twitter: gawwrgi
 ---

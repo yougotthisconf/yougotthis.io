@@ -1,5 +1,5 @@
 ---
-name: Heidi Waterhouse
+title: Heidi Waterhouse
 pronouns: she/her
 avatar: avatar.jpg
 twitter: wiredferret

@@ -1,5 +1,5 @@
 ---
-name: Piotr Nabielec
+title: Piotr Nabielec
 pronouns: he/him
 avatar: avatar.jpg
 ---

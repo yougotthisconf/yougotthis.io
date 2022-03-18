@@ -1,5 +1,5 @@
 ---
-name: David Atkinson
+title: David Atkinson
 pronouns: he/him
 avatar: avatar.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-name: Magda Miu
+title: Magda Miu
 pronouns: she/her
 avatar: magda-miu.png
 twitter: MagdaMiu

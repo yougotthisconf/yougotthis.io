@@ -2,9 +2,9 @@
     <div>
         <section class="top">
             <div class="max-w-3xl mx-auto p-4 pb-20">
-                <img :src="`${person.dir}/${person.avatar}`" :alt="`Picture of ${person.name}`" class="w-24">
+                <img :src="`${person.dir}/${person.avatar}`" :alt="`Picture of ${person.title}`" class="w-24">
                 <h1 class="heading">
-                    <span>{{ person.name }}</span>
+                    <span>{{ person.title }}</span>
                     <span v-if="person.pronouns" class="pronouns">({{ person.pronouns }})</span>
                 </h1>
                 <nuxt-content :document="person" class="mt-6 mb-4"></nuxt-content>
@@ -24,7 +24,7 @@
 export default {
     async asyncData({ $content, params }) {
         const person = await $content('people', params.slug, 'index').fetch()
-        const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
+        const people = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
         let content = await $content('library', { deep: true }).where({ people: { $contains: params.slug } }).without(['body']).fetch()
 
         content = content.map(item => {

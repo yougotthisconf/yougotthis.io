@@ -1,5 +1,5 @@
 ---
-name: Katie Walker
+title: Katie Walker
 pronouns: she/her
 avatar: avatar.jpg
 twitter: KatCodes

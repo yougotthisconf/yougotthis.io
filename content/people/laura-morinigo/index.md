@@ -1,5 +1,5 @@
 ---
-name: Laura Morinigo
+title: Laura Morinigo
 pronouns: she/her
 avatar: avatar.png
 twitter: thisislalaok

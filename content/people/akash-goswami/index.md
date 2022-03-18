@@ -1,5 +1,5 @@
 ---
-name: Akash Goswami
+title: Akash Goswami
 pronouns: he/him
 avatar: avatar.jpg
 twitter: akashgoswami_

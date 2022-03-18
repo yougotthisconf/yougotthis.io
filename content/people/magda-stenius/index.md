@@ -1,5 +1,5 @@
 ---
-name: Magda Stenius
+title: Magda Stenius
 pronouns: she/her
 avatar: avatar.jpg
 ---

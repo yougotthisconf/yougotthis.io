@@ -14,12 +14,12 @@
         </div>
         <div class="meta">
             <div class="images">
-                <img v-for="person in item.people" :key="person.name" :src="person.avatar" :alt="`Avatar of ${person.name}`" />
+                <img v-for="person in item.people" :key="person.title" :src="person.avatar" :alt="`Avatar of ${person.title}`" />
             </div>
              <div>
                  <h2 class="text-sm">{{ item.title }}</h2>
                  <p>
-                     <span>{{ item.people[0].name }}</span>
+                     <span>{{ item.people[0].title }}</span>
                      <span v-if="item.people.length > 1">+{{ item.people.length-1 }}</span>
                  </p>
              </div>

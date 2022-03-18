@@ -1,5 +1,5 @@
 ---
-name: Malcolm Xavier
+title: Malcolm Xavier
 pronouns: he/him
 avatar: avatar.jpg
 ---

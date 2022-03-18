@@ -50,7 +50,7 @@ export default {
   async asyncData({ $content, params }) {
     const collection = await $content('collections', params.slug, 'index').fetch()
     const fullLibrary = await $content('library', { deep: true }).without(['body']).fetch()
-    const people = await $content('people', { deep: true }).only(['name', 'avatar', 'dir']).fetch()
+    const people = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
     const allSponsors = await $content('sponsors', { deep: true }).fetch()
 
     let items = fullLibrary.filter(libItem => collection.items.find(colItem => libItem.path.includes(colItem)))

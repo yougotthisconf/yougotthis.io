@@ -1,6 +1,6 @@
 ---
 feature: true
-name: Mozilla
+title: Mozilla
 url: https://mozilla.org
 file: mozilla.png
 ---

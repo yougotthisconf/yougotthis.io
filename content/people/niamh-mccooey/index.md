@@ -1,5 +1,5 @@
 ---
-name: Niamh Mccooey
+title: Niamh Mccooey
 pronouns: she/her
 avatar: avatar.jpg
 twitter: niamhmccoo

@@ -1,5 +1,5 @@
 ---
-name: Ben Greenberg
+title: Ben Greenberg
 pronouns: he/him
 avatar: avatar.png
 twitter: RabbiGreenberg

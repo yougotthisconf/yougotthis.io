@@ -1,5 +1,5 @@
 ---
-name: Ben Bartle
+title: Ben Bartle
 pronouns: he/him
 avatar: avatar.jpg
 twitter: benbartle

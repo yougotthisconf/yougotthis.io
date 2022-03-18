@@ -1,7 +1,7 @@
 ---
 feature: true
 current: true
-name: CircleCI
+title: CircleCI
 url: https://circleci.com
 file: circle-ci.png
 ---

@@ -1,5 +1,5 @@
 ---
-name: Matthew Gilliard
+title: Matthew Gilliard
 pronouns: he/him
 avatar: avatar.jpg
 twitter: MaximumGilliard

@@ -1,5 +1,5 @@
 ---
-name: Gitte Klitgaard
+title: Gitte Klitgaard
 pronouns: she/her
 avatar: avatar.jpg
 twitter: NativeWired

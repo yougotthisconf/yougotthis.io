@@ -1,5 +1,5 @@
 ---
-name: Paula Muldoon
+title: Paula Muldoon
 pronouns: she/her
 avatar: avatar.jpg
 twitter: FiddlersCode

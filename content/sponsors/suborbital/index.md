@@ -1,6 +1,6 @@
 ---
 current: true
-name: Suborbital
+title: Suborbital
 url: https://suborbital.dev
 file: suborbital.png
 ---

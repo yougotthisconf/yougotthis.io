@@ -1,5 +1,5 @@
 ---
-name: Felix Kerger
+title: Felix Kerger
 pronouns: he/him
 avatar: avatar.jpg
 ---

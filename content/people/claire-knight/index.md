@@ -1,5 +1,5 @@
 ---
-name: Claire Knight
+title: Claire Knight
 pronouns: she/her
 avatar: avatar.jpg
 twitter: krider2010

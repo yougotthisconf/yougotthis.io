@@ -1,5 +1,5 @@
 ---
-name: Ruth Lee
+title: Ruth Lee
 pronouns: she/her
 avatar: avatar.jpg
 twitter: yoursruthlessly

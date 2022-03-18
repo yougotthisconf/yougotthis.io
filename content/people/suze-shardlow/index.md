@@ -1,5 +1,5 @@
 ---
-name: Suze Shardlow
+title: Suze Shardlow
 pronouns: she/her
 avatar: avatar.jpg
 twitter: SuzeShardlow

@@ -1,6 +1,6 @@
 ---
 feature: true
-name: MongoDB
+title: MongoDB
 url: https://www.mongodb.com
 file: mongodb.png
 ---

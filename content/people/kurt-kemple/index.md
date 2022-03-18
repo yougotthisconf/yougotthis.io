@@ -1,5 +1,5 @@
 ---
-name: Kurt Kemple
+title: Kurt Kemple
 pronouns: he/they
 avatar: kurt.jpg
 twitter: theworstdev

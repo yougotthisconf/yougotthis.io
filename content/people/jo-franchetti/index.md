@@ -1,5 +1,5 @@
 ---
-name: Jo Franchetti
+title: Jo Franchetti
 pronouns: she/her
 avatar: avatar.jpg
 twitter: ThisIsJoFrank

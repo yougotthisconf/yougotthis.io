@@ -1,6 +1,6 @@
 ---
 feature: true
-name: Microsoft
+title: Microsoft
 url: https://microsoft.com
 file: microsoft.png
 ---

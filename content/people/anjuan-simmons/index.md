@@ -1,5 +1,5 @@
 ---
-name: Anjuan Simmons
+title: Anjuan Simmons
 pronouns: he/him
 avatar: avatar.jpg
 twitter: anjuan

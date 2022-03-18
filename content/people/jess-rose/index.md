@@ -1,5 +1,5 @@
 ---
-name: Jess Rose
+title: Jess Rose
 pronouns: she/her
 avatar: avatar.jpg
 twitter: jesslynnrose

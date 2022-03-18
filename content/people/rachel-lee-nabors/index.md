@@ -1,5 +1,5 @@
 ---
-name: Rachel Lee Nabors
+title: Rachel Lee Nabors
 pronouns: they/them
 avatar: avatar.jpg
 twitter: rachelnabors

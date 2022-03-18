@@ -1,5 +1,5 @@
 ---
-name: LaunchDarkly
+title: LaunchDarkly
 url: https://jonjoe.io
 file: launchdarkly.png
 ---

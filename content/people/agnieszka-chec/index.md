@@ -1,5 +1,5 @@
 ---
-name: Agnieszka Chęś
+title: Agnieszka Chęś
 avatar: avatar.jpg
 ---
 

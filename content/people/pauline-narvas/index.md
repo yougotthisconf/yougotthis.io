@@ -1,5 +1,5 @@
 ---
-name: Pauline Narvas
+title: Pauline Narvas
 pronouns: she/her
 avatar: avatar.jpg
 twitter: paulienuh

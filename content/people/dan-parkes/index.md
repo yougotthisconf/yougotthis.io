@@ -1,5 +1,5 @@
 ---
-name: Dan Parkes
+title: Dan Parkes
 pronouns: he/him
 avatar: avatar.jpg
 twitter: dancparkes
