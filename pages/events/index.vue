@@ -11,8 +11,8 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const upcoming = await $content('events', { deep: true }).where({ past: { $ne: true } }).without(['body']).sortBy('start', 'asc').fetch()
-    const past = await $content('events', { deep: true }).where({ past: true }).without(['body']).sortBy('start', 'desc').fetch()
+    const upcoming = await $content('events', { deep: true }).where({ past: { $ne: true }, hide: { $ne: true } }).without(['body']).sortBy('start', 'asc').fetch()
+    const past = await $content('events', { deep: true }).where({ past: true, hide: { $ne: true } }).where({ hide: { $ne: true } }).without(['body']).sortBy('start', 'desc').fetch()
 
     return { past, upcoming }
   },
