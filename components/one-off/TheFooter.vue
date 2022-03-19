@@ -44,7 +44,7 @@ git<template>
                         <a href="https://discord.gg/Z9QHcPxXe3">Discord</a>
                     </li>
                     <li>
-                        <a href="/feed.xml">RSSf</a>
+                        <a href="/feed.xml">RSS</a>
                     </li>
                     <li>
                         <a href="mailto:kevin@yougotthis.io">Email Us</a>
