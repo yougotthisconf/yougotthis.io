@@ -96,5 +96,4 @@ export default {
     breaks: true,
     use: ['markdown-it-div', 'markdown-it-attrs'],
   },
-  // TODO: RSS
 }
