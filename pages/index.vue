@@ -2,7 +2,7 @@
   <div>
     <Hero />
 
-    <div class="wrapper text-center pb-24">
+    <div class="wrapper text-center mt-12 sm:mt-0 pb-24">
       <h2 class="heading">Collections</h2>
       <p class="mt-2 mb-4">View our curated collections designed to help you navigate specific core skill areas.</p>
       <CollectionList :list="collections" />

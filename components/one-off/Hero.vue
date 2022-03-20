@@ -1,6 +1,6 @@
 <template>
     <section class="text-center bg-white pt-8 md:pt-16">
-        <div class="max-w-3xl mx-auto p-4">
+        <div class="max-w-3xl mx-auto px-4 mt-4 pb-12">
             <h1 class="heading">{{ config.description }}</h1>
             <h2 class="text-md mt-4">We hope you find value in our free <a href="/library">content library</a> and inclusive community <a href="/events">events</a>.</h2>
         </div>
