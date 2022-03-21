@@ -32,7 +32,7 @@ body {
     @apply bg-theme-white text-theme-black transition;
     @apply border-2 border-theme-black;
     @apply rounded-full py-1 px-4;
-    @apply font-bold text-center no-underline;
+    @apply font-bold text-center !no-underline;
     @apply inline-block;
     box-shadow: var(--theme-black) 2.5px 2.5px 0 0;
     &:hover {

@@ -18,7 +18,7 @@
             <details v-for="person in people" :key="person.dir">
                 <summary><span>About {{ person.title }}</span></summary>
                 <nuxt-content :document="person"></nuxt-content>
-                <a v-if="person.twitter" :href="`https://twitter.com/${person.twitter}`" class="button text-xs mt-2">@{{ person.twitter }} on Twitter</a>
+                <a v-if="person.twitter" :href="`https://twitter.com/${person.twitter}`" class="button text-sm mt-2">@{{ person.twitter }} on Twitter</a>
             </details>
         </div>
     </div>
