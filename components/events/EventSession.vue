@@ -71,14 +71,17 @@ export default {
 .top {
     @apply p-4;
     & h2 {
-        @apply font-heading text-xl;
+        @apply font-heading text-xl !my-0;
     }
     & .key {
-        @apply flex flex-wrap space-x-4 mt-2;
+        @apply flex flex-wrap space-x-4 !mt-2 !mb-0;
+        & p {
+            @apply !my-0;
+        }
     }
 }
 .description {
-    @apply p-4 border-t;
+    @apply p-4 border-t !my-0;
 }
 .people {
     @apply p-4 flex flex-col gap-2 border-t;
