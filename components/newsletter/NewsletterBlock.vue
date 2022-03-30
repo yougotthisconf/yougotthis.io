@@ -1,7 +1,7 @@
 <template>
     <div class="newsletter not-prose">
-        <h2 class="heading">{{ title }}</h2>
-        <p class="mt-2 mb-4">{{ text }}</p>
+        <h2 class="heading not-prose">{{ title }}</h2>
+        <p class="mt-2 mb-4 not-prose">{{ text }}</p>
         <NewsletterForm />
     </div>
 </template>
