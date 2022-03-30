@@ -49,6 +49,9 @@ export default {
     '@nuxtjs/feed',
     '@nuxtjs/markdownit'
   ],
+  plugins: [
+    { src: '~/plugins/simple-analytics.js', mode: 'client' },
+  ],
   moment: {
 		timezone: true,
 	},
