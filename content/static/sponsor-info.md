@@ -12,6 +12,11 @@ It is incredibly important to us that speakers and writers are paid for their ti
 
 Our seasonal events are quarterly online meetups which typically have 150-200 attendees and have 7 10-minute talks with questions. We take up to 4 sponsors per event.
 
+Meetup sponsorship is £500 per event or £1750 for 4 if paid upfront. It includes:
+- Your logo on event webpage, on the livestream, and library pages.
+- A 5 minute live or pre-recorded talk to be shared as part of the livestream.
+- 3 Tweets of thanks.
+
 _Note: all 2022 seasonal meetup slots are sold._
 
 ### Sponsor Annual Special Meetup
@@ -20,11 +25,16 @@ Our annual 'special' online meetup focuses on a single theme throughout. It expe
 
 2022's special event is [Navigating Nightmares](/events/navigating-nightmares) on October 31.
 
+Meetup sponsorship is £500. It includes:
+- Your logo on event webpage, on the livestream, and library pages.
+- A 5 minute live or pre-recorded talk to be shared as part of the livestream.
+- 3 Tweets of thanks.
+
 ### Sponsor Annual Conference
 
 Our annual January conference is our flagship event. All content is made available for free after the event.
 
-We aren't ready to announce details of the 2023 online conference beyond the dates - Jan 14-15 2023. We expect 1500-1700 attendees. Get in touch to learn more!
+The next conference is Jan 14-15 2023. We expect 1500-1700 attendees. [Get in touch](mailto:kevin@yougotthis.io) to find out more.
 
 ### Sponsor Articles
 
@@ -32,6 +42,9 @@ You Got This has historically only provided video content in the talk library. F
 
 Each 3 month period will be sold as a single sponsorship block. As we don't yet know what our viewership will look like, we are significantly discounting sponsorship for the first two quarters.
 
+Article sponsorship is £2500 per quarter. It includes:
+- Customized call-to-actions will be present at the top, middle, and end of each post you sponsor. Get in touch if you want more information about this.
+- 3 Tweets of thanks.
 ## Inclusion
 
 We'll keep this brief. It's important that as many people as possible have access to our initiatives. To aid that, we:
@@ -51,17 +64,6 @@ For the first time since You Got This was formed, we asked monitoring questions 
 - 28.7% of our audience are early-career. 30.7% of our audience are seniors or managers+.
 - 47% of the audience that attend You Got This events are considering a change in jobs.
 - Our audience primarily spans the UK, USA, Ireland, Spain, and Germany.
-
-## Costs
-
-- Meetup sponsorship is £500 per event or £1750 for 4 if paid upfront. It includes:
-    - Your logo on event webpage, on the livestream, and library pages.
-    - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
-    - 3 Tweets of thanks.
-- Article sponsorship is £2500 per quarter. It includes:
-    - Customized call-to-actions will be present at the top, middle, and end of each post you sponsor. Get in touch if you want more information about this.
-    - 3 Tweets of thanks.
-- The 2023 Conference sponsorship has three tiers at £1500, £3000, and £8000. Please get in touch to find out more information about what is included at each level.
 
 ## Surplus Funds
 
