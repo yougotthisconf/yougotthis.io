@@ -13,7 +13,7 @@
 
             <div class="sponsors">
                 <h2 v-if="sponsors.length > 0">Sponsored by</h2>
-                <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mb-8" />
+                <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mb-8 mt-2" />
             </div>
 
 
