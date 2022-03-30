@@ -8,6 +8,7 @@ type: Meetup
 link:
     text: Get a free ticket
     url: '#'
+ticket_form_key: summer-2022
 location: Online
 start: 2022-03-09T18:00:00Z
 cover: spring.png

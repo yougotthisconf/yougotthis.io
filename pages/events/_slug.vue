@@ -9,10 +9,14 @@
                 <EventMeta :event="event" />
 
                 <a v-if="event.link" :href="event.link.url" class="button bright link">{{ event.link.text }}</a>
+            </div>
 
+            <div class="sponsors">
                 <h2 v-if="sponsors.length > 0">Sponsored by</h2>
                 <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mb-8" />
             </div>
+
+
         </aside>
         <main>
             <nuxt-content v-if="!event.save_the_date" :document="event" class="max-w-full prose lg:prose-lg" />
@@ -47,6 +51,7 @@ export default {
 <style scoped>
 aside {
     @apply lg:col-span-1;
+    @apply flex flex-col gap-8;
     & .details {
         & img {
             @apply shadow rounded-lg
@@ -64,9 +69,9 @@ aside {
         & p {
             @apply text-sm mb-4;
         }
-        & h2 {
-            @apply font-heading text-xl mb-4 mt-8;
-        }
+    }
+    & h2 {
+        @apply font-heading text-xl;
     }
     & .link {
         @apply mt-4 w-full;
