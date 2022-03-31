@@ -16,9 +16,9 @@ items:
     - videos/2019/perfectionism-imposter-syndrome-anxiety
 ---
 
-You Got This started with it's first annual event in January 2019. Since then, it's rapidly expanded to six annual events and a programme of written articles completely focused on core skills.
+You Got This started with our first annual event in January 2019. Since then, it's rapidly expanded to six annual events and a programme of written articles completely focused on core skills.
 
-At the first event, [Jo](/people/jo-franchetti) delivered her talk on spotting destructive thought patterns, manage anxiety and procrastination, and how to be kinder to yourself. To this day, it's one of our favorites.
+At the first event, [Jo](/people/jo-franchetti) delivered her talk on spotting destructive thought patterns, manage anxiety and procrastination, and how to be kinder to yourself. To this day, it's one of our community's favorites.
 
 <library-item path="videos/2019/perfectionism-imposter-syndrome-anxiety"></library-item>
 
