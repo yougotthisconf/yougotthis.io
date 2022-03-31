@@ -21,3 +21,12 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+td {
+  @apply py-2 pl-2;
+}
+tr {
+  @apply border-b;
+}
+</style>
