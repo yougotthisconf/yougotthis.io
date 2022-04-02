@@ -1,6 +1,6 @@
 <template>
     <n-link :to="person.dir" class="box">
-        <img :src="`${person.dir}/${person.avatar}`" :alt="`Picture of ${person.title}`" class="w-9">
+        <img :src="`${person.dir}/${person.avatar}`" :alt="person.title" class="w-9">
         <p>{{ person.title }}</p>
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" />
