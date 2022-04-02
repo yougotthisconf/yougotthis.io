@@ -94,7 +94,7 @@ export default {
         @apply p-4 flex-1 flex flex-col justify-start;
     }
     & h1 {
-        @apply font-heading text-theme-main text-2xl md:text-3xl -mt-7 md:-mt-8;
+        @apply font-heading text-theme-alt text-2xl md:text-3xl -mt-7 md:-mt-8;
         transform: translate3d(0,0,0) rotate(0);
         &:before {
             @apply absolute;

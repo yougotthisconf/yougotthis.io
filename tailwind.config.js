@@ -13,7 +13,8 @@ module.exports = {
           light: '#FF6E75',
           dark: '#C4050F',
           black: '#331717',
-          white: '#f1f1e7'
+          white: '#f1f1e7',
+          alt: '#3e1864'
         }
       },
       fontFamily: {

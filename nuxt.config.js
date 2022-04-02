@@ -24,7 +24,6 @@ export default {
       { name: 'msapplication-TileColor', content: '#e9194a' },
       { name: 'msapplication-config', content: '/icons/browserconfig.xml' },
       { name: 'theme-color', content: '#e9194a' },
-
     ],
     link: [
       { rel: 'shortcut icon', href: '/icons/favicon.ico' },
