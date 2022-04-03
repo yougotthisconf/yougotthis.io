@@ -8,4 +8,3 @@ export default {
 }
 
 // TODO: Update baseURL and package.json name
-// TODO: redirects in past events statically generated
