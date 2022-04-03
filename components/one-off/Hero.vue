@@ -24,7 +24,7 @@ export default {
 
 <style scoped>
 h2 {
-    margin-bottom: 2vw;
+    margin-bottom: calc(1em + 2vw);
 }
 h2 a {
     @apply underline;
