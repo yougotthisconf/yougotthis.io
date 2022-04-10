@@ -38,7 +38,7 @@ import headFactory from '@/utils/head-factory'
 
 export default {
   async asyncData({ $content }) {
-    const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(6).fetch()
+    const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(3).fetch()
     const people = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
     const events = await $content('events', { deep: true }).where({ past: { $ne: true }, hide: { $ne: true } }).sortBy('start', 'asc').limit(3).without(['body']).fetch()
     const sponsors = await $content('sponsors', { deep: true }).where({ feature: true }).sortBy('name', 'asc').fetch()
