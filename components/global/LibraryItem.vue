@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div :class="itemClass">
         <iframe v-if="vimeo" :src="`https://player.vimeo.com/video/${vimeo}?h=44d49687ad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479`" frameborder="0" allow="fullscreen; picture-in-picture" allowfullscreen class="w-full" style="aspect-ratio: 16/9"></iframe>
         <!-- TODO: Add article embed -->
     </div>
@@ -11,6 +11,11 @@ export default {
         path: {
             type: String,
             required: true
+        },
+        itemClass: {
+            type: String,
+            required: false,
+            default: ''
         }
     },
     data() {
