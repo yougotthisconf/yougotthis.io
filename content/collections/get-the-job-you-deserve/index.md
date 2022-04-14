@@ -1,7 +1,7 @@
 ---
 title: "Get the Job You Deserve"
 description: "From finding a job to the ink drying, let us help you get a better job!"
-date: 2022-05-15
+date: 2022-05-01
 highlight: 3
 cover: job.jpg
 items:

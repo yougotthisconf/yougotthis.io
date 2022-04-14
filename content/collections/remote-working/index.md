@@ -1,7 +1,7 @@
 ---
 title: "Happy & Healthy Remote Working"
 description: "Learn how to make the most of working remotely, from being productive to protecting your mental health."
-date: 2022-05-15
+date: 2022-05-01
 cover: remote.jpg
 items:
     - videos/cyberspace/video-setup-tips

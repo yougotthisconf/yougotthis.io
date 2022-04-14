@@ -1,7 +1,7 @@
 ---
 title: "When Things Aren't Going Great"
 description: "Your new job can quickly become your worst job. Gain tools, techniques, and strategies to protect yourself."
-date: 2022-05-15
+date: 2022-05-01
 highlight: 3
 cover: not-going-great.jpg
 items:

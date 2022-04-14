@@ -1,7 +1,7 @@
 ---
 title: "Improving Your Communication Skills"
 description: "Learn how to communicate more effectively with your colleagues, managers, reports, and yourself."
-date: 2022-05-15
+date: 2022-05-01
 cover: communication.jpg
 items:
     - videos/home/art-of-communication
