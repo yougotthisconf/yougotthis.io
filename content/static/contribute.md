@@ -27,7 +27,7 @@ If you are interested in speaking at a meetup, please [share your idea](https://
 
 Our __annual January conference__ has 20-25 minute talks with 5-10 minutes of curated questions. Talks are selected through an open talk-submission and blind-review process. Talks are delivered live, and it is expected that speakers will take two 60 minute calls before the event to discuss content and do a technical test. We pay speakers £150 for their time.
 
-<newsletter-block title="Find out when talk submissions open" text="Get (infrequent) news about You Got This! Opt-out in one click."></newsletter-block>
+<newsletter-block title="Find out when talk submissions open" text="Get (infrequent) news about You Got This! Opt-out in one click." class="not-prose"></newsletter-block>
 
 ## Write
 
