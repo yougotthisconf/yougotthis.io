@@ -65,4 +65,4 @@ We'll keep this brief. It’s important that as many people as possible have acc
 
 ## Want To Sponsor?
 
-Get in touch! Email [mailto:kevin@yougotthis.io](kevin@yougotthis.io).
+Get in touch! Email [kevin@yougotthis.io](mailto:kevin@yougotthis.io).
