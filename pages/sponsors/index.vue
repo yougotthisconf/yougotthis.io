@@ -8,7 +8,7 @@
         <h2 class="heading !text-xl mt-12 mb-2">Past Sponsors</h2>
         <SponsorList :list="past" grid-class="grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-2" />
 
-        <a class="button bright mt-8 grid-rows-1" href="mailto:kevin@yougotthis.io">Email us about sponsorship</a>
+        <n-link class="button bright mt-8 grid-rows-1" to="/sponsors/info">Learn more about sponsorship</n-link>
     </div>
 </template>
 
