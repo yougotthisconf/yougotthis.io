@@ -5,7 +5,7 @@
     <div class="wrapper text-center mt-12 sm:mt-0 pb-24">
       <h2 class="heading">Collections</h2>
       <p class="mt-2 mb-4">View our curated collections designed to help you navigate specific core skill areas.</p>
-      <CollectionList :list="collections" />
+      <CollectionList :list="collections" collection-class="last:hidden lg:last:block" />
       <n-link class="button bright mt-8 grid-rows-1" to="/collections">See all collections</n-link>
     </div>
 
