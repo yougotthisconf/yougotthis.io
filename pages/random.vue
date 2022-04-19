@@ -1,5 +1,7 @@
 <template>
-    <div><pre>{{ items }}</pre></div>
+    <div class="wrapper my-12">
+        <p class="text-xl text-center">Finding you something great...</p>
+    </div>
 </template>
 
 <script>
