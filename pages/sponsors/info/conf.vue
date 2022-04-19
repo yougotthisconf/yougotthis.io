@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import config from '../../../config'
 import headFactory from '@/utils/head-factory'
 
 export default {
@@ -16,7 +17,9 @@ export default {
   head() {
     return headFactory({
       title: this.page.title,
-      path: this.$route.path
+      path: this.$route.path,
+      image: `${config.baseURL}/events/broadcasting-service/broadcasting-service.png`,
+      absolute: true
     })
   },
 }
