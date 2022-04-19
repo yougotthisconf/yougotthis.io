@@ -29,6 +29,9 @@ git<template>
                     <li>
                         <n-link to="/conduct">Code of Conduct</n-link>
                     </li>
+                    <li>
+                        <n-link to="/random">Random Item</n-link>
+                    </li>
                 </ul>
                 <ul class="flex flex-wrap gap-6">
                     <li>
