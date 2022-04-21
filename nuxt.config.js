@@ -13,7 +13,8 @@ export default {
     '~/components/one-off',
     '~/components/sponsors',
     '~/components/people',
-    '~/components/newsletter'
+    '~/components/newsletter',
+    '~/components/merch',
   ],
   head: {
     htmlAttrs: { lang: 'en' },
