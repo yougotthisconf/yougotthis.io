@@ -1,7 +1,14 @@
 <template>
   <div class="wrapper my-16">
     <h1 class="heading text-center">Merch</h1>
-    <p class="mt-2 mb-4 text-center">A set of comfy and <n-link to="/merch/sustainability" class="underline">sustainable</n-link> items to remind yourself that you got this! <n-link to="/merch/returns" class="underline">Returns info</n-link>.</p>
+    <p class="mt-2 mb-4 text-center">A set of comfy and <n-link to="/merch/sustainability" class="underline">sustainable</n-link> items to remind yourself that you got this!</p>
+    <ul class="flex flex-row justify-center flex-wrap gap-4">
+      <li>Free UK Shipping when you spend £50</li>
+      <li aria-hidden="true" class="hidden md:block">&bull;</li>
+      <li>Easy and fast 28 day <n-link to="/merch/returns" class="underline">return policy</n-link></li>
+      <li aria-hidden="true" class="hidden md:block">&bull;</li>
+      <li>Exchanging sizes is easy</li>
+    </ul>
     <div v-for="category in categories" :key="category.title" class="mt-12">
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
         <n-link v-for="product in category.products" :key="product.title" :to="product.dir" class="product">
