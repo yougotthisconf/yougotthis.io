@@ -7,8 +7,6 @@
         <p class="mt-8 text-center font-bold text-lg md:text-xl">{{ product.description }}</p>
 
         <ul class="flex flex-col text-center md:flex-row justify-center flex-wrap gap-4 mt-6">
-          <li v-if="!product.attributes.includes('free-shipping')">Free UK Shipping when you spend £50</li>
-          <li v-if="!product.attributes.includes('free-shipping')" aria-hidden="true" class="hidden md:block">&bull;</li>
           <li v-if="product.attributes.includes('free-shipping')">Free Worldwide Shipping</li>
           <li v-if="product.attributes.includes('free-shipping')" aria-hidden="true" class="hidden md:block">&bull;</li>
           <li>Easy and fast 28 day <n-link to="/merch/returns" class="underline">return policy</n-link></li>
