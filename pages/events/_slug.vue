@@ -19,8 +19,8 @@
 
         </aside>
         <main>
-            <nuxt-content v-if="!event.save_the_date" :document="event" class="max-w-full prose lg:prose-lg" />
             <NewsletterBlock v-if="event.save_the_date" title="Tickets available soon" text="To get updates about this event, register for our newsletter." />
+            <nuxt-content :document="event" class="max-w-full prose lg:prose-lg" :class="{'mt-6' :event.save_the_date}" />
         </main>
     </div>
 </template>

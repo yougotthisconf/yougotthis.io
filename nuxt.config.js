@@ -52,6 +52,9 @@ export default {
   plugins: [
     { src: '~/plugins/simple-analytics.js', mode: 'client' },
   ],
+  generate: {
+    routes: ['/events/broadcasting-service']
+  },
   moment: {
 		timezone: true,
 	},
