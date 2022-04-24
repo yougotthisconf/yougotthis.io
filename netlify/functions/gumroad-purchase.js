@@ -15,6 +15,9 @@ const keys = [
 exports.handler = async event => {
   try {
     const params = Object.fromEntries(new URLSearchParams(event.body))
+
+    if(params.seller_id != process.env.GUMROAD_SELLER_ID) throw 'Could not validate request'
+
     const values = keys.map(key => ({ [key.updated]: params[key.old] }))
 
     const { data } = await axios({
