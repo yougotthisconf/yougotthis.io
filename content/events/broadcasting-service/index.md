@@ -19,6 +19,8 @@ Find out more about sponsoring this event [here](/sponsors/info/conf).
 
 You can now submit a talk to be delivered at the You Got This Broadcasting Service.
 
+<a href="https://airtable.com/shruPP1zoptlV7TYt" class="button bright link">Submit a talk now</a>
+
 ### About the talks
 
 - As an online event, all talks will be delivered remotely and live.
