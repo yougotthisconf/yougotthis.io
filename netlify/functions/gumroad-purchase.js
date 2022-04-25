@@ -1,3 +1,4 @@
+const FormData = require('form-data')
 const axios = require('axios')
 
 const keys = [
@@ -15,23 +16,35 @@ const keys = [
 exports.handler = async event => {
   try {
     const params = Object.fromEntries(new URLSearchParams(event.body))
-
+    const values = mergeObjects(keys.map(key => ({ [key.updated]: params[key.old] })))
     if(params.seller_id != process.env.GUMROAD_SELLER_ID) throw 'Could not validate request'
 
-    const values = keys.map(key => ({ [key.updated]: params[key.old] }))
+    const formData = objectToFormData(values)
 
     const { data } = await axios({
       method: 'POST',
       url: 'https://getform.io/f/534be5d3-9132-4da2-9b65-a62c3adbe676',
-      data: values
+      data: formData,
+      headers: formData.getHeaders()
     })
 
     return res({ message: 'ok' })
   } catch (error) {
+    console.log({ error })
     return res(error, 500)
   }
 }
 
 const res = (body = {}, statusCode = 200) => {
   return { body: JSON.stringify(body), statusCode }
+}
+
+const mergeObjects = objects => {
+  return objects.reduce((prev, curr) => ({ ...prev, ...curr }), {})
+}
+
+const objectToFormData = object => {
+  const formData = new FormData()
+  Object.keys(object).forEach(key => formData.append(key, object[key]))
+  return formData
 }
