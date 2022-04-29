@@ -18,7 +18,7 @@
 
         <nuxt-content :document="product" class="prose max-w-full my-6 text-center" />
 
-        <div class="links flex justify-center gap-6 mt-6">
+        <div class="links flex flex-col md:flex-row justify-center gap-6 mt-6">
           <a v-for="link in product.links" :key="link.label" :href="link.url" class="button bright link">{{ link.label }}</a>
         </div>
 
