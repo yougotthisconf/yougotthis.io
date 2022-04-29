@@ -19,6 +19,8 @@ exports.handler = async event => {
     const values = mergeObjects(keys.map(key => ({ [key.updated]: params[key.old] })))
     if(params.seller_id != process.env.GUMROAD_SELLER_ID) throw 'Could not validate request'
 
+    console.log(`New sale of ${values.sku} to ${values.full_name}. Sale ID is ${values.sale_id}.`)
+
     const formData = objectToFormData(values)
 
     const { data } = await axios({
