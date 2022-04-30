@@ -1,4 +1,4 @@
-const baseURL = 'https://next.yougotthis.io'
+const baseURL = 'https://yougotthis.io'
 
 export default {
   baseURL,
@@ -6,5 +6,3 @@ export default {
   description: 'You Got This! is a learning hub focused on core skills needed for a happy and healthy work life.',
   image: '/img/brand/open-graph.png',
 }
-
-// TODO: Update baseURL and package.json name
