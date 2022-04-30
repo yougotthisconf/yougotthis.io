@@ -38,3 +38,5 @@ Whether you’re looking for a new role, or just looking to show off the great t
 Finally, an incredible talk from [Magda](/people/magda-miu) will help you to prepare for any future job interviews you have with some handy tips, tricks, and life hacks that will help you to stand out from other candidates in the process.
 
 <library-item path="videos/spring-2022/ace-job-interviews"></library-item>
+
+While you’re busy thinking about getting the job you deserve, the You Got This! library offers so much more content to help you improve your core skills and grow your career for years to come. We hope you get lots of value from what we offer, and that we’ll see you at an event soon!

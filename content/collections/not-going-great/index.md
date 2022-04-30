@@ -24,3 +24,5 @@ If and when you find yourself in a tough situation at work, either with a collea
 Sometimes you try your best but things just aren’t working out. The closer to the edge you get, the more questions you might be asking yourself and the more confusing things may week That’s totally natural! But having realized that something’s got to give, how and when is the best time to walk away? [Amy](/people/amy-dickens) is here to help.
 
 <library-item path="videos/2020/walking-away"></library-item>
+
+Now that you’ve got the confidence to face tough situations at work, how about checking out some of our other core skills sessions? Our library of You Got This! content has so much to offer everyone, no matter their level or stage of career. Please enjoy – and we hope to see you at an event soon!

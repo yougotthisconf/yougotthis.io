@@ -30,3 +30,5 @@ Whether you’re a manager or a junior contributor, there’s a lot to learn abo
 What do you do if you’ve already hit breaking point? Don’t panic. [Pauline](/people/pauline-narvas) has some incredible advice for recovering from burnout and coming back stronger than ever.
 
 <library-item path="videos/home/burnout-recovery"></library-item>
+
+If you’ve got the time and the energy, we’d love for you to check out some more amazing content from the You Got This! library. Check out some of these additional sessions to help get you started. We hope you enjoy and that we get to see you at an event soon!

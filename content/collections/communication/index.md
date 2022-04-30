@@ -36,3 +36,5 @@ In an increasingly remote and virtual working world, how best do we set ourselve
 Communication isn’t just about talking and writing. Listening to feedback from others, whether it’s a customer or someone else in the team, is a powerful tool. [Ben](/people/ben-bartle) takes us through the concept of feedback, and how best to act on the wisdom we receive from others.
 
 <library-item path="videos/home/use-feedback"></library-item>
+
+Communication isn’t the only core skill we focus on, and we’d love for you to check out some more great content from the You Got This! library. Here’s some more sessions to get you started. We hope you get lots of value from what we offer, and that we’ll see you at an event soon.

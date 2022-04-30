@@ -29,3 +29,5 @@ In an increasingly remote and virtual working world, how best do we set ourselve
 Teams? Zoom? Google Meet? Whatever your platform of choice, video calls have become the norm. Check out this video from [Felix](/people/felix-kerger) to help you get the most out of your call setup, from lighting and sound to backgrounds and more.
 
 <library-item path="videos/cyberspace/video-setup-tips"></library-item>
+
+Whether you’re sat at home or you’re in the office, the You Got This! library has content for all occasions covering a wide range of different themes. Here are some more videos to get you started. We hope to see you at an event sometime soon!
