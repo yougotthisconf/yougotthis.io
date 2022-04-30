@@ -4,15 +4,17 @@ title: Merch Sustainability
 
 So many promotional items, especially clothes, are produced in an overwhelmingly-negative way for workers and the environment. In choosing to provide You Got This! merch we have made a conscious choice to be as ethical and sustainable as possible, even if that means our items are a little more expensive.
 
+## Tees, Sweatshirts, and Jigsaws
+
 Our tees, sweatshirts, jigsaws, and totes are created by [Teemill](https://teemill.com), who we chose for their commitment to a sustainable and ethical product lifecycle.
 
-## Vegan-Friendly
+### Vegan-Friendly
 
 As part of Teemill's GOTS certification, they are are audited to ensure products do not contain animal derived ingredients, and to ensure products have not been tested on animals. This certification is seed-to-shop.
 
 As a certified organic company, Teemill use low-waste digital printing tech and inks that conform to the GOTS/Soil Association organic criteria.
 
-## Environment
+### Environment
 
 The fields that grow the organic cotton for Teemill products are in the North of India, where the monsoons fill reservoirs that supply almost all the water needed.
 
@@ -20,6 +22,10 @@ Teemill run carbon-neutral operations. This is achieved by powering the factorie
 
 Finally, we choose to use Teemill as a printer on-demand rather than ordering in bulk which can lead to waste.
 
-## Workers
+### Workers
 
 Workers' conditions at every stage in the process are covered by the (GOTS) VERSION 6.0 social standards required to meet organic status. These standards are the minimum level required and include fair wages, fair working hours, rights to join trade unions, health and safety, no child workers, no discrimination, bullying or harassment. Employees are paid in line with the living wage as defined by the Global Living Wage Coalition, as standard.
+
+## Stickers
+
+Our stickers are a white gloss, compostable film made from renewable resources (wood-pulp from managed plantations). It looks and feels like plastic but is made from sustainable materials. They are shipped out by Swag Ship Hack, who aim to minimize environmental impact of their work by using recycled and recyclable packaging. They also work with carriers who work to de-carbonize their operations.
