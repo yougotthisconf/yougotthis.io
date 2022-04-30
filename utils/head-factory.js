@@ -3,7 +3,7 @@ import config from '../config'
 export default function headFactory(meta = {}) {
   const title = meta.title ? `${meta.title} | ${config.title}` : config.title
   const description = meta.description || config.description
-  const url = config.baseURL + meta.path || config.baseURL
+  const url = meta.path ? config.baseURL + meta.path : config.baseURL
   const image = meta.image ? meta.absolute ? meta.image : `${config.baseURL}${meta.path}${meta.image}` : `${config.baseURL}${config.image}`
 
   return {
