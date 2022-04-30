@@ -6,4 +6,7 @@ type: Meetup
 location: Online
 start: 2022-10-31T18:00:00
 cover: halloween.jpg
+sponsors:
+    - codesee
+    - vonage
 ---
