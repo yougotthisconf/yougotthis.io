@@ -17,7 +17,7 @@
         <div v-if="people.length > 0" class="people">
             <details v-for="person in people" :key="person.dir">
                 <summary><span>About {{ person.title }}</span></summary>
-                <nuxt-content :document="person" class="not-prose my-0"></nuxt-content>
+                <nuxt-content :document="person" class="bio not-prose my-0"></nuxt-content>
                 <a v-if="person.twitter" :href="`https://twitter.com/${person.twitter}`" class="button text-sm mt-2">@{{ person.twitter }} on Twitter</a>
             </details>
         </div>
@@ -93,5 +93,11 @@ export default {
             }
         }
     }
+}
+</style>
+
+<style scoped>
+.bio.not-prose p {
+    @apply my-0;
 }
 </style>
