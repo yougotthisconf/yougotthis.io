@@ -14,7 +14,7 @@ export default {
   data() {
     return {
       links: [
-        { label: 'Negotiating After Your Start Date', 'url': 'https://yougotthis.io/library/negotiating-after-start' }
+        { label: 'Negotiating After Your Start Date', 'url': 'https://yougotthis.io/library/negotiating-after-start' },
         { label: 'Highlights Collection', 'url': 'https://yougotthis.io/collections/highlights' }
       ]
     }
