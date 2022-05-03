@@ -14,6 +14,7 @@ export default {
   data() {
     return {
       links: [
+        { label: 'Summer Meetup - June 8 2020', url: 'https://yougotthis.io/events/summer-2022/' },
         { label: 'Negotiating After Your Start Date', 'url': 'https://yougotthis.io/library/negotiating-after-start' },
         { label: 'Highlights Collection', 'url': 'https://yougotthis.io/collections/highlights' }
       ]
