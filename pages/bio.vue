@@ -14,6 +14,7 @@ export default {
   data() {
     return {
       links: [
+        { label: ' Buying Back Your Time', url: 'https://yougotthis.io/library/buying-back-time/' },
         { label: 'Escaping Isolation While Working Remotely (On Procrastination)', url: 'https://yougotthis.io/library/escaping-isolation' },
         { label: 'Summer Meetup - June 8 2020', url: 'https://yougotthis.io/events/summer-2022/' },
         { label: 'Negotiating After Your Start Date', 'url': 'https://yougotthis.io/library/negotiating-after-start' },
