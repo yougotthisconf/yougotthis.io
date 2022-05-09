@@ -26,7 +26,7 @@
     <div class="wrapper pb-8 text-center">
       <h2 class="heading">Sponsors</h2>
       <p class="mt-2 mb-4">Thanks to all of our current and past sponsors.</p>
-      <SponsorList :list="sponsors" grid-class="grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-2" />
+      <SponsorList :list="sponsors" grid-class="grid-cols-3 md:grid-cols-9 gap-2" />
       <n-link class="button bright mt-8 grid-rows-1" to="/sponsors">See all sponsors</n-link>
     </div>
 
