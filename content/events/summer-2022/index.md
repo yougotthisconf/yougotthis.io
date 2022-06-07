@@ -6,8 +6,8 @@ location: Online
 start: 2022-06-08T17:00:00Z
 cover: summer.jpg
 link:
-    text: Get a free ticket
-    url: 'https://lu.ma/seasons-summer-2022'
+    text: Watch live
+    url: 'https://live.yougotthis.io'
 sponsors:
     - balsamiq
     - remote

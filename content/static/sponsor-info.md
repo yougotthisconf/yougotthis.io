@@ -34,7 +34,7 @@ Meetup sponsorship is £500. It includes:
 
 Our annual January conference is our flagship event. All content is made available for free after the event.
 
-The next conference is Jan 14-15 2023. We expect 1500-1700 attendees. [Get in touch](mailto:kevin@yougotthis.io) to find out more.
+Sponsor You Got This Broadcasting Service is taking place January 14-15 2023. We expect 1500-1700 attendees. [Find out more about conference sponsorship](/sponsors/info/conf).
 
 ### Sponsor Articles
 
