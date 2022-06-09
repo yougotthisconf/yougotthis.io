@@ -6,8 +6,15 @@ people:
 descriptions:
   short: Building empathy and understanding by applying tried and tested techniques.
   full: >-
-      Stories have been used as the backbone of many cultures to illustrate difficult concepts. Be it fables, proverbs, myths or legends, stories have been used to communicate important ideas for as long as we’ve been able to speak to each other. In this talk, We'll look at how we can use storytelling techniques to create clear and easy to understand technical communication.
+    Stories have been used as the backbone of many cultures to illustrate
+    difficult concepts. Be it fables, proverbs, myths or legends, stories have
+    been used to communicate important ideas for as long as we’ve been able to
+    speak to each other. In this talk, We'll look at how we can use storytelling
+    techniques to create clear and easy to understand technical communication.
 vimeo: 718705112
+duration: 10
+cover: >-
+  https://i.vimeocdn.com/video/1447932506-e65770ffba528629cbe14762c3dcde77cd637ae809f24587d53458ddc1ebfe4e-d
 ---
 
 Hi, I'm Lola Odelola and today I'm going to be talking to you about using storytelling techniques in your technical communication. But first, a little bit about me. I am a web developer advocate at Samsung internet, and if you've never heard about Samsung internet before, that's perfectly okay. We are an Android based web browser and available on all Android.
@@ -61,3 +68,4 @@ Finally, consider sharing the consequences. Actions, which is something that's P
 And so we want to show what the consequences are of people, either using our products or an operating system and doing something they shouldn't do, or just a product or system doing something that it shouldn't. What happens, show us. And then just tell us, show us too, whether that's the diagrams or the video show us demonstrates us what happens.
 
 So those are my tips for implementing storytelling techniques in your technical communication. You can follow me on Twitter @LolaOdelola, and thank you very much for watching.
+

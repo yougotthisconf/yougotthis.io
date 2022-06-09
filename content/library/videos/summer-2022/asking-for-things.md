@@ -4,10 +4,21 @@ date: 2022-06-08T00:00:00.000Z
 people:
   - kurt-kemple
 descriptions:
-  short: Understand how to use the Three Rs framework to be more respectful when asking for help.
+  short: >-
+    Understand how to use the Three Rs framework to be more respectful when
+    asking for help.
   full: >-
-      Over the course of my career I've spent a lot of time either asking for things or being asked for things. After countless collaborations and asks, I've come to understand the nature of relationships and what makes a good ask. As it turns out it's a bit more involved than sliding into someone's DMs with 'hey.' In this talk you'll learn how to get better results from your asks by rethinking the nature of relationships and following the three Rs of asking for things: Recognition, Request, and Reward.
+    Over the course of my career I've spent a lot of time either asking for
+    things or being asked for things. After countless collaborations and asks,
+    I've come to understand the nature of relationships and what makes a good
+    ask. As it turns out it's a bit more involved than sliding into someone's
+    DMs with 'hey.' In this talk you'll learn how to get better results from
+    your asks by rethinking the nature of relationships and following the three
+    Rs of asking for things: Recognition, Request, and Reward.
 vimeo: 718705510
+duration: 20
+cover: >-
+  https://i.vimeocdn.com/video/1447925127-83fa4a0547c6d963fac1002938271a8799dbb6fdfce0397d6898d945ec765c34-d
 ---
 
 Hey everyone how's it going? I'm excited to talk to you today about the subtle art of asking for things. So real quick, I just want to start off by saying. Hi, how many times have you received a DM like this? I know for me, I probably get a decent amount of them each week. I won't go into specific numbers, but it's pretty high.
@@ -117,3 +128,4 @@ If you are asking on behalf of a company, I'm going to find it extremely hard to
 And that is essentially the four pillars there. And if you keep these in mind, when you're following the three RS, hopefully you'll get a lot better results from your asks. If nothing else, maybe it'll just help you have a little bit more positive engagement in relationships. But with that go forth and ask respectfully, thank you so much for joining me today on I had an absolute blast.
 
 I am excited to get into this Q and a and answer any questions and.
+

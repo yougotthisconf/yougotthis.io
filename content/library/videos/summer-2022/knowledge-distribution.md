@@ -4,10 +4,22 @@ date: 2022-06-08T00:00:00.000Z
 people:
   - jessica-cregg
 descriptions:
-  short: Talking about requirements engineering and how to keep all project members happy.
+  short: >-
+    Talking about requirements engineering and how to keep all project members
+    happy.
   full: >-
-      Orders of magnitude matter. Things don't go up by order of one every time. Organizing people in a group requires disseminating information and its interpretation and, most importantly, its distribution. In this talk, we'll go over the fundamentals of requirements engineering, looking at how orders of magnitude scale alongside the expansion of scope, we'll discuss how you can apply elements of platform thinking to your everyday projects. This talk is for anyone keen to develop their leadership skills at work or grow their side project, adding another string to their bow.
+    Orders of magnitude matter. Things don't go up by order of one every time.
+    Organizing people in a group requires disseminating information and its
+    interpretation and, most importantly, its distribution. In this talk, we'll
+    go over the fundamentals of requirements engineering, looking at how orders
+    of magnitude scale alongside the expansion of scope, we'll discuss how you
+    can apply elements of platform thinking to your everyday projects. This talk
+    is for anyone keen to develop their leadership skills at work or grow their
+    side project, adding another string to their bow.
 vimeo: 718704953
+duration: 21
+cover: >-
+  https://i.vimeocdn.com/video/1447926421-7dd4ce3c05cdae995d40fac29d769444691bb9e355b6eb4fbc6f53422b2452cb-d
 ---
 
 Thanks so much for having me here. I'm really excited. Whenever you've got this, has any events going on? I love to join them. They've given me a lot of advice around strengthening my core skills. So I'm just pretty thrilled to be involved as Joe quite rightly said, my name is Jessica. I'm a developer advocate with LaunchDarkly and I came up with the idea of this talk in my first meeting with Kevin, we were chatting about the nature of events and projects and how The complexity scales with scope.
@@ -127,3 +139,4 @@ Stressful. Maybe we have one or two requirements are soft requirements or less i
 You want to make sure that your knowledge management is a moving objects. You wanna make sure that you're distributing what you learn, you're effectively using it. And you're capturing the outcomes of implementing that knowledge. Here's a little bit of a TLDR, and I'd love to speak to you about what you're working on.
 
 If you're working on a new project or new initiative at work. Please hit me up in the DMS. And I'd love to work with you on how you can work to include a bit of requirements engineering in your day-to-day working to make sure that what you create is a bit of a success. So thank you so much. I really appreciate you listening to me, asking questions, keeping it dynamic, and I'd love to chat.
+

@@ -1,4 +1,6 @@
 ---
+past: true
+url: /collections/summer-2022
 title: 'You Got This Through the Seasons: Summer 2022'
 description: Improve your communication with your team, collaborators, and your internal voice.
 type: Meetup

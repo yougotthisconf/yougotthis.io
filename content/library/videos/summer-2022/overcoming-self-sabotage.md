@@ -4,10 +4,21 @@ date: 2022-06-08T00:00:00.000Z
 people:
   - arit-developer
 descriptions:
-  short: Learn how to efficiently recognize self-sabotage, and strategies to consistently overcome it.
+  short: >-
+    Learn how to efficiently recognize self-sabotage, and strategies to
+    consistently overcome it.
   full: >-
-      Whenever we embark on a new venture or pursuit, we immediately become embroiled in a contest between our current and our aspirational selves. Our vision & potential face off against our habits, comfort zones & rationalizations, resulting in patterns which limit growth, frustrations and several start-stop-maybe-start-again cycles. In this talk, we'll uncover ways to efficiently recognize self-sabotage, and strategies to consistently overcome it.
+    Whenever we embark on a new venture or pursuit, we immediately become
+    embroiled in a contest between our current and our aspirational selves. Our
+    vision & potential face off against our habits, comfort zones &
+    rationalizations, resulting in patterns which limit growth, frustrations and
+    several start-stop-maybe-start-again cycles. In this talk, we'll uncover
+    ways to efficiently recognize self-sabotage, and strategies to consistently
+    overcome it.
 vimeo: 718705391
+duration: 11
+cover: >-
+  https://i.vimeocdn.com/video/1447924679-b4d30c3e41f2bbaec37f2c3f5807c219cf4d4a95d7c07db73837786083028cc9-d
 ---
 
 I'm going to be speaking on recognizing and overcoming self-sabotage. Okay. So why do we sabotage ourselves? Our current habits, the ones we want to change are familiar. They're predictable and they're possibly comfortable. I say possibly because sometimes they may not be comfortable, but we still hold onto them because we are enjoying certain Bennett.
@@ -63,3 +74,4 @@ Because now they're all in your conscious mind. And so at the start, it may feel
 And so you're almost switching them because they are what makes the new behavior habit is it now takes root in your subconscious the way the sabotaging behavior used to be. And that's the exchange you want to make. And once you get to that point, Then you have essentially become that new person you have essentially made the change.
 
 And now it's part of who you are. So that's all I have. Thank you for coming.
+
