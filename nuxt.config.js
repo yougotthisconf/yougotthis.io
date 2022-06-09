@@ -53,7 +53,12 @@ export default {
     { src: '~/plugins/simple-analytics.js', mode: 'client' },
   ],
   generate: {
-    routes: ['/events/broadcasting-service']
+    async routes() {
+      const { $content } = require('@nuxt/content') // eslint-disable-line
+      const items = await $content('events', { deep: true }).fetch();
+      console.log(items)
+      return items.map(i => i.dir)
+    }
   },
   moment: {
 		timezone: true,
