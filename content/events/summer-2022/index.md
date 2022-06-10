@@ -2,7 +2,7 @@
 past: true
 url: /collections/summer-2022
 title: 'You Got This Through the Seasons: Summer 2022'
-description: Improve your communication with your team, collaborators, and your internal voice.
+description: Join us for topics on requirements engineering, asking for help, and overcoming self-sabotage.
 type: Meetup
 location: Online
 start: 2022-06-08T17:00:00Z
