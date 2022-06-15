@@ -7,7 +7,7 @@
             <LibraryItem :path="dir" class="my-8 md:my-0" />
             <LibraryItemMeta :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" class="block md:hidden" />
             <h2>Transcript</h2>
-            <nuxt-content :document="doc" class="max-w-full prose lg:prose-lg"></nuxt-content>
+            <nuxt-content :document="doc" class="max-w-full prose lg:prose-lg" />
         </main>
     </div>
 </template>

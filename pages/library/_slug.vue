@@ -2,7 +2,7 @@
     <div class="wrapper my-12">
         <h1 class="heading text-center mb-12">{{ doc.title }}</h1>
         <LayoutVideo v-if="doc.vimeo" :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" />
-        <!-- TODO: LayoutArticle -->
+        <LayoutArticle v-if="doc.type == 'article'" :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" />
     </div>
 </template>
 
@@ -11,7 +11,11 @@ import headFactory from '@/utils/head-factory'
 
 export default {
     async asyncData({ $content, params }) {
-        const [doc] = await $content('library', { deep: true }).where({ slug: params.slug }).fetch()
+
+        const content = await $content('library', { deep: true }).fetch()
+
+        const doc = content.find(item => item.path.includes(params.slug))
+
         const dir = doc.path.split('/library/').join('')
 
         const collections = await $content('collections', { deep: true }).where({ items: { $contains: dir } }).sortBy('highlight', 'desc').without(['items', 'body']).fetch()
@@ -34,7 +38,7 @@ export default {
             description: this.doc.descriptions.short,
             path: this.$route.path,
             image: this.doc.cover,
-            absolute: true
+            absolute: !!this.doc.vimeo
         })
     },
 }

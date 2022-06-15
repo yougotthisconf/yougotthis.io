@@ -1,14 +1,14 @@
 <template>
-    <n-link :to="`/library/${item.slug}`">
+    <n-link :to="url">
         <div class="thumb">
-            <img :src="item.cover" alt="">
+            <img :src="cover" alt="">
             <span class="icon">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                     <path v-if="item.vimeo" fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
-                    <path v-else fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd" />
+                    <path v-if="item.type == 'article'" fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd" />
 
                 </svg>
-                <span>{{ item.duration }} min {{ item.type }}</span>
+                <span>{{ item.duration }} min</span>
             </span>
             <span v-if="featured" class="featured">Featured</span>
         </div>
@@ -16,13 +16,13 @@
             <div class="images">
                 <img v-for="person in item.people" :key="person.title" :src="person.avatar" :alt="`Avatar of ${person.title}`" />
             </div>
-             <div>
-                 <h2 class="text-sm">{{ item.title }}</h2>
-                 <p>
-                     <span>{{ item.people[0].title }}</span>
-                     <span v-if="item.people.length > 1">+{{ item.people.length-1 }}</span>
-                 </p>
-             </div>
+            <div>
+                <h2 class="text-sm">{{ item.title }}</h2>
+                <p>
+                    <span>{{ item.people[0].title }}</span>
+                    <span v-if="item.people.length > 1">+{{ item.people.length-1 }}</span>
+                </p>
+            </div>
         </div>
     </n-link>
 </template>
@@ -37,6 +37,16 @@ export default {
         featured: {
             type: Boolean,
             default: false
+        }
+    },
+    computed: {
+        url() {
+            if(this.item.slug !== 'index') return `/library/${this.item.slug}`
+            else return `/library/${this.item.path.split('/').slice(-2)[0]}`
+        },
+        cover() {
+            if(this.item.type === 'article') return `${this.item.dir}/${this.item.cover}`
+            return this.item.cover
         }
     }
 }

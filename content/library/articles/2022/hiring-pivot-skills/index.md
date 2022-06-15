@@ -1,5 +1,6 @@
 ---
 title: Understanding the Power of Pivot Skills While Hiring
+type: article
 date: 2022-07-01T00:00:00.000Z
 people:
   - ben-greenberg
@@ -7,7 +8,11 @@ descriptions:
   short: It might be easy to overlook career-changers with less technical experience. But you're missing out on all they have to offer.
 duration: 6
 cover: cover.png
+sponsors:
+- vonage
 ---
+
+<sponsor-vonage-comms></sponsor-vonage-comms>
 
 There are many reasons why [someone transitions into](#) a new career: new challenges, opportunities to explore a passion they’ve had for a long time, and overall readiness for a change in their life, among many other areas. All these reasons hold true for those who make the career switch to technology with the addition of a profoundly important one -. pPeople in tech earn a lot of money.
 
@@ -27,6 +32,8 @@ Pivot skills can include project management, public speaking, sales, contract ne
 
 The opposite is true. Pivot skills enhance the ability of a newcomer into tech to meaningfully contribute to their work, to their team, and to the organization. Let’s take a look at an example of how this would apply.
 
+<sponsor-vonage-video></sponsor-vonage-video>
+
 Meet Sophie. They are a 32-year-old career switcher into software development after working for 8 years in a technical support role. Sophie recently finished an intensive months-long coding program and is looking for their first junior developer role.
 
 You receive Sophie’s CV from the internal recruiter along with 10 other possible candidates to interview. (We’ll bracket in this article a discussion on all the hurdles Sophie needs to face just to get their CV in front of a hiring manager, but that is a real challenge.) How do you view Sophie’s experience? How do they rank when put side-by-side with the other candidates who recently graduated from university?
@@ -43,7 +50,8 @@ Is one type of candidate better than the other? Is the recent college graduate w
 
 A few months ago I began a side project aptly called hirethePIVOT. It is a reverse job board for career switchers into tech modeled after railsdevs, the original implementation of the concept built by Joe Masilotti. During the time since I began hirethePIVOT, I’ve learned about so many incredible career pivoters who bring with them an impressive assortment of pivot skills to their new-found love of technology and software. There is the author turned developer, the linguistics educator turned frontend developer, the salesperson who is now a full-stack developer and so many more. Each one of those individuals would bring worlds of value to any team they join.
 
-
 I, too, began my career in tech as a career switcher. After a decade of work in adult education, community organizing, and non-profit management, I made the leap into software. My first manager did not hire me, and my fellow coding bootcamp graduate, for purely altruistic reasons. There was a cost-saving factor for the organization as well. Yet, regardless of the motivation, if they had not extended the offer and the job, who knows how much longer it would have taken to have received my first break into the field? I’d like to think that my education, communication, and strategic planning experience enhanced my contributions in that first role.
 
 As a hiring manager or a person involved in the hiring decisions of your organization, you possess a great deal of power. You can help launch a person’s career in this field while also simultaneously benefiting your teams with the superpower of a person with pivot skills. To do so helps reshape the paradigm of how our industry views career switchers, from liabilities to profound assets.
+
+<sponsor-vonage-blog></sponsor-vonage-blog>
