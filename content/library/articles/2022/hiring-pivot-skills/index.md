@@ -9,7 +9,7 @@ descriptions:
 duration: 6
 cover: cover.png
 sponsors:
-- vonage
+  - vonage
 ---
 
 <sponsor-vonage-comms></sponsor-vonage-comms>
