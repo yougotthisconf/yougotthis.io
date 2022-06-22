@@ -1,5 +1,5 @@
 <template>
-    <a href="#">
+    <a href="https://vonage.dev/3ztkJ7L">
         <img src="/sponsors/vonage/banner-comms-apis.png" alt="Ad from Vonage. Communications APIs. Vonage Does That. Get Started now with free credit.">
         <span>Thanks to Vonage for sponsoring this article</span>
     </a>

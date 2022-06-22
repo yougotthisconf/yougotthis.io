@@ -1,5 +1,5 @@
 <template>
-    <a href="#">
+    <a href="https://vonage.dev/3zvOjcO">
         <img src="/sponsors/vonage/banner-blog.png" alt="Ad from Vonage. Check out our latest tutorials, updates on Vonage products and news from our Developer Relations team.">
         <span>Thanks to Vonage for sponsoring this article</span>
     </a>
