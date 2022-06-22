@@ -4,13 +4,16 @@
         <div class="md:grid md:grid-cols-3 gap-y-8 sm:gap-8">
             <aside>
                 <img :src="`${doc.dir}/${doc.cover}`" alt="" class="cover">
-                <LibraryItemMeta :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" class="hidden md:block" />
+                <LibraryItemMeta :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" type="article" />
             </aside>
             <main>
                 <div class="max-w-full prose lg:prose-lg mt-0 md:-mt-5">
                     <nuxt-content :document="doc"></nuxt-content>
                 </div>
-                <LibraryItemMeta :doc="doc" :collections="collections" :people="people" :sponsors="[]" :dir="dir" class="block md:hidden mt-8" :show-description="false" />
+                <div v-for="person in people" :key="person.title" class="box mt-6">
+                    <nuxt-content :document="person"></nuxt-content>
+                    <a v-if="person.twitter" class="button bright mt-4 mb-2" :href="`https://twitter.com/${person.twitter}`">@{{ person.twitter }} on Twitter</a>
+                </div>
             </main>
         </div>
     </div>

@@ -1,7 +1,7 @@
 <template>
     <a href="#">
         <img src="/sponsors/vonage/banner-video-api.png" alt="Ad from Vonage. Quickly integrate live interactive video into your app with our Video API. Get Started now with free credit.">
-        <span>Sponsor promotional message</span>
+        <span>Thanks to Vonage for sponsoring this article</span>
     </a>
 </template>
 

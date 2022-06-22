@@ -16,11 +16,12 @@ export default {
 
         const doc = content.find(item => item.path.includes(params.slug))
 
-        const dir = doc.path.split('/library/').join('')
+        let dir = doc.path.split('/library/').join('')
+        if(dir.substr(dir.length-6) === '/index') dir = dir.substring(0, dir.length-6)
 
         const collections = await $content('collections', { deep: true }).where({ items: { $contains: dir } }).sortBy('highlight', 'desc').without(['items', 'body']).fetch()
 
-        const allPeople = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
+        const allPeople = await $content('people', { deep: true }).fetch()
         const people = doc.people.map(docP => allPeople.find(allP => allP.dir.includes(docP)))
 
         const allSponsors = await $content('sponsors', { deep: true }).fetch()

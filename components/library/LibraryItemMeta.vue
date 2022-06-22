@@ -1,9 +1,7 @@
 <template>
     <div>
-        <PeopleList :list="people" grid-class="grid-cols-1 gap-4 mb-4" />
-        <section class="box" :class="{ hidden: !showDescription }">
-            <p>{{ doc.descriptions.full ? doc.descriptions.full : doc.descriptions.short }}</p>
-        </section>
+        <PeopleList :list="people" grid-class="grid-cols-1 gap-4 mb-4" :class="{ 'mt-8': type === 'article' }" />
+
         <section v-if="collections && collections.length > 0">
             <h2>Featured in</h2>
             <CollectionList :list="collections" grid-class="grid-cols-1 gap-4" />
@@ -38,9 +36,10 @@ export default {
             type: String,
             required: true
         },
-        showDescription: {
-            type: Boolean,
-            default: true
+        type: {
+            type: String,
+            required: true,
+            validator: (value) => (['article', 'video']).includes(value)
         }
     }
 }

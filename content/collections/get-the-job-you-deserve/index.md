@@ -14,6 +14,7 @@ items:
     - videos/summer-2021/align-values-with-job
     - videos/couch/ux-your-cv
     - videos/home/tautology-business-value
+    - articles/2022/hiring-pivot-skills
 ---
 
 In this collection of talks from You Got This!, we take a look at the process of finding a job that really makes you want to get out of bed in the morning! Through these talks you’ll get a sense of how some of our speakers have navigated complex situations and found roles that give them fulfillment, growth, and happiness.
