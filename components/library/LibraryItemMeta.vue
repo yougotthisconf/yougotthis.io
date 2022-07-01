@@ -3,7 +3,7 @@
         <PeopleList :list="people" grid-class="grid-cols-1 gap-4 mb-4" :class="{ 'mt-8': type === 'article' }" />
 
         <section v-if="collections && collections.length > 0">
-            <h2>Featured in</h2>
+            <h2>Related collections</h2>
             <CollectionList :list="collections" grid-class="grid-cols-1 gap-4" />
         </section>
         <section v-if="sponsors && sponsors.length > 0">
