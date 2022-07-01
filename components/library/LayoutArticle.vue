@@ -4,7 +4,7 @@
         <div class="md:grid md:grid-cols-3 gap-y-8 sm:gap-8">
             <aside>
                 <img :src="`${doc.dir}/${doc.cover}`" alt="" class="cover">
-                <LibraryItemMeta :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" type="article" />
+                <LibraryItemMeta :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" type="article" class="hidden md:block" />
             </aside>
             <main>
                 <div class="max-w-full prose lg:prose-lg mt-0 md:-mt-5">
@@ -14,6 +14,10 @@
                     <nuxt-content :document="person"></nuxt-content>
                     <a v-if="person.twitter" class="button bright mt-4 mb-2" :href="`https://twitter.com/${person.twitter}`">@{{ person.twitter }} on Twitter</a>
                 </div>
+                <section v-if="collections && collections.length > 0" class="block md:hidden">
+                    <h2>Related collections</h2>
+                    <CollectionList :list="collections" grid-class="grid-cols-1 gap-4" />
+                </section>
             </main>
         </div>
     </div>
