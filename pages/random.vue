@@ -21,7 +21,12 @@ export default {
     created() {
         const it = this.items
         const random = it[Math.floor(Math.random() * it.length)]
-        this.$router.push({ path: `/library/${random.slug}` });
+
+        let path
+        if(random.slug !== 'index') path = `/library/${random.slug}`
+        else path = `/library/${random.path.split('/').slice(-2)[0]}`
+
+        this.$router.push({ path });
     },
 }
 </script>
