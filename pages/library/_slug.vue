@@ -38,6 +38,7 @@ export default {
             title: this.doc.title,
             description: this.doc.descriptions.short,
             path: this.$route.path,
+            imageDir: this.doc.path.split('/index').join(''),
             image: this.doc.cover,
             absolute: !!this.doc.vimeo
         })
