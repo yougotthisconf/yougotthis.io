@@ -12,6 +12,7 @@ export default {
     '~/components/library',
     '~/components/one-off',
     '~/components/sponsors',
+    '~/components/sponsors/articles',
     '~/components/people',
     '~/components/newsletter',
     '~/components/merch',

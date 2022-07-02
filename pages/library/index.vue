@@ -74,7 +74,7 @@ export default {
                 results.push(...l.filter(i => i.title.toLowerCase().includes(q)))
                 results.push(...l.filter(i => i.people.map(p => p.title.toLowerCase()).join(', ').includes(q)))
                 results.push(...l.filter(i => i.descriptions.short.toLowerCase().includes(q)))
-                results.push(...l.filter(i => i.descriptions.full.toLowerCase().includes(q)))
+                results.push(...l.filter(i => i.descriptions.full && i.descriptions.full.toLowerCase().includes(q)))
                 return [...new Set(results)]
             }
             return l

@@ -1,14 +1,12 @@
 <template>
     <div>
-        <PeopleList :list="people" grid-class="grid-cols-1 gap-4 mb-4" />
-        <section class="box">
-            <p>{{ doc.descriptions.full ? doc.descriptions.full : doc.descriptions.short }}</p>
-        </section>
-        <section>
-            <h2>Featured in</h2>
+        <PeopleList :list="people" grid-class="grid-cols-1 gap-4 mb-4" :class="{ 'mt-8': type === 'article' }" />
+
+        <section v-if="collections && collections.length > 0">
+            <h2>Related collections</h2>
             <CollectionList :list="collections" grid-class="grid-cols-1 gap-4" />
         </section>
-        <section>
+        <section v-if="sponsors && sponsors.length > 0">
             <h2>Sponsored by</h2>
             <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mb-8" />
         </section>
@@ -38,6 +36,11 @@ export default {
             type: String,
             required: true
         },
+        type: {
+            type: String,
+            required: true,
+            validator: (value) => (['article', 'video']).includes(value)
+        }
     }
 }
 </script>
