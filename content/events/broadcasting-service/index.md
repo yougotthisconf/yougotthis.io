@@ -9,6 +9,7 @@ end: 2023-01-15T12:00:00Z
 cover: broadcasting-service.png
 sponsors:
     - 20i
+    - balsamiq
     - github
     - stripe
     - stackblitz
