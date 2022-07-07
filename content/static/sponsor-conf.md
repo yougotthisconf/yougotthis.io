@@ -2,6 +2,10 @@
 title: Sponsor You Got This Broadcasting Service
 ---
 
+You Got This! is a learning hub focused entirely on core ('soft') skills needed for a happy and healthy work life. Our primary audience is developers, but core skills are important for everyone. We exist because our industry's commitment to teaching core skills isn't good enough, with people at all points in their careers needing to 'just figure it out'. 
+
+We run 6 events every year - one big conference in January, and five meetups. Events are accessible, inclusive, and diverse in terms of speakers and attendees. All content is recorded and made available for free as part of our content library. 
+
 Our annual January conference is a live 26-hour livestream. All content is made available for free after the event. Speakers are paid, and we offer live captioning.
 
 ## Key Information
