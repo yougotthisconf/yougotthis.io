@@ -11,6 +11,7 @@ sponsors:
     - 20i
     - balsamiq
     - github
+    - solace
     - stripe
     - stackblitz
 ---
