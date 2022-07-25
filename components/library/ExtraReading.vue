@@ -20,7 +20,7 @@ export default {
 
 <style scoped>
 details {
-    @apply border-theme-main border-2;
+    @apply border-theme-main border;
     & summary {
         @apply font-bold cursor-pointer;
         & span {
