@@ -5,7 +5,7 @@ date: 2022-07-29T00:00:00.000Z
 people:
   - suze-shardlow
 descriptions:
-  short: Lorem
+  short: Learn about persuasion techniques, and how to utilize your ZOPA and BANTA for a happy, healthy negotiation.
 duration: 11
 cover: cover.jpeg
 sponsors:
