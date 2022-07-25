@@ -63,6 +63,10 @@ main {
 h2 {
     @apply mt-8 mb-4 font-heading text-xl;
 }
+
+/deep/ h2 {
+    @apply !font-normal !font-heading;
+}
 /deep/ blockquote {
     @apply text-xl md:text-3xl;
     border-left-color: var(--theme-main);
