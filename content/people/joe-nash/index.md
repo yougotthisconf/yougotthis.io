@@ -1,6 +1,6 @@
 ---
 title: Joe Nash
-avatar: joe-nash.jpeg
+avatar: joe.png
 ---
 
-Joe is a developer educator at Twilio, where he helps students learn with TwilioQuest, Twilio’s educational game. Previously, Joe has helped companies create and implement their developer community strategies as a consultant, and has held developer relations roles at GitHub and PayPal.
+Joe is a principal developer educator at Twilio, where he works on TwilioQuest, a free educational game that helps you learn to code. Joe has been working remotely and asynchronously in global teams  since 2014, at companies such as GitHub and PayPal.
