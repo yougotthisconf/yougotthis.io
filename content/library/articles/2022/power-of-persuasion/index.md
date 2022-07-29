@@ -14,7 +14,7 @@ sponsors:
 
 <sponsor-vonage-comms></sponsor-vonage-comms>
 
-_The key to a successful negotiation is being able to persuade the other person.  And the key to being able to persuade them is less about putting together a compelling argument than it is about preparing for the negotiation, arming yourself with the right pieces of information and using the right tactics._
+_The key to a successful negotiation is being able to persuade the other person. And the key to being able to persuade them is less about putting together a compelling argument than it is about preparing for the negotiation, arming yourself with the right pieces of information and using the right tactics._
 
 Don't believe me? In 1977, psychologist Ellen Langer from Harvard University and her team carried out a set of experiments known as the [Harvard Copier Study](https://www.researchgate.net/publication/232505985_The_mindlessness_of_ostensibly_thoughtful_action_The_role_of_placebic_information_in_interpersonal_interaction).  They wanted to see how easy it was to persuade people to let them jump the queue for the photocopier.  When they asked if they could use the machine “...because I'm in a rush”, they had a 94% success rate.
 
@@ -36,13 +36,13 @@ Once you know what makes the other person tick, and what they want to come away 
 
 Don’t assume you know.  There are usually some details that seem obvious, like, “they want as much money as they can get”, but there may also be other things you can offer which are valuable to them.
 
-For example, people often say, “when we bought our house, the owners said our offer wasn’t the highest one they had, but they liked us the most”.
+Take the example of buying someone's house.
 
-When there are people involved, there are emotions involved, and we prefer to do business with folks we like.  So, when homeowners have an overriding emotional attachment to their house - because it was their first property, or they raised children and made a lot of memories there - they often want to sell to people that remind them of themselves, or who they believe will look after the place or who “deserve” to have it.
-
-Another reason why people are prepared to accept less money is because there is something else at stake that means more to them.  So if the person needs to sell their house quickly, or the seller of their next home is waiting on them, a lower offer from a first-time or cash buyer brings them the momentum that money can’t buy.
+When people are prepared to accept less money than they've asked for, it's often because there is something else at stake that means more to them.  So if the person needs to sell their house quickly, or the seller of their next home is waiting on them, a lower offer from a first-time or cash buyer brings them the momentum that money can’t buy.
 
 Uncover what the other person really wants by speaking to them and finding out more about their situation.  Then determine the things you can definitely agree on, which in this case are the mutually-beneficial timescale and whether you fit the profile of the people they want to sell to.
+
+At work, you might find yourself needing to ask for a budget.  Making sure you address your decision-maker’s priorities when bidding for the money will increase your chances of success.  If you’re asking for funding for expensive hardware and justifying it by citing the extra work you’ll be able to do, are you sure that the extra output is worth more to the business than the cost of the new kit?
 
 ## What Do You Want? Set The Default And Find Your Zone Of Possible Agreement (ZOPA)
 
@@ -51,6 +51,8 @@ When you get a new phone, how many of the settings do you change?  Most of us do
 Take the first example with the house purchase.  How are you deciding what to offer the seller?  Do you pluck a number out of thin air based on how much you want to spend?  No.  You look at their asking price and base your offer on that, using features of the property or situation to justify the number.
 
 Setting the default is a powerful thing to be able to do.  It’s also known as an anchor.  If you can set out the desired end state before the other person does, you benefit from them having to attach their offering to your anchor.
+
+![A venn diagram. One one side is what you want or need. On the other is what they want or need. The overlap is marked as the Zone of Possible Agreement (ZOPA)](/library/articles/2022/power-of-persuasion/zopa.png)
 
 Now, think of your, and the other person’s, respective wants and needs as a Venn diagram with two sets that overlap.  This intersection is your Zone Of Possible Agreement.  If you don’t have an overlap of desires with the other person, you won’t reach an agreement.  If you don’t want to spend anywhere near the asking price for the house, they won’t sell it to you.
 

@@ -74,4 +74,7 @@ h2 {
         @apply !text-theme-main font-heading;
     }
 }
+/deep/ img {
+    @apply rounded-lg shadow;
+}
 </style>
