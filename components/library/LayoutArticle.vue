@@ -11,7 +11,7 @@
                     <nuxt-content :document="doc"></nuxt-content>
                 </div>
                 <div v-for="person in people" :key="person.title" class="box mt-6">
-                    <nuxt-content :document="person"></nuxt-content>
+                    <nuxt-content :document="person" class="prose"></nuxt-content>
                     <a v-if="person.twitter" class="button bright mt-4 mb-2" :href="`https://twitter.com/${person.twitter}`">@{{ person.twitter }} on Twitter</a>
                 </div>
                 <section v-if="collections && collections.length > 0" class="block md:hidden">
@@ -63,11 +63,18 @@ main {
 h2 {
     @apply mt-8 mb-4 font-heading text-xl;
 }
+
+/deep/ h2 {
+    @apply !font-normal !font-heading;
+}
 /deep/ blockquote {
     @apply text-xl md:text-3xl;
     border-left-color: var(--theme-main);
     & p {
         @apply !text-theme-main font-heading;
     }
+}
+/deep/ img {
+    @apply rounded-lg shadow;
 }
 </style>
