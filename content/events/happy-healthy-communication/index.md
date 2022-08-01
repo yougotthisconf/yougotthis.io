@@ -22,7 +22,7 @@ Talks will be recorded and live captions provided by White Coat Captioning.
     title="Communicating & Upholding Your Boundaries"
     start="2022-06-08T17:10:00Z"
     :speakers="['suze-shardlow']"
-    description="Desc.">
+    description="'No' is a complete sentence and it's often a difficult word to say, and as a result, we sometimes end up with situations, environments, tasks, and treatment we don't want. Setting boundaries helps us to understand and establish our limits and are essential for our health, but they are useless if we don't (communicate) and enforce them. This talk will take you through how to let someone know they have crossed the line, how to tell them it won't be happening again, and deciding in advance how you will uphold your boundary if they are crossed.">
 </event-session>
 
 <event-session
@@ -42,15 +42,15 @@ Talks will be recorded and live captions provided by White Coat Captioning.
 <!-- 10 MIN TWILIO SEGMENT HERE -->
 
 <event-session
-    title="How To Make Your Notes Useful For Others"
+    title="How To Apologize"
     start="2022-06-08T18:20:00Z"
-    :speakers="['alyssa-astrinos']"
-    description="Desc.">
+    :speakers="['velvet-spors']"
+    description="We all get things wrong sometimes. Whether it’s in your personal or professional life, knowing how to apologize meaningfully is incredibly important. You’ll leave this talk with some things to consider when forming and delivering an apology.">
 </event-session>
 
 <event-session
     title="Begin Active Listening Today"
     start="2022-06-08T18:40:00Z"
     :speakers="['amy-dickens']"
-    description="Desc.">
+    description="In a world where notifications are rife, paying attention during meetings and one-to-one conversations can be tough. In this talk, we'll cover the five core tenants of active listening and how you can apply them to your day-to-day life.">
 </event-session>
