@@ -22,7 +22,7 @@ Talks will be recorded and live captions provided by White Coat Captioning.
     title="Communicating & Upholding Your Boundaries"
     start="2022-06-08T17:10:00Z"
     :speakers="['suze-shardlow']"
-    description="'No' is a complete sentence and it's often a difficult word to say, and as a result, we sometimes end up with situations, environments, tasks, and treatment we don't want. Setting boundaries helps us to understand and establish our limits and are essential for our health, but they are useless if we don't (communicate) and enforce them. This talk will take you through how to let someone know they have crossed the line, how to tell them it won't be happening again, and deciding in advance how you will uphold your boundary if they are crossed.">
+    description="'No' is a complete sentence and it's often a difficult word to say, and as a result, we sometimes end up with situations, environments, tasks, and treatment we don't want. Setting boundaries helps us to understand and establish our limits and are essential for our health, but they are useless if we don't communicate and enforce them. This talk will take you through how to let someone know they have crossed the line, how to tell them it won't be happening again, and deciding in advance how you will uphold your boundary if they are crossed.">
 </event-session>
 
 <event-session
