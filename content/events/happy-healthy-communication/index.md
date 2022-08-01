@@ -7,6 +7,9 @@ start: 2022-08-17T17:00:00
 cover: happy-healthy-communication.png
 sponsors:
     - twilio
+link:
+    url: 'https://lu.ma/happy-healthy-comms'
+    text: 'Free tickets'
 ---
 
 Talks will be recorded and live captions provided by White Coat Captioning.
