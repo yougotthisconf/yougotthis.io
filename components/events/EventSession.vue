@@ -3,7 +3,11 @@
         <div class="top">
             <h2>{{ title }}</h2>
             <div class="key">
-                <p v-if="people.length > 0">{{ people.map(p => p.title).join(', ') }}</p>
+                <p v-if="people.length > 0">{{ people.map(p => {
+                    let display = p.title
+                    if(p.pronouns) display += ` (${p.pronouns})`
+                    return display
+                }).join(', ') }}</p>
                 <p>
                     {{ $moment.utc(start).local().format('HH:mm') }}
                     {{ $moment.tz.guess(true).split('/')[1] }}

@@ -45,10 +45,10 @@ Talks will be recorded and live captions provided by White Coat Captioning.
 <!-- 10 MIN TWILIO SEGMENT HERE -->
 
 <event-session
-    title="How To Apologize"
+    title="Changing Your Mind"
     start="2022-06-08T18:20:00Z"
-    :speakers="['velvet-spors']"
-    description="We all get things wrong sometimes. Whether it’s in your personal or professional life, knowing how to apologize meaningfully is incredibly important. You’ll leave this talk with some things to consider when forming and delivering an apology.">
+    :speakers="['eriol-fox']"
+    description="When we receive new information or context on something we've agreed to, we often believe it's bad to change our mind. In this talk, we will discuss how to communicate effectively and take a potentially uncomfortable or horrifying conversation into one which empowers you to do your best work.">
 </event-session>
 
 <event-session
