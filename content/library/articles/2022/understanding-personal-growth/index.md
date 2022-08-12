@@ -42,7 +42,7 @@ If you’re anything like me, you want to do everything at once. I’m a polymat
 
 In fact, doing too much can actually _hinder_ your personal growth as it takes away time you could be spending learning, digesting, and recharging. But how do you work out what to prioritize when you’re brimming with ideas? You can’t do everything at once, and Rome [famously](https://en.wikipedia.org/wiki/Rome_wasn%27t_built_in_a_day) wasn’t built in a day.
 
-Create yourself a manifesto. Whether it’s a set of bullet points or a few sentences, clearly laying out _what matters the most to you_ is a powerful first step in ensuring you prioritize the right things for _you. _Your growth and prioritization transcend your job, too. Don’t think about what your _employer_ wants you to focus on - your growth and development is your own, it goes with you when you leave and stays with you forever!
+Create yourself a manifesto. Whether it’s a set of bullet points or a few sentences, clearly laying out _what matters the most to you_ is a powerful first step in ensuring you prioritize the right things for _you._ Your growth and prioritization transcend your job, too. Don’t think about what your _employer_ wants you to focus on - your growth and development is your own, it goes with you when you leave and stays with you forever!
 
 <sponsor-vonage-video></sponsor-vonage-video>
 
