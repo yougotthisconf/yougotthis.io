@@ -20,7 +20,7 @@ It’s true. None of us are the same person we were five minutes ago. Our lives 
 
 While this is a phenomenon that philosophers have grappled with for thousands of years ([literally](https://arapahoelibraries.org/blogs/post/the-only-constant-in-life-is-change-heraclitus/)), an often overlooked part of our personal development is how to identify and appreciate the positive changes we make in our lives.
 
-It’s something I used to _really _suck at, but since I started tracking my personal growth I’ve not only been more productive, but happier and healthier as a result! In this article I’ll share a few top tips for tracking and celebrating your own growth.
+It’s something I used to _really_ suck at, but since I started tracking my personal growth I’ve not only been more productive, but happier and healthier as a result! In this article I’ll share a few top tips for tracking and celebrating your own growth.
 
 ## Stop comparing yourself to others
 
