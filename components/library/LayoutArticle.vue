@@ -64,17 +64,19 @@ h2 {
     @apply mt-8 mb-4 font-heading text-xl;
 }
 
-/deep/ h2 {
-    @apply !font-normal !font-heading;
-}
-/deep/ blockquote {
-    @apply text-xl md:text-3xl;
-    border-left-color: var(--theme-main);
-    & p {
-        @apply !text-theme-main font-heading;
+/deep/ {
+    & h2, & h3 {
+        @apply !font-normal !font-heading;
     }
-}
-/deep/ img {
-    @apply rounded-lg shadow;
+    & blockquote {
+        @apply text-xl md:text-3xl;
+        border-left-color: var(--theme-main);
+        & p {
+            @apply !text-theme-main font-heading;
+        }
+    }
+    & img {
+        @apply rounded-lg shadow;
+    }
 }
 </style>
