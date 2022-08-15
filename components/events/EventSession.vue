@@ -1,13 +1,16 @@
 <template>
     <div class="box !p-0 not-prose">
         <div class="top">
-            <h2>{{ title }}</h2>
-            <div class="key">
-                <p v-if="people.length > 0">{{ formattedPeople }}</p>
-                <p v-if="start">
+            <div v-if="people.length > 0" class="img">
+                <img v-for="person in people" :key="person.dir" :src="`${person.dir}/${person.avatar}`" :alt="person.title">
+            </div>
+            <div class="meta">
+                <h2>{{ title }}</h2>
+                <span v-if="people.length > 0" class="mr-2" >{{ people.map(p => p.title).join(', ') }}</span>
+                <span v-if="start">
                     {{ $moment.utc(start).local().format('HH:mm') }}
                     {{ $moment.tz.guess(true).split('/')[1] }}
-                </p>
+                </span>
             </div>
         </div>
         <div class="main">
@@ -52,19 +55,12 @@ export default {
     },
     data() {
         return {
-            people: false
+            people: []
         }
     },
     computed: {
         time() {
             return new Date(this.start)
-        },
-        formattedPeople() {
-            return this.people.map(p => {
-                let display = p.title
-                if(p.pronouns) display += ` (${p.pronouns})`
-                return display
-            }).join(', ')
         }
     },
     async created() {
@@ -80,9 +76,9 @@ export default {
     @apply my-4;
 }
 .top {
-    @apply p-4;
+    @apply p-4 flex items-center;
     & h2 {
-        @apply font-heading text-xl !my-0;
+        @apply font-heading text-2xl !my-0;
     }
     & .key {
         @apply flex flex-wrap space-x-4 !mt-2 !mb-0;
@@ -108,6 +104,13 @@ export default {
 </style>
 
 <style scoped>
+.img {
+    @apply flex-row gap-2 mr-4 hidden md:flex;
+    flex-shrink: 0;
+    & img {
+        @apply rounded-full border-2 border-white w-16 shadow-sm;
+    }
+}
 .bio.not-prose p {
     @apply my-0;
 }
