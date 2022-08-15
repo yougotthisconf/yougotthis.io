@@ -34,6 +34,6 @@ Talks will be recorded and live captions provided by White Coat Captioning. The 
 
 <event-session
     title="Interview Your Next Manager"
-    :speakers="['marcos-placona', 'amy-dickens']"
+    :speakers="['marcos-placona']"
     description="Interviews are a two-way process, but it's more than just company fit. Your manager is your biggest advocate, but fill your great opportunity with endless challenges. In this talk, we'll cover why and how to interview your next manager as part of your job-hunting process to make sure you end up in a healthy and productive environment.">
 </event-session>
