@@ -25,3 +25,9 @@ Talks will be recorded and live captions provided by White Coat Captioning. The 
     :speakers="['carol-huang']"
     description="Your time is literally all you have in this world. You can’t guarantee health, you can’t guarantee happiness, you can’t even guarantee existing — but while you do have life on this earth, time is what you have. Let’s talk about some tools for identifying what you can (and can’t!) change about your day, and take a little bit of time to reexamine your relationship with time.">
 </event-session>
+
+<event-session
+    title="WTF are OKRs"
+    :speakers="['michael-heap']"
+    description="Setting Objectives and Key Results (OKRs) is a common and important part of leading your team - making sure everyone knows what you're working towards. But they can be tricky to get right, and even harder to help others understand. If you're a leader that's ever searched for 'What do OKRs look like?', this talk's for you! We'll start with what OKRs are, how they're measured, and how they should cascade through a business to make sure everyone is on the same page. We'll also cover how to use OKRs to work on what you actually want, not just what others want you to do.">
+</event-session>
