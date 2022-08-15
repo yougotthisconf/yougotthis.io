@@ -3,24 +3,23 @@
         <div class="top">
             <h2>{{ title }}</h2>
             <div class="key">
-                <p v-if="people.length > 0">{{ people.map(p => {
-                    let display = p.title
-                    if(p.pronouns) display += ` (${p.pronouns})`
-                    return display
-                }).join(', ') }}</p>
-                <p>
+                <p v-if="people.length > 0">{{ formattedPeople }}</p>
+                <p v-if="start">
                     {{ $moment.utc(start).local().format('HH:mm') }}
                     {{ $moment.tz.guess(true).split('/')[1] }}
                 </p>
             </div>
         </div>
         <div class="main">
-        <p v-if="description" class="description">{{ description }}</p>
-        <slot />
+            <p v-if="description" class="description">{{ description }}</p>
+            <slot />
         </div>
         <div v-if="people.length > 0" class="people">
             <details v-for="person in people" :key="person.dir">
-                <summary><span>About {{ person.title }}</span></summary>
+                <summary>
+                    <span>About {{ person.title }}</span>
+                    <span v-if="person.pronouns">({{ person.pronouns }})</span>
+                </summary>
                 <nuxt-content :document="person" class="bio not-prose my-0"></nuxt-content>
                 <a v-if="person.twitter" :href="`https://twitter.com/${person.twitter}`" class="button text-sm mt-2">@{{ person.twitter }} on Twitter</a>
             </details>
@@ -37,7 +36,8 @@ export default {
         },
         start: {
             type: String,
-            required: true
+            required: false,
+            default: ''
         },
         description: {
             type: String,
@@ -58,6 +58,13 @@ export default {
     computed: {
         time() {
             return new Date(this.start)
+        },
+        formattedPeople() {
+            return this.people.map(p => {
+                let display = p.title
+                if(p.pronouns) display += ` (${p.pronouns})`
+                return display
+            }).join(', ')
         }
     },
     async created() {
@@ -92,7 +99,7 @@ export default {
     & details {
         & summary {
             @apply font-bold cursor-pointer;
-            & span {
+            & span:first-child {
                 @apply ml-2;
             }
         }
