@@ -31,3 +31,9 @@ Talks will be recorded and live captions provided by White Coat Captioning. The 
     :speakers="['michael-heap']"
     description="Setting Objectives and Key Results (OKRs) is a common and important part of leading your team - making sure everyone knows what you're working towards. But they can be tricky to get right, and even harder to help others understand. If you're a leader that's ever searched for 'What do OKRs look like?', this talk's for you! We'll start with what OKRs are, how they're measured, and how they should cascade through a business to make sure everyone is on the same page. We'll also cover how to use OKRs to work on what you actually want, not just what others want you to do.">
 </event-session>
+
+<event-session
+    title="Interview Your Next Manager"
+    :speakers="['marcos-placona', 'amy-dickens']"
+    description="Interviews are a two-way process, but it's more than just company fit. Your manager is your biggest advocate, but fill your great opportunity with endless challenges. In this talk, we'll cover why and how to interview your next manager as part of your job-hunting process to make sure you end up in a healthy and productive environment.">
+</event-session>
