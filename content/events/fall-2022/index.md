@@ -5,6 +5,10 @@ type: Meetup
 location: Online
 start: 2022-09-15T18:00:00
 cover: fall.jpg
+sponsors:
+    - suborbital
+    - remote
+    - balsamiq
 ---
 
 Talks will be recorded and live captions provided by White Coat Captioning. The order and start times for each talk are yet to be finalized.
