@@ -1,4 +1,6 @@
 ---
+past: true
+url: /collections/happy-healthy-communication
 title: 'Happy Healthy Communication Presented by Twilio'
 description: A special event focusing on most effectively communicating with your colleagues, comrades, and co-conspirators.
 type: Meetup
