@@ -1,6 +1,6 @@
 ---
 title: "Happy Healthy Communication Presented by Twilio"
-description: "A special event focusing on most effectively communicating with your colleagues, comrades, and co-conspirators."
+description: "Content from our Happy Healthy Communication event."
 date: 2022-08-17
 type: event
 cover: happy-healthy-communication.png
