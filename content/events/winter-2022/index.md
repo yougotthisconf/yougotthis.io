@@ -6,4 +6,9 @@ type: Meetup
 location: Online
 start: 2022-12-15T18:00:00
 cover: winter.jpg
+sponsors:
+    - balsamiq
+    - remote
+    - suborbital
+    - twilio
 ---

@@ -6,4 +6,8 @@ type: Meetup
 location: Online
 start: 2022-09-15T18:00:00
 cover: fall.jpg
+sponsors:
+    - balsamiq
+    - remote
+    - suborbital
 ---
