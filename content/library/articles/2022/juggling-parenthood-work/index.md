@@ -12,6 +12,8 @@ sponsors:
   - vonage
 ---
 
+<sponsor-vonage-comms></sponsor-vonage-comms>
+
 My youngest kid was close to a year when I started learning to code. She sat on my lap, I coded during nap times, and she joined me for meetings. Four years later, we’re still doing the same things. Well, minus the nap. She’s grown with my life as a developer. Although I’ve enjoyed sharing these things with her, coding while parenting has had its challenges. Every new stage of childhood has brought challenges and adjustments to how I work and what remote work looks like. Everyone’s journey as a working parent will look different, and it _is_ a journey, meaning it will change, and there will be unexpected, exciting, scary, and mundane moments. Those moments are all part of what makes parenting amazing. You’ll always be juggling something, but finding the right pace and amount of things you can juggle leads to a rewarding experience. But getting to that point takes work and frequent self-evaluation. These are some of the ways I work on finding balance while being a working parent.
 
 ## Create Boundaries
@@ -26,9 +28,12 @@ You don’t get to sit down; when you do, it’s because you’re responding to 
 
 No one will ever get everything right. And there might be seasons where you find yourself having a more challenging time disconnecting from work and being present with your family. It doesn’t mean that you’ve failed. It means you have work to get back to where you want to be. Cut yourself some slack, there’s always tomorrow. Most importantly, you’ve recognized that the situation isn’t ideal. That’s step one to getting back to where you want to be.
 
+
 ## Remember Your Accomplishments.
 
 There is always going to be one more thing to do. And there will be days where it feels like you’ve done nothing, at work or as a parent. It’s really easy to get overwhelmed or feel exhausted when you hit that streak. Celebrating the little things can help get you through those moments. Did you tell your kid you love them? Did you feed them and keep them safe? Did you accomplish a small task at work? Even telling a co-worker that you value their support is an accomplishment that is arguably more important than attending agenda-less meetings.
+
+<sponsor-vonage-video></sponsor-vonage-video>
 
 ## Create Priorities
 
@@ -45,6 +50,8 @@ When I’m exhausted, I have a hard time communicating. I just kind of shut down
 ## Recharge
 
 As part of this journey as a working parent, I need to find ways to recharge and enjoy my work and my family. For me, starting the day with a workout is incredibly important to prepare myself for the day. Because, let’s face it, school mornings with kids are a ball of chaos. For me, it’s manageable when I’ve spent an hour lifting heavy weights. You might need to Netflix or read a book at the end of the day. Find what helps you to recharge. It’s much easier to keep juggling when you’re not emotionally exhausted.
+
+<sponsor-vonage-blog></sponsor-vonage-blog>
 
 ## Find a Family-friendly Workplace
 
