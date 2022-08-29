@@ -9,6 +9,9 @@ sponsors:
     - suborbital
     - remote
     - balsamiq
+link:
+    url: 'https://lu.ma/seasons-fall-2022'
+    text: 'Free tickets'
 ---
 
 Talks will be recorded and live captions provided by White Coat Captioning. The order and start times for each talk are yet to be finalized.
