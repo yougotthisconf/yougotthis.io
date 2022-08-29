@@ -10,6 +10,7 @@ cover: broadcasting-service.png
 sponsors:
     - 20i
     - balsamiq
+    - docker
     - github
     - solace
     - stripe

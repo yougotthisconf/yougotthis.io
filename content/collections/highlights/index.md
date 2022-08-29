@@ -14,6 +14,7 @@ items:
     - videos/2020/not-your-job-to-love-job
     - videos/2020/making-your-first-days-count
     - videos/2019/perfectionism-imposter-syndrome-anxiety
+    - videos/happy-healthy-communication/async-work-principles
 ---
 
 You Got This started with our first annual event in January 2019. Since then, it's rapidly expanded to six annual events and a programme of written articles completely focused on core skills.
