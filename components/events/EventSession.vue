@@ -106,6 +106,7 @@ export default {
 <style scoped>
 .img {
     @apply flex-row gap-2 mr-4 hidden md:flex;
+    @apply !mt-0 !mb-0;
     flex-shrink: 0;
     & img {
         @apply rounded-full border-2 border-white w-16 shadow-sm;
