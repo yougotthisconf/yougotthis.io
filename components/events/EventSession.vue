@@ -110,6 +110,7 @@ export default {
     flex-shrink: 0;
     & img {
         @apply rounded-full border-2 border-white w-16 shadow-sm;
+        @apply !mt-0 !mb-0;
     }
 }
 .bio.not-prose p {
