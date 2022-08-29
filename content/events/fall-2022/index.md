@@ -41,3 +41,15 @@ Talks will be recorded and live captions provided by White Coat Captioning. The 
     :speakers="['marcos-placona']"
     description="Interviews are a two-way process, but it's more than just company fit. Your manager is your biggest advocate, but fill your great opportunity with endless challenges. In this talk, we'll cover why and how to interview your next manager as part of your job-hunting process to make sure you end up in a healthy and productive environment.">
 </event-session>
+
+<event-session
+    title="How To Effectively Take Notes as a Team"
+    :speakers="['cassidy-williams']"
+    description="As your teams grow, so does your collective knowledge of all that you've built together. Managing and documenting that knowledge can be daunting, but it's so important for remembering decisions, creating new ideas without reinventing the wheel, and bringing new teammates up to speed. In this talk, we'll discuss strategies for taking (and finding!) notes as a team.">
+</event-session>
+
+<event-session
+    title="Balancing Side Projects and ADHD"
+    :speakers="['luke-murphy']"
+    description="ADHD, ADD and similar neuro-behavioural disorders are often seen as the kryptonite of folks completing things. The stereotype for years was the naughty kid at school who could never concentrate, would never finish anything and constantly disrupts everyone else. There’s a balance though, because while some ADHD traits make getting anything done almost impossible, others can be harnessed as superpowers to get shit done. Luke is going to share their experiences of attempting to identify, manage and manipulate these traits, and how this has manifested in successful (and many unsuccessful) side projects through the years. This talk is for folks who have ADHD, suspect they might have ADHD, or are just interested in how different people think and achieve the things they do.">
+</event-session>
