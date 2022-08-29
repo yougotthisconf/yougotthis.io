@@ -9,7 +9,7 @@
                 <span v-if="people.length > 0" class="mr-2" >{{ people.map(p => p.title).join(', ') }}</span>
                 <span v-if="start">
                     {{ $moment.utc(start).local().format('HH:mm') }}
-                    {{ $moment.tz.guess(true).split('/')[1] }}
+                    {{ $moment.tz.guess(true).split('/')[1].split('_').join(' ') }}
                 </span>
             </div>
         </div>
