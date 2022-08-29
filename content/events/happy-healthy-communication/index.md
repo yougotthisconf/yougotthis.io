@@ -1,4 +1,6 @@
 ---
+past: true
+url: /collections/happy-healthy-communication
 title: 'Happy Healthy Communication Presented by Twilio'
 description: A special event focusing on most effectively communicating with your colleagues, comrades, and co-conspirators.
 type: Meetup
@@ -8,8 +10,8 @@ cover: happy-healthy-communication.png
 sponsors:
     - twilio
 link:
-    url: 'https://lu.ma/happy-healthy-comms'
-    text: 'Free tickets'
+    url: 'https://live.yougotthis.io'
+    text: 'Watch event live'
 ---
 
 Talks will be recorded and live captions provided by White Coat Captioning.

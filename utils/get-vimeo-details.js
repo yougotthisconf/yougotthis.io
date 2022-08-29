@@ -7,7 +7,7 @@ const { Vimeo } = require('vimeo')
 const vimeoClient = new Vimeo(process.env.VIMEO_CLIENT_ID, process.env.VIMEO_CLIENT_SECRET, process.env.VIMEO_ACCESS_TOKEN)
 
 const base = './content/library/videos'
-const vimeoFolderName = 'Spring 2022'
+const vimeoFolderName = 'Happy Healthy Communication'
 
 function getFilePaths() {
     const dirs = fs.readdirSync(base)
@@ -27,7 +27,6 @@ function vimeo(path) {
 async function getVimeoMetaData(folderName) {
     const vimeoFolders = await vimeo(`/users/${process.env.VIMEO_USER_ID}/projects`)
     const folder = vimeoFolders.find(f => f.name == vimeoFolderName)
-    console.log({ folder })
     const vimeoVideos = await vimeo(`${folder.uri}/videos`)
     const vimeoVideosMetadata = vimeoVideos.map(v => ({
         duration: Math.round(v.duration/60),
@@ -73,6 +72,7 @@ async function main() {
     try {
         const files = getFilePaths()
         const metadata = await getVimeoMetaData()
+        console.log({ metadata })
         await updateFilesWithMetadata(files, metadata)
     } catch(error) {
         console.error({ error })

@@ -10,6 +10,7 @@ items:
     - videos/couch/power-coworking
     - videos/couch/lessons-wfh
     - videos/home/making-wfh-work
+    - videos/happy-healthy-communication/async-work-principles
 ---
 
 In 2018 only 5.7% of people surveyed said that they’d consider remote working desirable. In 2022 that number has jumped to over 40%. As teams and companies gear up to enable more remote working, it’s increasingly important to think about how to keep happy and healthy when you’re not working in a traditional office environment.

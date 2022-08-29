@@ -4,6 +4,8 @@ description: "Learn how to communicate more effectively with your colleagues, ma
 date: 2022-05-01
 cover: communication.jpg
 items:
+    - videos/summer-2022/knowledge-distribution
+    - videos/summer-2022/asking-for-things
     - videos/home/art-of-communication
     - videos/cyberspace/video-setup-tips
     - videos/cyberspace/building-team-trust-virtually
@@ -15,6 +17,11 @@ items:
     - videos/it-matters/giving-labels
     - videos/home/tautology-business-value
     - videos/home/use-feedback
+    - articles/2022/soliciting-feedback-and-help
+    - articles/2022/power-of-persuasion
+    - videos/happy-healthy-communication/active-listening-today
+    - videos/happy-healthy-communication/changing-your-mind
+    - videos/happy-healthy-communication/effective-meetings
 ---
 
 
