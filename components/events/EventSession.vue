@@ -5,7 +5,7 @@
                 <img v-for="person in people" :key="person.dir" :src="`${person.dir}/${person.avatar}`" :alt="person.title">
             </div>
             <div class="meta">
-                <h2>{{ title }}</h2>
+                <h2 class="font-normal">{{ title }}</h2>
                 <span v-if="people.length > 0" class="mr-2" >{{ people.map(p => p.title).join(', ') }}</span>
                 <span v-if="start">
                     {{ $moment.utc(start).local().format('HH:mm') }}
