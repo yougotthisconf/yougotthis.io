@@ -1,26 +1,28 @@
 <template>
     <div class="box !p-0 not-prose">
         <div class="top">
-            <h2>{{ title }}</h2>
-            <div class="key">
-                <p v-if="people.length > 0">{{ people.map(p => {
-                    let display = p.title
-                    if(p.pronouns) display += ` (${p.pronouns})`
-                    return display
-                }).join(', ') }}</p>
-                <p>
+            <div v-if="people.length > 0" class="img">
+                <img v-for="person in people" :key="person.dir" :src="`${person.dir}/${person.avatar}`" :alt="person.title">
+            </div>
+            <div class="meta">
+                <h2 class="font-normal">{{ title }}</h2>
+                <span v-if="people.length > 0" class="mr-2" >{{ people.map(p => p.title).join(', ') }}</span>
+                <span v-if="start">
                     {{ $moment.utc(start).local().format('HH:mm') }}
-                    {{ $moment.tz.guess(true).split('/')[1] }}
-                </p>
+                    {{ $moment.tz.guess(true).split('/')[1].split('_').join(' ') }}
+                </span>
             </div>
         </div>
         <div class="main">
-        <p v-if="description" class="description">{{ description }}</p>
-        <slot />
+            <p v-if="description" class="description">{{ description }}</p>
+            <slot />
         </div>
         <div v-if="people.length > 0" class="people">
             <details v-for="person in people" :key="person.dir">
-                <summary><span>About {{ person.title }}</span></summary>
+                <summary>
+                    <span>About {{ person.title }}</span>
+                    <span v-if="person.pronouns">({{ person.pronouns }})</span>
+                </summary>
                 <nuxt-content :document="person" class="bio not-prose my-0"></nuxt-content>
                 <a v-if="person.twitter" :href="`https://twitter.com/${person.twitter}`" class="button text-sm mt-2">@{{ person.twitter }} on Twitter</a>
             </details>
@@ -37,7 +39,8 @@ export default {
         },
         start: {
             type: String,
-            required: true
+            required: false,
+            default: ''
         },
         description: {
             type: String,
@@ -52,7 +55,7 @@ export default {
     },
     data() {
         return {
-            people: false
+            people: []
         }
     },
     computed: {
@@ -73,9 +76,9 @@ export default {
     @apply my-4;
 }
 .top {
-    @apply p-4;
+    @apply p-4 flex items-center;
     & h2 {
-        @apply font-heading text-xl !my-0;
+        @apply font-heading text-2xl !my-0;
     }
     & .key {
         @apply flex flex-wrap space-x-4 !mt-2 !mb-0;
@@ -92,7 +95,7 @@ export default {
     & details {
         & summary {
             @apply font-bold cursor-pointer;
-            & span {
+            & span:first-child {
                 @apply ml-2;
             }
         }
@@ -101,6 +104,15 @@ export default {
 </style>
 
 <style scoped>
+.img {
+    @apply flex-row gap-2 mr-4 hidden md:flex;
+    @apply !mt-0 !mb-0;
+    flex-shrink: 0;
+    & img {
+        @apply rounded-full border-2 border-white w-16 shadow-sm;
+        @apply !mt-0 !mb-0;
+    }
+}
 .bio.not-prose p {
     @apply my-0;
 }
