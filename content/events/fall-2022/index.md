@@ -9,6 +9,13 @@ sponsors:
     - suborbital
     - remote
     - balsamiq
+speakers:
+    - ramon-huidobro
+    - carol-huang
+    - michael-heap
+    - marcos-placona
+    - cassidy-williams
+    - luke-murphy
 link:
     url: 'https://lu.ma/seasons-fall-2022'
     text: 'Free tickets'
@@ -26,13 +33,6 @@ Talks will be recorded and live captions provided by White Coat Captioning. The 
     :speakers="['ramon-huidobro']"
     description="We oftentimes find ourselves confronted with new, situations in our careers that at a first glance are daunting, impossible even. How are we supposed to ever learn something if we don't even know where to start? Is learning even a part of the job? In this session, let's examine how vital a step of learning it is not to know, and how our tech careers are a continuous learning process.">
 </event-session>
-
-<event-session
-    title="Understanding Your Relationship With Time"
-    :speakers="['carol-huang']"
-    description="Your time is literally all you have in this world. You can’t guarantee health, you can’t guarantee happiness, you can’t even guarantee existing — but while you do have life on this earth, time is what you have. Let’s talk about some tools for identifying what you can (and can’t!) change about your day, and take a little bit of time to reexamine your relationship with time.">
-</event-session>
-
 <event-session
     title="WTF are OKRs"
     :speakers="['michael-heap']"
@@ -43,6 +43,12 @@ Talks will be recorded and live captions provided by White Coat Captioning. The 
     title="Interview Your Next Manager"
     :speakers="['marcos-placona']"
     description="Interviews are a two-way process, but it's more than just company fit. Your manager is your biggest advocate, but fill your great opportunity with endless challenges. In this talk, we'll cover why and how to interview your next manager as part of your job-hunting process to make sure you end up in a healthy and productive environment.">
+</event-session>
+
+<event-session
+    title="Understanding Your Relationship With Time"
+    :speakers="['carol-huang']"
+    description="Your time is literally all you have in this world. You can’t guarantee health, you can’t guarantee happiness, you can’t even guarantee existing — but while you do have life on this earth, time is what you have. Let’s talk about some tools for identifying what you can (and can’t!) change about your day, and take a little bit of time to reexamine your relationship with time.">
 </event-session>
 
 <event-session

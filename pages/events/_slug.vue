@@ -33,8 +33,11 @@ export default {
         const event = await $content('events', params.slug, 'index').fetch()
         if(event.url) redirect(event.url);
 
+        const people = await $content('people', { deep: true }).fetch()
+        const speakers = people.filter(p => event.speakers.find(e => e === p.dir.split('/')[2]))
+
         const sponsors = event.sponsors ? await $content('sponsors', { deep: true }).where({dir: {'$in': event.sponsors.map(s => `/sponsors/${s}`)}}).fetch() : []
-        return { event, sponsors }
+        return { event, sponsors, speakers }
     },
     head() {
         return headFactory({
