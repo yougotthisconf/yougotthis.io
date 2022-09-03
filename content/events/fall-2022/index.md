@@ -9,13 +9,6 @@ sponsors:
     - suborbital
     - remote
     - balsamiq
-speakers:
-    - ramon-huidobro
-    - carol-huang
-    - michael-heap
-    - marcos-placona
-    - cassidy-williams
-    - luke-murphy
 link:
     url: 'https://lu.ma/seasons-fall-2022'
     text: 'Free tickets'
