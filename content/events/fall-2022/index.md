@@ -38,10 +38,10 @@ Talks will be recorded and live captions provided by White Coat Captioning.
 <!-- Remote Sponsor 5m -->
 
 <event-session
-    title="Interview Your Next Manager"
-    :speakers="['marcos-placona']"
+    title="How To Effectively Take Notes as a Team"
+    :speakers="['cassidy-williams']"
     start="2022-09-15T17:45:00Z"
-    description="Interviews are a two-way process, but it's more than just company fit. Your manager is your biggest advocate, but fill your great opportunity with endless challenges. In this talk, we'll cover why and how to interview your next manager as part of your job-hunting process to make sure you end up in a healthy and productive environment.">
+    description="As your teams grow, so does your collective knowledge of all that you've built together. Managing and documenting that knowledge can be daunting, but it's so important for remembering decisions, creating new ideas without reinventing the wheel, and bringing new teammates up to speed. In this talk, we'll discuss strategies for taking (and finding!) notes as a team.">
 </event-session>
 
 <event-session
@@ -54,10 +54,10 @@ Talks will be recorded and live captions provided by White Coat Captioning.
 <!-- Suborbital Sponsor 5m -->
 
 <event-session
-    title="How To Effectively Take Notes as a Team"
-    :speakers="['cassidy-williams']"
+    title="Interview Your Next Manager"
+    :speakers="['marcos-placona']"
     start="2022-09-15T18:20:00Z"
-    description="As your teams grow, so does your collective knowledge of all that you've built together. Managing and documenting that knowledge can be daunting, but it's so important for remembering decisions, creating new ideas without reinventing the wheel, and bringing new teammates up to speed. In this talk, we'll discuss strategies for taking (and finding!) notes as a team.">
+    description="Interviews are a two-way process, but it's more than just company fit. Your manager is your biggest advocate, but fill your great opportunity with endless challenges. In this talk, we'll cover why and how to interview your next manager as part of your job-hunting process to make sure you end up in a healthy and productive environment.">
 </event-session>
 
 <event-session
