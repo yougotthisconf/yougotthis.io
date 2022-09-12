@@ -96,6 +96,7 @@ export default {
     },
     created() {
         if (this.$route.query.query) this.query = this.$route.query.query
+        console.log(`${this.content.length} items loaded`) // eslint-disable-line no-console
     },
 }
 </script>

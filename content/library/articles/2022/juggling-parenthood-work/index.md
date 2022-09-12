@@ -5,7 +5,7 @@ date: 2022-08-26T00:00:00.000Z
 people:
   - bekah-hawrot-weigel
 descriptions:
-  short:
+  short: Bekah shares some tips on finding balance while being a working parent.
 duration: 7
 cover: cover.png
 sponsors:
