@@ -10,8 +10,8 @@ sponsors:
     - remote
     - balsamiq
 link:
-    url: 'https://lu.ma/seasons-fall-2022'
-    text: 'Free tickets'
+    url: 'https://live.yougotthis.io'
+    text: 'Watch live'
 ---
 
 Talks will be recorded and live captions provided by White Coat Captioning.
