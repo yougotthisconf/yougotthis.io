@@ -22,6 +22,7 @@ items:
     - videos/happy-healthy-communication/active-listening-today
     - videos/happy-healthy-communication/changing-your-mind
     - videos/happy-healthy-communication/effective-meetings
+    - videos/fall-2022/effective-team-note-taking
 ---
 
 

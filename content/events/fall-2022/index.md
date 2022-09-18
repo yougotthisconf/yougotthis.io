@@ -1,4 +1,6 @@
 ---
+past: true
+url: /collections/fall-2022
 title: 'You Got This Through the Seasons: Fall 2022'
 description: Join us for topics including time management, goal-setting, and working with ADHD.
 type: Meetup
