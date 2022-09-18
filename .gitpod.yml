@@ -1,5 +1,11 @@
+
 tasks:
   - init: npm install
     command: npm run dev
 
 
+
+vscode:
+  extensions:
+    - bradlc.vscode-tailwindcss
+    - lukashass.volar
