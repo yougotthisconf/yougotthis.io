@@ -3,11 +3,12 @@ require('dotenv').config()
 const fs = require('fs')
 const path = require('path')
 const editor = require('front-matter-editor')
+const readline = require('readline-sync')
 const { Vimeo } = require('vimeo')
 const vimeoClient = new Vimeo(process.env.VIMEO_CLIENT_ID, process.env.VIMEO_CLIENT_SECRET, process.env.VIMEO_ACCESS_TOKEN)
 
 const base = './content/library/videos'
-const vimeoFolderName = 'Happy Healthy Communication'
+const vimeoFolderName = readline.question('Vimeo Folder Name: ')
 
 function getFilePaths() {
     const dirs = fs.readdirSync(base)
