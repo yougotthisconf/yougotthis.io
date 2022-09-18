@@ -10,6 +10,7 @@ items:
     - videos/it-matters/understand-mental-health
     - videos/it-matters/managing-team-overload
     - videos/home/burnout-recovery
+    - videos/fall-2022/relationship-with-time
 ---
 
 Burnout is something that almost everyone will experience at least once in their professional career. If you’re feeling drained, overwhelmed, or just a bit overworked, you are definitely not alone. Here’s a selection of presentations on the topic of managing burnout from some of our amazing speakers.
