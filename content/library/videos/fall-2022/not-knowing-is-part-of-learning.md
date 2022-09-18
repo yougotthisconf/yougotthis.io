@@ -5,6 +5,16 @@ people:
   - ramon-huidobro
 descriptions:
   short: Tech careers are a continuous learning process. Find out more with Ramón.
-  full: We oftentimes find ourselves confronted with new, situations in our careers that at a first glance are daunting, impossible even. How are we supposed to ever learn something if we don't even know where to start? Is learning even a part of the job? In this session, let's examine how vital a step of learning it is not to know, and how our tech careers are a continuous learning process.
+  full: >-
+    We oftentimes find ourselves confronted with new, situations in our careers
+    that at a first glance are daunting, impossible even. How are we supposed to
+    ever learn something if we don't even know where to start? Is learning even
+    a part of the job? In this session, let's examine how vital a step of
+    learning it is not to know, and how our tech careers are a continuous
+    learning process.
 vimeo: 750986718
+duration: 15
+cover: >-
+  https://i.vimeocdn.com/video/1509903852-ab129014e436071a05ba0ce4c4ae467b5e3353ac3f403efc322ae40289b28b3c-d
 ---
+
