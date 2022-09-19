@@ -4,6 +4,7 @@ copyContentImages()
 
 export default {
   target: 'static',
+  telemetry: false,
   components: [
     '~/components',
     '~/components/collections',

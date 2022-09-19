@@ -1,3 +1,8 @@
+// This file requires 4 environment variables are set:
+// VIMEO_CLIENT_ID, VIMEO_CLIENT_SECRET, VIMEO_ACCESS_TOKEN, VIMEO_USER_ID
+// Given videos are in a folder in your Vimeo account, and the prompted vimeoFolderName matches
+// It goes to Vimeo, collects direct URLs to poster art, and video duration, and adds it to the files with matching vimeo IDs in the library directory.
+
 require('dotenv').config()
 
 const fs = require('fs')
