@@ -4,7 +4,7 @@ You Got This! is a learning hub focused on core skills needed for a happy and he
 
 ![Website screenshot showing the project desciprtion and three collection tiles.](.github/docs/home.png)
 
-This platform is a Nuxt 2 project with Nuxt Content v1. You will need to know Vue.js to contribute to the platform, but content is written entirely in markdown.
+This platform is a Nuxt 2 project with Nuxt Content v1. You will need to know Vue.js to contribute to the platform, but content is written entirely in markdown and does not require knowledge of Vue.js.
 
 ## Set Up
 
