@@ -6,7 +6,7 @@ We love that you're here and wanting to contribute to the You Got This! project.
 
 ### Content: Articles & Videos
 
-Please do not contribute articles or videos to this repo. We have months of content mapped out, and have strict requirements on what is accepted. If you want to add new content, please [mailto:kevin@yougotthis.io](email).
+Please do not contribute articles or videos to this repo. We have months of content mapped out, and have strict requirements on what is accepted. If you want to add new content, please [email us](mailto:kevin@yougotthis.io).
 
 ### Content: Transcripts
 
