@@ -22,6 +22,20 @@ cover: >-
   https://i.vimeocdn.com/video/1509929082-60196cd12fa29c36b4cc013d0982284611784dec2fda263f5772c4a92c59667e-d
 ---
 
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+Object Key Results (OKRs) are a goal setting tool used to communicate what you want to accomplish and what milestones you'll need to meet. OKRs are defined collaboratively and are designed to cascade through an organization - from senior leadership and down through every level. If the objective is to "exist in 100 years", each key result may be items such as "increase donations by 30%" or "reduce exhibit shipping costs by 5%". But each key result becomes an objective to the next level of goal-setting. 
+
+Things Michael learned the hard way:
+- The OKRs themselves don't matter. The real value is in openly communicating organizational goals.
+- OKRs don't fix dysfunctional orgs. OKRs are great for gaining alignment, not building strategy.
+- If you don't ahve a baseline, set one. 
+- Pair quantity metrics with quality metrics. Pumping numbers is easy. Focus on outcome over output. 
+- Hitting 100% of your OKRs means you're not reaching high enough. You should hit about 50%.
+
+</extra-reading>
+
 Good morning, afternoon, or evening, everyone. Welcome to OKRs -- you can fill in the rest! I'm Michael. I'm @mheap. You can find me on Twitter there about the talk. If you want to say bad things, put it -- DM me. I'm an unashamed OKR lover when they're done correctly, but, unfortunately, they're not done well a lot of the time. Today, I'm hoping to help guide you through what a good OKR looks like, and how they can help you in your work life, your personal life, things like that. 
 
 We've only got ten minutes, so I'm keeping it quite brief. We will start at the beginning, and spend two minutes on what is an OKR? Why are they helpful? How do you know if they're working? Then we are going to walk through how to build an OKR. This is where it goes wrong in a lot of companies. Three minutes on that. Next, hard-earned tips on OKRs. Things I learned on the hard way. And then some examples of OKRs. 
