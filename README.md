@@ -46,4 +46,4 @@ npm run generate
 
 We always welcome contributions to further improve the You Got This platform, or to edit/improve content. To participate, you must abide by the [You Got This! Code of Conduct](https://yougotthis.io/conduct). 
 
-Before contributing, please take a look at our [contributing guidelines](/.github/CONTRIBURTING.md), which summarizes the different types of contributions we accept. 
+Before contributing, please take a look at our [contributing guidelines](/.github/CONTRIBUTING.md), which summarizes the different types of contributions we accept. 
