@@ -82,6 +82,7 @@ export default {
         & img {
             @apply rounded-full border-2 border-theme-white;
             @apply absolute left-0 z-10;
+            @apply !mt-0 !mb-0;
             --w: 2.125rem;
             width: var(--w);
             max-width: var(--w);
