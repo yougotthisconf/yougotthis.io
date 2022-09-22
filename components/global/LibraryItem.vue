@@ -66,7 +66,7 @@ export default {
     @apply p-0 grid sm:grid-cols-2 no-underline font-normal;
 }
 .cover {
-    @apply col-span-1 rounded-t-lg sm:rounded-t-none sm:rounded-l-lg mr-4;
+    @apply col-span-1 rounded-t-lg sm:rounded-t-none sm:rounded-l-lg mr-4 !mt-0 !mb-0;
 }
 .info {
     @apply col-span-1 p-3;
