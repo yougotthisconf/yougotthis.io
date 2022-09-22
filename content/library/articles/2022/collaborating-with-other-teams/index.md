@@ -11,6 +11,7 @@ cover: cover.png
 sponsors:
   - vonage
 ---
+<sponsor-vonage-comms></sponsor-vonage-comms>
 
 You write code. Or maybe you talk to people about writing code. But you’re not in sales, or in marketing, or in human resources, or in product development, or… you get the idea. It can be hard sometimes to imagine a world outside of our own bubble - but by the end of this article, I promise that you’ll want nothing more than to go and hug all the other teams in your organisation. If you have their consent, of course.
 
@@ -32,6 +33,8 @@ Understanding things from other people’s points of view helped me to write bet
 
 If you work in tech, you’ll be familiar with the acronym GIGO, or Garbage in, Garbage out. You may be surprised to learn that communication between teams works much in the same way. Whether your organisation has a history of open communication between teams or not, working out how to honestly and effectively communicate what you’re working on, what the dependencies are, and why other teams should care is a skill that will place you in high demand. Consider a weekly or monthly team bulletin, or joining in other team’s meetings so that you can give updates on what your team is working on can often be great ways to personify the idea of open and free exchange of information.
 
+<sponsor-vonage-video></sponsor-vonage-video>
+
 It’s also important to remember that you won’t always agree or see eye-to-eye with colleagues and co-workers both inside and outside of your own team. Not only is that okay, it can actually be a superpower if you harness those disagreements in the right way.
 
 <library-item path="videos/couch/productive-disagreements"></library-item>
@@ -49,5 +52,7 @@ It may seem like doing something for another team is a waste of your own team’
 Being transparent about your goals - and encouraging other teams to do the same - has a huge organisational benefit. If you know, for example, that the marketing team are targeting a particular sector or demographic, you can help tailor your work to theirs and vice versa. Synergy - it’s a word people make fun of, but it's beautiful when done right.
 
 Following on from my article on [tracking your personal and professional growth](/library/understanding-personal-growth), keeping track of cross-organisational relationships and conversations is hugely beneficial too! Keep an org chart handy and make notes about the frequency of meetings you have with different teams and who you meet within them. Being able to pull together project teams from across organisations, or suggest people to go to for advice, often proves invaluable in advanced problem solving or use case testing.
+
+<sponsor-vonage-blog></sponsor-vonage-blog>
 
 So - empathise, communicate, share, and track - and before you know it, you’ll not only be better at your own job, but you’ll have an indelible impact on the team and organisation around you!
