@@ -17,6 +17,26 @@ cover: >-
   https://i.vimeocdn.com/video/1447932506-e65770ffba528629cbe14762c3dcde77cd637ae809f24587d53458ddc1ebfe4e-d
 ---
 
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+While technical communication is used to convey scientific, engineering or other related information, storytelling falls on the other end of the spectrum and is the social and cultural activity of sharing pursuits.
+  
+ Why stories?
+- Listeners are more likely to understand and remember stories.
+- Stories increase empathy by creating a bond between the storyteller and the listener.
+- They give the context necessary to form meaning. Eg. - fables
+  
+Why should we use storytelling in communication?
+  
+- People are biased towards stories. Narratives are intrinsically persuasive and offer science communicators tactics for persuading otherwise resistant audiences.
+- They cut through information clutter and engage the audience from the get-go.
+- Stories mix narration with exposition. A lot of technical communication uses exposition. When mixed with narration, a nice layer of depth is added to the communication. Eg. - case studies written in the first person.
+  
+The best way to leverage storytelling techniques in technical communication is to mix and experiment with mediums like comics, animations, YouTube videos, podcasts and others.
+
+</extra-reading>
+
 Hi, I'm Lola Odelola and today I'm going to be talking to you about using storytelling techniques in your technical communication. But first, a little bit about me. I am a web developer advocate at Samsung internet, and if you've never heard about Samsung internet before, that's perfectly okay. We are an Android based web browser and available on all Android.
 
 Platforms, basically you can get in the play store. And we have features that are aimed at power users and people who are privacy aware with things such as ad blocking and track and prevention, which are both on by default. And we have a fully customizable interface. So you can tweak things to your liking.
