@@ -21,6 +21,19 @@ duration: 21
 cover: >-
   https://i.vimeocdn.com/video/1447926421-7dd4ce3c05cdae995d40fac29d769444691bb9e355b6eb4fbc6f53422b2452cb-d
 ---
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+While it is said that two heads are better than one, collaboration and knowledge distribution isn’t always easy. The Mythical Man Month, a book by Frederick Brooks explains a unit called ‘person month’, which is a fictitious unit of progress a group of people can make relative to their quantity and the subsequent amount of time a task takes them. The idea is that the number of people and the amount of time required to get something done can be interchangeable as commodities. 
+
+How must one get the levels of communication right while collaborating?
+- Elicitation: It is essential for starting off projects successfully. Questions like what needs to be achieved, what assumptions are being made, whom is the project aimed at, definiton of requirements along with the challenges anticipated are involved in this stage.
+- Documentation: It ensures the participants are engaged in active listening. As a guide to documenting with good practice, context switching should be minimized. The documentation must have a life cycle as it shall not stay relavant forever.
+- Validation: It itakes form of clear continuous communication that helps us validate our thinking. It is helpful for understanding how much of the information documented is useful and where people are asking the most questions. 
+- Management: Dynamic complexity often comes into projects when dealing with technology. Reducing it involves traceability, delegated authority and ownership across the stakeholder environment. 
+
+
+</extra-reading>
 
 Thanks so much for having me here. I'm really excited. Whenever you've got this, has any events going on? I love to join them. They've given me a lot of advice around strengthening my core skills. So I'm just pretty thrilled to be involved as Joe quite rightly said, my name is Jessica. I'm a developer advocate with LaunchDarkly and I came up with the idea of this talk in my first meeting with Kevin, we were chatting about the nature of events and projects and how The complexity scales with scope.
 
