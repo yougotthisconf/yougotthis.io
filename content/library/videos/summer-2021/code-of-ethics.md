@@ -22,6 +22,31 @@ duration: 28
 cover: >-
   https://i.vimeocdn.com/video/1349710541-abdec34b1191a83f2b2d758a1111b917607eb29652fc483df0b22879589c1cce-d
 ---
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+The Association of Computing Machinery (ACM) code was updated in July 2018 with the participative effort of experts, members and the public.
+
+Why is it relevant?
+  
+There are lots of ethical questions that are still unsolved. People are sceptical about new technologies. While the initial code focused on professionalism and following laws, the new code is not just a place to come to find answers but also a place to find ways of thinking through potential issues that could come up with the technologies being developed.
+
+The first principle of code states, “A computing professional should contribute to society and human well-being acknowledging all people are stakeholders in computing. Another phrase reads, "Where interests of multiple groups conflict, the needs of the less advantaged should be given increased attention and priority.” Some major changes and additions include:
+  
+- 1.4 Be fair and take action not to discriminate 
+- 1.5 Respect the work required to produce new ideas, inventions, creative works and computing artefacts
+- 2.9 Design and implement systems that are robustly and usable secure
+- 3.6 Use care when modifying or retiring systems
+- 3.7 Recognize and take special care of systems that become integrated into the infrastructure of society
+
+Responsible Innovation must:
+- Anticipate the potential impact of your technology
+- Reflect on the ethical and social issues your tech may raise (using the Code!)
+- Engage with relevant stakeholders to help identify potential issues/mitigate them
+- Act by putting methods in place to ensure issues are resolved
+
+  
+</extra-reading>
 
 I'm Catherine Flick, I'm a Reader in Computing and Social Responsibility, which basically means I do technology ethics. That is my bread and butter. I've been doing it since my PhD was published in 2009, so I've been doing it for well over a decade. I was spending some time doing a PhD before it is finished, so probably about 15 years or so now.
 
