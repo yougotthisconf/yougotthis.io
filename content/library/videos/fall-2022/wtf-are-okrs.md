@@ -30,7 +30,7 @@ Object Key Results (OKRs) are a goal setting tool used to communicate what you w
 Things Michael learned the hard way:
 - The OKRs themselves don't matter. The real value is in openly communicating organizational goals.
 - OKRs don't fix dysfunctional orgs. OKRs are great for gaining alignment, not building strategy.
-- If you don't ahve a baseline, set one. 
+- If you don't have a baseline, set one. 
 - Pair quantity metrics with quality metrics. Pumping numbers is easy. Focus on outcome over output. 
 - Hitting 100% of your OKRs means you're not reaching high enough. You should hit about 50%.
 
