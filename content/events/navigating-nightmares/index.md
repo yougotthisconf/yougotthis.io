@@ -9,6 +9,9 @@ sponsors:
     - balsamiq
     - codesee
     - vonage
+link:
+    url: 'https://lu.ma/ygt-navigating-nightmares'
+    text: 'Get free tickets'
 ---
 
 Talks will be recorded and live captions provided by White Coat Captioning.
