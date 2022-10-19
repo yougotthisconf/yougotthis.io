@@ -25,11 +25,9 @@ cover: >-
 
 While motivation and acquiring discipline are important to do our jobs well, the secret to remaining aligned with what we do is by keeping the inner child spirit alive.
 - Step 1: Know your values
-  
-This requires a lot of self-awareness. For people just starting their careers, Laura suggests that they should try as many things and jobs as they can. Trying new things will help them learn their likes and dislikes.
+  <br>This requires a lot of self-awareness. For people just starting their careers, Laura suggests that they should try as many things and jobs as they can. Trying new things will help them learn their likes and dislikes.
 - Step 2: Check your emotions
-  
-Look for a list of personal values like abundance, love, power, accountability etc. and try to understand what are your top three. Every time you make a decision, check if those values align with your choice. Since we grow as people, these values will also keep changing.
+  <br>Look for a list of personal values like abundance, love, power, accountability etc. and try to understand what are your top three. Every time you make a decision, check if those values align with your choice. Since we grow as people, these values will also keep changing.
 
 What about work?
 - Do your research: Search for the company values. This research can fail and the best way to counter this is to know one’s teammates and ask them about the company values.
