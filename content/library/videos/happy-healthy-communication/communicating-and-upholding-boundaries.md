@@ -11,6 +11,25 @@ duration: 17
 cover: 'https://i.vimeocdn.com/video/1490111156-1f314f5f1c8d36e1883c39594575c9c27930b5ad2acb9451a5a6bb4dfc76c553-d'
 ---
 
+<extra-reading title="Summary">
+
+Setting boundaries helps us to understand and establish our limits around what we will do, or allow others to do.  There are different types of boundary, and you will need different types for the different people in your environment:
+
+- Physical: relating to your personal space and personal touch.
+- Emotional: relating to your feelings.
+- Material: relating to your belongings.
+- Time: relating to how you choose to use your time.
+
+There's also a happy medium when it comes to setting boundaries.  If your boundaries are too leaky or loose, you might find it hard to say no to people.  Too rigid, and you might find it too hard to say yes.  Either way, you are likely to avoid conflict so that you don't have to discuss what's bothering you.  A healthy boundary, on the other hand, leaves you free to choose what you agree to and who to trust.
+
+The three steps to upholding your boundary are:
+
+- Define it.
+- Communicate it to the relevant person(s), but don't over-communicate.
+- Define what the consequences will be if the boundary is crossed.
+
+</extra-reading>
+
 Like Kev said, my name is Suze Shardlow, and I'm going to talk to you today about Communicating and Upholding Your Boundaries. You can find me at Twitter, I'm [@SuzeShardlow](https://twitter.com/SuzeShardlow) on Twitter, please do tweet at me. I would love to hear from you. And also at my website, [Suze.dev](https://suze.dev). Just a little bit about me. I'm a software engineer, coding instructor, event emcee and technical writer. I'm currently head of developer community at Redis. Here is a photo of me on my 13th birthday, using the computer that I learned to code on.
 
 I'm a brown woman. And since that photo was taken, I have worked in a number of male-dominated industries, where my boundaries were often crossed, mostly - but not always - by people who didn't look like me. So, that's currently the tech industry, previously, the police and the engineering industries and federal government. Feel free to ask me about anything I haven't covered here after my talk. We're having a little Q&A session.
