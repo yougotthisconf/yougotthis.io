@@ -27,7 +27,7 @@ cover: >-
 <extra-reading title="Summary">
 <!-- There is am empty line required above and below content. -->
 
-Hundred years ago, civil engineering was very similar to how the tech industry is today. As the industrial revolution receded behind engineers, they found new ways to use the technologies they had developed. But as these projects became more ambitious, there was a rise in major engineering disasters due to questionable ethics. These disasters forced engineers to confront their shortcomings. As a result, they began to regulate themselves more intensely in established standardised industry codes of ethics. 
+A hundred years ago, civil engineering was very similar to how the tech industry is today. As the industrial revolution receded behind engineers, they found new ways to use the technologies they had developed. But as these projects became more ambitious, there was a rise in major engineering disasters due to questionable ethics. These disasters forced engineers to confront their shortcomings. As a result, they began to regulate themselves more intensely in established standardised industry codes of ethics. 
 
 Ethics is a branch of philosophy devoted to answering questions about what is best in life. Ethics provide us with a moral framework that we can use to find our way through difficult issues. Many industry bodies introduced formal codes and ethics with more legal regulations in the early twentieth century. In the current scenario, code of conduct on open source repositories, at conferences and other events must be used to set appropriate expectations of ethical behaviour. If we want to establish an organizational culture where people tend to act morally, reminders can be a powerful tool to help achieve this. 
 
