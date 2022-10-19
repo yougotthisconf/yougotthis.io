@@ -26,9 +26,7 @@ cover: >-
 
 The reason why we sabotage ourselves is that our current habits are familiar and comfortable while the change we desire is inherently unpredictable. We may think that self-sabotage comes from not knowing what we want but we don’t sabotage knowledge or desire, we sabotage the transformation. Our sabotaging behaviours operate in the subconscious which gives them power while our transforming behaviours are weaker and require our conscious awareness and choice. 
 
-How to overcome sabotage?
-  
-We must pull the sabotaging behaviour into our conscious mind i.e. catch them in their pre-state. Although we still might choose sabotaging behaviour, the victory lies in making that behaviour deliberate. As we get better at catching the sabotaging behaviour, we can then exercise our decisive powers to choose the new behaviour. Short-circuiting sabotaging bearings has a waterfall effect. Some sabotaging behaviours are connected; getting a handle on one leads to control over the others. Eventually, sabotage recognition gets easier and our new behaviours have a chance to establish in our subconscious.
+To overcome sabotage, we must pull the sabotaging behaviour into our conscious mind i.e. catch them in their pre-state. Although we still might choose sabotaging behaviour, the victory lies in making that behaviour deliberate. As we get better at catching the sabotaging behaviour, we can then exercise our decisive powers to choose the new behaviour. Short-circuiting sabotaging bearings has a waterfall effect. Some sabotaging behaviours are connected; getting a handle on one leads to control over the others. Eventually, sabotage recognition gets easier and our new behaviours have a chance to establish in our subconscious.
 
 </extra-reading>
 
