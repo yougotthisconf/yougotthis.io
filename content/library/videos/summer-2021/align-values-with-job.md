@@ -20,6 +20,21 @@ duration: 25
 cover: >-
   https://i.vimeocdn.com/video/1349709776-7f64dd2de2dc22bee68b7b241346ad8edfe5514c2ca2454e6ed3271ef4e8ce81-d
 ---
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+While motivation and acquiring discipline are important to do our jobs well, the secret to remaining aligned with what we do is by keeping the inner child spirit alive.
+- Step 1: Know your values
+  <br>This requires a lot of self-awareness. For people just starting their careers, Laura suggests that they should try as many things and jobs as they can. Trying new things will help them learn their likes and dislikes.
+- Step 2: Check your emotions
+  <br>Look for a list of personal values like abundance, love, power, accountability etc. and try to understand what are your top three. Every time you make a decision, check if those values align with your choice. Since we grow as people, these values will also keep changing.
+
+What about work?
+- Do your research: Search for the company values. This research can fail and the best way to counter this is to know one’s teammates and ask them about the company values.
+- Plant your own seed: Share your values with your company and teammates. This will help if you are not 100% sure if you are at the right place.
+
+
+</extra-reading>
 
 Hi, everybody. So, first of all, thanks for having me. Again, You Got This is a great conference, so I'm excited to be here. And today we're going to talk about a few things. The first one would be how to align your values with your work, right? How is it? How can I enjoy my daily life at work, how do I know my values, and so on?
 

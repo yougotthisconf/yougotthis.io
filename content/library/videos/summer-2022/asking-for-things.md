@@ -20,6 +20,21 @@ duration: 20
 cover: >-
   https://i.vimeocdn.com/video/1447925127-83fa4a0547c6d963fac1002938271a8799dbb6fdfce0397d6898d945ec765c34-d
 ---
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+As a part of the Developer Relations industry, Kurt constantly collaborates with people and stresses on having a system to get consistent results when asking folks for things.
+ 
+He believes we must rethink the nature of relationships. When we ask people for things, it falls into two buckets: transactional or relationships. Negative engagements are associated with transactions while positive engagements are associated with relationships. Kurt challenges this sentiment and emphasizes that all relationships are inherently transactional. Positive relationships are consistently ongoing transactions where both parties are receiving value. It’s more about what happens in that transaction that defines whether it is positive or negative. 
+
+For successful collaborations, Kurt suggests the 3Rs:
+  
+- Recognition: Recognize that we are asking someone to exert effort to help us. Let them know why they were sought out specifically. It shows you put in the effort to pick the right person for the task. 
+- Request: Once the consent of the person(s) involved has been gained, share the actual task as descriptively as possible. Avoid preemptively thanking someone. It makes the assumption they will say yes and can turn a positive transaction into a negative one. 
+- Reward: Make sure the person helping out receives something of value. It’s hard to reward someone properly if you don’t know what they value as an individual. 
+
+
+</extra-reading>
 
 Hey everyone how's it going? I'm excited to talk to you today about the subtle art of asking for things. So real quick, I just want to start off by saying. Hi, how many times have you received a DM like this? I know for me, I probably get a decent amount of them each week. I won't go into specific numbers, but it's pretty high.
 

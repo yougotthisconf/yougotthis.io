@@ -24,6 +24,21 @@ duration: 24
 cover: >-
   https://i.vimeocdn.com/video/1349710007-b3a5645d6cdea2049bd30e8a9a9954cbed2cef992e786731f7f4c0d245669dbf-d
 ---
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+A hundred years ago, civil engineering was very similar to how the tech industry is today. As the industrial revolution receded behind engineers, they found new ways to use the technologies they had developed. But as these projects became more ambitious, there was a rise in major engineering disasters due to questionable ethics. These disasters forced engineers to confront their shortcomings. As a result, they began to regulate themselves more intensely in established standardised industry codes of ethics. 
+
+Ethics is a branch of philosophy devoted to answering questions about what is best in life. Ethics provide us with a moral framework that we can use to find our way through difficult issues. Many industry bodies introduced formal codes and ethics with more legal regulations in the early twentieth century. In the current scenario, code of conduct on open source repositories, at conferences and other events must be used to set appropriate expectations of ethical behaviour. If we want to establish an organizational culture where people tend to act morally, reminders can be a powerful tool to help achieve this. 
+
+Whenever trying to make a tough decision, these questions that trigger different types of emotional responses can be used as a means to measure the ethical correctness of our decision.
+- Would you be happy for everyone to know the decision you’ve made?
+- Do you think the consequences are acceptable?
+- Would you recommend the same course of action to others?
+
+
+
+</extra-reading>
 
 I'm Richard! I've been living in London ten years but just moved to New Zealand like a month ago, so I'm coming to you from New Zealand. It is winter, it is 5.47 am and still dark outside! If I struggle to talk at all, that is my excuse! I'm here to talk to you today about what is best in life. So, a bit about my background. I started out at university studying mechanical engineering, which I honestly hated. And I switched to studying philosophy, which I loved. Now it's more than ten years later, and my official job title is front-end engineer. Go figure!
 

@@ -21,6 +21,15 @@ cover: >-
   https://i.vimeocdn.com/video/1447924679-b4d30c3e41f2bbaec37f2c3f5807c219cf4d4a95d7c07db73837786083028cc9-d
 ---
 
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+The reason why we sabotage ourselves is that our current habits are familiar and comfortable while the change we desire is inherently unpredictable. We may think that self-sabotage comes from not knowing what we want but we don’t sabotage knowledge or desire, we sabotage the transformation. Our sabotaging behaviours operate in the subconscious which gives them power while our transforming behaviours are weaker and require our conscious awareness and choice. 
+
+To overcome sabotage, we must pull the sabotaging behaviour into our conscious mind i.e. catch them in their pre-state. Although we still might choose sabotaging behaviour, the victory lies in making that behaviour deliberate. As we get better at catching the sabotaging behaviour, we can then exercise our decisive powers to choose the new behaviour. Short-circuiting sabotaging bearings has a waterfall effect. Some sabotaging behaviours are connected; getting a handle on one leads to control over the others. Eventually, sabotage recognition gets easier and our new behaviours have a chance to establish in our subconscious.
+
+</extra-reading>
+
 I'm going to be speaking on recognizing and overcoming self-sabotage. Okay. So why do we sabotage ourselves? Our current habits, the ones we want to change are familiar. They're predictable and they're possibly comfortable. I say possibly because sometimes they may not be comfortable, but we still hold onto them because we are enjoying certain Bennett.
 
 From those habits and conversely, the change we want, our desire change is strange. So you may desire it, but it's still strange. It's unpredictable in the sense that you don't know how it's going to go when you start pursuing that desire change, and it could be possibly uncomfortable, maybe not the change itself, but the.
