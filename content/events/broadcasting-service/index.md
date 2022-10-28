@@ -1,5 +1,5 @@
 ---
-save_the_date: true
+save_the_date: false
 title: 'You Got This Broadcasting Service'
 description: Nonstop core skills conference broadcasting for 26 hours.
 type: Conference
@@ -18,6 +18,19 @@ sponsors:
 ---
 <div class="mt-6"></div>
 
-Talk submissions have now closed - we aim to get back to all those who submitted by September 23 2022.
 
-Find out more about sponsoring this event [here](/sponsors/info/conf).
+<!-- TIMES ARE UTC -->
+
+<event-session
+    title="Title Here"
+    :speakers="['kestral-gaian']"
+    start="2022-12-31T23:00:00Z"
+    description="Abstract">
+</event-session>
+
+<event-session
+    title="Title Here"
+    :speakers="['kestral-gaian']"
+    start="2022-12-31T23:30:00Z"
+    description="Abstract">
+</event-session>
