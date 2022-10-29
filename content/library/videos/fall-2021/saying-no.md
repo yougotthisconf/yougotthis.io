@@ -18,6 +18,26 @@ cover: >-
   https://i.vimeocdn.com/video/1349539027-37d75b43a60b62ad4e43b06f14b0ef51dbe847ebb9ed022688f388850ea10407-d
 ---
 
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+Nathaniel states that there are four things one needs to understand:
+- Why does one always want to say yes? <br>
+Our culture and our society have conditioned us to say yes. When we're congruent with others, we feel comfortable and in the flow. Saying yes opens possibilities to collaborate, to build together with other people, and to further discussion. However, saying yes to everything can be really taxing. 
+
+- Why should one say no? <br>
+Firstly, saying no really helps you free up your time. You now have more time to pay attention to the things that matter to you. Secondly, people realise that your time is much more valuable, so they often come to you with asks that are going to benefit or align closely with the things you're already moving towards.
+
+- How does one know when to say yes or no? <br>
+Use the question words: when, where, what, who, and why to gather more information. Analyze the task on a Growth Share Matrix with the effort required on one axis and the impact generated on the other axis. Since our availability, stress levels, and the way we value opportunities are always in flux, that matrix may always be changing.
+
+- How to say no? <br>
+Be polite and thank them for asking you. But at the same time, be firm. Make sure that that person leaves with the understanding that you have said no. Take ownership of your decision. If an opportunity isn't right for you, there might be someone else from an underrepresented background to whom yo can pass this on to.
+
+There will be many requests coming your way from work, friends, and family, and with all of that noise, it can be easy to overlook one of the most important set of requests i.e. requests that come from within. Sometimes, the best thing that you can do is to drown out the noise and say yes to your dreams, your hopes, and your visions.
+
+</extra-reading>
+
 Thank you so much, Kevin, I love you, but I must admit, I have a confession to make. When I was asked to make this talk, I should have said no, but I didn't. And why didn't I? That's because I have a problem. I'm a people pleaser. I love saying yes to people. I absolutely adore receiving thank yous, and I just get excited at the thought that somebody's life was made even just a tiny bit easier by me. But over time, I can overextend myself, and I've begun to realize that it's getting harder and harder for me to keep up with all of those yeses that I've agreed to. And I realized a couple of weeks ago that I needed to learn how to say no. And this talk is about some of the lessons I've learned from reading some books and listening to some talks.
 
 And as I was reading them, I realized that there were four things that I needed to understand. First of all, I needed to understand why do I always want to say yes? And secondly, why should I say no? And then figure out a way to judge when it's time to say yes and when it's time to say no. And last, I wanted to learn how to say know effectively. So, I kind of am going to go back to the first one. Why do I say yes? Because saying yes rocks. I mean, some of the biggest decisions we make that can have positive impacts, we answer those questions by saying yes. I mean, our culture and our society has really conditioned us to say yes. We're comfortable when we say yes. When we're congruent with others, we feel comfort, we feel in the flow, we feel happy to be sharing these experiences and to be doing things with others. There are no negative undercurrents.
