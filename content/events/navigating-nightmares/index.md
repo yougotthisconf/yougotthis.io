@@ -10,8 +10,8 @@ sponsors:
     - codesee
     - vonage
 link:
-    url: 'https://lu.ma/ygt-navigating-nightmares'
-    text: 'Get free tickets'
+    url: 'https://live.yougotthis.io'
+    text: 'Watch live now'
 ---
 
 Talks will be recorded and live captions provided by White Coat Captioning.
