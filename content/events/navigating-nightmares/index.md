@@ -35,7 +35,7 @@ Talks will be recorded and live captions provided by White Coat Captioning.
     description="If work has started to feel like a bad horror film, you're not powerless. Danae will cover a simple 5-step process to help you protect yourself at work if something scary is happening.">
 </event-session>
 
-<!-- SPONSOR - Vonage -->
+<!-- SPONSOR - CodeSee -->
 
 <event-session
     title="Navigating Major Turnover In Your Company"
@@ -51,7 +51,7 @@ Talks will be recorded and live captions provided by White Coat Captioning.
     description="The spooky world of brogrammers can be off-putting, alienating, and career hindering. This talk will introduce a toolkit that will help you navigate difficult personalities, offer non-performative ways forward, and you might even survive to tell the tale... Whilst this toolkit was created with marginalised groups in mind, it is not limited to a specific audience - it provides guidance that can apply to a range of positions across the tech industry, including (and importantly!) those with executive power.">
 </event-session>
 
-<!-- SPONSOR - Codesee -->
+<!-- SPONSOR - Vonage -->
 
 <event-session
     title="Navigating Redundancy"
