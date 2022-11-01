@@ -1,4 +1,6 @@
 ---
+past: true
+url: /collections/navigating-nightmares
 title: 'You Got This: Navigating Nightmares'
 description: What would you do when faced with horror? A range of talks about what to do when things go wrong.
 type: Meetup

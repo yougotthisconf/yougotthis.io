@@ -10,11 +10,11 @@ items:
     - videos/cyberspace/accessible-language
     - videos/couch/negotiating-after-start
     - videos/home/lending-privilege
-    - videos/2020/developing-team-game-design
     - videos/2020/not-your-job-to-love-job
-    - videos/2020/making-your-first-days-count
     - videos/2019/perfectionism-imposter-syndrome-anxiety
     - videos/happy-healthy-communication/async-work-principles
+    - videos/navigating-nightmares/protecting-yourself-valla
+    - videos/navigating-nightmares/navigating-redundancy
 ---
 
 You Got This started with our first annual event in January 2019. Since then, it's rapidly expanded to six annual events and a programme of written articles completely focused on core skills.

@@ -11,6 +11,8 @@ items:
     - videos/couch/productive-disagreements
     - videos/happy-healthy-communication/changing-your-mind
     - videos/happy-healthy-communication/communicating-and-upholding-boundaries
+    - videos/navigating-nightmares/protecting-yourself-valla
+    - videos/navigating-nightmares/oh-no-tech-bro
 ---
 
 If you find yourself in a job that doesn’t quite feel right, we have your back. A series of talks from across various events will help you to assess the situation, work out your next steps, and either find a resolution or exit gracefully.
