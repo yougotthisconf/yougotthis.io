@@ -1,10 +1,12 @@
 <template>
     <div>
+        <div class="box" v-if="type !== 'article'">{{ doc.descriptions.full }}</div>
+
         <PeopleList :list="people" grid-class="grid-cols-1 gap-4 mb-4" :class="{ 'mt-8': type === 'article' }" />
 
         <section v-if="collections && collections.length > 0">
             <h2>Related collections</h2>
-            <CollectionList :list="collections" grid-class="grid-cols-1 gap-4" />
+            <CollectionList :list="sortedCollections" grid-class="grid-cols-1 gap-4" />
         </section>
         <section v-if="sponsors && sponsors.length > 0">
             <h2>Sponsored by</h2>
@@ -40,6 +42,14 @@ export default {
             type: String,
             required: true,
             validator: (value) => (['article', 'video']).includes(value)
+        }
+    },
+    computed: {
+        sortedCollections() {
+            const data = this.collections
+            const addHighlight = data.map(d => ({ ...d, highlight: d.highlight || 0 }))
+            const sortByHighlight = addHighlight.sort((a, b) => b.highlight - a.highlight)
+            return sortByHighlight
         }
     }
 }
