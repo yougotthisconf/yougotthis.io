@@ -15,7 +15,7 @@ cover: >-
   https://i.vimeocdn.com/video/1538631149-ef64582b2b0d665bd3614b4d74b6a802e5395f124bb51c8a367ea712fc2c7c2b-d
 ---
 
-hanks so much. Hello, everyone. I am Danae. I'm a co-founder and CEO of a company that helps people deal with workplace  nightmares. Today, I'm going to tell you about how to protect yourself when things can turn into a nightmare, at work, or when you think they're turning into a nightmare. This is me. If you have any questions, email me, and I will give you more links soon. 
+Thanks so much. Hello, everyone. I am Danae. I'm a co-founder and CEO of a company that helps people deal with workplace  nightmares. Today, I'm going to tell you about how to protect yourself when things can turn into a nightmare, at work, or when you think they're turning into a nightmare. This is me. If you have any questions, email me, and I will give you more links soon. 
 
 What I will talk you through is a quick mnemonic to protect yourself at work. All you need to know is to remember your lines. Let's quickly talk through what those lines are. So I'm going to give you a little whistle stop tour of these five sections. I will tell you a little bit more about this and about my company and we go through them, so you have a better idea of why these work and how to think about things. 
 
