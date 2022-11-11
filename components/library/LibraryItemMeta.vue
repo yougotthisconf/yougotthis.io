@@ -1,5 +1,7 @@
 <template>
     <div>
+        <div class="box" v-if="type !== 'article'">{{ doc.descriptions.full }}</div>
+
         <PeopleList :list="people" grid-class="grid-cols-1 gap-4 mb-4" :class="{ 'mt-8': type === 'article' }" />
 
         <section v-if="collections && collections.length > 0">
