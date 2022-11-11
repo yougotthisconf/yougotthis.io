@@ -19,6 +19,21 @@ cover: >-
   https://i.vimeocdn.com/video/1349709455-6fd6569e4903465bc0d81cddf6c1885facd88034d693070a71150f7c71bd333b-d
 ---
 
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+There are meaningful negotiations one can engage in their very first steps in the tech career market. Some rules to keep in mind: 
+- Don’t work for free. 
+- In early career, it can be hard to know if what a company's asking you for is unreasonable. Although it's an employer's responsibility to be reasonable in hiring, one still needs to know when things are unreasonable. The best way to go about it is to talk to somebody who has been in the industry for a while.
+- If there's a terrible interview process and if you've got the financial freedom to not get that particular job, just walk out.
+- Ask for more money at the offer stage. If a job is offering you below market rates, ask for at least enough to bridge the gap to market rates for your role and for your geographic area. 
+- Once you start working in the role, don’t wait to start conversations around what you'd like to see in your role. The longer you've been in your role and the more you've had the chance to expand your skills, the more leverage you're going to have in negotiations. 
+- When you're working in a company, the raises you get annually are rarely in line with the rate of growth for market rates. It's financially often better to change jobs every few years than to ask for a raise because you'll get a much bigger bump changing jobs. This implies that if you ask your boss for more money, you're giving them the opportunity to pay you closer to the market rate and thereby retain you.
+- Other requests around negotiation could include the opportunity to work remotely, more flexible hours, better equipment, more vacation time, access to different kinds of projects, and access to different learning opportunities.
+- While early in your career, it might feel like you just need to take your first job, but as your career progresses, it doesn't have to go very far to give you this extra leverage. Not just your time in a specific role, but your time in tech plus skills development gives you more leverage. 
+
+</extra-reading>
+
 So, I'm really excited to be talking to you all about early career negotiation. And I wanted to be as gentle as I can because we want to involve employers that are gonna pay you, but, you know, they're really .. you're really not as powerless as many people early career want you to think you are. And let's go ahead and talk about this a bit. Before we get too far into it. Hi, I'm Jess. Oh, who's this weirdo lady talking to me about negotiation? I've been doing a lot of outreach and mentorship over the last seven or eight years, including about 1,100 individual one-on-one advice calls with folx. So, this is me sort of scaling that out and fussing at you all in a large mass so save myself some calls this month.
 
 And one thing that's really exciting about tech, and one thing that you hear again and again and again is, oh, you know, it's so easy to find work in tech. Oh, gosh, you know, I just have so many recruiters messaging me. Oh, it's .. but that's .. that's not always true. That's true for folx who are a bit more senior. But getting your .. getting early-stage jobs can be especially challenging. And as been highlighted for us, getting your first job in text can be really, really hard. In tech, folx often, recruiters are always .. that's not helpful. And it can be especially difficult for folx who come through less traditional routes to get where you're going. And you may think that a tighter job market for folx early in your career means you've got to take whatever you can get. But I want to lovingly push at you that that's not always true.
