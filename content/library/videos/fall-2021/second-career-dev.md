@@ -22,6 +22,28 @@ cover: >-
   https://i.vimeocdn.com/video/1349709084-53d47510024dde536bac63969d4f8263f9cb0d5a7b0d46662bc1e06c2ca16ae4-d
 ---
 
+<extra-reading title="Summary">
+<!-- There is am empty line required above and below content. -->
+
+Ben transitioned from being a rabbi to a software developer and he believes that the unconventional is increasingly becoming conventional today. More and more people are deciding to change jobs for a variety of reasons: new opportunities, curiosity or economic security. But transitioning is not easy and comes with a special set of challenges, that too when the transition is being made much later in life. Ben makes some suggestions that should be considered from two perspectives.
+
+From the perspective of an individual contributor:
+- Your CV is not a liability. What you did before becoming a developer has intrinsic value that you can bring to the teams you will be joining.
+- Thinking more about what you did and less about the titles you have held can be a really good way to overcome the anomaly of being overqualified and underqualified at the same time.
+- Learn to embrace humility. Recognize that you can bring a lot to the table based on prior life experiences that other people in your team might not necessarily have, while at the same time recognizing that you have quite a bit to learn from everyone else.
+- Don’t be a doormat. Humility and meekness are not synonyms. 
+- Learn applied concepts and fundamentals rather than just focusing on a specific language.
+  
+From the perspective of a manager:
+- Practice servant leadership i.e lift others up
+- A diverse team is a better team. The more experience you bring to the table, the more broad your perspective will be in crafting the projects you're working on. 
+- Ego can be obstructionist. A manager needs to think beyond oneself and be able to create teams across genders, races, ethnicities and ages. 
+- Broaden your hiring pipeline. Make sure it is not exclusivist. 
+
+Ben concludes with a remark, “It is not your duty to finish the work, but neither are you at liberty to neglect it.”
+
+</extra-reading>
+
 Hello, everyone. It is so great to be here presenting at You Got This. I'm such a fan of all these events. And thank you, Kevin, for inviting me to talk. Today, I want to talk a bit about taking different paths. And oftentimes in life there can be multiple paths that one can approach, and some of those paths are more trodden than other paths, and I think the path I've taken a bit in my professional life might be seen as a bit of less travelled. So, I started my professional career as a Rabbi, a congressional leader both in synagogues and on university campuses. I did that for about a decade throughout the United States. And about five years ago, I decided to pivot my career and I became a software developer. I went to a boot camp, did the whole boot camp process, and found my first job. Since then have had a couple of roles in different software companies.
 
 And I say that my path feels a bit unconventional, but I actually think if we take a moment to really think about the trends today, the path that I went on from one career to another career happened to be from Rabbi to developer. It could be anything. It's becoming increasingly more conventional. More and more people, especially as second careers, a bit older in life, are deciding to change jobs. And they're doing that for a variety of reasons. And it's happening a lot. And, in fact, the pandemic itself, this past period of time, has in many ways ask set rated this process. Last month, Harvard Business Review put out a study that showed somewhere between 20% increase from 2020 to now people in the ages of 30 to 45 resigning from their careers. Not only that, people in that age bracket, which captures my age brackets, are the greatest age of resignation among any age bracket, people who are switching careers. It's a huge sector. People are doing it maybe because they're looking for something new. I switched into software because it provided me with curiosity, a chance to build something, to exercise a part of my brain I wasn't really exercising before, and a lot of people are in that process.
