@@ -22,17 +22,13 @@ cover: >-
 <!-- There is am empty line required above and below content. -->
 
 Nathaniel states that there are four things one needs to understand:
-- Why does one always want to say yes? <br>
-Our culture and our society have conditioned us to say yes. When we're congruent with others, we feel comfortable and in the flow. Saying yes opens possibilities to collaborate, to build together with other people, and to further discussion. However, saying yes to everything can be really taxing. 
+- Why does one always want to say yes? <br> Our culture and our society have conditioned us to say yes. When we're congruent with others, we feel comfortable and in the flow. Saying yes opens possibilities to collaborate, to build together with other people, and to further discussion. However, saying yes to everything can be really taxing. 
 
-- Why should one say no? <br>
-Firstly, saying no really helps you free up your time. You now have more time to pay attention to the things that matter to you. Secondly, people realise that your time is much more valuable, so they often come to you with asks that are going to benefit or align closely with the things you're already moving towards.
+- Why should one say no? <br> Firstly, saying no really helps you free up your time. You now have more time to pay attention to the things that matter to you. Secondly, people realise that your time is much more valuable, so they often come to you with asks that are going to benefit or align closely with the things you're already moving towards.
 
-- How does one know when to say yes or no? <br>
-Use the question words: when, where, what, who, and why to gather more information. Analyze the task on a Growth Share Matrix with the effort required on one axis and the impact generated on the other axis. Since our availability, stress levels, and the way we value opportunities are always in flux, that matrix may always be changing.
+- How does one know when to say yes or no? <br> Use the question words: when, where, what, who, and why to gather more information. Analyze the task on a Growth Share Matrix with the effort required on one axis and the impact generated on the other axis. Since our availability, stress levels, and the way we value opportunities are always in flux, that matrix may always be changing.
 
-- How to say no? <br>
-Be polite and thank them for asking you. But at the same time, be firm. Make sure that that person leaves with the understanding that you have said no. Take ownership of your decision. If an opportunity isn't right for you, there might be someone else from an underrepresented background to whom yo can pass this on to.
+- How to say no? <br> Be polite and thank them for asking you. But at the same time, be firm. Make sure that that person leaves with the understanding that you have said no. Take ownership of your decision. If an opportunity isn't right for you, there might be someone else from an underrepresented background to whom yo can pass this on to.
 
 There will be many requests coming your way from work, friends, and family, and with all of that noise, it can be easy to overlook one of the most important set of requests i.e. requests that come from within. Sometimes, the best thing that you can do is to drown out the noise and say yes to your dreams, your hopes, and your visions.
 
