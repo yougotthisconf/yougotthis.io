@@ -41,6 +41,6 @@ notion.databases.query({
 </event-session>`)
     }
 
-    fs.writeFileSync(`utils/tmp/${time}.txt`, toWrite.join('\n'))
+    fs.writeFileSync(`utils/tmp/notion-generate-schedule-${time}.txt`, toWrite.join('\n'))
   }
 })
