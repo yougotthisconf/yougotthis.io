@@ -125,8 +125,10 @@ This event is long - we don't expect you to stay for all of it. Prioritize self-
 </event-session>
 
 <event-session 
-  title="Talk"
-  start="2023-01-14T20:10:00.000+00:00">
+  title="Adapting to Ever-Evolving Language"
+  start="2023-01-14T20:10:00.000+00:00"
+  :speakers='["mia-moore"]'
+  description="Respect and inclusion are key to a collaborative, healthy work environment, and that’s made harder by the fact that language, especially around gender and sexuality, evolves so quickly. In this talk, we’ll go through some examples of more gender-inclusive language, methods for practicing, and strategies for rolling with the punches when we make mistakes. By the end of the talk, you’ll feel confident in navigating the changing language around gender and sexuality.">
 </event-session>
 
 <event-session 
@@ -199,6 +201,12 @@ This event is long - we don't expect you to stay for all of it. Prioritize self-
 </event-session>
 
 <event-session 
+  title="Highlights From The You Got This Library"
+  description="We'll be playing back some of our all-time favorite talks from previous events."
+  start="2023-01-15T04:00:00.000+00:00">
+</event-session>
+
+<event-session 
   title="Welcome Back To You Got This Broadcasting Service"
   start="2023-01-15T05:00:00.000+00:00">
 </event-session>
@@ -237,8 +245,8 @@ This event is long - we don't expect you to stay for all of it. Prioritize self-
 </event-session>
 
 <event-session 
-  title="Long Break"
-  start="2023-01-15T07:40:00.000+00:00">
+  title="Break"
+  start="2023-01-15T08:20:00.000+00:00">
 </event-session>
 
 <event-session 
