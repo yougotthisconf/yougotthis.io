@@ -1,5 +1,5 @@
 ---
-title: Rizel Scarlett
+title: Rizèl Scarlett
 pronouns: she/her
 avatar: avatar.jpeg
 twitter: blackgirlbytes
