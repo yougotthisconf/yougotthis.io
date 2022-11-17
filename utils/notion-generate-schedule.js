@@ -30,7 +30,7 @@ notion.databases.query({
 <event-session 
   title="${session.title}"
   start="${session.start}" 
-  speakers='${JSON.stringify(session.speakers)}'
+  :speakers='${JSON.stringify(session.speakers)}'
   description="${session.description}">
 </event-session>`)
     } else {
