@@ -11,9 +11,10 @@
                 <a v-if="event.link" :href="event.link.url" class="button bright link">{{ event.link.text }}</a>
             </div>
 
-            <div class="sponsors">
+            <div class="sponsors mb-8">
                 <h2 v-if="sponsors.length > 0">Sponsored by</h2>
-                <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mb-8 mt-2" />
+                <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mt-2" />
+                <a v-if="event.sponsorship" :href="event.sponsorship.url" class="underline block mt-2">{{ event.sponsorship.text }}</a>
             </div>
 
 
