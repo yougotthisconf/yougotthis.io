@@ -7,7 +7,7 @@ start: 2023-01-14T10:00:00Z
 end: 2023-01-15T12:00:00Z
 cover: broadcasting-service.png
 link:
-    url: '#'
+    url: 'https://lu.ma/ygt-bs'
     text: 'Get a free ticket'
 sponsors:
     - 20i
