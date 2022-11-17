@@ -5,4 +5,4 @@ avatar: avatar.jpg
 twitter: wiredferret
 ---
 
-Heidi Waterhouse is a developer advocate at LaunchDarkly. When she's not trying to make CI/CD happen, she teaches inclusive sex-ed, sews, and raises two kids with her wife.
+Heidi delights in working at the intersection of usability, risk reduction, and cutting-edge technology. One of her favorite hobbies is talking to developers about things they already knew but had never thought of that way before. She sews all her presentation shirts so they match the pajama pants
