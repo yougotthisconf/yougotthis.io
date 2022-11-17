@@ -1,6 +1,6 @@
 ---
 title: Taryn Musgrave
-pronouns: she/they & he/him
+pronouns: she/they
 avatar: avatar.jpg
 ---
 
