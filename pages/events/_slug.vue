@@ -35,7 +35,12 @@ export default {
         if(event.url) redirect(event.url);
 
         const sponsors = event.sponsors ? await $content('sponsors', { deep: true }).where({dir: {'$in': event.sponsors.map(s => `/sponsors/${s}`)}}).fetch() : []
-        return { event, sponsors }
+
+        let people = event.people ? await $content('people', { deep: true }).where({dir: {'$in': event.people.map(p => `/people/${p}`)}}).fetch() : []
+        people = people.map(p => ({...p, slug: p.dir.split('/')[2]}))
+        people = people.reduce((acc, curr) => { acc[curr.slug] = curr; return acc; }, {})
+
+        return { event: { ...event, people }, sponsors }
     },
     head() {
         return headFactory({

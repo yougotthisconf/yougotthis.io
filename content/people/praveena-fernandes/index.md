@@ -1,6 +1,7 @@
 ---
 title: Praveena Fernandes
 pronouns: she/her
+twitter: praveenasekhar
 avatar: avatar.jpg
 ---
 

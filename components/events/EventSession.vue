@@ -1,12 +1,12 @@
 <template>
     <div class="box !p-0 not-prose">
         <div class="top">
-            <div v-if="people.length > 0" class="img">
-                <img v-for="person in people" :key="person.dir" :src="`${person.dir}/${person.avatar}`" :alt="person.title">
+            <div v-if="speakers.length > 0" class="img">
+                <img v-for="person in speakers" :key="person.dir" :src="`${person.dir}/${person.avatar}`" :alt="person.title">
             </div>
             <div class="meta">
                 <h2 class="font-normal">{{ title }}</h2>
-                <span v-if="people.length > 0" class="mr-2" >{{ people.map(p => p.title).join(', ') }}</span>
+                <span v-if="speakers.length > 0" class="mr-2" >{{ speakers.map(p => p.title).join(', ') }}</span>
                 <span v-if="start">
                     {{ $moment.utc(start).local().format('HH:mm') }}
                     {{ $moment.tz.guess(true).split('/')[1].split('_').join(' ') }}
@@ -17,8 +17,8 @@
             <p v-if="description" class="description">{{ description }}</p>
             <slot />
         </div>
-        <div v-if="people.length > 0" class="people">
-            <details v-for="person in people" :key="person.dir">
+        <div v-if="speakers.length > 0" class="people">
+            <details v-for="person in speakers" :key="person.dir">
                 <summary>
                     <span>About {{ person.title }}</span>
                     <span v-if="person.pronouns">({{ person.pronouns }})</span>
@@ -53,19 +53,9 @@ export default {
             default: () => []
         },
     },
-    data() {
-        return {
-            people: []
-        }
-    },
     computed: {
         time() {
             return new Date(this.start)
-        }
-    },
-    async created() {
-        if(this.speakers.length > 0) {
-            this.people = await this.$content('people', { deep: true }).where({dir: {'$in': this.speakers.map(p => `/people/${p}`)}}).fetch()
         }
     }
 }
