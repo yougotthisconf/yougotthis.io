@@ -69,10 +69,16 @@ h2 {
         @apply !font-normal !font-heading;
     }
     & blockquote {
-        @apply text-xl md:text-3xl;
+        @apply text-xl;
         border-left-color: var(--theme-main);
         & p {
-            @apply !text-theme-main font-heading;
+            @apply !text-theme-main font-heading !mt-0;
+            & em, & strong {
+                @apply !text-theme-main;
+            }
+            & strong {
+                @apply underline font-normal;
+            }
         }
     }
     & img {
