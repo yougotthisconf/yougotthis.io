@@ -1,7 +1,7 @@
 ---
 title: Understanding And Building Reptuation
 type: article
-date: 2022-11-25T00:00:00.000Z
+date: 2022-12-02T00:00:00.000Z
 people:
   - michael-heap
 descriptions:
