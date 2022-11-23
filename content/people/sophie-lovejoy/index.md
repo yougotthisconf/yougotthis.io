@@ -1,7 +1,6 @@
 ---
 title: Sophie Lovejoy
 pronouns: she/her
-twitter: S0ph1eL
 avatar: avatar.jpeg
 ---
 
