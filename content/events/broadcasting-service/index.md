@@ -80,7 +80,7 @@ This event is long - we don't expect you to stay for all of it. Prioritize self-
   title="A Guide To Red Flags In Early Career Roles"
   start="2023-01-14T12:00:00.000+00:00" 
   :speakers='[people["james-seconde"]]'
-  description="Your first role in tech is improtant, and you want to be somewhere supportive that can help you grow as a developer. In this talk, we'll point out some signs to look out for that could mean an employer who is not actually supportive - hopefully saving you from a negative experience.">
+  description="Your first role in tech is important, and you want to be somewhere supportive that can help you grow as a developer. In this talk, we'll point out some signs to look out for that could mean an employer who is not actually supportive - hopefully saving you from a negative experience.">
 </event-session>
  
 <event-session 
