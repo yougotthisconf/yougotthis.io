@@ -42,7 +42,7 @@ Talks will be recorded and live captions provided by White Coat Captioning.
   title="Atomic Notes: A 'Modern' Approach To Notetaking"
   start="2022-12-15T18:45:00Z" 
   :speakers='[people["ben-hong"]]'
-  description="Ever take the time to write a detailed note, only to misplace it later on? Or how about investing hours into a note-taking system only to realize that while it worked really well at first, it didn't scale when it came to what you needed in reality. We'll talk about what is broken about traditional note-taking methodologies and software, and look forward to what's possible with the new tools and methodologies">
+  description="Ever take the time to write a detailed note, only to misplace it later on? Or how about investing hours into a note-taking system only to realize that while it worked really well at first, it didn't scale when it came to what you needed in reality. We'll talk about what is broken about traditional note-taking methodologies and software, and look forward to what's possible with the new tools and methodologies.">
 </event-session>
 
 <!-- SPONSOR: Remote -->
