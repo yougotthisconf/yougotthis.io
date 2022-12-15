@@ -15,8 +15,8 @@ people:
   - ben-hong
   - sophie-lovejoy
 link:
-  text: Get free tickets
-  url: 'https://lu.ma/ygt-winter-2022'
+  text: Watch live now
+  url: 'https://live.yougotthis.io'
 ---
 
 Talks will be recorded and live captions provided by White Coat Captioning.
