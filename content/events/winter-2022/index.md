@@ -1,4 +1,6 @@
 ---
+past: true
+url: /collections/winter-2022
 title: 'You Got This Through the Seasons: Winter 2022'
 description: Join us for topics including knowledge management, equity, and how nature benefits wellbeing.
 type: Meetup
