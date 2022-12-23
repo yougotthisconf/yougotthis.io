@@ -7,6 +7,7 @@ cover: winter.jpg
 items:
     - videos/winter-2022/understanding-equity
     - videos/winter-2022/getting-outside
+    - videos/2020/not-your-job-to-love-job
 sponsors:
     - balsamiq
     - remote
