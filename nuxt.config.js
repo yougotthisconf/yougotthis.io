@@ -17,6 +17,7 @@ export default {
     '~/components/people',
     '~/components/newsletter',
     '~/components/merch',
+    '~/components/social-cards',
   ],
   head: {
     htmlAttrs: { lang: 'en' },
@@ -53,6 +54,7 @@ export default {
   ],
   plugins: [
     { src: '~/plugins/simple-analytics.js', mode: 'client' },
+    { src: '~/plugins/html2canvas.js', mode: 'client' },
   ],
   generate: {
     async routes() {
