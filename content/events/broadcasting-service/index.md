@@ -47,7 +47,7 @@ people:
     - amber-shand
 sponsorship: 
     text: See sponsorship information
-    url: /sponsors/info/conf
+    url: /sponsors/info/broadcasting-service
 ---
 
 This event is long - we don't expect you to stay for all of it. Prioritize self-care over watching live. Talks will be recorded and live captions provided by White Coat Captioning.

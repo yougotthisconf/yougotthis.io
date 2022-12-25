@@ -11,7 +11,7 @@ import headFactory from '@/utils/head-factory'
 
 export default {
   async asyncData({ $content }) {
-    const page = await $content('static/sponsor-conf').fetch()
+    const page = await $content('static/sponsor-conf-broadcasting-service').fetch()
     return { page }
   },
   head() {

@@ -6,54 +6,75 @@ You Got This! is a learning hub focused on core skills needed for a happy and he
 
 It is incredibly important to us that speakers and writers are paid for their time, and that all events are accessible, and that increases our running costs. That's where you come in!
 
-## Sponsorship Opportunities
+## Events
 
-### Sponsor Seasonal Meetups
+<extra-reading title="Sponsor Quarterly Seasonal Meetups (March, July, Sept, Dec)">
 
-Our seasonal events are quarterly online meetups which typically have 150-200 attendees and have 7 10-minute talks with questions. We take up to 4 sponsors per event.
+Our seasonal events are quarterly online meetups which typically have 150-200 attendees and have a number of 15-minute talks with questions. We take up to 4 sponsors per event.
 
 Meetup sponsorship is £500 per event or £1750 for 4 if paid upfront. It includes:
 - Your logo on event webpage, on the livestream, and library pages.
 - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
 - 3 Tweets of thanks.
 
-_Note: all 2022 seasonal meetup slots are sold._
+2023 dates are March 15, July 12, September 13, and December 13.
 
-### Sponsor Annual Special Meetup
+</extra-reading>
 
-Our annual 'special' online meetup focuses on a single theme throughout. It expects 200 attendees and will have 5 15-minute talks with questions. We take up to 4 sponsors per event.
+<extra-reading title="Sponsor Fearless Freelancing Event (June)" class="mt-4">
 
-2022's special event is [Navigating Nightmares](/events/navigating-nightmares) on October 31.
+A special one-off online meetup focused on core skills related to freelancing with an expected 250 attendees.
 
 Meetup sponsorship is £500. It includes:
 - Your logo on event webpage, on the livestream, and library pages.
 - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
 - 3 Tweets of thanks.
 
-### Sponsor Annual Conference
+It will take place on International Freelancers' Day - June 15.
 
-Our annual January conference is our flagship event. All content is made available for free after the event.
+</extra-reading>
 
-Sponsor You Got This Broadcasting Service is taking place January 14-15 2023. We expect 1500-1700 attendees. [Find out more about conference sponsorship](/sponsors/info/conf).
+<extra-reading title="Sponsor Now That's What I Call You Got This Conference (Aug)" class="mt-4">
 
-### Sponsor Articles
+This is a special one-off online conference with an expected 1000 attendees. 
 
-You Got This has historically only provided video content in the talk library. From Q3 2022 we will be releasing written content - starting at a cadence of one post every two weeks. All articles will be related to core skills.
+We will be curating the best pieces of content from our content library and broadcasting them live. We will also have interviews with several article authors.
 
-Each 3 month period will be sold as a single sponsorship block. As we don't yet know what our viewership will look like, we are significantly discounting sponsorship for the first two quarters.
+Event sponsorship has two tiers.
+
+At £500, sponsorship includes:
+- Your logo on event webpage, and on the livestream.
+- A 5 minute live or pre-recorded talk to be shared as part of the livestream.
+- 3 Tweets of thanks.
+
+At £1500, sponsorship additionally includes:
+- A live speaking slot.
+- Co-branding the conference "presented by ACME Inc" or similar.
+
+It will take place on August 12.
+
+</extra-reading>
+
+<extra-reading title="Sponsor You Got This Around the World Conference (Jan 2024)" class="mt-4">
+
+Our flagship annual conference on January 13 2024 marks both our return to in-person, and an experimental hybrid/distributed format. 
+
+Four simultaneous events will take place in London, New York City, San Francisco, and Remote, each physical event at 10:00-18:00 local. At any point in time, only one speaker will be live in each of the three locations (or fully-remotely). Each event will either be hosting the live speaker, or act as a watch party. We will develop a common layer for networking, socialising, and engaging with sponsors. 
+
+This event is still in the works, but if you want to support it financially or with space to host, please get in touch. Each physical event will be 100-150 people.
+
+</extra-reading>
+
+## Articles
+<extra-reading title="Sponsor a Block of Articles">
+
+We publish new core skills articles every two weeks to accompany our video-heavy content library. Each 3 month period is sold as a single sponsorship block. Each article gets approximately 800 views over the first 30-day period.
 
 Article sponsorship is £2500 per quarter. It includes:
-- Customized call-to-actions will be present at the top, middle, and end of each post you sponsor. Get in touch if you want more information about this.
+- Customized call-to-actions will be present at the top, middle, and end of each post you sponsor. [You can see an example here.](/library/managers-guide-to-okrs)
 - 3 Tweets of thanks.
-## Inclusion
 
-We'll keep this brief. It's important that as many people as possible have access to our initiatives. To aid that, we:
-
-- Pay all speakers and authors.
-- Have a live captioner at all events.
-- Publish videos swiftly with transcripts and closed captions.
-- Have an inclusion programme whenever we have paid activities which awards free tickets to those who would be otherwise unable to attend.
-- Enforce a Code of Conduct in all community spaces we operate.
+</extra-reading>
 
 ## Audience
 
