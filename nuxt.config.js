@@ -60,7 +60,11 @@ export default {
     async routes() {
       const { $content } = require('@nuxt/content') // eslint-disable-line
       const items = await $content('events', { deep: true }).fetch();
-      return items.map(i => i.dir)
+      const events = items.map(i => i.dir)
+      const socials = events.map(i => i + '/social')
+      const routes = [...events, ...socials]
+      console.log(routes)
+      return routes
     }
   },
   moment: {
