@@ -17,7 +17,7 @@ Meetup sponsorship is £500 per event or £1750 for 4 if paid upfront. It includ
 - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
 - 3 Tweets of thanks.
 
-2023 dates are March 15, July 12, September 13, and December 13.
+2023 dates are March 15, July 12, September 27, and December 13.
 
 </extra-reading>
 
@@ -51,7 +51,7 @@ At £1500, sponsorship additionally includes:
 - A live speaking slot.
 - Co-branding the conference "presented by ACME Inc" or similar.
 
-It will take place on August 12.
+It will take place on August 26.
 
 </extra-reading>
 

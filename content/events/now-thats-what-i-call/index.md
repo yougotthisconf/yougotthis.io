@@ -4,7 +4,7 @@ title: "Now That's What I Call You Got This!"
 description: 'A community event highlighting the best of You Got This core skills library.'
 type: Conference
 location: Online
-start: 2023-08-12T18:00:00
+start: 2023-08-26T18:00:00
 cover: now.jpg
 ---
 
