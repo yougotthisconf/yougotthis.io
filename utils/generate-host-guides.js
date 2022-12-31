@@ -78,8 +78,7 @@ notion.databases.query({
     // console.log(s.times, s.tz)
     content += `
 ## ${s.title}
-Start: ${time.start.str} ${time.label}
-`
+Start: ${time.start.str} ${time.label}<br>`
 if(s.talk) {
   content += `Host: ${s.host}
 
