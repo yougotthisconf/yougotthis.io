@@ -55,7 +55,7 @@ It will take place on August 26.
 
 </extra-reading>
 
-<extra-reading title="Sponsor You Got This Around the World Conference (Jan 2024)" class="mt-4">
+<extra-reading title="Sponsor the All Aboard You Got This Conference (Jan 2024)" class="mt-4">
 
 Our flagship annual conference on January 13 2024 marks both our return to in-person, and an experimental hybrid/distributed format. 
 

@@ -1,7 +1,7 @@
 ---
 save_the_date: true
 title: "Now That's What I Call You Got This!"
-description: 'A community event highlighting the best of You Got This core skills library.'
+description: 'A community event highlighting the best of the You Got This core skills library.'
 type: Conference
 location: Online
 start: 2023-08-26T18:00:00
