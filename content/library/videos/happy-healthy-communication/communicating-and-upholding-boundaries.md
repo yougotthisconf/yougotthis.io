@@ -6,6 +6,7 @@ people:
 descriptions:
   short: How to tell people they've crossed the line and that they won't be doing it again.
   full: "'No' is a complete sentence and it's often a difficult word to say, and as a result, we sometimes end up with situations, environments, tasks, and treatment we don't want. Setting boundaries helps us to understand and establish our limits and are essential for our health, but they are useless if we don't communicate and enforce them. This talk will take you through how to let someone know they have crossed the line, how to tell them it won't be happening again, and deciding in advance how you will uphold your boundary if they are crossed."
+type: video
 vimeo: 740526849
 duration: 17
 cover: 'https://i.vimeocdn.com/video/1490111156-1f314f5f1c8d36e1883c39594575c9c27930b5ad2acb9451a5a6bb4dfc76c553-d'

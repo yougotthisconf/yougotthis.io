@@ -13,6 +13,7 @@ descriptions:
       underlying objective, the realities of recruitment, and help you to feel
       confident making your own decisions about what to include and how to
       present it, and how to tailor it to specific roles.
+type: video
 vimeo: 666603964
 duration: 47
 cover: >-

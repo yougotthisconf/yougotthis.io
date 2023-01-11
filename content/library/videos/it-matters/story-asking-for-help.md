@@ -14,6 +14,7 @@ descriptions:
       been consulted. Asking for help can be incredibly difficult. I know,
       because I’ve been there. It is also vital to self-improvement. So how do
       you learn to reach out and get the support you need?
+type: video
 vimeo: 666613662
 duration: 43
 cover: >-

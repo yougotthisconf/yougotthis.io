@@ -9,6 +9,7 @@ descriptions:
     If work has started to feel like a bad horror film, you're not powerless.
     Danae will cover a simple 5-step process to help you protect yourself at
     work if something scary is happening.
+type: video
 vimeo: 766003818
 duration: 15
 cover: >-

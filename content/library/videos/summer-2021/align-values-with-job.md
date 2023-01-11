@@ -15,6 +15,7 @@ descriptions:
       will learn how to recognize our own values and take them to our workplace
       (and step up when we don't find them) to achieve a greater commitment and
       satisfaction in our careers.
+type: video
 vimeo: 666547287
 duration: 25
 cover: >-

@@ -15,6 +15,7 @@ descriptions:
       most vulnerable people out of essential services, fun activities and vital
       information, and what you can do to help make the web a more accessible
       place for all.
+type: video
 vimeo: 666554661
 duration: 19
 cover: >-

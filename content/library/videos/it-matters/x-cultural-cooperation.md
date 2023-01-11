@@ -13,6 +13,7 @@ descriptions:
       teams. Moreover, it helps to comprehend how the Western culture workplace
       might be perceived by Asian or African partners – a switch of perspectives
       is a game-changer for successful cross-cultural teamwork.
+type: video
 vimeo: 666609431
 duration: 34
 cover: >-

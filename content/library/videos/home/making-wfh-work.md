@@ -14,6 +14,7 @@ descriptions:
       Whether you love working remotely or you were voluntold to work remotely,
       this is the session for you. Come discover tips and tricks to being a
       successful remote employee from a ten-year remote work veteran.
+type: video
 vimeo: 670236600
 duration: 28
 cover: >-

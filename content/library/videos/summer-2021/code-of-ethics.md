@@ -17,6 +17,7 @@ descriptions:
       thinks codes of ethics are for losers? What if I work in the
       military/security/etc. domain? How is this code different from all the
       other codes out there? What happens if I break the Code of Ethics?
+type: video
 vimeo: 666548380
 duration: 28
 cover: >-

@@ -13,6 +13,7 @@ descriptions:
     marginalised groups in mind, it is not limited to a specific audience - it
     provides guidance that can apply to a range of positions across the tech
     industry, including (and importantly!) those with executive power.
+type: video
 vimeo: 766003820
 duration: 16
 cover: >-

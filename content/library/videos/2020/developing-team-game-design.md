@@ -14,6 +14,7 @@ descriptions:
       you can introduce to support personal development and how developers
       should be using opportunities like these to get a better understanding of
       what skills they should focus on.
+type: video
 vimeo: 670332877
 duration: 27
 cover: >-

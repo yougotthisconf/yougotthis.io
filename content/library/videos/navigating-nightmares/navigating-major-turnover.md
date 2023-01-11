@@ -14,6 +14,7 @@ descriptions:
     Learn from Benjamin’s experience surviving a major period of turnover. He’ll
     share lessons and strategies that you can use anytime your team loses
     members quickly.
+type: video
 vimeo: 766003824
 duration: 25
 cover: >-

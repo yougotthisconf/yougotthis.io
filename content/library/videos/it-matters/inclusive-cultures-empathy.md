@@ -20,6 +20,7 @@ descriptions:
       help put you in the correct mindset for inclusion; and break down the
       model that operationalizes engaging empathy in a way that supports diverse
       teams.
+type: video
 vimeo: 666606859
 duration: 43
 cover: >-

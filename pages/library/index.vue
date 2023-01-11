@@ -2,10 +2,16 @@
     <div>
         <div class="wrapper pt-16 mb-16">
             <h1 class="heading text-center">Library</h1>
-            <div class="filters">
+            <div class="filters flex justify-center gap-4">
                 <div class="search">
                     <input v-model="query" type="text" placeholder="Type to filter" class="text-input">
                 </div>
+                 <select v-model="type" class="block rounded-md border-theme-main py-2 pl-3 pr-10 focus:border-theme-main focus:outline-none focus:ring-theme-main sm:text-sm">
+                    <option :value="false">Articles & Videos</option>
+                    <option value="video">Videos Only</option>
+                    <option value="article">Articles Only</option>
+                </select>
+
             </div>
 
             <ContentList :list="aboveFold" class="mt-8" />
@@ -56,7 +62,8 @@ export default {
     },
     data() {
         return {
-            query: ''
+            query: '',
+            type: false,
         }
     },
     head() {
@@ -67,7 +74,10 @@ export default {
     },
     computed: {
         search() {
-            const l = this.content
+            let l = this.content
+            if(this.type) {
+                l = l.filter(m => m.type === this.type)
+            }
             if(this.query) {
                 const q = this.query.toLowerCase()
                 const results = []
@@ -93,21 +103,31 @@ export default {
             params.toString()
             window.history.replaceState({}, '', `${location.pathname}?${params.toString()}`)
         },
+        'type'(type) {
+            const params = new URLSearchParams(location.search)
+            params.set('type', type)
+            params.toString()
+            window.history.replaceState({}, '', `${location.pathname}?${params.toString()}`)
+        },
     },
     created() {
         if (this.$route.query.query) this.query = this.$route.query.query
+        if (this.$route.query.type) this.type = this.$route.query.type !== 'false'
+        console.log(this.type)
         console.log(`${this.content.length} items loaded`) // eslint-disable-line no-console
     },
 }
 </script>
 
 <style scoped>
-.search {
-    @apply flex justify-center mt-4;
+.filters {
+    @apply flex flex-col md:flex-row mt-4;
     & input {
         @apply w-full;
-        @apply md:w-64;
         @apply text-theme-black;
+    }
+    & select {
+        @apply outline-pink-500;
     }
 }
 .no-results {

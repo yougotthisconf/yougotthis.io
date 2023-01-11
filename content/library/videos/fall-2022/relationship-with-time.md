@@ -13,6 +13,7 @@ descriptions:
     but while you do have life on this earth, time is what you have. Let’s talk
     about some tools for identifying what you can (and can’t!) change about your
     day, and take a little bit of time to reexamine your relationship with time.
+type: video
 vimeo: 750986729
 duration: 12
 cover: >-

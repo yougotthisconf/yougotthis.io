@@ -19,6 +19,7 @@ descriptions:
     unsuccessful) side projects through the years. This talk is for folks who
     have ADHD, suspect they might have ADHD, or are just interested in how
     different people think and achieve the things they do.
+type: video
 vimeo: 750986716
 duration: 13
 cover: >-

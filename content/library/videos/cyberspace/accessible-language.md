@@ -12,6 +12,7 @@ descriptions:
       make documents, emails, web content, and social media posts more
       accessible. This approach to writing has benefits for most readers and can
       help you improve your communication with others.
+type: video
 vimeo: 666501764
 duration: 43
 cover: >-

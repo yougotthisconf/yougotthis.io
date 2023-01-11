@@ -50,7 +50,6 @@ export default {
     const allSponsors = await $content('sponsors', { deep: true }).fetch()
 
     let items = fullLibrary.filter(libItem => collection.items.find(colItem => libItem.path.includes(colItem)))
-    items = items.map(item => ({ ...item, type: item.vimeo ? 'video' : 'article'}))
     items = items.map(item => {
         let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
         profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))

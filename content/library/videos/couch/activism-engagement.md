@@ -15,6 +15,7 @@ descriptions:
       gentle observers comment, but what happened? How did we get here? And more
       importantly, how can we avoid returning here when the inevitable happens
       again?
+type: video
 vimeo: 666555518
 duration: 16
 cover: >-

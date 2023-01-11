@@ -16,6 +16,7 @@ descriptions:
     can apply elements of platform thinking to your everyday projects. This talk
     is for anyone keen to develop their leadership skills at work or grow their
     side project, adding another string to their bow.
+type: video
 vimeo: 718704953
 duration: 21
 cover: >-

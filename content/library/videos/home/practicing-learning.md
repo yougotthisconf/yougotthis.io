@@ -12,6 +12,7 @@ descriptions:
       stressful and more enjoyable! This talk discusses what learning is, how to
       find your own ways of doing it and how to set goals for your studies and
       progress.
+type: video
 vimeo: 670228818
 duration: 35
 cover: >-

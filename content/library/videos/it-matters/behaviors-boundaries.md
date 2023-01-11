@@ -17,6 +17,7 @@ descriptions:
       how to recognise patterns in your own behaviour, communicate your needs
       and boundaries, and help you understand the feelings you may have when
       trying to change these patterns.
+type: video
 vimeo: 666608454
 duration: 32
 cover: >-

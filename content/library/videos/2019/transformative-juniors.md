@@ -11,6 +11,7 @@ descriptions:
       practical, easy-to-implement insights which will not only help you support
       your new developers’ success and growth, but enhance your team’s progress
       as a whole, making it a more fun and productive place to work.
+type: video
 vimeo: 666701823
 duration: 27
 cover: >-

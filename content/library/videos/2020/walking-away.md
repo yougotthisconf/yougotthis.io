@@ -8,6 +8,7 @@ descriptions:
       What to do when your best job becomes your worse job.
   full: >-
       In this talk we will take an honest look at what happens when your new job becomes your worst job. Including tools to help you recognize the signs of this happening & what you can do to establish your own boundaries & rules about when to walk away.
+type: video
 vimeo: 670366418
 duration: 26
 cover: >-

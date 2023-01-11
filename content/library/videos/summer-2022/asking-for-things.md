@@ -15,6 +15,7 @@ descriptions:
     DMs with 'hey.' In this talk you'll learn how to get better results from
     your asks by rethinking the nature of relationships and following the three
     Rs of asking for things: Recognition, Request, and Reward.
+type: video
 vimeo: 718705510
 duration: 20
 cover: >-

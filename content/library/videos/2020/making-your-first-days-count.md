@@ -10,6 +10,7 @@ descriptions:
       The first few months can be daunting and it is easy to feel like you don’t
       belong. In this talk, we look at some useful strategies to help you
       navigate your rookie year.
+type: video
 vimeo: 670352493
 duration: 22
 cover: >-

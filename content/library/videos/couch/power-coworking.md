@@ -13,6 +13,7 @@ descriptions:
       use co-working as a productivity tool, or even set up and run your own
       co-working sessions using a framework I developed in London during
       lockdown and has since been adopted in the USA.
+type: video
 vimeo: 666602428
 duration: 24
 cover: >-

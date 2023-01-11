@@ -13,6 +13,7 @@ descriptions:
       there are ways you can overcome it. In this talk we'll dive into different
       methods to identify its onset, how to stop it from becoming overwhelming,
       and the practical ways you can lift yourself up out of that funk.
+type: video
 vimeo: 666498248
 duration: 30
 cover: >-

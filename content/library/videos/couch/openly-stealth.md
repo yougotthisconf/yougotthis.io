@@ -20,6 +20,7 @@ descriptions:
       go through the experience of landing a new job as a transgender person,
       and ways to keep mental peace while doing so, as well as celebrate and
       showcase the importance of diversity in the workplace.
+type: video
 vimeo: 666598181
 duration: 23
 cover: >-

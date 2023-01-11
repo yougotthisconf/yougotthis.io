@@ -15,6 +15,7 @@ descriptions:
     several start-stop-maybe-start-again cycles. In this talk, we'll uncover
     ways to efficiently recognize self-sabotage, and strategies to consistently
     overcome it.
+type: video
 vimeo: 718705391
 duration: 11
 cover: >-

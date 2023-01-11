@@ -11,6 +11,7 @@ descriptions:
       but as you progress it may not make sense to continue doing the same. In
       this talk, we will discuss how and when to balance these priorities so you
       can have a happier and healthier relationship with spending money.
+type: video
 vimeo: 666510351
 duration: 22
 cover: >-

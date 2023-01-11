@@ -11,6 +11,7 @@ descriptions:
       increase inclusion for these developers? A lot! In her talk, Franziska
       shares her perspective as a person living with chronic illnesses and gives
       concrete tips.
+type: video
 vimeo: 666604949
 duration: 28
 cover: >-

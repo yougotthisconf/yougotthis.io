@@ -10,6 +10,7 @@ descriptions:
     rewarding. In this talk, we will cover how to use your networks, borrow
     techniques from professional services, and how to keep cool when things go
     wrong.
+type: video
 vimeo: 766003814
 duration: 14
 cover: >-

@@ -15,6 +15,7 @@ descriptions:
       mental and tangible shift between the two roles as smooth as possible.
       This talk will be useful both for new managers and for those thinking of
       making the move.
+type: video
 vimeo: 666590196
 duration: 25
 cover: >-

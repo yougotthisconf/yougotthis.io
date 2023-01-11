@@ -22,6 +22,7 @@ descriptions:
       scientific approach has to say regarding such labels. I hope that after
       this talk you would be able to use the tests, quizzes and all other
       questionnaires with greater benefit to yourself and…those around you.
+type: video
 vimeo: 666610794
 duration: 35
 cover: >-

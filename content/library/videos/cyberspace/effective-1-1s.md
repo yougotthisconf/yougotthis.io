@@ -11,6 +11,7 @@ descriptions:
       feedback. Used effectively, 1-1s help you. However, many managers and
       reports don't know how to have effective 1-1s. In this talk you will learn
       how to use 1-1s as the supportive tool they are meant to be.
+type: video
 vimeo: 666518635
 duration: 28
 cover: >-

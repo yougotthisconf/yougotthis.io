@@ -6,6 +6,7 @@ people:
 descriptions:
   short: Learn the key principles that lead to effective asynchronous working.
   full: Asynchronous workflows enable us to get our work done flexibly and quickly, without compromising on what else in important in our lifestyles. In this talk, we’ll learn the key principles that lead to effective asynchronous working, discuss how asynchronicity benefits everyone on the team, and how you can implement asynchronous workflows.
+type: video
 vimeo: 740526842
 duration: 23
 cover: 'https://i.vimeocdn.com/video/1490110438-5efd2b434fa271f61a2fbc3f1ef4710a4c7ec09a6d4319f77a3b9911201c50e3-d'

@@ -13,6 +13,7 @@ descriptions:
       StackOverflow. How can we compete against this well of wisdom? You might
       think that you have nothing to add. You'll be surprised how much you
       actually know.
+type: video
 vimeo: 666703281
 duration: 23
 cover: >-

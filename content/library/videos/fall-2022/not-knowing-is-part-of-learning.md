@@ -12,6 +12,7 @@ descriptions:
     a part of the job? In this session, let's examine how vital a step of
     learning it is not to know, and how our tech careers are a continuous
     learning process.
+type: video
 vimeo: 750986718
 duration: 15
 cover: >-

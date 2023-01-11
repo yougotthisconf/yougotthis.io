@@ -12,6 +12,7 @@ descriptions:
       need to see and value your work. This talk will cover hard-work,
       visibility, the myth of meritocracy, and what we owe one another once we
       are successful.
+type: video
 vimeo: 670356965
 duration: 26
 cover: >-

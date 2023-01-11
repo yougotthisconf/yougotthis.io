@@ -18,6 +18,7 @@ descriptions:
       You’s to make smart bets that take you where you want to go. This talk is
       intended for people who already have jobs in tech, whether they’re
       thinking about getting a new one or not!
+type: video
 vimeo: 666522127
 duration: 35
 cover: >-

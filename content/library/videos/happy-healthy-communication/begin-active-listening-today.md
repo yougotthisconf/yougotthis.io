@@ -6,6 +6,7 @@ people:
 descriptions:
   short: Learn about the five core tenants of active listening and how you can apply them to your day-to-day life.
   full: In a world where notifications are rife, paying attention during meetings and one-to-one conversations can be tough. In this talk, we'll cover the five core tenants of active listening and how you can apply them to your day-to-day life.
+type: video
 vimeo: 740526832
 duration: 14
 cover: 'https://i.vimeocdn.com/video/1490111806-7abb5e24ed66f066649f201bd0572d52c1ce9f8f9ad9ff9ff66b0638973d60d7-d'

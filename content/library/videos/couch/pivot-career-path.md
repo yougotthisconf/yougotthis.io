@@ -19,6 +19,7 @@ descriptions:
       involve yourself with in order to access new opportunities and tech
       industry knowledge, and techniques to take care of yourself throughout the
       process such as scheduling methods and mindfulness practices.
+type: video
 vimeo: 666600137
 duration: 27
 cover: >-

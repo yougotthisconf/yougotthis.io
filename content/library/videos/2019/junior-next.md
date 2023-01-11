@@ -9,6 +9,7 @@ descriptions:
       Life as a junior developer can be intense, overwhelming, but rewarding.
       How can juniors move on to the next level? And, what can employers,
       mentors, and communities do to support the next generation of developers?
+type: video
 vimeo: 666700130
 duration: 29
 cover: >-

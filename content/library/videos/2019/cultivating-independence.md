@@ -10,6 +10,7 @@ descriptions:
       alone; it means being able to problem-solve and seek help. This talk will
       give you a new definition of independence, as well as a framework for
       developing and maintaining independence in their professional life.
+type: video
 vimeo: 666702480
 duration: 25
 cover: >-

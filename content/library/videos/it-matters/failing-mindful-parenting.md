@@ -12,6 +12,7 @@ descriptions:
       absolutely agree. Parenting is solidly researched and may be a valuable
       inspiration for professional growth. In this talk I will explain how you
       can overcome a business failure by applying mindful parenting principles.
+type: video
 vimeo: 666605597
 duration: 33
 cover: >-

@@ -13,6 +13,7 @@ descriptions:
       With a basis in I/O Psychology and Management Science, this talk is
       relevant to all engineers from entry-level individual contributors to
       engineering executives.
+type: video
 vimeo: 666514686
 duration: 68
 cover: >-

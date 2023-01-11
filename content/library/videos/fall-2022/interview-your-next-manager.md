@@ -13,6 +13,7 @@ descriptions:
     endless challenges. In this talk, we'll cover why and how to interview your
     next manager as part of your job-hunting process to make sure you end up in
     a healthy and productive environment.
+type: video
 vimeo: 750986733
 duration: 11
 cover: >-

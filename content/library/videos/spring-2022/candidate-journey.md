@@ -12,6 +12,7 @@ descriptions:
       successful. In this talk, we will dive deep into the candidate journey -
       from the moment you apply until the ink has dried. Knowing what to expect
       can lead to a more relaxed, happy, and healthy interview process.
+type: video
 vimeo: 686511907
 duration: 25
 cover: >-

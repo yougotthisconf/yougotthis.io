@@ -13,6 +13,7 @@ descriptions:
       make the most of your video call setup by making tweaks to poisitioning,
       improving your body language, and using free software to make your setup
       shine.
+type: video
 vimeo: 666513557
 duration: 21
 cover: >-

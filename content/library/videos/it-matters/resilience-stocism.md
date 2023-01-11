@@ -12,6 +12,7 @@ descriptions:
       stoicism, and no, I promise it won’t be a philosophy lesson. I’m sticking
       to the practical, hands-on exercises that help at the moment. Attend this
       presentation and you’ll never be miserable again, about anything!
+type: video
 vimeo: 666617083
 duration: 31
 cover: >-

@@ -14,6 +14,7 @@ descriptions:
       telling examples and talk about how we as technologists can use our
       privilege to proactively prevent harm in the products and services we
       build.
+type: video
 vimeo: 666523879
 duration: 34
 cover: >-

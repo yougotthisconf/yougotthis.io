@@ -11,6 +11,7 @@ descriptions:
       can be dangerous. Using examples from my personal experience and from the
       tech industry as a whole, I’ll talk about how unconditional job love is
       used to exploit or mistreat tech workers.
+type: video
 vimeo: 670342902
 duration: 28
 cover: >-

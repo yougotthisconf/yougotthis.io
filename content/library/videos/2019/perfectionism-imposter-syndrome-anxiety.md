@@ -11,6 +11,7 @@ descriptions:
       exhausting. Learn how to spot these destructive thought patterns in
       yourself, how to manage anxiety and procrastination and how to start being
       kinder to yourself, because you’re awesome and you deserve to be here.
+type: video
 vimeo: 666700618
 duration: 33
 cover: >-

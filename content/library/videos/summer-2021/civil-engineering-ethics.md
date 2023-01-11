@@ -19,6 +19,7 @@ descriptions:
       examples of ethical problems from my own career, and explore how we can
       try to improve our ethical decision-making by incorporating ethical
       reasoning into the different stages of our work.
+type: video
 vimeo: 666546189
 duration: 24
 cover: >-

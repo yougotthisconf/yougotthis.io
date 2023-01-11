@@ -6,6 +6,7 @@ people:
 descriptions:
   short: Learn about the cornerstones of effective meetings, and how to apply them in your teams.
   full: "Whether remote or in-person, you should always ensure any meeting you call for is effective. There are three things you can do to make your meetings effective: make sure everyone knows the purpose of meeting, practice being a good host, and ensure everything is well documented. In this talk, we will cover how to nail each of these three cornerstones of effective meetings. As a bonus, we will talk about the playbook for running effective meetings like a C-level."
+type: video
 vimeo: 740526846
 duration: 15
 cover: 'https://i.vimeocdn.com/video/1490110830-bae9513deb51ad682aea4449f8d591f61e9ec96ed7f13b3305803239e81a4668-d'

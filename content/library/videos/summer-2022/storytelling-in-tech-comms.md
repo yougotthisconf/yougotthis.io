@@ -11,6 +11,7 @@ descriptions:
     been used to communicate important ideas for as long as we’ve been able to
     speak to each other. In this talk, We'll look at how we can use storytelling
     techniques to create clear and easy to understand technical communication.
+type: video
 vimeo: 718705112
 duration: 10
 cover: >-

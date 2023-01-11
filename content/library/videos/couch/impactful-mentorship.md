@@ -14,6 +14,7 @@ descriptions:
       ways to inspire compelling discussions about your mentee's future, and
       what practical steps you as the mentor can take on your own to be a
       positive influence on your mentee's career.
+type: video
 vimeo: 666693344
 duration: 16
 cover: >-

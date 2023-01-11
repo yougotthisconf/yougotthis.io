@@ -10,6 +10,7 @@ descriptions:
       this talk, we will walk through some examples of how to maximise feedback
       on ideas from both your peers and managers to ensure your idea gets
       championed and you get the credit you deserve.
+type: video
 vimeo: 670226561
 duration: 24
 cover: >-

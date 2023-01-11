@@ -11,6 +11,7 @@ descriptions:
       tips on how to not feel overworked and burned out. You should leave with
       an understanding of how to implement good habits and permanent changes in
       life.
+type: video
 vimeo: 666612261
 duration: 32
 cover: >-

@@ -12,6 +12,7 @@ descriptions:
       techniques for developing new programming skills. You’ll see how learning
       how to learn can benefit you through your whole career, and how valuable
       it can be to share what you’ve learned with others.
+type: video
 vimeo: 670347714
 duration: 26
 cover: >-

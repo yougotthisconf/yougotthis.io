@@ -10,6 +10,7 @@ descriptions:
       than ever about what self-care actually is. In this talk, we'll take
       self-care beyond the hashtags and into your daily life. We'll define it
       and walk through the process of creating meaningful self-care rituals.
+type: video
 vimeo: 666701284
 duration: 25
 cover: >-

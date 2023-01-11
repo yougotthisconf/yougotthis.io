@@ -14,6 +14,7 @@ descriptions:
       or online. We will explore how to interact with your mentor to understand
       and meet their needs, so that you can create a sustainable symbiotic
       relationship.
+type: video
 vimeo: 670337878
 duration: 27
 cover: >-

@@ -10,6 +10,7 @@ descriptions:
       not know how you can make a difference. However, this talk will help you
       understand that, no matter your background, you have privilege and can
       lend it to underrepresented groups in tech.
+type: video
 vimeo: 670232107
 duration: 45
 cover: >-

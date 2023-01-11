@@ -15,6 +15,7 @@ descriptions:
       open and vulnerable are key to a successful and happy working
       relationship. This talk is for anyone who wants to build relationships and
       rapport with teammates virtually.
+type: video
 vimeo: 666511954
 duration: 27
 cover: >-

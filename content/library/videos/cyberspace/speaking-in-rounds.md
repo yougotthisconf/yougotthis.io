@@ -17,6 +17,7 @@ descriptions:
       rounds. This simple technique can make your meetings not only more
       effective, but can also infuse them with more creativity and opportunities
       for building relationships.
+type: video
 vimeo: 666511478
 duration: 9
 cover: >-

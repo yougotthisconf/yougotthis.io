@@ -15,6 +15,7 @@ descriptions:
       mental health status, and how to use self care as a mood barometer. I’ll
       be sharing tricks and tips I use to keep my own mental health stable, and
       how to adapt them to find your own self-care routine.
+type: video
 vimeo: 666619803
 duration: 29
 cover: >-

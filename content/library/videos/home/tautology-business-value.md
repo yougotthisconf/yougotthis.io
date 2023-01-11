@@ -15,6 +15,7 @@ descriptions:
       even better humans.  What is the value that you bring to your employer?
       Can you articulate it? Can you expand it? Can you take that value and use
       it for your own purposes?
+type: video
 vimeo: 670239409
 duration: 33
 cover: >-

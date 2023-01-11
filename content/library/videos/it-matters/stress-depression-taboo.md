@@ -15,6 +15,7 @@ descriptions:
       really stressed and not being able to handle it. In this talk, I will
       discuss the taboo and explore why it hits knowledge workers so often, as
       well as come with tips and tricks to prevent it.
+type: video
 vimeo: 666615437
 duration: 41
 cover: >-

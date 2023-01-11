@@ -13,6 +13,7 @@ descriptions:
       begin to build out information to better inform these exchanges. We’ll
       also look at how you can use these experiences to help inform your choices
       as you gain more experience in tech.
+type: video
 vimeo: 666527846
 duration: 26
 cover: >-

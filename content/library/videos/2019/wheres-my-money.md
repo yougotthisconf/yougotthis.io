@@ -11,6 +11,7 @@ descriptions:
       Buddhist financial planner to swapping budgeting app recommendations with
       my best friend, this is my story of building a healthy relationship with
       money.
+type: video
 vimeo: 666702883
 duration: 19
 cover: >-

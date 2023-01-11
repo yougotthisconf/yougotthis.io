@@ -10,6 +10,7 @@ descriptions:
       developers of tomorrow, we are should start the revolution. Are we the fix
       in the fight against guns-for-hire developers? How do we prevent unethical
       technology spreading (and being made)?
+type: video
 vimeo: 666699647
 duration: 27
 cover: >-

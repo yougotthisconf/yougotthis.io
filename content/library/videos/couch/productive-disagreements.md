@@ -16,6 +16,7 @@ descriptions:
       hands on exercise, you’ll leave the workshop with some extra tools to
       apply in a variety of situations, already have tried some of them out, and
       have further resources to look up if you want to explore this more.
+type: video
 vimeo: 666596336
 duration: 23
 cover: >-

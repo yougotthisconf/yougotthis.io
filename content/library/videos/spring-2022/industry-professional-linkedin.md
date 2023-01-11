@@ -14,6 +14,7 @@ descriptions:
       We'll be covering how to optimize your profile for a job search,
       understanding how recruiters use the platform, and how exactly you can
       take advantage of the algorithms used to make yourself visible
+type: video
 vimeo: 686513744
 duration: 27
 cover: >-

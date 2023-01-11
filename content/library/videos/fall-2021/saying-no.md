@@ -12,6 +12,7 @@ descriptions:
       is impossible to say yes to everything that comes your way. In this talk
       we’ll consider how to decide whether something is right for you as well as
       some helpful advice for when and how to say no.
+type: video
 vimeo: 666525877
 duration: 24
 cover: >-

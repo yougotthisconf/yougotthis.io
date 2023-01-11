@@ -12,6 +12,7 @@ descriptions:
       so you will nail them with confidence, enthusiasm, and less anxiety. So
       join me at this session, and let’s discover together how to ace a job
       interview in three (and a half) steps that will bring your dream job.
+type: video
 vimeo: 686514734
 duration: 26
 cover: >-

@@ -11,6 +11,7 @@ descriptions:
     it's so important for remembering decisions, creating new ideas without
     reinventing the wheel, and bringing new teammates up to speed. In this talk,
     we'll discuss strategies for taking (and finding!) notes as a team.
+type: video
 vimeo: 750986727
 duration: 10
 cover: >-

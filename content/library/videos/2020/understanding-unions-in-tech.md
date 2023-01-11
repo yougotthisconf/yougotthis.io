@@ -10,6 +10,7 @@ descriptions:
       of tech. We’ll briefly cover what a union is, the various shapes and sizes
       they take and what they can do for you, using the recently formed Game
       Workers Unite UK branch of the IWGB as an example.
+type: video
 vimeo: 670361852
 duration: 26
 cover: >-

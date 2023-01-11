@@ -15,6 +15,7 @@ descriptions:
       aimed at helping junior engineers understand how this culture impacts
       performance reviews and how to adapt to flourish in different company
       environments.
+type: video
 vimeo: 670328697
 duration: 25
 cover: >-

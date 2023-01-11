@@ -6,6 +6,7 @@ people:
 descriptions:
   short: Learn how to communicate effectively and take a potentially uncomfortable conversation into an empowering one.
   full: When we receive new information or context on something we've agreed to, we often believe it's bad to change our mind. In this talk, we will discuss how to communicate effectively and take a potentially uncomfortable or horrifying conversation into one which empowers you to do your best work.
+type: video
 vimeo: 740526838
 duration: 20
 cover: 'https://i.vimeocdn.com/video/1490111529-de46c2ae65f3de924a561f99a39c79f942408341f6e56ce116107cfb6500fc29-d'

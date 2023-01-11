@@ -15,6 +15,7 @@ descriptions:
       potentially dangerous long-term. Burnout is real. In this talk, I’ll share
       experiences as well as tips on helping spot patterns that lead to burnout
       and how to deal with it before it gets out of hand.
+type: video
 vimeo: 670245143
 duration: 24
 cover: >-

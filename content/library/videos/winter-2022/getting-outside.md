@@ -11,6 +11,7 @@ descriptions:
     it can also improve your creativity, and your attention span. It can even
     make you a nicer person. This session could benefit anyone who is spending
     most of their day in front of a screen.
+type: video
 vimeo: 781645422
 duration: 14
 cover: >-

@@ -16,6 +16,7 @@ descriptions:
       benefits after your start date, tools for positioning yourself for great
       promotions, and the truth behind internal salary negotiations: how, when,
       and who to approach to bump up your salary.
+type: video
 vimeo: 666596841
 duration: 17
 cover: >-

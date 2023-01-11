@@ -11,6 +11,7 @@ descriptions:
       (or more) key legal tips to help you run and build your business, without
       leaving your bamboozled by legalese. Or with a big bill. Running your own
       business, or thinking about it? This is for you.
+type: video
 vimeo: 666520478
 duration: 29
 cover: >-

@@ -19,6 +19,7 @@ descriptions:
       habit we need to take responsibility for. Our talk offers experiences,
       lessons and advice in hope that it encourages others and lets them know
       that even though it feels hard, you got this and you are not alone.
+type: video
 vimeo: 666594080
 duration: 25
 cover: >-

@@ -16,6 +16,7 @@ descriptions:
       for navigating specific challenges related to hiring and being hired as a
       second-career dev. If approached with intention and thoughtfulness, the
       benefits can be immense for all involved.
+type: video
 vimeo: 666530787
 duration: 25
 cover: >-

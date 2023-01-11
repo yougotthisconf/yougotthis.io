@@ -1,7 +1,7 @@
 <template>
     <div class="wrapper my-12">
         <h1 class="heading text-center mb-12">{{ doc.title }}</h1>
-        <LayoutVideo v-if="doc.vimeo" :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" />
+        <LayoutVideo v-if="doc.type == 'video'" :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" />
         <LayoutArticle v-if="doc.type == 'article'" :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" />
     </div>
 </template>

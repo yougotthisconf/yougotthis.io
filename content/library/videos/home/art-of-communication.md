@@ -19,6 +19,7 @@ descriptions:
       strengthening work communication skills and to help with building
       meaningful relationships while becoming a more approachable, friendly
       person.
+type: video
 vimeo: 670242613
 duration: 23
 cover: >-

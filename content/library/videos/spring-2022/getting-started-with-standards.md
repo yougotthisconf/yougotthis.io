@@ -11,6 +11,7 @@ descriptions:
       As developers, standards impact much of our day-to-day work, and yet few
       know how they are made. In this talk, we will cover what the W3C is, what
       standards are, and the different groups you can join to influence them.
+type: video
 vimeo: 686513358
 duration: 11
 cover: >-

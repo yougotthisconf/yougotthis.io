@@ -13,6 +13,7 @@ descriptions:
     knowledge is power. In this talk, she will outline the things you need to
     know and do before, during and after your job is taken away from you so you
     can protect your emotional and financial well-being.
+type: video
 vimeo: 766003822
 duration: 21
 cover: >-

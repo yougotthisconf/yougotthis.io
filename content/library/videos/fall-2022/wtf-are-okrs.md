@@ -16,6 +16,7 @@ descriptions:
     measured, and how they should cascade through a business to make sure
     everyone is on the same page. We'll also cover how to use OKRs to work on
     what you actually want, not just what others want you to do.
+type: video
 vimeo: 750986728
 duration: 13
 cover: >-

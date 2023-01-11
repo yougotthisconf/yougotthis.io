@@ -9,6 +9,7 @@ descriptions:
     In this talk, we'll cover the different types of equity, how to
     evaluate/compare equity offers, what questions you can ask to get further
     clarity, and what to consider as equity vests.
+type: video
 vimeo: 781647381
 duration: 22
 cover: >-

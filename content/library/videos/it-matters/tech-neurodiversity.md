@@ -15,6 +15,7 @@ descriptions:
       accessibility, open doors and improved lines of communication can create
       opportunities for teams to grow and to realise the value of
       neurodiversity.
+type: video
 vimeo: 666618136
 duration: 37
 cover: >-

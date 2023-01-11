@@ -12,6 +12,7 @@ descriptions:
       problem. We’ll discuss the psychology behind these strategies, and answer
       questions like “Why do my best ideas come to me in the shower?” Finally,
       we’ll look at ways to harden yourself for the next time you get stuck.
+type: video
 vimeo: 666499889
 duration: 32
 cover: >-
