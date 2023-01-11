@@ -33,18 +33,18 @@ people:
     - colby-sites
     - amy-arambulo-negrette
     - colleen-lavin
-    - fatima-sarah-khalid
     - bekah-hawrot-weigel
     - linna-la
-    - krys-flores
+    - jenn-junod
     - heidi-waterhouse
     - justin-garrison
     - juan-pablo-flores
     - sharon-weiss-greenberg
     - harshil-agrawal
-    - rachel-sunderland
     - owen-niblock
     - amber-shand
+    - kevin-lewis
+    - floor-drees
 sponsorship: 
     text: See sponsorship information
     url: /sponsors/info/broadcasting-service
@@ -203,10 +203,10 @@ This event is long - we don't expect you to stay for all of it. Prioritize self-
 </event-session>
  
 <event-session 
-  title="Creating Your Career Narrative"
+  title="The Mastery of Saying 'Fuck it!'"
   start="2023-01-15T01:00:00.000+00:00" 
-  :speakers='[people["fatima-sarah-khalid"]]'
-  description="In literature, the protagonist's journey depicts a sequence of thematic events that lead to a hero discovering their calling and going on a journey -  saving the world or training a dragon. We can use the stages of the Hero's Journey to craft our own stories as developers, from finding our passion, understanding our strengths and weaknesses, planning a trajectory for growth, and sharing our stories. A personal narrative inspires confidence and helps individuals share their contributions, motivations, and aspirations in interviews, networking, or when looking for new opportunities. In this talk, we'll go through the process of crafting our own stories and highlighting the parts of the journey that make us set us apart. ">
+  :speakers='[people["jenn-junod"]]'
+  description="Have you ever thought to yourself, “Why can’t I do that?”, “They ALWAYS do the cool stuff!”, “How did they get there?? They’re an overnight success”, and “They must have done X to get there”. These feelings are human, yet you’re not alone if they make you go “ew”. Watching others live instead of the life you want to live. How do we have less “ew”? We will talk about the steps we take to get out of our comfort zone to start going from “Why can’t I do that?” to “Damn, I did that!” with the mastery of saying “Fuck it!”*">
 </event-session>
  
 <event-session 
@@ -240,10 +240,10 @@ This event is long - we don't expect you to stay for all of it. Prioritize self-
 </event-session>
  
 <event-session 
-  title="Parenthood Hacks To Improve Your Career"
+  title="Words of Advice for the Budding Freelancer"
   start="2023-01-15T05:30:00.000+00:00" 
-  :speakers='[people["krys-flores"]]'
-  description="Parenthood is often presented as a limiting factor in a successful career, but that simply isn’t true. In this talk, Krys will present some life hacks that demonstrate how parenthood can help you level up your professional game. This talk is for any engineers who are parents or are thinking about becoming a parent!">
+  :speakers='[people["kevin-lewis"]]'
+  description="Freelancing might sound like a simple setup - get projects, deliver work, and laugh all the way to the bank, but it's rarely that straightforward. In this talk, Kevin will share some of his learnings in a bid to shortcut your mistakes and have a happier, healthier freelancing career.">
 </event-session>
  
 <event-session 
@@ -297,10 +297,10 @@ This event is long - we don't expect you to stay for all of it. Prioritize self-
 </event-session>
  
 <event-session 
-  title="Navigating The World of Tech As A Non-Developer"
+  title="No One Is Good At Work: A Discussion"
   start="2023-01-15T10:00:00.000+00:00" 
-  :speakers='[people["rachel-sunderland"]]'
-  description="So you've landed your first role in tech - congrats! But, now you're suddenly sat in jargon-filled meetings and you don't know where to start. In this talk we will explore how to learn on the job, remain authentic, and not succumb to imposter syndrome. This talk is perfect for non-developers in the tech industry.">
+  :speakers='[people["floor-drees"], people["kevin-lewis"]]'
+  description="It's very easy to scroll through your social media feeds and see nothing bit highly productive people, but this is often not the full reality. Broken habits, sleepless nights, and  failed projects are a part of life. In this discussion, Floor and Kevin will discuss the perceptions of their work and the reality, in an effort to start a conversation about what is healthy and reasonable.">
 </event-session>
  
 <event-session 
