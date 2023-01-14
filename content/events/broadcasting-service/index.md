@@ -7,8 +7,8 @@ start: 2023-01-14T10:00:00Z
 end: 2023-01-15T12:00:00Z
 cover: broadcasting-service.png
 link:
-    url: 'https://lu.ma/ygt-bs'
-    text: 'Get a free ticket'
+    url: 'https://live.yougotthis.io'
+    text: 'Watch live'
 sponsors:
     - 20i
     - balsamiq
@@ -45,9 +45,9 @@ people:
     - amber-shand
     - kevin-lewis
     - floor-drees
-sponsorship: 
-    text: See sponsorship information
-    url: /sponsors/info/broadcasting-service
+# sponsorship: 
+#     text: See sponsorship information
+#     url: /sponsors/info/broadcasting-service
 ---
 
 This event is long - we don't expect you to stay for all of it. Prioritize self-care over watching live. Talks will be recorded and live captions provided by White Coat Captioning.
