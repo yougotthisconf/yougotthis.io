@@ -1,4 +1,5 @@
 ---
+past: true
 title: 'You Got This Broadcasting Service'
 description: Nonstop core skills conference broadcasting for 26 hours.
 type: Conference
@@ -6,9 +7,9 @@ location: Online
 start: 2023-01-14T10:00:00Z
 end: 2023-01-15T12:00:00Z
 cover: broadcasting-service.png
-link:
-    url: 'https://live.yougotthis.io'
-    text: 'Watch live'
+# link:
+#     url: 'https://live.yougotthis.io'
+#     text: 'Watch live'
 sponsors:
     - 20i
     - balsamiq
@@ -48,6 +49,10 @@ people:
 # sponsorship: 
 #     text: See sponsorship information
 #     url: /sponsors/info/broadcasting-service
+---
+
+Recordings will be available soon.
+
 ---
 
 This event is long - we don't expect you to stay for all of it. Prioritize self-care over watching live. Talks will be recorded and live captions provided by White Coat Captioning.
