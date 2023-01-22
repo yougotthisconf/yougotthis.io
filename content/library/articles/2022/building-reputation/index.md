@@ -1,5 +1,5 @@
 ---
-title: Understanding And Building Reptuation
+title: Understanding And Building Reputation
 type: article
 date: 2022-12-02T00:00:00.000Z
 people:
