@@ -113,7 +113,6 @@ export default {
     created() {
         if (this.$route.query.query) this.query = this.$route.query.query
         if (this.$route.query.type) this.type = this.$route.query.type !== 'false'
-        console.log(this.type)
         console.log(`${this.content.length} items loaded`) // eslint-disable-line no-console
     },
 }
