@@ -1,5 +1,6 @@
 ---
 past: true
+url: /collections/broadcasting-service
 title: 'You Got This Broadcasting Service'
 description: Nonstop core skills conference broadcasting for 26 hours.
 type: Conference
