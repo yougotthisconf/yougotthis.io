@@ -6,7 +6,6 @@ type: event
 cover: halloween.jpg
 items:
     - videos/navigating-nightmares/freelance-woes
-    - videos/navigating-nightmares/navigating-major-turnover
     - videos/navigating-nightmares/navigating-redundancy
     - videos/navigating-nightmares/oh-no-tech-bro
     - videos/navigating-nightmares/protecting-yourself-valla

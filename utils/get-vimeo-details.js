@@ -44,15 +44,20 @@ async function getVimeoMetaData(folderName) {
 
 function getFileByVideoId(videoId) {
     return new Promise((resolve, reject) => {
+        let found = false
         fs.readdirSync(base).forEach(dir => {
             const dirPath = base + '/' + dir
             fs.readdirSync(dirPath).forEach(file => {
                 const filePath = dirPath + '/' + file
                 editor.read(filePath).data((data, matter) => {
-                    if(data.vimeo == videoId) resolve(filePath)
+                    if(data.vimeo == videoId) {
+                        found = true
+                        resolve(filePath)
+                    }
                 })
             })
         })
+        if(!found) console.log(`Didn't find for ${videoId}`)
     })
 }
 
@@ -64,21 +69,33 @@ function removeLastPartOfFileName(fileName) {
 
 async function updateFilesWithMetadata(files, metadatas) {
     for(let vimeo of metadatas) {
+        console.log(`vimeo.id is ${vimeo.id}`)
         const file = await getFileByVideoId(vimeo.id)
         const metadata = metadatas.find(m => m.id == vimeo.id)
+        await updateOneFileMetadata(file, metadata).catch(err => console.log(err))
+    }
+}
+
+function updateOneFileMetadata(file, metadata) {
+    return new Promise((resolve, reject) => {
         editor.read(file).data((data, matter) => {
             data.duration = metadata.duration
             data.cover = metadata.image
             matter.data = data
-        }).save(removeLastPartOfFileName(file), null, (err) => console.log(`${err ? err : 'Wrote file'}`))
-    }
+        }).save(
+            removeLastPartOfFileName(file), 
+            null, (err) => {
+                if(err) reject(err)
+                console.log(`Written ${file}`)
+                resolve()
+            })
+    })
 }
 
 async function main() {
     try {
         const files = getFilePaths()
         const metadata = await getVimeoMetaData()
-        console.log({ metadata })
         await updateFilesWithMetadata(files, metadata)
     } catch(error) {
         console.error({ error })
