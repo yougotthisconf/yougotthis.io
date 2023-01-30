@@ -12,7 +12,7 @@ It is incredibly important to us that speakers and writers are paid for their ti
 
 Our seasonal events are quarterly online meetups which typically have 150-200 attendees and have a number of 15-minute talks with questions. We take up to 4 sponsors per event.
 
-Meetup sponsorship is £500 per event or £1750 for 4 if paid upfront. It includes:
+Meetup sponsorship is €600 per event or €2000 for 4 if paid upfront. It includes:
 - Your logo on event webpage, on the livestream, and library pages.
 - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
 - 3 Tweets of thanks.
@@ -25,7 +25,7 @@ Meetup sponsorship is £500 per event or £1750 for 4 if paid upfront. It includ
 
 A special one-off online meetup focused on core skills related to freelancing with an expected 250 attendees.
 
-Meetup sponsorship is £500. It includes:
+Meetup sponsorship is €600. It includes:
 - Your logo on event webpage, on the livestream, and library pages.
 - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
 - 3 Tweets of thanks.
@@ -42,12 +42,12 @@ We will be curating the best pieces of content from our content library and broa
 
 Event sponsorship has two tiers.
 
-At £500, sponsorship includes:
+At €600, sponsorship includes:
 - Your logo on event webpage, and on the livestream.
 - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
 - 3 Tweets of thanks.
 
-At £1500, sponsorship additionally includes:
+At €1750, sponsorship additionally includes:
 - A live speaking slot.
 - Co-branding the conference "presented by ACME Inc" or similar.
 
@@ -70,7 +70,7 @@ This event is still in the works, but if you want to support it financially or w
 
 We publish new core skills articles every two weeks to accompany our video-heavy content library. Each 3 month period is sold as a single sponsorship block. Each article gets approximately 800 views over the first 30-day period.
 
-Article sponsorship is £2500 per quarter. It includes:
+Article sponsorship is €3000 per quarter. It includes:
 - Customized call-to-actions will be present at the top, middle, and end of each post you sponsor. [You can see an example here.](/library/managers-guide-to-okrs)
 - 3 Tweets of thanks.
 
