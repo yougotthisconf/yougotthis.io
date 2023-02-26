@@ -15,10 +15,11 @@ link:
   url: 'https://live.yougotthis.io'
 ---
 
+Talks will be recorded and made available after the event. There will be machine-generated live captions.
+
 <event-session
   title="Welcome talk"
-  start="2022-12-15T18:00:00Z"
-  style="margin-top: -1em;">
+  start="2022-12-15T18:00:00Z">
 </event-session>
 
 <event-session 
