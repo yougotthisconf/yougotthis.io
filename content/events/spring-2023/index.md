@@ -42,5 +42,5 @@ Talks will be recorded and made available after the event. There will be machine
   title="Walking Across The Ethical Minefield"
   start="2023-03-15T19:15:00.000+00:00" 
   :speakers='[people["kestral-gaian"]]'
-  description="Whether you write code, manage projects, or run teams, at some point you'll face an impossible question: is what I'm doing ethical? Recent history is littered with examples of times we didn't get it right, from handryers only tested on light skin tones through to Twitter's recent... well, you know.\n\nBut how do we stop things from exploding when we can't see the mines buiried in the ground? In this talk we'll discuss foresight, hindsight, and how to create ethical checks and balances to help your next project succeed.">
+  description="Whether you write code, manage projects, or run teams, at some point you'll face an impossible question: is what I'm doing ethical? Recent history is littered with examples of times we didn't get it right, from handryers only tested on light skin tones through to Twitter's recent... well, you know. But how do we stop things from exploding when we can't see the mines buiried in the ground? In this talk we'll discuss foresight, hindsight, and how to create ethical checks and balances to help your next project succeed.">
 </event-session>
