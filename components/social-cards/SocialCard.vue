@@ -2,6 +2,7 @@
   <div class="mb-12">
     <div ref="card">
       <social-card-broadcasting-service v-if="socialCard == 'broadcasting-service'" :title="title" :speakers="speakers" />
+      <social-card-spring v-if="socialCard == 'spring-2023'" :title="title" :speakers="speakers" />
     </div>
     <button class="mt-4 button bright w-full block" @click="download">Download</button>
   </div>
