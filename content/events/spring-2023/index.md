@@ -17,7 +17,7 @@ link:
   url: 'https://lu.ma/seasons-spring-2023'
 ---
 
-Talks will be recorded and made available after the event. There will be machine-generated live captions.
+Talks will be recorded and made available after the event. There will be no live captions at this event, but captions and transcripts will be made available with recordings.
 
 <event-session
   title="Welcome talk"
