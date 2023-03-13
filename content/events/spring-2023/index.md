@@ -1,6 +1,6 @@
 ---
 title: 'You Got This Through the Seasons: Spring 2023'
-description: Our first seasonal meetup of the year, featuring 5 core skills talks.
+description: Our first seasonal meetup of the year, featuring three core skills talks.
 type: Meetup
 location: Online
 start: 2023-03-15T18:00:00Z
