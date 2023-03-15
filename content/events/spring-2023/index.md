@@ -13,8 +13,8 @@ people:
   - sylwia-vargas
   - sharon-weiss-greenberg
 link:
-  text: Get free tickets
-  url: 'https://lu.ma/seasons-spring-2023'
+  text: Wathc live now
+  url: 'https://live.yougotthis.io'
 ---
 
 Talks will be recorded and made available after the event. There will be no live captions at this event, but captions and transcripts will be made available with recordings.
