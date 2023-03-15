@@ -6,4 +6,7 @@ type: Meetup
 location: Online
 start: 2023-12-13T18:00:00
 cover: winter.jpg
+sponsors:
+  - balsamiq
+  - stackblitz
 ---

@@ -6,4 +6,7 @@ type: Meetup
 location: Online
 start: 2023-07-12T18:00:00Z
 cover: summer.jpg
+sponsors:
+  - balsamiq
+  - stackblitz
 ---

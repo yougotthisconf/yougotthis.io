@@ -6,4 +6,7 @@ type: Meetup
 location: Online
 start: 2023-09-27T18:00:00Z
 cover: fall.jpg
+sponsors:
+  - balsamiq
+  - stackblitz
 ---
