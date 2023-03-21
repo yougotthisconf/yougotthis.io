@@ -1,4 +1,6 @@
 ---
+past: true
+url: /collections/spring-2023
 title: 'You Got This Through the Seasons: Spring 2023'
 description: Our first seasonal meetup of the year, featuring three core skills talks.
 type: Meetup
