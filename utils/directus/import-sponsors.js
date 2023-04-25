@@ -5,22 +5,24 @@ const { Directus } = require('@directus/sdk');
 const directus = new Directus(process.env.DIRECTUS_URL, { auth: { staticToken: process.env.DIRECTUS_TOKEN } });
 
 (async () => {
+    const { data: folders } = await directus.items('directus_folders').readByQuery()
+    const folder = folders.find(f => f.name == 'Sponsors').id
     let dirs = fs.readdirSync('content/sponsors')
-    // dirs = dirs.splice(20, 100)
     const items = []
     for(let dir of dirs) {
         const [ item ] = await fetch('http://localhost:3000/_content/sponsors/'+dir).then(r => r.json())
-        const { id } = await directus.files.import({
+        const { id: image } = await directus.files.import({
             url: `https://yougotthis.io${item.dir}/${item.file}`,
-            data: { title: item.title }
+            data: { title: item.title, folder }
         })
-        console.log(`Imported image for ${item.title}: ${id}`)
-        items.push({ ...item, image: id })
+        console.log(`Imported image for ${item.title}: ${image}`)
+        items.push({ ...item, image: image, id: dir })
     }
     const payload = items.map(item => {
         return {
+            slug: item.id,
             title: item.title,
-            image: item.image,
+            file: item.image,
             url: item.url,
             feature: item.feature ? item.feature : false,
             current: item.current ? item.current : false,
