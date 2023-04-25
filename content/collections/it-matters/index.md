@@ -11,7 +11,7 @@ items:
     - videos/it-matters/giving-labels
     - videos/it-matters/inclusive-cultures-empathy
     - videos/it-matters/managing-team-overload
-    - videos/it-matters/resilience-stoicism
+    - videos/it-matters/resilience-stocism
     - videos/it-matters/story-asking-for-help
     - videos/it-matters/stress-depression-taboo
     - videos/it-matters/tech-neurodiversity

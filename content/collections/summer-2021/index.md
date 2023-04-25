@@ -6,7 +6,7 @@ type: event
 cover: summer.jpg
 items:
     - videos/summer-2021/align-values-with-job
-    - videos/summer-2021/civil-engineering
+    - videos/summer-2021/civil-engineering-ethics
     - videos/summer-2021/code-of-ethics
 sponsors:
     - balsamiq

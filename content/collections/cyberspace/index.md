@@ -7,7 +7,7 @@ cover: cyberspace.png
 items:
     - videos/cyberspace/building-team-trust-virtually
     - videos/cyberspace/buying-back-time
-    - videos/cyberspace/conflict-to-resolution
+    - videos/cyberspace/conflict-to-cooperation
     - videos/cyberspace/solving-problems
     - videos/cyberspace/accessible-language
     - videos/cyberspace/legal-tips-building-businesses

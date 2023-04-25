@@ -19,7 +19,7 @@ items:
     - videos/home/use-feedback
     - articles/2022/soliciting-feedback-and-help
     - articles/2022/power-of-persuasion
-    - videos/happy-healthy-communication/active-listening-today
+    - videos/happy-healthy-communication/begin-active-listening-today
     - videos/happy-healthy-communication/changing-your-mind
     - videos/happy-healthy-communication/effective-meetings
     - videos/fall-2022/effective-team-note-taking
