@@ -5,7 +5,7 @@ date: 2023-01-01T00:00:00.000Z
 people:
   - amber-shand
 descriptions:
-  short: 
+  short: Revamp your goal-setting approach with these powerful techniques for long-lasting success and personal growth!
 duration: 8
 cover: cover.png
 ---
