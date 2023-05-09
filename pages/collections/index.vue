@@ -16,7 +16,6 @@ export default {
       fields: ['slug', 'title', 'description', 'cover', 'is_event'],
       sort: '-date'
     })
-    console.log(collections)
     const main = collections.filter(c => !c.is_event)
     const events = collections.filter(c => c.is_event === true)
     return { main, events }
