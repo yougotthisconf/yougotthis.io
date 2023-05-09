@@ -2,37 +2,20 @@
     <div>
         <div class="wrapper pt-16 mb-16">
             <h1 class="heading text-center">Library</h1>
-            <div class="filters flex justify-center gap-4">
-                <div class="search">
-                    <input v-model="query" type="text" placeholder="Type to filter" class="text-input">
-                </div>
-                 <select v-model="type" class="block rounded-md border-theme-main py-2 pl-3 pr-10 focus:border-theme-main focus:outline-none focus:ring-theme-main sm:text-sm">
-                    <option :value="false">Articles & Videos</option>
-                    <option value="video">Videos Only</option>
-                    <option value="article">Articles Only</option>
-                </select>
-
-            </div>
-
+            <p class="text-center mt-4">We have loads of free content to help you improve your core skills. Available for free forever without ads or login.</p>
             <ContentList :list="aboveFold" class="mt-8" />
-
-            <div v-if="aboveFold.length === 0" class="no-results">
-                <p>No results. We search titles, descriptions, and speaker names. If there's a topic you would like to cover, let us know!</p>
-            </div>
         </div>
 
         <div class="bg-theme-main text-white">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none" class="h-6 w-full bg-theme-white">
                 <path transform="scale(1, -1) translate(0, -100)"  d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="var(--theme-main)"></path>
             </svg>
-
             <div class="wrapper py-16 text-center">
                 <h2 class="heading">Check out our collections!</h2>
                 <p class="mt-2 mb-4">View our curated collections designed to help you navigate specific core skill areas.</p>
                 <CollectionList :list="collections" collection-class="lg:last:hidden" />
                 <n-link class="button mt-8 grid-rows-1" to="/collections">See all collections</n-link>
             </div>
-
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="h-6 w-full bg-theme-white">
                 <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="var(--theme-main)"></path>
             </svg>
@@ -47,24 +30,16 @@
 <script>
 import headFactory from '@/utils/head-factory'
 export default {
-    async asyncData({ $content }) {
-        let content = await $content('library', { deep: true }).without(['body']).sortBy('date', 'desc').fetch()
+    async asyncData({ $content, $directus }) {
         const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(4).fetch()
-        const people = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
 
-        content = content.map(item => {
-            let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
-            profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
-            return { ...item, people: profiles }
+        const { data: content } = await $directus.items('library').readByQuery({ 
+            limit: -1,
+            sort: '-date',
+            fields: ['slug', 'title', 'cover', 'type', 'duration', 'people.people_slug.title', 'people.people_slug.image']
         })
 
         return { content, collections }
-    },
-    data() {
-        return {
-            query: '',
-            type: false,
-        }
     },
     head() {
         return headFactory({
@@ -73,46 +48,14 @@ export default {
         })
     },
     computed: {
-        search() {
-            let l = this.content
-            if(this.type) {
-                l = l.filter(m => m.type === this.type)
-            }
-            if(this.query) {
-                const q = this.query.toLowerCase()
-                const results = []
-                results.push(...l.filter(i => i.title.toLowerCase().includes(q)))
-                results.push(...l.filter(i => i.people.map(p => p.title.toLowerCase()).join(', ').includes(q)))
-                results.push(...l.filter(i => i.descriptions.short && i.descriptions.short.toLowerCase().includes(q)))
-                results.push(...l.filter(i => i.descriptions.full && i.descriptions.full.toLowerCase().includes(q)))
-                return [...new Set(results)]
-            }
-            return l
-        },
         aboveFold() {
-            return this.search.slice(0, 12)
+            return this.content.slice(0, 12)
         },
         belowFold() {
-            return this.search.slice(12, this.search.length)
+            return this.content.slice(12, this.content.length)
         }
     },
-    watch: {
-        'query'(query) {
-            const params = new URLSearchParams(location.search)
-            params.set('query', query)
-            params.toString()
-            window.history.replaceState({}, '', `${location.pathname}?${params.toString()}`)
-        },
-        'type'(type) {
-            const params = new URLSearchParams(location.search)
-            params.set('type', type)
-            params.toString()
-            window.history.replaceState({}, '', `${location.pathname}?${params.toString()}`)
-        },
-    },
     created() {
-        if (this.$route.query.query) this.query = this.$route.query.query
-        if (this.$route.query.type) this.type = this.$route.query.type !== 'false'
         console.log(`${this.content.length} items loaded`) // eslint-disable-line no-console
     },
 }
