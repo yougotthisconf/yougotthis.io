@@ -1,7 +1,7 @@
 <template>
     <n-link :to="`/library/${item.slug}`">
         <div class="thumb">
-            <img :src="`${url}/assets/${item.cover}?width=768`" alt="">
+            <img :src="`${$asset(item.cover)}?width=768`" alt="">
             <span class="icon">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                     <path v-if="item.type =='video'" fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
@@ -13,7 +13,7 @@
         </div>
         <div class="meta">
             <div class="images">
-                <img v-for="person in item.people" :key="person.title" :src="`${url}/assets/${person.people_slug.image}?height=30`" :alt="`Avatar of ${person.people_slug.title}`" />
+                <img v-for="person in item.people" :key="person.title" :src="`${$asset(person.people_slug.image)}?height=30`" :alt="`Avatar of ${person.people_slug.title}`" />
             </div>
             <div>
                 <h2 class="text-sm">{{ item.title }}</h2>
@@ -27,18 +27,13 @@
 </template>
 
 <script>
-import config from '~/config.js'
-
 export default {
     props: {
         item: {
             type: Object,
             required: true
         }
-    },
-    data() {
-        return { url: config.dataURL }
-    },
+    }
 }
 </script>
 

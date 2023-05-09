@@ -1,6 +1,6 @@
 <template>
-    <n-link :to="`/collection/${collection.slug}`">
-        <img :src="`${url}/assets/${collection.cover}`" alt="">
+    <n-link :to="`/collections/${collection.slug}`">
+        <img :src="$asset(collection.cover)" alt="">
         <div class="meta">
             <h2 :data-title="collection.title">{{ collection.title }}</h2>
             <p>{{ collection.description }}</p>
@@ -9,17 +9,13 @@
 </template>
 
 <script>
-import config from '~/config.js'
 export default {
     props: {
         collection: {
             type: Object,
             required: true
         }
-    },
-    data() {
-        return { url: config.dataURL }
-    },
+    }
 }
 </script>
 

@@ -13,7 +13,7 @@
             <div class="wrapper py-16 text-center">
                 <h2 class="heading">Check out our collections!</h2>
                 <p class="mt-2 mb-4">View our curated collections designed to help you navigate specific core skill areas.</p>
-                <CollectionList :list="collections" collection-class="lg:last:hidden" />
+                <CollectionList :list="collections" collection-class="last:hidden lg:last:block" />
                 <n-link class="button mt-8 grid-rows-1" to="/collections">See all collections</n-link>
             </div>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="h-6 w-full bg-theme-white">
@@ -31,7 +31,11 @@
 import headFactory from '@/utils/head-factory'
 export default {
     async asyncData({ $content, $directus }) {
-        const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(4).fetch()
+
+        let { data: { collections } } = await $directus.items('featured').readByQuery({
+            fields: ['collections.item.slug', 'collections.item.title', 'collections.item.description', 'collections.item.cover']
+        })
+        collections = collections.map(c => c.item)
 
         const { data: content } = await $directus.items('library').readByQuery({ 
             limit: -1,
