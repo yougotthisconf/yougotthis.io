@@ -37,18 +37,15 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-  async asyncData({ $content }) {
+  async asyncData({ $content, $directus }) {
     const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(3).fetch()
-    const people = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
     const events = await $content('events', { deep: true }).where({ past: { $ne: true }, hide: { $ne: true } }).sortBy('start', 'asc').limit(3).without(['body']).fetch()
     const sponsors = await $content('sponsors', { deep: true }).where({ feature: true }).sortBy('name', 'asc').fetch()
 
-    let content = await $content('library', { deep: true }).without(['body']).sortBy('date', 'desc').limit(8).fetch()
-
-    content = content.map(item => {
-        let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
-        profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
-        return { ...item, people: profiles }
+    const { data: content } = await $directus.items('library').readByQuery({ 
+        limit: 8,
+        sort: '-date',
+        fields: ['slug', 'title', 'cover', 'type', 'duration', 'people.people_slug.title', 'people.people_slug.image']
     })
 
     return {
