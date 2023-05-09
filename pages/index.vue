@@ -38,7 +38,6 @@ import headFactory from '@/utils/head-factory'
 
 export default {
   async asyncData({ $content, $directus }) {
-    const collections = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').limit(3).fetch()
     const events = await $content('events', { deep: true }).where({ past: { $ne: true }, hide: { $ne: true } }).sortBy('start', 'asc').limit(3).without(['body']).fetch()
     const sponsors = await $content('sponsors', { deep: true }).where({ feature: true }).sortBy('name', 'asc').fetch()
 
@@ -47,6 +46,11 @@ export default {
         sort: '-date',
         fields: ['slug', 'title', 'cover', 'type', 'duration', 'people.people_slug.title', 'people.people_slug.image']
     })
+
+    let { data: { collections } } = await $directus.items('featured').readByQuery({
+      fields: ['collections.item.slug', 'collections.item.title', 'collections.item.description', 'collections.item.cover']
+    })
+    collections = collections.map(c => c.item)
 
     return {
       content,
