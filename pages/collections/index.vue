@@ -2,19 +2,25 @@
   <div class="wrapper py-16 text-center">
     <h1 class="heading">Collections</h1>
     <p class="mt-2 mb-4">View our curated collections designed to help you navigate specific core skill areas.</p>
-    <CollectionList :list="collections" class="mt-8" />
+    <CollectionList :list="main" class="mt-8" />
+    <h2 class="heading !text-xl mt-12 mb-2">Event Collections</h2>
+    <CollectionList :list="events" class="mt-8" />
   </div>
 </template>
 
 <script>
 import headFactory from '@/utils/head-factory'
 export default {
-  async asyncData({ $directus }) {
+  async asyncData({ $content, $directus }) {
     const { data: collections } = await $directus.items('collections').readByQuery({
-      fields: ['slug', 'title', 'description', 'cover'],
-      sort: 'is_event,-date'
+      fields: ['slug', 'title', 'description', 'cover', 'is_event'],
+      sort: '-date'
     })
-    return { collections }
+    console.log(collections)
+    const main = collections.filter(c => !c.is_event)
+    const events = collections.filter(c => c.is_event === true)
+    return { main, events }
+
   },
   head() {
     return headFactory({
