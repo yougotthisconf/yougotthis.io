@@ -11,7 +11,7 @@
 <script>
 import headFactory from '@/utils/head-factory'
 export default {
-  async asyncData({ $content, $directus }) {
+  async asyncData({ $directus }) {
     const { data: collections } = await $directus.items('collections').readByQuery({
       fields: ['slug', 'title', 'description', 'cover', 'is_event'],
       sort: '-date'
