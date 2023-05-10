@@ -39,7 +39,6 @@ import headFactory from '@/utils/head-factory'
 export default {
   async asyncData({ $content, $directus }) {
     const events = await $content('events', { deep: true }).where({ past: { $ne: true }, hide: { $ne: true } }).sortBy('start', 'asc').limit(3).without(['body']).fetch()
-    const sponsors = await $content('sponsors', { deep: true }).where({ feature: true }).sortBy('name', 'asc').fetch()
 
     const { data: content } = await $directus.items('library').readByQuery({ 
         limit: 8,
@@ -47,10 +46,12 @@ export default {
         fields: ['slug', 'title', 'cover', 'type', 'duration', 'people.people_slug.title', 'people.people_slug.image']
     })
 
-    let { data: { collections } } = await $directus.items('featured').readByQuery({
-      fields: ['collections.item.slug', 'collections.item.title', 'collections.item.description', 'collections.item.cover']
-    })
-    collections = collections.map(c => c.item)
+    const collectionFields = ['collections.item.slug', 'collections.item.title', 'collections.item.description', 'collections.item.cover']
+    const sponsorFields = ['sponsors.item.*']
+    const { data: featured } = await $directus.items('featured').readByQuery({ fields: [...collectionFields, ...sponsorFields] })
+
+    const collections = featured.collections.map(c => c.item)
+    const sponsors = featured.sponsors.map(c => c.item)
 
     return {
       content,

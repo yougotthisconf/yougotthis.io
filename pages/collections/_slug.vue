@@ -49,6 +49,7 @@ export default {
         fields: ['*', ...itemFields, ...itemPeopleFields, 'sponsors.sponsors_slug.*']
     })
     collection.items = collection.items.map(i => i.library_slug)
+    collection.sponsors = collection.sponsors.map(s => s.sponsors_slug)
 
     let duration = collection.items.map(i => i.duration).reduce((a, b) => a + b, 0)
     duration = Math.floor(duration/60)+':'+ String(duration%60).padStart(2, '0')

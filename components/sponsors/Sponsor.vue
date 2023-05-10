@@ -1,6 +1,6 @@
 <template>
-    <a :href="sponsor.sponsors_slug.url">
-        <img :src="$asset(sponsor.sponsors_slug.file)" :alt="sponsor.sponsors_slug.title" class="rounded">
+    <a :href="sponsor.url">
+        <img :src="$asset(sponsor.file)" :alt="sponsor.title" class="rounded">
     </a>
 </template>
 
