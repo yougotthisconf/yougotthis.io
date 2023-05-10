@@ -55,7 +55,7 @@ export default {
   plugins: [
     { src: '~/plugins/simple-analytics.js', mode: 'client' },
     { src: '~/plugins/html2canvas.js', mode: 'client' },
-    { src: '~/plugins/directus.js'},
+    { src: '~/plugins/directus.js'}
   ],
   generate: {
     async routes() {
@@ -110,6 +110,7 @@ export default {
     },
   },
   markdownit: {
+    runtime: true,
     preset: 'default',
     linkify: true,
     breaks: true,

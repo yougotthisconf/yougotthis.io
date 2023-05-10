@@ -2,15 +2,15 @@
     <div class="wrapper md:grid md:grid-cols-3 gap-y-8 sm:gap-8 my-12">
         <div class="col-span-1">
             <div class="card box">
-                <img :src="`${collection.dir}/${collection.cover}`" alt="">
+                <img :src="$asset(collection.cover)" alt="">
                 <div class="meta">
                     <h1 :data-title="collection.title">{{ collection.title }}</h1>
                     <p>{{ collection.description }}</p>
                 </div>
             </div>
-            <div v-if="sponsors && sponsors.length > 0" class="my-8">
+            <div v-if="collection.sponsors.length > 0" class="my-8">
                 <h2 class="font-heading mb-2 text-xl">Sponsored by</h2>
-                <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2" />
+                <SponsorList :list="collection.sponsors" grid-class="grid-cols-2 gap-2" />
             </div>
             <div class="stats">
                 <div class="stat">
@@ -28,12 +28,10 @@
             </div>
         </div>
         <main class="col-span-2">
-            <article v-if="collection.body.children.length > 0">
-                <nuxt-content :document="collection" class="max-w-full prose lg:prose-lg"></nuxt-content>
-            </article>
+            <article v-if="collection.body" class="max-w-full prose lg:prose-lg" v-html="$md.render(collection.body)"></article>
             <div class="listing">
-                <h2 v-if="collection.body.children.length > 0" class="heading">All items in collection</h2>
-                <ContentList :list="items" grid-class="md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-x-6" />
+                <h2 v-if="collection.body" class="heading">All items in collection</h2>
+                <ContentList :list="collection.items" grid-class="md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-x-6" />
             </div>
         </main>
     </div>
@@ -43,32 +41,26 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-  async asyncData({ $content, params }) {
-    const collection = await $content('collections', params.slug, 'index').fetch()
-    const fullLibrary = await $content('library', { deep: true }).without(['body']).fetch()
-    const people = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
-    const allSponsors = await $content('sponsors', { deep: true }).fetch()
+  async asyncData({ params, $directus }) {
+    const itemFields = ['items.library_slug.slug', 'items.library_slug.title', 'items.library_slug.cover', 'items.library_slug.type', 'items.library_slug.duration']
+    const itemPeopleFields = ['items.library_slug.people.people_slug.title', 'items.library_slug.people.people_slug.image']
 
-    let items = fullLibrary.filter(libItem => collection.items.find(colItem => libItem.path.includes(colItem)))
-    items = items.map(item => {
-        let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
-        profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
-        return { ...item, people: profiles }
+    const collection = await $directus.items('collections').readOne(params.slug, { 
+        fields: ['*', ...itemFields, ...itemPeopleFields, 'sponsors.sponsors_slug.*']
     })
+    collection.items = collection.items.map(i => i.library_slug)
 
-    const sponsors = collection.sponsors ? allSponsors.filter(sponsor => collection.sponsors.find(name => sponsor.path.includes(name))) : []
+    let duration = collection.items.map(i => i.duration).reduce((a, b) => a + b, 0)
+    duration = Math.floor(duration/60)+':'+ String(duration%60).padStart(2, '0')
 
-    const { duration: minutes } = items.reduce((a, b) => ({duration: a.duration + b.duration}), {duration: 0})
-    const duration = Math.floor(minutes/60)+':'+ String(minutes%60).padStart(2, '0');
-
-    return { collection, items, duration, sponsors }
+    return { collection, duration }
   },
   head() {
     return headFactory({
       title: this.collection.title,
       description: this.collection.description,
       path: this.$route.path,
-      image: this.collection.cover
+      image: this.$asset(this.collection.cover)
     })
   },
 }
