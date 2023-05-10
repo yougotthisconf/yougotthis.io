@@ -1,8 +1,27 @@
 <template>
-    <div class="wrapper my-12">
-        <h1 class="heading text-center mb-12">{{ doc.title }}</h1>
-        <LayoutVideo v-if="doc.type == 'video'" :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" />
-        <LayoutArticle v-if="doc.type == 'article'" :doc="doc" :collections="collections" :people="people" :sponsors="sponsors" :dir="dir" />
+    <div class="wrapper my-12" :class="item.type">
+        <h1 class="heading text-center mb-12">{{ item.title }}</h1>
+        <div class="md:grid md:grid-cols-3 gap-y-8 sm:gap-8 wrap">
+            <aside>
+                <div v-if="item.type === 'video'" class="box">{{ item.description_long }}</div>
+                <img v-if="item.type === 'article'" class="cover" :src="`${$asset(item.cover)}?width=800`" alt="">
+
+                <PeopleList :list="item.people" grid-class="grid-cols-1 gap-4 mb-4" :class="{ 'mt-8': item.type === 'article' }" />
+                <section v-if="sponsors?.length > 0">
+                    <h2>Sponsored by</h2>
+                    <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mb-8" />
+                </section>
+                <section v-if="collections?.length > 0">
+                    <h2>Related collections</h2>
+                    <CollectionList :list="collections" grid-class="grid-cols-1 gap-4" />
+                </section>
+            </aside>
+            <main>
+                <iframe v-if="item.type === 'video'" :src="`https://player.vimeo.com/video/${item.vimeo}?h=44d49687ad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479`" frameborder="0" allow="fullscreen; picture-in-picture" allowfullscreen class="w-full" style="aspect-ratio: 16/9"></iframe>
+                <h2 v-if="item.type !== 'article'">Transcript</h2>
+                <article class="max-w-full prose lg:prose-lg" v-html="item.body"></article>
+            </main>
+        </div>
     </div>
 </template>
 
@@ -10,38 +29,52 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-    async asyncData({ $content, params }) {
+    async asyncData({ $directus, params }) {
+        const peopleFields = ['people.people_slug.slug', 'people.people_slug.title', 'people.people_slug.image']
+        const collectionFields = ['slug', 'title', 'description', 'cover', 'sponsors.sponsors_slug.*']
 
-        const content = await $content('library', { deep: true }).fetch()
+        const item = await $directus.items('library').readOne(params.slug, { fields: ['*', ...peopleFields] })
+        item.people = item.people.map(p => p.people_slug)
 
-        const doc = content.find(item => item.path.includes(params.slug))
+        const { data: collections } = await $directus.items('collections').readByQuery({ fields: collectionFields, filter: { items: { library_slug: { '_eq': params.slug } } }})
 
-        let dir = doc.path.split('/library/').join('')
-        if(dir.substr(dir.length-6) === '/index') dir = dir.substring(0, dir.length-6)
+        let sponsors = collections.map(c => c.sponsors).flat().map(c => c.sponsors_slug)
+        sponsors = sponsors.filter((v,i,a)=>a.findIndex(v2=>(v2.slug===v.slug))===i)
 
-        const collections = await $content('collections', { deep: true }).where({ items: { $contains: dir } }).sortBy('highlight', 'desc').without(['items', 'body']).fetch()
-
-        const allPeople = await $content('people', { deep: true }).fetch()
-        const people = doc.people.map(docP => allPeople.find(allP => allP.dir.includes(docP)))
-
-        const allSponsors = await $content('sponsors', { deep: true }).fetch()
-        let sponsorList = []
-        sponsorList.push(...collections.map(c => c.sponsors).filter(a => a))
-        if(doc.sponsors) sponsorList.push([...doc.sponsors])
-        sponsorList = [...new Set(sponsorList.flat())]
-        const sponsors = sponsorList.map(s => allSponsors.find(t => t.dir.includes(s)))
-
-        return { doc, collections, people, sponsors, dir }
+        console.log(item)
+        return { item, collections, sponsors }
     },
     head() {
         return headFactory({
-            title: this.doc.title,
-            description: this.doc.descriptions.short,
+            title: this.item.title,
+            description: this.item.description_short,
             path: this.$route.path,
-            imageDir: this.doc.path.split('/index').join(''),
-            image: this.doc.cover,
-            absolute: !!this.doc.vimeo
+            image: this.$asset(this.item.cover)
         })
     },
 }
 </script>
+
+<style scoped>
+.video .wrap {
+   @apply flex flex-col-reverse md:grid;
+}
+aside {
+    @apply lg:col-span-1 mb-4;
+    & h2 {
+        @apply font-heading text-xl mb-4 mt-8;
+    }
+    & .box {
+        @apply mb-4;
+    }
+}
+main {
+    @apply md:col-span-2;
+}
+h2 {
+    @apply mt-8 mb-4 font-heading text-xl;
+}
+.cover {
+    @apply rounded-lg shadow-lg mb-4;
+}
+</style>

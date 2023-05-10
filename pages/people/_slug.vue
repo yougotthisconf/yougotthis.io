@@ -27,7 +27,7 @@ export default {
     async asyncData({ $directus, params }) {
         const person = await $directus.items('people').readOne(params.slug)
         const { data: content } = await $directus.items('library').readByQuery({
-            filter: { 'people': { 'people_slug': { '_eq': params.slug } } },
+            filter: { people: { people_slug: { '_eq': params.slug } } },
             sort: '-date',
             fields: ['slug', 'title', 'cover', 'type', 'duration', 'people.people_slug.title', 'people.people_slug.image']
         })
