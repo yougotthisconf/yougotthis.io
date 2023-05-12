@@ -2,6 +2,9 @@ import config from './config'
 import copyContentImages from './utils/copy-content-images.js'
 copyContentImages()
 
+import { Directus } from '@directus/sdk';
+const directus = new Directus(config.dataURL)
+
 export default {
   target: 'static',
   telemetry: false,
@@ -58,56 +61,12 @@ export default {
     { src: '~/plugins/directus.js'}
   ],
   generate: {
-    async routes() {
-      // const { $content } = require('@nuxt/content') // eslint-disable-line
-      // const items = await $content('events', { deep: true }).fetch();
-      // const events = items.map(i => i.dir)
-      // const socials = events.map(i => i + '/social')
-      // const routes = [...events, ...socials]
-      // console.log(routes)
-      // return routes
-    }
   },
   moment: {
 		timezone: true,
 	},
   tailwindcss: {
     cssPath: '~/assets/style.css'
-  },
-  feed: [
-    {
-      path: '/feed.xml',
-      async create(feed) {
-        // feed.options = {
-        //   title: config.title,
-        //   description: config.description,
-        //   link: config.baseURL + '/feed.xml'
-        // }
-        // const { $content } = require('@nuxt/content') // eslint-disable-line
-        // const items = await $content('library', { deep: true }).sortBy('date', 'desc').fetch();
-        // items.forEach(item => {
-        //   const url = `${config.baseURL}/library/${item.slug}`;
-        //   feed.addItem({
-        //     title: item.title,
-        //     id: url,
-        //     link: url,
-        //     description: item.descriptions.full,
-        //     content: item.bodyText,
-        //   });
-        // });
-      },
-      cacheTime: 1000 * 60 * 15,
-      type: 'rss2',
-    },
-  ], // this is the end of the feed settings
-  hooks: {
-    'content:file:beforeInsert': document => {
-      const md = require('markdown-it')() // eslint-disable-line
-      if (document.extension === '.md') {
-        const mdToHtml = md.render(document.text) // eslint-disable-line
-        document.bodyText = mdToHtml
-      }
-    },
   },
   markdownit: {
     runtime: true,
