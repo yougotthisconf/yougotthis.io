@@ -39,8 +39,7 @@ export default {
             nav: {
                 primary: [
                     { label: 'Library', path: '/library' },
-                    { label: 'Events', path: '/events' },
-                    { label: 'Merch', path: '/merch' },
+                    { label: 'Events', path: '/events' }
                 ],
                 secondary: [
                     { label: 'Newsletter', url: '/newsletter' },
