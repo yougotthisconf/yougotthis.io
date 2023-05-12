@@ -18,6 +18,9 @@
             </aside>
             <main>
                 <iframe v-if="item.type === 'video'" :src="`https://player.vimeo.com/video/${item.vimeo}?h=44d49687ad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479`" frameborder="0" allow="fullscreen; picture-in-picture" allowfullscreen class="w-full" style="aspect-ratio: 16/9"></iframe>
+                <extra-reading v-if="item.summary" title="Summary" class="mt-8">
+                    <div class="prose max-w-full mt-4" v-html="item.summary"></div>
+                </extra-reading>
                 <h2 v-if="item.type !== 'article'">Transcript</h2>
                 <article class="max-w-full prose lg:prose-lg" v-html="item.body"></article>
             </main>
@@ -41,7 +44,6 @@ export default {
         let sponsors = collections.map(c => c.sponsors).flat().map(c => c.sponsors_slug)
         sponsors = sponsors.filter((v,i,a)=>a.findIndex(v2=>(v2.slug===v.slug))===i)
 
-        console.log(item)
         return { item, collections, sponsors }
     },
     head() {
