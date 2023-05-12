@@ -30,7 +30,7 @@
 <script>
 import headFactory from '@/utils/head-factory'
 export default {
-    async asyncData({ $content, $directus }) {
+    async asyncData({ $directus }) {
 
         let { data: { collections } } = await $directus.items('featured').readByQuery({
             fields: ['collections.item.slug', 'collections.item.title', 'collections.item.description', 'collections.item.cover']
