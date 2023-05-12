@@ -4,12 +4,9 @@
 
         <div v-else class="box !p-0 not-prose">
             <div class="top">
-                <div v-if="speakers.length > 0" class="img">
-                    <img v-for="person in speakers" :key="person.dir" :src="`${person.dir}/${person.avatar}`" :alt="person.title">
-                </div>
                 <div class="meta">
                     <h2 class="font-normal">{{ title }}</h2>
-                    <span v-if="speakers.length > 0" class="mr-2" >{{ speakers.map(p => p.title).join(', ') }}</span>
+                    <span v-if="speakers" class="mr-2" >{{ speakers }}</span>
                     <span v-if="start">
                         {{ $moment.utc(start).local().format('HH:mm') }}
                         {{ $moment.tz.guess(true).split('/')[1].split('_').join(' ') }}
@@ -17,18 +14,8 @@
                 </div>
             </div>
             <div class="main">
-                <p v-if="description" class="description">{{ description }}</p>
+                <p v-if="description" class="description" v-html="description"></p>
                 <slot />
-            </div>
-            <div v-if="speakers.length > 0" class="people">
-                <details v-for="person in speakers" :key="person.dir">
-                    <summary>
-                        <span>About {{ person.title }}</span>
-                        <span v-if="person.pronouns">({{ person.pronouns }})</span>
-                    </summary>
-                    <nuxt-content :document="person" class="bio not-prose my-0"></nuxt-content>
-                    <a v-if="person.twitter" :href="`https://twitter.com/${person.twitter}`" class="button text-sm mt-2">@{{ person.twitter }} on Twitter</a>
-                </details>
             </div>
         </div>
     </div>
@@ -52,9 +39,14 @@ export default {
             default: ''
         },
         speakers: {
-            type: Array,
+            type: String,
             required: false,
-            default: () => []
+            default: ''
+        },
+        bios: {
+            type: String,
+            required: false,
+            default: ''
         }
     },
     computed: {
@@ -73,7 +65,7 @@ export default {
 
 <style scoped>
 .box {
-    @apply my-4;
+    @apply mb-8;
 }
 .top {
     @apply p-4 flex items-center;
