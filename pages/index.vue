@@ -37,8 +37,18 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-  async asyncData({ $content, $directus }) {
-    const events = await $content('events', { deep: true }).where({ past: { $ne: true }, hide: { $ne: true } }).sortBy('start', 'asc').limit(3).without(['body']).fetch()
+  async asyncData({ $directus }) {
+    const { data: events } = await $directus.items('events').readByQuery({
+      limit: 3,
+      sort: 'start',
+      fields: ['*', '*.*'],
+      filter: {
+        "_or": [
+				{ is_past: { _null: true } },
+				{ is_past: { _neq: true } },
+			]
+      }
+    })
 
     const { data: content } = await $directus.items('library').readByQuery({ 
         limit: 8,
