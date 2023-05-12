@@ -59,13 +59,13 @@ export default {
   ],
   generate: {
     async routes() {
-      const { $content } = require('@nuxt/content') // eslint-disable-line
-      const items = await $content('events', { deep: true }).fetch();
-      const events = items.map(i => i.dir)
-      const socials = events.map(i => i + '/social')
-      const routes = [...events, ...socials]
-      console.log(routes)
-      return routes
+      // const { $content } = require('@nuxt/content') // eslint-disable-line
+      // const items = await $content('events', { deep: true }).fetch();
+      // const events = items.map(i => i.dir)
+      // const socials = events.map(i => i + '/social')
+      // const routes = [...events, ...socials]
+      // console.log(routes)
+      // return routes
     }
   },
   moment: {
@@ -78,23 +78,23 @@ export default {
     {
       path: '/feed.xml',
       async create(feed) {
-        feed.options = {
-          title: config.title,
-          description: config.description,
-          link: config.baseURL + '/feed.xml'
-        }
-        const { $content } = require('@nuxt/content') // eslint-disable-line
-        const items = await $content('library', { deep: true }).sortBy('date', 'desc').fetch();
-        items.forEach(item => {
-          const url = `${config.baseURL}/library/${item.slug}`;
-          feed.addItem({
-            title: item.title,
-            id: url,
-            link: url,
-            description: item.descriptions.full,
-            content: item.bodyText,
-          });
-        });
+        // feed.options = {
+        //   title: config.title,
+        //   description: config.description,
+        //   link: config.baseURL + '/feed.xml'
+        // }
+        // const { $content } = require('@nuxt/content') // eslint-disable-line
+        // const items = await $content('library', { deep: true }).sortBy('date', 'desc').fetch();
+        // items.forEach(item => {
+        //   const url = `${config.baseURL}/library/${item.slug}`;
+        //   feed.addItem({
+        //     title: item.title,
+        //     id: url,
+        //     link: url,
+        //     description: item.descriptions.full,
+        //     content: item.bodyText,
+        //   });
+        // });
       },
       cacheTime: 1000 * 60 * 15,
       type: 'rss2',
@@ -114,6 +114,7 @@ export default {
     preset: 'default',
     linkify: true,
     breaks: true,
+    runtime: true,
     use: ['markdown-it-div', 'markdown-it-attrs'],
   }
 }
