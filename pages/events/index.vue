@@ -11,20 +11,11 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-  async asyncData({ $content }) {
-    const upcoming = await $content('events', { deep: true })
-      .where({ hide: { $ne: true } })
-      .where({ past: { $ne: true } })
-      .sortBy('start', 'asc')
-      .without(['body'])
-      .fetch()
-    const past = await $content('events', { deep: true })
-      .where({ hide: { $ne: true } })
-      .where({ past: true })
-      .sortBy('start', 'desc')
-      .without(['body'])
-      .fetch()
-    return { upcoming, past }
+  async asyncData({ $directus }) {
+    const { data: events } = await $directus.items('events').readByQuery({ fields: ['*', '*.*'] })
+    const past = events.filter(e => e.is_past === true).sort((a, b) => new Date(b.start) - new Date(a.start))
+    const upcoming = events.filter(e => e.is_past !== true).sort((a, b) => new Date(a.start) - new Date(b.start))
+    return { past, upcoming }
   },
   head() {
     return headFactory({

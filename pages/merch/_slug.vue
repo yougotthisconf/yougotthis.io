@@ -31,7 +31,6 @@ import headFactory from '@/utils/head-factory'
 export default {
   async asyncData({ $directus, params }) {
     const product = await $directus.items('merch').readOne(params.slug, {fields: ['*', '*.*', '*.*.*']})
-    console.log(product)
     return { product }
   },
   head() {
