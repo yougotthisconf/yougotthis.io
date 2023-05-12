@@ -7,16 +7,15 @@
       <li aria-hidden="true" class="hidden md:block">&bull;</li>
       <li>Exchanging sizes is easy</li>
     </ul>
-    <div v-for="category in categories" :key="category.title" class="mt-12">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-        <n-link v-for="product in category.products" :key="product.title" :to="product.dir" class="product">
-          <img :src="`${product.dir}/${product.images[0].name}`" :alt="product.images[0].alt">
-          <div class="meta">
-            <h3>{{ product.title }} - £{{ product.price_gbp }}</h3>
-            <p>{{ product.description }}</p>
-          </div>
-        </n-link>
-      </div>
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 mt-12">
+      <n-link v-for="product in merch" :key="product.slug" :to="`/merch/${product.slug}`" class="product"> 
+        <img :src="$asset(product.images[0].directus_files_id.id)" :alt="merch[0].images[0].directus_files_id.description">
+        <div class="meta">
+          <h3>{{ product.title }} - £{{ product.price_gbp }}</h3>
+          <p>{{ product.description }}</p>
+        </div>
+      </n-link>
     </div>
   </div>
 </template>
@@ -25,22 +24,14 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-  async asyncData({ $content }) {
-    let categories = await $content('merch/categories').fetch()
-    let products = await $content('merch', { deep: true }).fetch()
-    products = products.filter(p => p.slug !== 'categories')
-
-    categories = categories.list.map(category => {
-        const prods = category.products.map(item => products.find(product => product.dir.includes(item)))
-        return { ...category, products: prods }
-    })
-
-    return { categories }
+  async asyncData({ $directus }) {
+    const { data: merch } = await $directus.items('merch').readByQuery({fields:['*', '*.*', '*.*.*']})
+    return { merch }
   },
   head() {
     return headFactory({
       title: 'Merch',
-      description: 'A set of comfy and <n-link to="/merch/sustainability" class="underline">sustainable</n-link> items to remind yourself that you got this!',
+      description: 'A set of comfy and sustainable items to remind yourself that you got this!',
       path: this.$route.path
     })
   },
