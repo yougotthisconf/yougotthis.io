@@ -1,6 +1,6 @@
 <template>
-    <n-link :to="collection.dir">
-        <img :src="`${collection.dir}/${collection.cover}`" alt="">
+    <n-link :to="`/collections/${collection.slug}`">
+        <img :src="$asset(collection.cover)" alt="">
         <div class="meta">
             <h2 :data-title="collection.title">{{ collection.title }}</h2>
             <p>{{ collection.description }}</p>

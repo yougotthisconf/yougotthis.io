@@ -10,8 +10,11 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-    async asyncData({ $content, params }) {
-        const people = await $content('people', { deep: true }).sortBy('title', 'asc').only(['title', 'avatar', 'dir']).fetch()
+    async asyncData({ $directus }) {
+        const { data: people } = await $directus.items('people').readByQuery({ 
+          fields: ['slug', 'title', 'image'],
+          sort: 'title',
+        })
         return { people }
     },
     head() {

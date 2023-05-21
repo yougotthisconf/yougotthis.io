@@ -2,7 +2,7 @@
     <div class="wrapper my-16">
       <h1 class="heading text-center">{{ product.title }} - £{{product.price_gbp}}</h1>
       <div class="images">
-        <img v-for="image in product.images" :key="image.name" :src="`${product.dir}/${image.name}`" :alt="image.alt">
+        <img v-for="image in product.images" :key="image.directus_files_id.id" :src="`${$asset(image.directus_files_id.id)}?width=250`" :alt="image.directus_files_id.description">
       </div>
         <p class="mt-8 text-center font-bold text-lg md:text-xl">{{ product.description }}</p>
 
@@ -29,8 +29,8 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-  async asyncData({ $content, params }) {
-    const product = await $content('merch', params.slug, 'index').fetch()
+  async asyncData({ $directus, params }) {
+    const product = await $directus.items('merch').readOne(params.slug, {fields: ['*', '*.*', '*.*.*']})
     return { product }
   },
   head() {
@@ -38,7 +38,7 @@ export default {
       title: this.product.title,
       description: this.product.description,
       path: this.$route.path,
-      image: this.product.images[0].name
+      image: this.$asset(this.product.images[0].directus_files_id.id)
     })
   },
 }

@@ -1,7 +1,7 @@
 <template>
-    <a :href="event.url || event.dir">
+    <a :href="event.redirect_url || `/events/${event.slug}`">
         <div class="thumb">
-            <img :src="`${event.dir}/${event.cover}`" alt="">
+            <img :src="`${$asset(event.cover.id)}?width=760`" alt="">
         </div>
         <h2 :data-title="event.title">{{ event.title }}</h2>
         <p v-if="showDescription">{{ event.description }}</p>
@@ -52,5 +52,17 @@ h2 {
 }
 p {
     @apply mb-2
+}
+.meta {
+    @apply flex flex-wrap gap-x-4 gap-y-2 text-xs;
+}
+.info {
+    @apply flex items-center gap-1;
+    & svg {
+        @apply h-4 w-4;
+    }
+    &:last-child {
+        @apply gap-0.5;
+    }
 }
 </style>

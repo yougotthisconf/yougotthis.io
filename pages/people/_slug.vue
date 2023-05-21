@@ -2,12 +2,12 @@
     <div>
         <section class="top">
             <div class="max-w-3xl mx-auto p-4 pb-20">
-                <img :src="`${person.dir}/${person.avatar}`" :alt="`Picture of ${person.title}`" class="w-24">
+                <img :src="`${$asset(person.image)}`" :alt="`Picture of ${person.title}`" class="w-24">
                 <h1 class="heading">
                     <span>{{ person.title }}</span>
                     <span v-if="person.pronouns" class="pronouns">({{ person.pronouns }})</span>
                 </h1>
-                <nuxt-content :document="person" class="mt-6 mb-4"></nuxt-content>
+                <article v-if="person.bio" class="mt-6 mb-4" v-html="person.bio"></article>
                 <a v-if="person.twitter" class="button bright mt-4" :href="`https://twitter.com/${person.twitter}`">@{{ person.twitter }} on Twitter</a>
             </div>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="h-6 w-full bg-theme-white">
@@ -24,17 +24,13 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-    async asyncData({ $content, params }) {
-        const person = await $content('people', params.slug, 'index').fetch()
-        const people = await $content('people', { deep: true }).only(['title', 'avatar', 'dir']).fetch()
-        let content = await $content('library', { deep: true }).where({ people: { $contains: params.slug } }).without(['body']).fetch()
-
-        content = content.map(item => {
-            let profiles = item.people.map(name => people.find(person => person.dir.split('/')[2] === name))
-            profiles = profiles.map(profile => ({ ...profile, avatar: `${profile.dir}/${profile.avatar}` }))
-            return { ...item, people: profiles }
+    async asyncData({ $directus, params }) {
+        const person = await $directus.items('people').readOne(params.slug)
+        const { data: content } = await $directus.items('library').readByQuery({
+            filter: { people: { people_slug: { '_eq': params.slug } } },
+            sort: '-date',
+            fields: ['slug', 'title', 'cover', 'type', 'duration', 'people.people_slug.title', 'people.people_slug.image']
         })
-
         return { person, content }
     },
     head() {

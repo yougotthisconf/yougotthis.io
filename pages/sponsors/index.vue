@@ -16,10 +16,10 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-    async asyncData({ $content }) {
-        const sponsors = await $content('sponsors', { deep: true }).sortBy('name', 'asc').fetch()
-        const current = await sponsors.filter(sponsor => sponsor.current)
-        const past = await sponsors.filter(sponsor => !sponsor.current)
+    async asyncData({ $directus }) {
+        const { data: sponsors } = await $directus.items('sponsors').readByQuery({ sort: 'title' })
+        const current = sponsors.filter(sponsor => sponsor.current)
+        const past = sponsors.filter(sponsor => !sponsor.current)
 
         return { current, past }
     },

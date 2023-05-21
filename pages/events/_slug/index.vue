@@ -2,26 +2,39 @@
     <div class="wrapper my-12 md:grid md:grid-cols-3 gap-y-8 sm:gap-8">
         <aside>
             <div class="details">
-                <img :src="`${event.dir}/${event.cover}`" alt="" class="rounded">
+                <img :src="`${$asset(event.cover.id)}?width=760`" alt="" class="rounded">
                 <h1 :data-title="event.title">{{ event.title }}</h1>
                 <p v-if="event.description">{{ event.description }}</p>
 
-                <EventMeta :event="event" />
+                <EventMeta :event="event" class="mb-4" />
 
-                <a v-if="event.link" :href="event.link.url" class="button bright link">{{ event.link.text }}</a>
+                <a v-for="link in event.links" :key="link.url" :href="link.url"  class="button bright link">{{ link.text }}</a>
             </div>
 
             <div class="sponsors mb-8">
-                <h2 v-if="sponsors.length > 0">Sponsored by</h2>
-                <SponsorList :list="sponsors" grid-class="grid-cols-2 gap-2 mt-2" />
-                <a v-if="event.sponsorship" :href="event.sponsorship.url" class="underline block mt-2">{{ event.sponsorship.text }}</a>
+                <h2 v-if="event.sponsors?.length > 0">Sponsored by</h2>
+                <SponsorList :list="event.sponsors" grid-class="grid-cols-2 gap-2 mt-2" />
             </div>
-
-
         </aside>
         <main>
             <NewsletterBlock v-if="event.save_the_date" title="Tickets available soon" text="To get updates about this event, register for our newsletter." />
-            <nuxt-content :document="event" class="max-w-full prose lg:prose-lg" :class="{'mt-6' :event.save_the_date}" />
+
+            <article v-if="event.top_text" class="prose mb-8" v-html="event.top_text"></article>
+
+            <div v-if="event.sessions?.length > 0">
+                <EventSession 
+                  v-for="session in event.sessions"
+                  :key="`${session.title}-${session.start}`"
+                  :title="session.title"
+                  :start="session.start"
+                  :description="session.description"
+                  :speakers="session.speaker_names" />
+            </div>
+
+            <div v-if="event.people?.length > 0">
+                <h2 class="font-heading text-xl">Meet our speakers</h2>
+                <Person v-for="person in event.people" :key="person.slug" :person="person" :show-arrow="false" class="mt-4" />
+            </div>
         </main>
     </div>
 </template>
@@ -30,24 +43,21 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-    async asyncData({ $content, params, redirect }) {
-        const event = await $content('events', params.slug, 'index').fetch()
-        if(event.url) redirect(event.url);
+    async asyncData({ $directus, params, redirect }) {
+        const event = await $directus.items('events').readOne(params.slug, { 
+            fields: ['*', '*.*', '*.*.*']
+        })
+        event.sponsors = event.sponsors.map(s => s.sponsors_slug)
+        event.people = event.people.map(p => p.people_slug)
 
-        const sponsors = event.sponsors ? await $content('sponsors', { deep: true }).where({dir: {'$in': event.sponsors.map(s => `/sponsors/${s}`)}}).fetch() : []
-
-        let people = event.people ? await $content('people', { deep: true }).where({dir: {'$in': event.people.map(p => `/people/${p}`)}}).fetch() : []
-        people = people.map(p => ({...p, slug: p.dir.split('/')[2]}))
-        people = people.reduce((acc, curr) => { acc[curr.slug] = curr; return acc; }, {})
-
-        return { event: { ...event, people }, sponsors }
+        return { event }
     },
     head() {
         return headFactory({
             title: this.event.title,
             description: this.event.description,
             path: this.$route.path,
-            image: this.event.cover
+            image: this.$asset(this.event.cover.id)
         })
     },
 }

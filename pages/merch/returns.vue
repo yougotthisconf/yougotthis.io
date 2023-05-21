@@ -16,7 +16,7 @@ export default {
   head() {
     return headFactory({
       title: this.page.title,
-      description: this.page.description,
+      description: this.page.description, 
       path: this.$route.path
     })
   },

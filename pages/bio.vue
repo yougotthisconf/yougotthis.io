@@ -23,7 +23,8 @@ export default {
     })
   },
   async mounted() {
-    this.links = await fetch('/.netlify/functions/get-bio-links').then(r => r.json())
+    const response = await this.$directus.items('links_in_bio').readByQuery()
+    this.links = response.data.link
   },
 }
 </script>

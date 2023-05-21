@@ -8,8 +8,8 @@
 import headFactory from '@/utils/head-factory'
 
 export default {
-    async asyncData({ $content }) {
-        const items = await $content('library', { deep: true }).without(['body']).fetch()
+    async asyncData({ $directus }) {
+        const { data: items } = await $directus.items('library').readByQuery({ limit: -1, fields: ['slug'] })
         return { items }
     },
     head() {
@@ -21,12 +21,7 @@ export default {
     created() {
         const it = this.items
         const random = it[Math.floor(Math.random() * it.length)]
-
-        let path
-        if(random.slug !== 'index') path = `/library/${random.slug}`
-        else path = `/library/${random.path.split('/').slice(-2)[0]}`
-
-        this.$router.push({ path });
+        this.$router.push({ path: `/library/${random.slug}` });
     },
 }
 </script>

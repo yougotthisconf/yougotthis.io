@@ -11,11 +11,15 @@
 <script>
 import headFactory from '@/utils/head-factory'
 export default {
-  async asyncData({ $content }) {
-    const main = await $content('collections', { deep: true }).without(['body']).where({ type: { $ne: 'event' } }).sortBy('highlight', 'desc').sortBy('date', 'desc').fetch()
-    const events = await $content('collections', { deep: true }).without(['body']).where({ type: 'event' }).sortBy('highlight', 'desc').sortBy('date', 'desc').fetch()
-
+  async asyncData({ $directus }) {
+    const { data: collections } = await $directus.items('collections').readByQuery({
+      fields: ['slug', 'title', 'description', 'cover', 'is_event'],
+      sort: '-date'
+    })
+    const main = collections.filter(c => !c.is_event)
+    const events = collections.filter(c => c.is_event === true)
     return { main, events }
+
   },
   head() {
     return headFactory({
