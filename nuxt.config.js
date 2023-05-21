@@ -1,9 +1,5 @@
-import config from './config'
 import copyContentImages from './utils/copy-content-images.js'
 copyContentImages()
-
-import { Directus } from '@directus/sdk';
-const directus = new Directus(config.dataURL)
 
 export default {
   target: 'static',
@@ -52,7 +48,6 @@ export default {
   modules: [
     '@nuxtjs/axios',
     '@nuxt/content',
-    '@nuxtjs/feed',
     '@nuxtjs/markdownit'
   ],
   plugins: [
@@ -60,8 +55,6 @@ export default {
     { src: '~/plugins/html2canvas.js', mode: 'client' },
     { src: '~/plugins/directus.js'}
   ],
-  generate: {
-  },
   moment: {
 		timezone: true,
 	},
@@ -75,5 +68,8 @@ export default {
     breaks: true,
     runtime: true,
     use: ['markdown-it-div', 'markdown-it-attrs'],
+  },
+  generate: {
+    interval: 25
   }
 }
