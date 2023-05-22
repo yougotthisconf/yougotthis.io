@@ -21,7 +21,7 @@
 
             <article v-if="event.top_text" class="prose mb-8" v-html="event.top_text"></article>
 
-            <div v-if="event.sessions?.length > 0">
+            <div v-if="event.sessions?.length > 0 && !event.save_the_date">
                 <EventSession 
                   v-for="session in event.sessions"
                   :key="`${session.title}-${session.start}`"
