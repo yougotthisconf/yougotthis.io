@@ -70,6 +70,6 @@ export default {
     use: ['markdown-it-div', 'markdown-it-attrs'],
   },
   generate: {
-    interval: 25
+    interval: 50
   }
 }
