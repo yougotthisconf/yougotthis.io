@@ -17,7 +17,7 @@
             </div>
         </aside>
         <main>
-            <NewsletterBlock v-if="event.save_the_date" title="Tickets available soon" text="To get updates about this event, register for our newsletter." />
+            <NewsletterBlock v-if="event.save_the_date" class="mt-8" title="Tickets available soon" text="To get updates about this event, register for our newsletter." />
 
             <article v-if="event.top_text" class="prose mb-8" v-html="event.top_text"></article>
 
