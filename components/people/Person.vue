@@ -1,7 +1,7 @@
 <template>
     <n-link :to="`/people/${person.slug}`" class="box">
         <div class="core">
-            <img :src="`${$asset(person.image)}?width=30`" :alt="person.title" class="w-12">
+            <img :src="`${$asset(person.image)}?width=100`" :alt="person.title" class="w-12">
             <p>{{ person.title }} <span v-if="person.pronouns">({{ person.pronouns }})</span></p>
             <svg v-if="showArrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" />
