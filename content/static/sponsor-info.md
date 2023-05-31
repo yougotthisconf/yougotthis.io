@@ -17,15 +17,13 @@ Meetup sponsorship is €600 per event or €2000 for 4 if paid upfront. It incl
 - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
 - 3 Tweets of thanks.
 
-2023 dates are March 15, July 12, September 27, and December 13.
-
 </extra-reading>
 
 <extra-reading title="Sponsor Fearless Freelancing Event (June)" class="mt-4">
 
 A special one-off online meetup focused on core skills related to freelancing with an expected 250 attendees.
 
-Meetup sponsorship is €600. It includes:
+Meetup sponsorship is €600 per event or €2000 for 4 if paid upfront. It includes:
 - Your logo on event webpage, on the livestream, and library pages.
 - A 5 minute live or pre-recorded talk to be shared as part of the livestream.
 - 3 Tweets of thanks.
@@ -59,9 +57,11 @@ It will take place on August 26.
 
 Our flagship annual conference on January 13 2024 marks both our return to in-person, and an experimental hybrid/distributed format. 
 
-Four simultaneous events will take place in London, New York City, San Francisco, and Remote, each physical event at 10:00-18:00 local. At any point in time, only one speaker will be live in each of the three locations (or fully-remotely). Each event will either be hosting the live speaker, or act as a watch party. We will develop a common layer for networking, socialising, and engaging with sponsors. 
+Four events will take place, on the same day, in London, New York City, and San Francisco. Parts of each event will be constructed into a livestream for remote participants. We will develop a common layer for networking, socialising, and engaging with sponsors. 
 
-This event is still in the works, but if you want to support it financially or with space to host, please get in touch. Each physical event will be 100-150 people.
+We expect 80-100 in-person attendees in each location, and 1500 to join online.
+
+[Learn more about sponsoring All Aboard You Got This](/sponsors/info/all-aboard)
 
 </extra-reading>
 
@@ -88,7 +88,7 @@ For the first time since You Got This was formed, we asked monitoring questions 
 
 ## Surplus Funds
 
-Surplus funds go towards ongoing running costs of You Got This! Any further additional funds are put towards the next inclusion programme we run (generally providing free tickets to our paid workshops before conferences).
+Surplus funds go towards ongoing running costs of You Got This! Any further additional funds are put towards the next inclusion programme we run (generally providing free tickets to our paid in-person conferences or workshops).
 
 ## Interested?
 
