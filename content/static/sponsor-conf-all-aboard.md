@@ -24,7 +24,7 @@ You can check out our [previous content in our library](/library).
 - Date: January 13 2024
 - Locations: London, New York City, San Francisco, Online
 - Format summary: 3 all-day online-person conferences with portions of each livestreamed to comprise a full-day online conference. All content recorded and available for free.
-- Attendees: 80-100 in each location, 1000-1500 online.
+- Attendees: 80-100 in each location, 1500-2000 online.
 - Commitments: 
   - Affordable tickets (approx $50) with a minimum 25% of tickets given away as scholarships.
   - Live captioning in all venues and online. Transcripts available after the event.8
