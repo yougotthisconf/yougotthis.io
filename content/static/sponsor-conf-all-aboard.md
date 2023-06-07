@@ -53,7 +53,7 @@ You can check out our [previous content in our library](/library).
 |Video up to 5 minutes shown| |✅|✅|
 |Full-length speaking slot| | |✅|
 |<h3>Pricing</h3>| | | |
-||€1,000|€5,000|€10,000|
+||€1,000|€3,000|€7,500|
 
 ❇️ = Items must be approved<br>
 ✳️ = Periodically<br>
