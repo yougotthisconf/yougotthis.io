@@ -15,15 +15,6 @@ git<template>
             <div class="pt-6 lg:pt-20 lg:col-span-2">
                 <ul class="flex flex-wrap lg:text-xl gap-6 mb-12 mt-6 lg:mt-0">
                     <li>
-                        <n-link to="/library">Content Library</n-link>
-                    </li>
-                    <li>
-                        <n-link to="/events">Upcoming Events</n-link>
-                    </li>
-                    <li>
-                        <n-link to="/contribute">Speak or Write for Us</n-link>
-                    </li>
-                    <li>
                         <n-link to="/sponsors/info">Sponsor You Got This</n-link>
                     </li>
                     <li>
@@ -31,6 +22,9 @@ git<template>
                     </li>
                     <li>
                         <n-link to="/random">Random Item</n-link>
+                    </li>
+                    <li>
+                        <n-link to="/impressum">Impressum</n-link>
                     </li>
                 </ul>
                 <ul class="flex flex-wrap gap-6">
