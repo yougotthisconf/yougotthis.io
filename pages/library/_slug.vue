@@ -21,7 +21,7 @@
                 <extra-reading v-if="item.summary" title="Summary" class="mt-8">
                     <div class="prose max-w-full mt-4" v-html="item.summary"></div>
                 </extra-reading>
-                <h2 v-if="item.type !== 'article'">Transcript</h2>
+                <h2 v-if="item.type !== 'article' && item.body">Transcript</h2>
                 <article class="max-w-full prose lg:prose-lg" v-html="item.body"></article>
             </main>
         </div>

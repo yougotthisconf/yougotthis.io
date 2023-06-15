@@ -1,5 +1,5 @@
 <template>
-    <details class="box">
+    <details class="box" open>
         <summary><span>{{ title }}</span></summary>
         <div class="text">
             <slot />
