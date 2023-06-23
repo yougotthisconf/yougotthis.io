@@ -8,7 +8,9 @@ It is incredibly important to us that speakers and writers are paid for their ti
 
 ## Events
 
-<extra-reading title="Sponsor Quarterly Seasonal Meetups (March, July, Sept, Dec)">
+<!-- <sponsor-upcoming-events class="mb-12"></sponsor-upcoming-events> -->
+
+<extra-reading title="Sponsor Quarterly Seasonal Meetups">
 
 Our seasonal events are quarterly online meetups which typically have 150-200 attendees and have a number of 15-minute talks with questions. We take up to 4 sponsors per event.
 
@@ -19,20 +21,7 @@ Meetup sponsorship is €600 per event or €2000 for 4 if paid upfront. It incl
 
 </extra-reading>
 
-<extra-reading title="Sponsor Fearless Freelancing Event (June)" class="mt-4">
-
-A special one-off online meetup focused on core skills related to freelancing with an expected 250 attendees.
-
-Meetup sponsorship is €600 per event or €2000 for 4 if paid upfront. It includes:
-- Your logo on event webpage, on the livestream, and library pages.
-- A 5 minute live or pre-recorded talk to be shared as part of the livestream.
-- 3 Tweets of thanks.
-
-It will take place on International Freelancers' Day - June 15.
-
-</extra-reading>
-
-<extra-reading title="Sponsor Now That's What I Call You Got This Conference (Aug)" class="mt-4">
+<extra-reading title="Sponsor Now That's What I Call You Got This Conference" class="mt-4">
 
 This is a special one-off online conference with an expected 1000 attendees. 
 
@@ -53,7 +42,28 @@ It will take place on August 26.
 
 </extra-reading>
 
-<extra-reading title="Sponsor the All Aboard You Got This Conference (Jan 2024)" class="mt-4">
+<extra-reading title="Sponsor The Path Ahead Events" class="mt-4">
+
+A collaborative three-part event series with [Codebar](https://codebar.io/), The Path Ahead will explore the different stages of a developer's career, from getting started to becoming a tech leader. 
+
+With over 20,000 community members between students and coaches, codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech. We expect 400-500 live attendees for each event, with all content made available for free in our content library after.
+
+Meetup sponsorship is £1000 per event or £2500 for 3 if paid upfront. It includes:
+- Your logo on event webpage, on the livestream, and library pages.
+- A 5 minute live or pre-recorded talk to be shared as part of the livestream.
+- 3 Tweets of thanks.
+
+The Path Ahead consists of:
+
+- Thurs 5 Oct: Nailing Your First Job
+- Thurs 2 Nov: Navigating Year 1
+- Thurs 7 Dec: Year 2 And Beyond
+
+For this event, codebar will handle sponsorship as a UK-based charity.
+
+</extra-reading>
+
+<extra-reading title="Sponsor the All Aboard You Got This Conference" class="mt-4">
 
 Our flagship annual conference on January 13 2024 marks both our return to in-person, and an experimental hybrid/distributed format. 
 
