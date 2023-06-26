@@ -44,9 +44,9 @@ It will take place on August 26.
 
 <extra-reading title="Sponsor The Path Ahead Events" class="mt-4">
 
-A collaborative three-part event series with [Codebar](https://codebar.io/), The Path Ahead will explore the different stages of a developer's career, from getting started to becoming a tech leader. 
+A collaborative three-part event series with [codebar](https://codebar.io/), The Path Ahead will explore the different stages of a developer's career, from getting started to becoming a tech leader. 
 
-With over 20,000 community members between students and coaches, codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech. We expect 400-500 live attendees for each event, with all content made available for free in our content library after.
+With over 23,000 community members between students and coaches, codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech. We expect 400-500 live attendees for each event, with all content made available for free in our content library after.
 
 Meetup sponsorship is £1000 per event or £2500 for 3 if paid upfront. It includes:
 - Your logo on event webpage, on the livestream, and library pages.
