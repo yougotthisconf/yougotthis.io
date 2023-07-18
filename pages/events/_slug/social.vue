@@ -1,67 +1,43 @@
 <template>
   <div class="wrapper">
-    <nuxt-content :document="event" class="max-w-full prose lg:prose-lg" :class="{'mt-6' :event.save_the_date}" />
+    <div v-for="(session, i) in event.sessions" :key="session.title">
+      <div :ref="`card-${i}`" class="mt-12 bg-cover flex flex-col" :style="`background-image: url(${$asset(event.social_bg.id)}); aspect-ratio: 16 / 9;`">
+        <div class="grid grid-cols-4 gap-8 p-8 mb-12 flex-1">
+          <img :src="$asset(session.people[0].image)" alt="" class="rounded-full w-full">
+          <div class="text text-white font-normal heading drop-shadow-md col-span-3 flex flex-col justify-center">
+            <h2 class="text-7xl">{{ session.title }}</h2>
+            <p class="text-4xl mt-4">{{ session.people[0].title }}</p>
+          </div>
+        </div>
+        <img :src="$asset(event.social_bottom.id)" alt="">
+      </div>
+      <button class="mt-4 button bright w-full block" @click="download(i, session.title)">Download</button>
+    </div>
   </div>
 </template>
 
 <script>
-import headFactory from '@/utils/head-factory'
-
 export default {
-  async asyncData({ $content, params, redirect }) {
-      const event = await $content('events', params.slug, 'index').fetch()
-      if(event.url) redirect(event.url);
-
-      const sponsors = event.sponsors ? await $content('sponsors', { deep: true }).where({dir: {'$in': event.sponsors.map(s => `/sponsors/${s}`)}}).fetch() : []
-
-      let people = event.people ? await $content('people', { deep: true }).where({dir: {'$in': event.people.map(p => `/people/${p}`)}}).fetch() : []
-      people = people.map(p => ({...p, slug: p.dir.split('/')[2]}))
-      people = people.reduce((acc, curr) => { acc[curr.slug] = curr; return acc; }, {})
-
-      return { event: { ...event, people }, sponsors }
+  async asyncData({ $directus, params }) {
+    const event = await $directus.items('events').readOne(params.slug, { 
+        fields: ['*', '*.*', '*.*.*']
+    })
+    event.sessions = event.sessions.map(session => {
+      const people = event.people.filter(person => session.speaker_names.includes(person.people_slug.title)).map(p => p.people_slug)
+      return { ...session, people }
+    })
+    return { event }
   },
-  head() {
-      return headFactory({
-          title: this.event.title,
-          description: this.event.description,
-          path: this.$route.path,
-          image: this.event.cover
-      })
+  methods: {
+    async download(i, title) {
+      const [el] = this.$refs[`card-${i}`]
+      console.log({el})
+      const canvas = await this.$html2canvas(el, { useCORS: true, type: 'dataURL', scale: 2 })
+      const a = document.createElement("a")
+      a.href = canvas
+      a.download = `social-${title.toLowerCase().split(':').join('').split(' ').join('-')}.png`
+      a.click()
+    }
   },
 }
-
 </script>
-
-<style scoped>
-aside {
-  @apply lg:col-span-1;
-  @apply flex flex-col gap-8;
-  & .details {
-      & img {
-          @apply shadow rounded-lg
-      }
-      & h1 {
-          @apply font-heading text-theme-main text-xl md:text-2xl mt-2 mb-4;
-          transform: translate3d(0,0,0) rotate(0);
-          &:before {
-              @apply absolute;
-              content: attr(data-title);
-              -webkit-text-stroke: 0.4em white;
-              z-index: -1;
-          }
-      }
-      & p {
-          @apply text-sm mb-4;
-      }
-  }
-  & h2 {
-      @apply font-heading text-xl;
-  }
-  & .link {
-      @apply mt-4 w-full;
-  }
-}
-main {
-  @apply md:col-span-2;
-}
-</style>
