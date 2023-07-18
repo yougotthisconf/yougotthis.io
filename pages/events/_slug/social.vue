@@ -31,7 +31,6 @@ export default {
   methods: {
     async download(i, title) {
       const [el] = this.$refs[`card-${i}`]
-      console.log({el})
       const canvas = await this.$html2canvas(el, { useCORS: true, type: 'dataURL', scale: 2 })
       const a = document.createElement("a")
       a.href = canvas

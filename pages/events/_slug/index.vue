@@ -35,6 +35,8 @@
                 <h2 class="font-heading text-xl">Meet our speakers</h2>
                 <Person v-for="person in event.people" :key="person.slug" :person="person" :show-arrow="false" class="mt-4" />
             </div>
+
+            <a v-if="event.social_bg" class="block mt-4 underline" :href="`/events/${params.slug}/social`">Event social cards</a>
         </main>
     </div>
 </template>
@@ -50,7 +52,7 @@ export default {
         event.sponsors = event.sponsors.map(s => s.sponsors_slug)
         event.people = event.people.map(p => p.people_slug)
 
-        return { event }
+        return { params, event }
     },
     head() {
         return headFactory({
