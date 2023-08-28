@@ -12,7 +12,7 @@ import headFactory from '@/utils/head-factory'
 
 export default {
   async asyncData({ $directus }) {
-    const { data: events } = await $directus.items('events').readByQuery({ fields: ['*', '*.*'] })
+    const { data: events } = await $directus.items('events').readByQuery({ fields: ['*', '*.*'], filter: { hide: { _neq: true } } })
     const past = events.filter(e => e.is_past === true).sort((a, b) => new Date(b.start) - new Date(a.start))
     const upcoming = events.filter(e => e.is_past !== true).sort((a, b) => new Date(a.start) - new Date(b.start))
     return { past, upcoming }

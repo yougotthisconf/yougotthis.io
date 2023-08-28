@@ -44,9 +44,10 @@ export default {
       fields: ['*', '*.*'],
       filter: {
         "_or": [
-				{ is_past: { _null: true } },
-				{ is_past: { _neq: true } },
-			]
+          { is_past: { _null: true } },
+          { is_past: { _neq: true } },
+        ],
+        hide: { _neq: true }
       }
     })
 

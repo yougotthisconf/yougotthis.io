@@ -1,4 +1,7 @@
+import config from './config'
 import copyContentImages from './utils/copy-content-images.js'
+import { Directus } from '@directus/sdk';
+const directus = new Directus(config.dataURL);
 copyContentImages()
 
 export default {
@@ -70,6 +73,13 @@ export default {
     use: ['markdown-it-div', 'markdown-it-attrs'],
   },
   generate: {
-    interval: 100
+    interval: 100,
+    routes(callback) {
+      directus.items('events').readByQuery({ fields: ['*', '*.*'], filter: { hide: { _neq: true } } })
+        .then(({data}) => {
+          const routes = data.map(event => `/events/${event.slug}`)
+          callback(null, routes)
+        })
+    }
   }
 }
