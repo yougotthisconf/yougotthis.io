@@ -14,23 +14,23 @@ It is incredibly important to us that speakers and writers are paid for their ti
 - 47% of the audience that attend You Got This events are considering a change in jobs.
 - Our audience primarily spans the UK, USA, Ireland, Spain, and Germany.
 
-## Conferences
+<!-- ## Conferences
 
 Our hybrid conference - [All Aboard You Got This!](/events/all-aboard) - takes place in London, New York City, San Francisco, and online. It is focused on getting people together to not only learn, but to be able to discuss core skills topics openly. Parts of each event will be constructed into a livestream for remote participants. We will develop a common layer for networking, socialising, and engaging with sponsors.  We expect 100 people in each location, and a further 1500-2000 online. 
 
 We also run a fully-online conference in summer, with remote speaker participation. Sponsorship includes logo visibility (event webpage, livestream, recordings), a 5 minute pre-recorded talk at the event, and 3 tweets of thanks. 
 
-## Meetups
+-->
 
-Our meetups typically have 150-200 attendees attend live, and host 3-4 trusted speakers to deliver core skills talks with a live, moderated Q&A. Some meetups have specific themed (communication, freelancing, etc), while others have a more general focus area. All talks are made available in the library after the event.
+Our events typically have 150-250 attendees attend live, and host 3-4 trusted speakers to deliver core skills talks with a live, moderated Q&A. Some events have specific themed (communication, freelancing, etc), while others have a more general focus area. All talks are made available in the library after the event.
 
 Sponsorship includes logo visibility (event webpage, livestream, recordings), a 5 minute pre-recorded talk at the event, and 3 tweets of thanks. Each meetup can have up to 4 sponsors.
 
-## Article Releases
+<!-- ## Article Releases
 
 We publish new core skills articles three times a year to accompany our video-heavy content library. Each article gets approximately 800 views over the first 30-day period. Each article block can have up to 2 sponsors.
 
-Sponsorship includes 2 custom call-to-actions in each article of the sponsored block, and 3 tweets of thanks.
+Sponsorship includes 2 custom call-to-actions in each article of the sponsored block, and 3 tweets of thanks. -->
 
 ## Sponsorship Opportunities
 
