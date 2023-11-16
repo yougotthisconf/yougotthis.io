@@ -39,25 +39,6 @@
           <li>3 Tweets of thanks</li>
         </ul>
       </div>
-      <div class="box mt-4">
-        <h3>The Path Ahead with codebar</h3>
-        <p><b>£1000 or £2500</b><span class="ml-2">for all 3 if paid upfront</span></p>
-        <p class="!mt-4">A collaborative three-part event series with <a href="https://codebar.io/">codebar</a>, The Path Ahead will explore the different stages of a developer's career, from getting started to becoming a tech leader.</p>
-        <p class="!mt-4">With over 23,000 community members between students and coaches, codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech. We expect 400-500 live attendees for each event, with all content made available for free in our content library after.</p>
-        <ul>
-          <li>Your logo on event webpage, on the livestream, and library pages.</li>
-          <li>A 5 minute live or pre-recorded talk to be shared as part of the livestream.</li>
-          <li>3 Tweets of thanks.</li>
-        </ul>
-        <p class="!mt-4">The Path Ahead consists of: </p>
-        <ul>
-          <li>Thurs 5 Oct 2023: Nailing Your First Job</li>
-          <li>Thurs 2 Nov 2023: Navigating Year 1</li>
-          <li>Thurs 7 Dec 2023: Year 2 And Beyond</li>
-        </ul>
-        <p class="!mt-4">For this event, codebar will handle sponsorship as a UK-based charity.</p>
-      </div>
-    </section>
     <!-- <section v-if="selected == 2024">
       <h3>Schedule</h3>
       <div class="schedule">
