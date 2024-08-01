@@ -44,7 +44,6 @@ export default {
                 secondary: [
                     { label: 'Newsletter', url: '/newsletter' },
                     { label: 'Twitter', url: 'https://twitter.com/yougotthisconf' },
-                    { label: 'Instagram', url: 'https://instagram.com/yougotthisconf' },
                 ]
             },
             mobileMenuOpen: false

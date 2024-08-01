@@ -3,22 +3,22 @@
     <!-- <div class="nav">
       <div class="border-b border-gray-200">
         <nav class="-mb-px flex" aria-label="Tabs">
-          <button 
-            class="tab" 
-            :aria-current="selected == '2023' ? 'page' : null" 
+          <button
+            class="tab"
+            :aria-current="selected == '2023' ? 'page' : null"
             @click="selected = 2023">
             2023 <span class="hidden sm:inline">Sponsorships</span>
           </button>
-          <button 
-            class="tab" 
-            :aria-current="selected == '2024' ? 'page' : null" 
+          <button
+            class="tab"
+            :aria-current="selected == '2024' ? 'page' : null"
             @click="selected = 2024">
             2024 <span class="hidden sm:inline">Sponsorships</span>
           </button>
         </nav>
       </div>
     </div> -->
-    <section v-if="selected == 2023">
+    <!-- <section v-if="selected == 2023"> -->
       <!-- <h3>Schedule</h3>
       <div class="schedule">
         <div class="box"><p>March</p><p>Event</p></div>
@@ -71,7 +71,7 @@
                 <li>Thank you at live events and in livestream.</li>
                 <li>1 ticket to event (any location).</li>
                 <li>Distribute small item at locations.</li>
-              </ul>  
+              </ul>
             </details>
           </li>
           <li>
@@ -104,7 +104,7 @@
                 <li>Sponsor table at one location of your choice.</li>
                 <li>Video shown during breaks up to 5'.</li>
                 <li>Live talk slot on stage up to 5'.</li>
-              </ul>  
+              </ul>
             </details>
           </li>
           <li>
@@ -138,7 +138,7 @@
                 <li>Sponsor table at one location of your choice.</li>
                 <li>Video shown during breaks up to 5'.</li>
                 <li>Live talk slot on stage up to 5'.</li>
-              </ul>  
+              </ul>
             </details>
           </li>
           <li>
@@ -176,7 +176,7 @@
                 <li>Live talk slot on stage up to 5'.</li>
                 <li>Full-length live talk in any location.</li>
                 <li>Co-brand entire event in all locations.</li>
-              </ul>  
+              </ul>
             </details>
           </li>
           <li>
