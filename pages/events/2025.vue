@@ -69,7 +69,14 @@
 
 <script>
 export default {
-  layout: 'no-footer'
+  layout: 'no-footer',
+  head() {
+    return {
+      bodyAttrs: {
+        class: ['event-2025']
+      }
+    }
+  }
 }
 </script>
 
@@ -80,7 +87,7 @@ export default {
   --b: #121928;
   --font: "Averia Libre", sans-serif;
 }
-header {
+body.event-2025 header {
   background: var(--b) !important;
   border-bottom: none;
 }
