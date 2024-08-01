@@ -30,6 +30,7 @@ We expect 300 people to attend our event on January 18 2025 in Berlin, Germany. 
 
 Everything in bronze, plus:
 
+- Thank you during the opening talk and after lunch.
 - A 5 minute lightning talk during the conference.
 - A 6ft table in the networking area.
 - Logo in pre-event emails and 240 character message.
