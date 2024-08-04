@@ -20,7 +20,7 @@
             <div>
               <h2>Submit a Talk</h2>
               <p>We welcome 25 minute talks on <b>non-technical topics</b> that are important for people working in tech. We pay speakers €600, but do not directly cover travel and accommodation. We welcome first-time and experienced speakers alike, and offer optional talk planning and feedback sessions.</p>
-              <a href="/speak">Speaker information</a>
+              <a href="https://forms.gle/jUD6T461oEDzzfWr6">Submit a talk</a>
             </div>
           </div>
           <div class="card">
