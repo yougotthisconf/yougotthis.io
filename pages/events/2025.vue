@@ -48,6 +48,7 @@
           <div class="md:mt-2">
             <h2>Tickets</h2>
             <p>Tickets will be available in November and will cost €75. If you are part of an underrepresented group in tech, there will be the opportunity to apply for a ticket at no cost if would otherwise be unable to attend.</p>
+            <NewsletterBlock class="newsletter" title="You Got This Newsletter" text="Get (infrequent) news about You Got This, including ticket avilability. Opt-out in one click." />
           </div>
         </div>
         <div class="icon-aside mt-8 m:mt-12">
@@ -163,6 +164,18 @@ body.event-2025 header {
 footer {
   background: var(--a);
   padding: 1rem 0;
+}
+:deep(.newsletter) {
+  background: var(--a);
+  text-align: left;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+:deep(.text-input:focus) {
+  border-color: var(--b);
+}
+:deep(form) {
+  justify-content: flex-start;
 }
 @media screen and (max-width: 1024px) {
   .images {
