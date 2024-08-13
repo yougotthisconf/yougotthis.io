@@ -100,6 +100,18 @@ body.event-2025 header {
   background: var(--b) !important;
   border-bottom: none;
 }
+.newsletter {
+  background: var(--a) !important;
+  text-align: left !important;
+  padding: 1rem !important;
+  margin-top: 2rem !important;
+}
+.text-input:focus {
+  border-color: var(--b) !important;
+}
+form {
+  justify-content: flex-start !important;
+}
 </style>
 
 <style scoped>
@@ -164,18 +176,6 @@ body.event-2025 header {
 footer {
   background: var(--a);
   padding: 1rem 0;
-}
-:deep(.newsletter) {
-  background: var(--a);
-  text-align: left;
-  padding: 1rem;
-  margin-top: 2rem;
-}
-:deep(.text-input:focus) {
-  border-color: var(--b);
-}
-:deep(form) {
-  justify-content: flex-start;
 }
 @media screen and (max-width: 1024px) {
   .images {
