@@ -68,10 +68,18 @@
 </template>
 
 <script>
+import headFactory from '@/utils/head-factory'
+
 export default {
   layout: 'no-footer',
   head() {
     return {
+      ...headFactory({
+        title: 'You Got This 2025',
+        description: 'A one-day core skills conference in Berlin on January 18 2025.',
+        path: '/events/2025',
+        image: this.$asset('57633dd5-da54-4155-af68-0d402ea22dc3')
+      }),
       bodyAttrs: {
         class: ['event-2025']
       }
