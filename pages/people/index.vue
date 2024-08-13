@@ -11,9 +11,10 @@ import headFactory from '@/utils/head-factory'
 
 export default {
     async asyncData({ $directus }) {
-        const { data: people } = await $directus.items('people').readByQuery({ 
+        const { data: people } = await $directus.items('people').readByQuery({
           fields: ['slug', 'title', 'image'],
           sort: 'title',
+          limit: -1
         })
         return { people }
     },
