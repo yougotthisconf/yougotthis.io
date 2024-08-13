@@ -83,14 +83,16 @@ export default {
       }),
       bodyAttrs: {
         class: ['event-2025']
-      }
+      },
+      link: [
+        { rel: 'stylesheet', href: 'https://fonts.bunny.net/css?family=averia-libre:400,700' }
+      ]
     }
   }
 }
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Averia+Libre:wght@400;700&display=swap');
 :root {
   --a: #364050;
   --b: #121928;
