@@ -14,9 +14,9 @@
             </div>
             <div class="pt-6 lg:pt-20 lg:col-span-2">
                 <ul class="flex flex-wrap lg:text-xl gap-6 mb-12 mt-6 lg:mt-0">
-                    <li>
+                    <!-- <li>
                         <n-link to="/sponsors/info">Sponsor You Got This</n-link>
-                    </li>
+                    </li> -->
                     <li>
                         <n-link to="/conduct">Code of Conduct</n-link>
                     </li>
@@ -31,12 +31,12 @@
                     <li>
                         <a href="https://twitter.com/yougotthisconf">Twitter</a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a href="https://instagram.com/yougotthisconf">Instagram</a>
-                    </li>
-                    <li>
+                    </li> -->
+                    <!-- <li>
                         <a href="/newsletter">Newsletter</a>
-                    </li>
+                    </li> -->
                     <li>
                         <a href="https://discord.gg/Z9QHcPxXe3">Discord</a>
                     </li>

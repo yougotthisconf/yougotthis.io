@@ -1,6 +1,9 @@
 <template>
   <div class="page">
     <div class="wrapper pb-16">
+      <div class="close bg-red-800 text-white text-center p-4 mt-4 rounded-md">
+        You Got This 2025 has been cancelled. <a class="underline" href="https://lws.io/blog/you-got-this-closing">Read more here.</a>
+      </div>
       <div class="intro">
         <img src="/img/2025/logo-byline.svg" alt="You Got This Returns. Core Skills Conference. Berlin. January 18 2025." class="max-w-full my-12">
         <p>You Got This is a one day conference focused on the non-technical core skills needed for a happy, healthy life that are otherwise never taught. We focus on creating an environment that everyone can benefit from with a safe space for important discussion. 2025 marks the return of our flagship conference as an in-person event. <a href="/events" class="underline">See previous events.</a></p>
@@ -20,7 +23,6 @@
             <div>
               <h2>Submit a Talk</h2>
               <p>We welcome 25 minute talks on <b>non-technical topics</b> that are important for people working in tech. We pay speakers €600, but do not directly cover travel and accommodation. We welcome first-time and experienced speakers alike, and offer optional talk planning and feedback sessions.</p>
-              <a href="https://forms.gle/jUD6T461oEDzzfWr6">Submit a talk</a>
             </div>
           </div>
           <div class="card">
@@ -30,7 +32,6 @@
             <div>
               <h2>Sponsor Event</h2>
               <p>A majority of event costs are covered by sponsoring organizations who want to support core skills education and address our audience of developers who care about the same. We expect 300 attendees to attend the event plus on-demand viewership of content in our library.</p>
-              <a href="/sponsors/info">Sponsorship information</a>
             </div>
           </div>
         </div>

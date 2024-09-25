@@ -15,20 +15,20 @@
       <n-link class="button bright mt-8 grid-rows-1" to="/library">See full library</n-link>
     </div>
 
-    <NewsletterHome class="mb-24" />
+    <!-- <NewsletterHome class="mb-24" /> -->
 
-    <div class="wrapper text-center pb-24">
+    <!-- <div class="wrapper text-center pb-24">
       <h2 class="heading mb-4">Upcoming Events</h2>
       <EventList :list="events" event-class="last:hidden lg:last:block" />
       <n-link class="button bright mt-8 grid-rows-1" to="/events">See all events</n-link>
-    </div>
+    </div> -->
 
-    <div class="wrapper pb-8 text-center">
+    <!-- <div class="wrapper pb-8 text-center">
       <h2 class="heading">Sponsors</h2>
       <p class="mt-2 mb-4">Thanks to all of our current and past sponsors.</p>
       <SponsorList :list="sponsors" grid-class="grid-cols-3 md:grid-cols-9 gap-2" />
       <n-link class="button bright mt-8 grid-rows-1" to="/sponsors">See all sponsors</n-link>
-    </div>
+    </div> -->
 
   </div>
 </template>
